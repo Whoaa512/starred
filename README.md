@@ -118,6 +118,7 @@
 
 ## Awk 
 
+- [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [geary/awk](https://github.com/geary/awk) - Random AWK code
 
 ## Batchfile 
@@ -617,6 +618,8 @@
 
 ## Go 
 
+- [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
+- [jimlambrt/gldap](https://github.com/jimlambrt/gldap) - Build LDAP services w/ Go
 - [denormal/go-gitignore](https://github.com/denormal/go-gitignore) - Go package for parsing and matching paths against .gitignore files.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [KablamoOSS/gofilewalk](https://github.com/KablamoOSS/gofilewalk) - 
@@ -1164,10 +1167,10 @@
 
 ## JavaScript 
 
+- [livebud/bud](https://github.com/livebud/bud) - The Fullstack Go Framework for Prolific Web Developers.
 - [adnanaga/pushy](https://github.com/adnanaga/pushy) - Create awkward situations with my chrome extension that send you messages that look like an iMessage popup
 - [jcoglan/canopy](https://github.com/jcoglan/canopy) - A parser compiler for Java, JavaScript, Python, Ruby
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
@@ -5387,6 +5390,7 @@
 
 ## Starlark 
 
+- [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python) - Bazel Python Rules
 - [stackb/bazel-gazelle-debug](https://github.com/stackb/bazel-gazelle-debug) - Gazelle extension for debugging what gazelle is doing
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
 - [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc) - Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja)
@@ -5448,6 +5452,7 @@
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [joeattardi/picmo](https://github.com/joeattardi/picmo) - JavaScript emoji picker. Any app, any framework.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
+- [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
 - [googleapis/gaxios](https://github.com/googleapis/gaxios) - An HTTP request client that provides an axios like interface over top of node-fetch. Super lightweight.  Supports proxies and all sorts of other stuff.
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
