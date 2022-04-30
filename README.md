@@ -167,6 +167,7 @@
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
+- [ThusWroteNomad/GameNetworkingResources](https://github.com/ThusWroteNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [area9innovation/flow9](https://github.com/area9innovation/flow9) - Platform for safe, easy and productive programming of complex, multi-platform apps with a modern user interface
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -304,7 +305,6 @@
 - [eelcocramer/node-bluetooth-serial-port](https://github.com/eelcocramer/node-bluetooth-serial-port) - Serial I/O over bluetooth for NodeJS
 - [lloyd/node-memwatch](https://github.com/lloyd/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [ThusWroteNomad/Game-Networking-Resources](https://github.com/ThusWroteNomad/Game-Networking-Resources) - A Curated List of Game Network Programming Resources
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) - A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
@@ -810,7 +810,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - PhotoPrism® is an AI-powered Photos App for the Decentralized Web 🌈💎✨
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [googleforgames/open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
@@ -1196,7 +1196,6 @@
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
-- [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A Node.js SQL toolkit for writing native SQL queries yielding pure business objects
 - [singapore/gl-got](https://github.com/singapore/gl-got) - 
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
@@ -5474,6 +5473,7 @@
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
+- [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A Node.js SQL toolkit for writing native SQL queries yielding pure business objects
 - [alexghr/got-fetch](https://github.com/alexghr/got-fetch) - A fetch interface to got
 - [SamVerschueren/got4aws](https://github.com/SamVerschueren/got4aws) - Convenience wrapper for Got to interact with AWS v4 signed APIs
 - [apify/got-scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
@@ -5595,7 +5595,7 @@
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [apoorv-mishra/moment-guess](https://github.com/apoorv-mishra/moment-guess) - :tada: A utility package for guessing date's format :alarm_clock: :raised_hands:
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
-- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
+- [nsfw-filter/nsfw-filter](https://github.com/nsfw-filter/nsfw-filter) - 🚀 A Google Chrome extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
 - [Raathigesh/waypoint](https://github.com/Raathigesh/waypoint) - 📍 VSCode extension for navigating JS codebases
 - [geist-org/geist-ui](https://github.com/geist-org/geist-ui) - A design system for building modern websites and applications.
 - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support.
@@ -5684,7 +5684,7 @@
 - [jondot/storybook-cartesian](https://github.com/jondot/storybook-cartesian) - Automatically generate stories for all of your component variants
 - [getcampsite/campkit](https://github.com/getcampsite/campkit) - Build serverless Node.js microservices fast
 - [caderek/benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [sleistner/vscode-fileutils](https://github.com/sleistner/vscode-fileutils) - Visual Studio Code Extension
