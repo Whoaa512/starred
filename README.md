@@ -128,6 +128,7 @@
 
 ## C 
 
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [lloyd/yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF.
@@ -620,6 +621,7 @@
 
 ## Go 
 
+- [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [bcicen/jstream](https://github.com/bcicen/jstream) - Streaming JSON parser for Go
 - [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
 - [jimlambrt/gldap](https://github.com/jimlambrt/gldap) - Build LDAP services w/ Go
@@ -4412,7 +4414,7 @@
 - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [dkundel/about-me](https://github.com/dkundel/about-me) - ⚓️ Developer Evangelist @twilio - JavaScript Hacker - Hackathon Enthusiast - Public Speaker - Co-Founder of jacobsHack! - Opinions are my own ⚓️
 - [domenic/proposal-blocks](https://github.com/domenic/proposal-blocks) - Former home of a proposal for a new syntactic construct for serializable blocks of JavaScript code
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
@@ -4681,6 +4683,8 @@
 
 ## Python 
 
+- [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
+- [vlnahp/Btcbf](https://github.com/vlnahp/Btcbf) - Bitcoin private key brute force tool, written in python. Also can be used as a bitcoin wallet generator.
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
 - [daggaz/json-stream](https://github.com/daggaz/json-stream) - 
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
@@ -4688,7 +4692,7 @@
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-- [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API (works with YouTube, YouTube Music etc.)
+- [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - Self-configuring, encrypted and resilient mesh for LoRa, packet radio, WiFi and everything in between
@@ -5110,6 +5114,7 @@
 
 ## Ruby 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [rubysolo/dentaku](https://github.com/rubysolo/dentaku) - math and logic formula parser and evaluator
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 - [mikekelly/btc-endgame](https://github.com/mikekelly/btc-endgame) - 
@@ -5454,6 +5459,8 @@
 
 ## TypeScript 
 
+- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
+- [Kira272921/snipli](https://github.com/Kira272921/snipli) - ✨ A command-line interface for quickly sharing code snippets of your local files
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
@@ -5624,7 +5631,7 @@
 - [ngneat/helipopper](https://github.com/ngneat/helipopper) - 🚁 A Powerful Tooltip and Popover for Angular Applications
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
-- [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - Keen-Slider is a touch slider library that lets you easily create sliders, carousels and much more.
+- [rcbyr/keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 - [caroso1222/ast-viewer](https://github.com/caroso1222/ast-viewer) - 🕺TypeScript AST Viewer
 - [Thinkmill/magical-types](https://github.com/Thinkmill/magical-types) - 🔮 Document React components and other stuff typed with TypeScript magically
 - [yhatt/jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
