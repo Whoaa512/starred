@@ -708,7 +708,7 @@
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [bouk/monkey](https://github.com/bouk/monkey) - Monkey patching in Go
 - [IceFireDB/IceFireDB](https://github.com/IceFireDB/IceFireDB) - IceFireDB is a database built for web3 and web2. It strives to fill the gap between web2 and web3 with a friendly database experience, making web3 application data storage more convenient, and making 
-- [tharsis/ethermint](https://github.com/tharsis/ethermint) - Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
+- [tharsis/ethermint](https://github.com/tharsis/ethermint) - Ethermint is a Cosmos SDK library for running scalable and interoperable EVM chains
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies
 - [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) - Datadog Agent
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
@@ -1127,7 +1127,7 @@
 - [jitsi/jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense game
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
@@ -1171,6 +1171,7 @@
 
 ## JavaScript 
 
+- [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [kangruixiang/Ankify](https://github.com/kangruixiang/Ankify) - Ankify notes into anki cards
 - [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
 - [livebud/bud](https://github.com/livebud/bud) - The Fullstack Go Framework for Prolific Web Developers.
@@ -2284,7 +2285,6 @@
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
 - [ethanent/phin](https://github.com/ethanent/phin) - Node HTTP client
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
-- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [rmfisher/react-measurements](https://github.com/rmfisher/react-measurements) - A component for measuring & annotating images.
 - [amsul/react-translated](https://github.com/amsul/react-translated) - A dead simple way to add complex translations (i18n) in a React (DOM/Native) project 🌎🌍🌏
 - [ReactPrimer/ReactPrimer](https://github.com/ReactPrimer/ReactPrimer) - React component prototyping tool that generates fully connected class component code.
@@ -3656,7 +3656,6 @@
 - [react-component/tooltip](https://github.com/react-component/tooltip) - React Tooltip
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [vicapow/react-map-gl-heatmap-overlay](https://github.com/vicapow/react-map-gl-heatmap-overlay) - 
-- [tlbtlbtlb/startuptools](https://github.com/tlbtlbtlb/startuptools) - Tools for startups
 - [Ayms/torrent-live](https://github.com/Ayms/torrent-live) - Anti-spies and private torrents, live streaming and dynamic torrent blocklist
 - [maxogden/torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
 - [mafintosh/peercast](https://github.com/mafintosh/peercast) - torrent-stream + chromecast
@@ -5403,7 +5402,7 @@
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
 - [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc) - Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja)
 - [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
-- [aspect-build/rules_js](https://github.com/aspect-build/rules_js) - EXPERIMENTAL Rules for running nodejs tools and building JavaScript projects
+- [aspect-build/rules_js](https://github.com/aspect-build/rules_js) - High-performance for running NodeJS tools and building JavaScript projects
 - [bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis) - An API for caching and execution of actions on a remote system.
 - [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs) - JavaScript and NodeJS rules for Bazel
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
@@ -5456,6 +5455,7 @@
 
 ## TypeScript 
 
+- [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [buidler-hub/snipli](https://github.com/buidler-hub/snipli) - ✨ A command-line interface for quickly sharing code snippets of your local files
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
@@ -5984,6 +5984,7 @@
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
+- [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [sanketbajoria/ssh2-promise](https://github.com/sanketbajoria/ssh2-promise) - ssh with promise/async await and typescript support
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [graphql-compose/graphql-compose-aws](https://github.com/graphql-compose/graphql-compose-aws) - AWS Cloud API via GraphQL
