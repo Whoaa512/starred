@@ -128,6 +128,8 @@
 
 ## C 
 
+- [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
+- [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [lloyd/yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
@@ -620,6 +622,7 @@
 
 ## Go 
 
+- [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [bcicen/jstream](https://github.com/bcicen/jstream) - Streaming JSON parser for Go
 - [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
@@ -640,7 +643,7 @@
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Fast and Secure Webhooks Service.
 - [dropbox/dbx_build_tools](https://github.com/dropbox/dbx_build_tools) - Dropbox's Bazel rules and tools
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
 - [YaoApp/yao](https://github.com/YaoApp/yao) - Yao A low code engine to create web services and dashboard.
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
@@ -702,7 +705,7 @@
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs
 - [stapelberg/airscan](https://github.com/stapelberg/airscan) - Go package to scan paper documents 📄 from a scanner 🖨️ via the network 🕸️ using the Apple AirScan (eSCL) protocol.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -821,7 +824,7 @@
 - [netgusto/nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
+- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
@@ -2051,7 +2054,7 @@
 - [mixmaxhq/npm2yarn](https://github.com/mixmaxhq/npm2yarn) - A command-line tool for converting projects that use npm shrinkwrap to Yarn.
 - [bitifet/smart-spinner](https://github.com/bitifet/smart-spinner) - Simple tool to create smart text spinner.
 - [landgreen/landgreen.github.io](https://github.com/landgreen/landgreen.github.io) - Landgreen's public site: physics notes, n-gon
-- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript framework with unique declarative and functional architecture
+- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 - [mobz/lag-radar](https://github.com/mobz/lag-radar) - Trace frame rate lag with a sexy performance radar
 - [ronami/minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
 - [nitin42/react-video-scroll](https://github.com/nitin42/react-video-scroll) - A React component to seek or control the video frame rate on scroll.
@@ -2363,7 +2366,7 @@
 - [sindresorhus/move-file](https://github.com/sindresorhus/move-file) - Move a file - Even works across devices
 - [google/closure-compiler-js](https://github.com/google/closure-compiler-js) - Package for the JS version of closure-compiler for use via NPM
 - [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
 - [timhudson/continue-stream](https://github.com/timhudson/continue-stream) - Lazily merge multiple streams in to a single stream
 - [nodeca/tabex](https://github.com/nodeca/tabex) - Cross-tab message bus for browsers.
 - [nodeca/bag.js](https://github.com/nodeca/bag.js) - JS / CSS / files loader + key/value storage
@@ -4286,6 +4289,7 @@
 
 ## Others 
 
+- [morrownr/88x2bu](https://github.com/morrownr/88x2bu) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
 - [ARKInvest/SolarBatteryBitcoin](https://github.com/ARKInvest/SolarBatteryBitcoin) - 
@@ -5158,7 +5162,7 @@
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
-- [alexcrichton/cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave) - RisingWave: the next-generation streaming database in the cloud.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -5402,7 +5406,7 @@
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
 - [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc) - Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja)
 - [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
-- [aspect-build/rules_js](https://github.com/aspect-build/rules_js) - High-performance for running NodeJS tools and building JavaScript projects
+- [aspect-build/rules_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running NodeJS tools and building JavaScript projects
 - [bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis) - An API for caching and execution of actions on a remote system.
 - [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs) - JavaScript and NodeJS rules for Bazel
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
