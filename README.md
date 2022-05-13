@@ -700,7 +700,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
@@ -1560,7 +1560,7 @@
 - [leo/args](https://github.com/leo/args) - Toolkit for building command line interfaces
 - [shannonmoeller/ygor](https://github.com/shannonmoeller/ygor) - Task toolkit. For when `npm run` isn't enough and everything else is too much.
 - [beatfreaker/subdownloader](https://github.com/beatfreaker/subdownloader) - :pencil: Painless subtitle downloader
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - 📷 Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
 - [GoogleChromeLabs/clooney](https://github.com/GoogleChromeLabs/clooney) - Clooney is an actor library for the web. Use workers without thinking about workers.
 - [confuser/graphql-constraint-directive](https://github.com/confuser/graphql-constraint-directive) - Validate GraphQL fields
@@ -4028,7 +4028,7 @@
 - [aychtang/remove-whitespaces](https://github.com/aychtang/remove-whitespaces) - For people who don't sed.
 - [typicode/katon](https://github.com/typicode/katon) - (use hotel instead)
 - [sorellabs/polygamous](https://github.com/sorellabs/polygamous) - Clojure-style multi-methods for JavaScript.
-- [clientIO/joint](https://github.com/clientIO/joint) - JavaScript diagramming library
+- [clientIO/joint](https://github.com/clientIO/joint) - Flexible Javascript library for building interactive SVG-based diagrams and visual applications.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [cultofmetatron/Shen](https://github.com/cultofmetatron/Shen) - higher order flow control functions for creating generators
 - [jbrooksuk/node-summary](https://github.com/jbrooksuk/node-summary) - Node module that summarizes text using a naive summarization algorithm
