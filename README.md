@@ -320,7 +320,7 @@
 - [OpenShot/libopenshot-audio](https://github.com/OpenShot/libopenshot-audio) - OpenShot Audio Library (libopenshot-audio) is a free, open-source project that enables high-quality editing and playback of audio, and is based on the amazing JUCE library.
 - [randrew/phantomstyle](https://github.com/randrew/phantomstyle) - Cross-platform QStyle for traditionalists
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
-- [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
@@ -1175,6 +1175,7 @@
 
 ## JavaScript 
 
+- [LesterLyu/fast-formula-parser](https://github.com/LesterLyu/fast-formula-parser) - Parse and evaluate MS Excel formula in javascript.
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [kangruixiang/Ankify](https://github.com/kangruixiang/Ankify) - Ankify notes into anki cards
 - [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
@@ -4419,7 +4420,7 @@
 - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [dkundel/about-me](https://github.com/dkundel/about-me) - ⚓️ Developer Evangelist @twilio - JavaScript Hacker - Hackathon Enthusiast - Public Speaker - Co-Founder of jacobsHack! - Opinions are my own ⚓️
 - [domenic/proposal-blocks](https://github.com/domenic/proposal-blocks) - Former home of a proposal for a new syntactic construct for serializable blocks of JavaScript code
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
