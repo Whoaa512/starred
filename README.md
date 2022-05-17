@@ -2751,7 +2751,7 @@
 - [sindresorhus/escape-goat](https://github.com/sindresorhus/escape-goat) - &🐐; Escape a string for use in HTML or the inverse
 - [jonathantneal/preloadfill](https://github.com/jonathantneal/preloadfill) - A polyfill for the preload link type [rel="preload"]
 - [robertklep/top-level-await](https://github.com/robertklep/top-level-await) - Use `await` at your Node.js code's top level!
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [gajus/prepack-webpack-plugin](https://github.com/gajus/prepack-webpack-plugin) - A webpack plugin for prepack.
 - [aackerman/circular-dependency-plugin](https://github.com/aackerman/circular-dependency-plugin) - Detect circular dependencies in modules compiled with Webpack
 - [brysgo/graphql-gun](https://github.com/brysgo/graphql-gun) - A graphql API for the gun p2p graph database
@@ -4291,6 +4291,7 @@
 
 ## Others 
 
+- [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
 - [EngFlow/free](https://github.com/EngFlow/free) - 
 - [Whoaa512/starred](https://github.com/Whoaa512/starred) - 
 - [morrownr/88x2bu](https://github.com/morrownr/88x2bu) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets
@@ -4688,6 +4689,7 @@
 
 ## Python 
 
+- [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
@@ -4969,7 +4971,7 @@
 - [csurfer/gitsuggest.com](https://github.com/csurfer/gitsuggest.com) - App to suggest github repositories based on the repositories already starred by the user
 - [csurfer/gitsuggest](https://github.com/csurfer/gitsuggest) - A tool to suggest github repositories based on the repositories you have shown interest in.
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
-- [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [asappresearch/sru](https://github.com/asappresearch/sru) - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections) - Collection of generative models in Tensorflow
@@ -5466,7 +5468,7 @@
 
 - [Thinkmill/ts-runtime-dx](https://github.com/Thinkmill/ts-runtime-dx) - Utility functions to improve TypeScript DX at runtime
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
-- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [buidler-hub/snipli](https://github.com/buidler-hub/snipli) - ✨ A command-line interface for quickly sharing code snippets of your local files
