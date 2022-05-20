@@ -1188,7 +1188,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-- [antonmedv/eat](https://github.com/antonmedv/eat) - Eat everything 🧀
+- [antonmedv/eat](https://github.com/antonmedv/eat) - Eats anything, spits out JSON 🧀
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.js, styl
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [siimon/prom-client](https://github.com/siimon/prom-client) - Prometheus client for node.js
@@ -2097,7 +2097,6 @@
 - [selbekk/calidation](https://github.com/selbekk/calidation) - Red hot form validation for React 🌶
 - [xJkit/react-goodbye](https://github.com/xJkit/react-goodbye) - A save reminder component for react router v4+.
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [PeculiarVentures/PKI.js](https://github.com/PeculiarVentures/PKI.js) - PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (W
 - [arbazsiddiqui/lru-cache-node](https://github.com/arbazsiddiqui/lru-cache-node) - A lighting fast cache manager for node with least-recently-used policy.
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 - [postcss/postcss-import](https://github.com/postcss/postcss-import) - PostCSS plugin to inline @import rules content
@@ -4707,7 +4706,7 @@
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - Self-configuring, encrypted and resilient mesh for LoRa, packet radio, WiFi and everything in between
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
 - [swisskyrepo/GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - GraphQLmap is a scripting engine to interact with a graphql endpoint for pentesting purposes.
@@ -5203,7 +5202,7 @@
 - [CSML-by-Clevy/csml-engine](https://github.com/CSML-by-Clevy/csml-engine) - CSML is an easy-to-use chatbot programming language and framework.
 - [coreos/zincati](https://github.com/coreos/zincati) - Agent for Fedora CoreOS auto-updates
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Open-source & cloud-native log management & analytics
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
@@ -5934,6 +5933,7 @@
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [zzarcon/react-circle](https://github.com/zzarcon/react-circle) - Renders a svg circle + progress, it just works 💘
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
+- [PeculiarVentures/PKI.js](https://github.com/PeculiarVentures/PKI.js) - PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (W
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
 - [benjamn/recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
