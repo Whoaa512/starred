@@ -128,6 +128,7 @@
 
 ## C 
 
+- [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - An ultra-lightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
 - [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -622,6 +623,7 @@
 
 ## Go 
 
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
 - [bcicen/jstream](https://github.com/bcicen/jstream) - Streaming JSON parser for Go
@@ -722,7 +724,7 @@
 - [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: development workflow made easy.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Web based CI/CD Platform for Kubernetes
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -942,6 +944,7 @@
 
 ## HTML 
 
+- [SpeechResearch/speechresearch.github.io](https://github.com/SpeechResearch/speechresearch.github.io) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
@@ -1174,6 +1177,7 @@
 
 ## JavaScript 
 
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
 - [LesterLyu/fast-formula-parser](https://github.com/LesterLyu/fast-formula-parser) - Parse and evaluate MS Excel formula in javascript.
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [kangruixiang/Ankify](https://github.com/kangruixiang/Ankify) - Ankify notes into anki cards
@@ -2418,7 +2422,6 @@
 - [SelectTransform/st.js](https://github.com/SelectTransform/st.js) - JSON template over JSON
 - [oncode/handorgel](https://github.com/oncode/handorgel) - Accessible W3C conform accordion written in ES6.
 - [maptalks/maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
-- [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror's view component
 - [zkat/json-parse-better-errors](https://github.com/zkat/json-parse-better-errors) - get better errors
 - [iansinnott/react-string-replace](https://github.com/iansinnott/react-string-replace) - A simple way to safely do string replacement with React components
 - [DieProduktMacher/serverless-local-dev-server](https://github.com/DieProduktMacher/serverless-local-dev-server) - A simple Serverless 1.x plugin that speeds up development of Alexa Skills, Chatbots and APIs.
@@ -2943,7 +2946,6 @@
 - [millermedeiros/js-signals](https://github.com/millermedeiros/js-signals) - Custom Event/Messaging system for JavaScript inspired by AS3-Signals
 - [jahredhope/base64-image-loader](https://github.com/jahredhope/base64-image-loader) - base64 image loader for webpack
 - [Gerhut/axios-debug-log](https://github.com/Gerhut/axios-debug-log) - Axios interceptor of logging request & response with debug library.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [kelaberetiv/TagUI](https://github.com/kelaberetiv/TagUI) - Free RPA tool by AI Singapore
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [bilbof/purser](https://github.com/bilbof/purser) - A lightweight JavaScript library for preserving user data from first website visit to signup.
@@ -4246,6 +4248,7 @@
 
 ## OCaml 
 
+- [comby-tools/comby](https://github.com/comby-tools/comby) - A tool for structural code search and replace that supports ~every language.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -4688,6 +4691,8 @@
 
 ## Python 
 
+- [hoxu/gitstats](https://github.com/hoxu/gitstats) - git history statistics generator
+- [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - 
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
@@ -5312,6 +5317,7 @@
 
 ## Shell 
 
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -5465,6 +5471,7 @@
 
 ## TypeScript 
 
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [Thinkmill/ts-runtime-dx](https://github.com/Thinkmill/ts-runtime-dx) - Utility functions to improve TypeScript DX at runtime
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -6028,6 +6035,7 @@
 - [urish/muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)
 - [ip-num/ip-num](https://github.com/ip-num/ip-num) - A TypeScript/JavaScript library for working with ASN, IPv4, and IPv6 numbers. It provides representations of these internet protocol numbers with the ability to perform various IP related operations l
 - [zikaari/regexly](https://github.com/zikaari/regexly) - WYSIWYG Regex playground for those who JavaScript
+- [ProseMirror/prosemirror-view](https://github.com/ProseMirror/prosemirror-view) - ProseMirror's view component
 - [mkozjak/node-telnet-client](https://github.com/mkozjak/node-telnet-client) - A simple telnet client for Node.js
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [gajus/roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
@@ -6117,6 +6125,7 @@
 - [SpoonX/wetland](https://github.com/SpoonX/wetland) - A Node.js ORM, mapping-based. Works with MySQL, PostgreSQL, SQLite and more.
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [harksys/npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
