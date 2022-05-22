@@ -4691,6 +4691,7 @@
 
 ## Python 
 
+- [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) - Goal: Enable awesome tooling for Bazel users of the C language family.
 - [hoxu/gitstats](https://github.com/hoxu/gitstats) - git history statistics generator
 - [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - 
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
@@ -5413,6 +5414,8 @@
 
 ## Starlark 
 
+- [stackb/bazel-stack-vscode-cc](https://github.com/stackb/bazel-stack-vscode-cc) - C/C++ Support For Bazel Stack VSCode Extension
+- [grailbio/bazel-compilation-database](https://github.com/grailbio/bazel-compilation-database) - Tool to generate compile_commands.json from the Bazel build system
 - [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python) - Bazel Python Rules
 - [stackb/bazel-gazelle-debug](https://github.com/stackb/bazel-gazelle-debug) - Gazelle extension for debugging what gazelle is doing
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
@@ -5471,6 +5474,8 @@
 
 ## TypeScript 
 
+- [stackb/bazel-stack-vscode](https://github.com/stackb/bazel-stack-vscode) - VSCode Extension for Bazel
+- [bazelbuild/vscode-bazel](https://github.com/bazelbuild/vscode-bazel) - Bazel support for Visual Studio Code
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [Thinkmill/ts-runtime-dx](https://github.com/Thinkmill/ts-runtime-dx) - Utility functions to improve TypeScript DX at runtime
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
