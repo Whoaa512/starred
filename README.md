@@ -1187,7 +1187,6 @@
 - [jcoglan/canopy](https://github.com/jcoglan/canopy) - A parser compiler for Java, JavaScript, Python, Ruby
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
@@ -5474,6 +5473,7 @@
 
 ## TypeScript 
 
+- [remult/remult](https://github.com/remult/remult) - A CRUD framework for full stack TypeScript
 - [stackb/bazel-stack-vscode](https://github.com/stackb/bazel-stack-vscode) - VSCode Extension for Bazel
 - [bazelbuild/vscode-bazel](https://github.com/bazelbuild/vscode-bazel) - Bazel support for Visual Studio Code
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
@@ -5496,6 +5496,7 @@
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
