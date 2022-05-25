@@ -133,6 +133,7 @@
 - [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [lloyd/yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF.
 - [gholker/led-backlight-cmstorm](https://github.com/gholker/led-backlight-cmstorm) - Mac app to turn on the backlight of your CM Storm Devastator keyboard
@@ -623,6 +624,8 @@
 
 ## Go 
 
+- [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+- [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
 - [noborus/trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN. Can output to various formats.
@@ -946,7 +949,6 @@
 
 - [SpeechResearch/speechresearch.github.io](https://github.com/SpeechResearch/speechresearch.github.io) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Easily scrape data from websites using Open Graph, HTML metadata & fallbacks.
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1124,7 +1126,7 @@
 - [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours
 - [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
-- [zinggAI/zingg](https://github.com/zinggAI/zingg) - Scalable entity resolution, data mastering and deduplication
+- [zinggAI/zingg](https://github.com/zinggAI/zingg) - Scalable entity resolution, data mastering and deduplication using ML
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evo
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [80degreeswest/bfmgr](https://github.com/80degreeswest/bfmgr) - Buildfarm deployment and management application
@@ -1713,7 +1715,7 @@
 - [jaredLunde/render-props](https://github.com/jaredLunde/render-props) - 㸚 Easy-to-use React state containers which utilize the render props (function as child) pattern
 - [donavon/render-props](https://github.com/donavon/render-props) - Easily and reliably support Render Props, Component Injection, and Function as a Child
 - [Astrocoders/epitath](https://github.com/Astrocoders/epitath) - Compose render props imperatively with async/await/CPS kinda sugar
-- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: Renderless Containers
+- [renatorib/react-powerplug](https://github.com/renatorib/react-powerplug) - :electric_plug: [Discontinued] Renderless Containers
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [testing-library/jest-dom](https://github.com/testing-library/jest-dom) - :owl: Custom jest matchers to test the state of the DOM
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
@@ -4005,7 +4007,7 @@
 - [jmreidy/sauce-tunnel](https://github.com/jmreidy/sauce-tunnel) - A Node.js wrapper around the Saucelabs tunnel jar
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [shama/nodewebkit](https://github.com/shama/nodewebkit) - :computer: An installer for node-webkit
-- [nwjs/grunt-nw-builder](https://github.com/nwjs/grunt-nw-builder) - Let you build your node-webkit apps for mac, win and linux with grunt. It will download the prebuilt binaries for a specify version, unpacks it, creates a release folder, create the app.nw file for a 
+- [nwjs/grunt-nw-builder](https://github.com/nwjs/grunt-nw-builder) - Build NW.js applications for Mac, Windows and Linux using Grunt
 - [elm-lang/debug.elm-lang.org](https://github.com/elm-lang/debug.elm-lang.org) - Control time and change history. Laszlo's debugger lets you pause, rewind, and replay programs, swapping in new code to debug.
 - [jaredly/treed](https://github.com/jaredly/treed) - Powerful Tree Editor
 - [SeleniumBuilder/se-builder](https://github.com/SeleniumBuilder/se-builder) - Legacy Selenium Builder Project
@@ -5209,7 +5211,7 @@
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for log management & analytics
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
@@ -5428,6 +5430,7 @@
 
 ## Svelte 
 
+- [le0pard/sql-joins-app](https://github.com/le0pard/sql-joins-app) - SQL JOINS visualizer
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
