@@ -52,6 +52,7 @@
 - [MQL4](#mql4)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mathematica](#mathematica)
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -4230,6 +4231,10 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## Mathematica 
+
+- [dzhang314/YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store files as YouTube videos == infinite disk space
+
 ## Mustache 
 
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) - 
@@ -4692,6 +4697,7 @@
 
 ## Python 
 
+- [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
 - [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) - Goal: Enable awesome tooling for Bazel users of the C language family.
 - [hoxu/gitstats](https://github.com/hoxu/gitstats) - git history statistics generator
 - [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - 
