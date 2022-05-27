@@ -395,6 +395,7 @@
 ## CSS 
 
 - [openlgtv/openlgtv.github.io](https://github.com/openlgtv/openlgtv.github.io) - 
+- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [sliminality/ply](https://github.com/sliminality/ply) - CSS inspection aided by visual regression pruning
 - [brianlovin/figma-github-data](https://github.com/brianlovin/figma-github-data) - Populate data from GitHub into Figma mocks
@@ -959,7 +960,6 @@
 - [ahrm/sioyek-website](https://github.com/ahrm/sioyek-website) - 
 - [cathydeng/are-men-talking-too-much](https://github.com/cathydeng/are-men-talking-too-much) - time who's dominating the conversation
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking) - A simple culinary website.
 - [elestio/ws-monitoring](https://github.com/elestio/ws-monitoring) - A simple & lightweight realtime monitoring web UI + server in Node.js
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN a
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
@@ -1120,6 +1120,7 @@
 
 ## Java 
 
+- [JetBrains/commit-status-publisher](https://github.com/JetBrains/commit-status-publisher) - TeamCity commit status publisher
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several l
@@ -6156,7 +6157,7 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [mgechev/injection-js](https://github.com/mgechev/injection-js) - Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and we
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
-- [TanStack/react-table](https://github.com/TanStack/react-table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
 - [Huemul/trae](https://github.com/Huemul/trae) - :postbox: Minimalistic Fetch based HTTP client
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [reactive-react/xreact](https://github.com/reactive-react/xreact) - reactive x react = xreact
