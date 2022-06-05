@@ -4244,6 +4244,7 @@
 
 ## Nim 
 
+- [jschlatow/taskopen](https://github.com/jschlatow/taskopen) - Tool for taking notes and open urls with taskwarrior
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 
 ## Nix 
@@ -4681,7 +4682,6 @@
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq) - An open-source digital image forensic toolset
-- [jschlatow/taskopen](https://github.com/jschlatow/taskopen) - Tool for taking notes and open urls with taskwarrior
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [duckduckgo/zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) - DuckDuckGo Instant Answers based on Perl & JavaScript
 - [curl/h2c](https://github.com/curl/h2c) - headers 2 curl. Provided a set of HTTP request headers, output the curl command line for generating that set. Try the converter online at
