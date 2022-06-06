@@ -41,7 +41,6 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
-- [Jsonnet](#jsonnet)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -4123,10 +4122,6 @@
 
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
-## Jsonnet 
-
-- [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
-
 ## Julia 
 
 - [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) - Relax! Flux is the ML library that doesn't make you tensor
@@ -4868,6 +4863,7 @@
 - [armadsen/analyze_apps](https://github.com/armadsen/analyze_apps) - Script to analyze Swift usage in iOS or Mac apps
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The Unified Model Serving Framework 🍱
 - [abdilahrf/shania](https://github.com/abdilahrf/shania) - Scan secrets from Continuous Integration Build Logs
+- [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
 - [sixpack/sixpack](https://github.com/sixpack/sixpack) - Sixpack is a language-agnostic a/b-testing framework
 - [AI-DI/Brancher](https://github.com/AI-DI/Brancher) - A user-centered Python package for differentiable probabilistic inference
 - [ConnorJL/GPT2](https://github.com/ConnorJL/GPT2) - An implementation of training for GPT2, supports TPUs
