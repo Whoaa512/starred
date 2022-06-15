@@ -6249,7 +6249,7 @@
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
-- [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
+- [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [PaulBGD/requireAsync](https://github.com/PaulBGD/requireAsync) - Require any module or file async in NodeJS.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
