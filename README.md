@@ -282,7 +282,7 @@
 - [google/brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -631,6 +631,7 @@
 
 ## Go 
 
+- [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a command runner for local and remote hosts
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com. SQL 审核查询平台
@@ -858,7 +859,7 @@
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [Teamwork/s3zipper](https://github.com/Teamwork/s3zipper) - Simple Steaming S3 File Zipper Microservice - works with any backend via redis and redirection.
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
-- [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [rhysd/gocaml](https://github.com/rhysd/gocaml) - :camel: Practical statically typed functional programming language implementation with Go and LLVM
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [alexellis/spotminer](https://github.com/alexellis/spotminer) - Golang automation for mining cryptocurrencies on the Spot Market
@@ -1082,7 +1083,7 @@
 
 ## Handlebars 
 
-- [wildbit/mailmason](https://github.com/wildbit/mailmason) - A complete toolset to streamline building and updating a set of consistent transactional emails.
+- [ActiveCampaign/mailmason](https://github.com/ActiveCampaign/mailmason) - A complete toolset to streamline building and updating a set of consistent transactional emails.
 
 ## Haskell 
 
@@ -1685,7 +1686,7 @@
 - [sindresorhus/is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up
 - [alexreardon/use-memo-one](https://github.com/alexreardon/use-memo-one) - useMemo and useCallback but with a stable cache
 - [tim-soft/react-particles-webgl](https://github.com/tim-soft/react-particles-webgl) - 🔆 A 2D/3D particle library built on React, Three.js and WebGL
-- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [moment/moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js
 - [john-guerra/navio](https://github.com/john-guerra/navio) - A d3 visualization widget to help summarizing, exploring and navigating large network visualizations
 - [intika/Librefox](https://github.com/intika/Librefox) - Librefox: Firefox with privacy enhancements
@@ -5596,7 +5597,7 @@
 - [101arrowz/fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
-- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 💥🦁✨
+- [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
 - [pouyakary/TextGraphic](https://github.com/pouyakary/TextGraphic) - TextGraphic is a framework for creating Textual Graphics. It provides layers, styling, rich color, text justification, layouts, tables, view-ports, transparency, etc.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [rahul-jha98/sheets-database](https://github.com/rahul-jha98/sheets-database) - Library to help use a Google Sheet as a database
@@ -6086,7 +6087,7 @@
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [AEB-labs/graphql-weaver](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (99 bytes) event emitter library for JavaScript
+- [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (144 bytes) event emitter library for JavaScript
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [visgl/luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
