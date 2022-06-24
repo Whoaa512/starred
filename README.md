@@ -1090,6 +1090,7 @@
 
 ## Haskell 
 
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - A programming language that understands what a web app is.
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean) - System for collecting, deriving and working with facts about source code.
 - [tweag/HaskellR](https://github.com/tweag/HaskellR) - The full power of R in Haskell.
 - [HuwCampbell/zebra](https://github.com/HuwCampbell/zebra) - Column-oriented binary format for immutable datasets
@@ -1190,6 +1191,7 @@
 
 ## JavaScript 
 
+- [hobochild/js-fire](https://github.com/hobochild/js-fire) - A javascript clone of google/python-fire 🔥
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Customize your own vscode theme.
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
@@ -1222,7 +1224,7 @@
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension🎧[80+Features🧰](Please⭐document/wiki!)📌📌Lean&Longest-standing(©️2012)[Users👨‍👩‍👧‍👧485 000+] ⚙️⋮[🎞️☕🎛️🎬🔴⏯️🔊🧩📈 🎨🧪] [Player: Repeat Screenshot Rotate; Hide related video distraction. Alw
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -2028,7 +2030,7 @@
 - [oguzgelal/reclare](https://github.com/oguzgelal/reclare) - Declarative State and Logic Management
 - [hodgef/simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard - Customizable, responsive and lightweight
 - [kozhevnikov/proxymise](https://github.com/kozhevnikov/proxymise) - Chainable Promise Proxy
-- [doowb/ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal. ansi-colors is the official ansi styling library for gulp, and is used by hundreds of other projects, including mocha and enquirer.
+- [doowb/ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal. ansi-colors is the official ansi styling library for gulp, and is used by hundreds of other projects, including mocha, enquirer, redwoo
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
 - [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Low interaction honeypot that displays real time attacks
 - [noflo/noflo](https://github.com/noflo/noflo) - Flow-based programming for JavaScript
@@ -3793,7 +3795,6 @@
 - [substack/faucet](https://github.com/substack/faucet) - human-readable TAP summarizer
 - [sindresorhus/hash-obj](https://github.com/sindresorhus/hash-obj) - Get the hash of an object
 - [isaacs/async-cache](https://github.com/isaacs/async-cache) - Cache your async lookups and don't fetch the same thing more than necessary.
-- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
@@ -4303,6 +4304,7 @@
 
 ## Others 
 
+- [jin/awesome-bazel](https://github.com/jin/awesome-bazel) - A curated list of Bazel rules, tooling and resources.
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python
 - [penk/MainboardTerminal](https://github.com/penk/MainboardTerminal) - A Retro-style Computer with a Modern Core
@@ -4702,6 +4704,7 @@
 
 ## Python 
 
+- [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [eerimoq/gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
@@ -4765,7 +4768,7 @@
 - [ZhengkunTian/OpenTransformer](https://github.com/ZhengkunTian/OpenTransformer) - A No-Recurrence Sequence-to-Sequence Model for Speech Recognition
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [thought-machine/pleasings](https://github.com/thought-machine/pleasings) - Addons & new build rules for Please
-- [mosaicml/composer](https://github.com/mosaicml/composer) - train neural networks &gt;2x faster
+- [mosaicml/composer](https://github.com/mosaicml/composer) - train neural networks up to 7x faster
 - [tmkontra/compatlib](https://github.com/tmkontra/compatlib) - Python utilities for writing cross-version compatible libraries
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [furkanonder/bor](https://github.com/furkanonder/bor) - User-friendly, tiny source code searcher written by pure Python.
@@ -5501,6 +5504,8 @@
 
 ## TypeScript 
 
+- [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation, a fork of piscina, with fewer features and smaller size (38KB)
+- [ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) - Verbum is a fully flexible text editor based on lexical framework.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
@@ -6261,6 +6266,7 @@
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
 - [PaulBGD/requireAsync](https://github.com/PaulBGD/requireAsync) - Require any module or file async in NodeJS.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
