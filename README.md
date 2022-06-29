@@ -1331,7 +1331,7 @@
 - [JubbeArt/removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [sindresorhus/terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) - Display images in the terminal
 - [sindresorhus/make-synchronous](https://github.com/sindresorhus/make-synchronous) - Make an asynchronous function synchronous
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
 - [Debdut/omg-curry](https://github.com/Debdut/omg-curry) - Curry All Code
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
@@ -1346,7 +1346,7 @@
 - [webpack/analyse](https://github.com/webpack/analyse) - analyse web app for webpack stats
 - [DonutEspresso/big-json](https://github.com/DonutEspresso/big-json) - A stream based implementation of JSON.parse and JSON.stringify for big POJOs
 - [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individua
-- [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
+- [dilanx/craco](https://github.com/dilanx/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App.
 - [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 - [jaxcore/bumblebee](https://github.com/jaxcore/bumblebee) - Jaxcore Bumblebee - a JavaScript voice application framework
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
@@ -1907,7 +1907,6 @@
 - [arackaf/micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - Light and simple GraphQL React client with extensible, composable cache invalidation. Works with Suspense.
 - [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
-- [jaredwray/cacheable-request](https://github.com/jaredwray/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support
 - [apify/apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 - [mceSystems/node-jsc](https://github.com/mceSystems/node-jsc) - A node.js port to the JavaScriptCore engine and iOS
 - [bcoe/c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
@@ -4706,6 +4705,7 @@
 
 ## Python 
 
+- [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
 - [eerimoq/gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
@@ -5193,6 +5193,7 @@
 
 ## Rust 
 
+- [x2bool/xlite](https://github.com/x2bool/xlite) - SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system for the JavaScript ecosystem, written in Rust.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
@@ -5505,6 +5506,7 @@
 
 ## TypeScript 
 
+- [maverick-js/observables](https://github.com/maverick-js/observables) - A tiny (~850B minzipped) library for creating reactive observables via functions. Works in browsers and Node.
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation, a fork of piscina, with fewer features and smaller size (38KB)
 - [ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) - Verbum is a fully flexible text editor based on lexical framework.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
@@ -5918,6 +5920,7 @@
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [jaredwray/cacheable-request](https://github.com/jaredwray/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and "nothing"-handling in TypeScript.
