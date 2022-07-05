@@ -638,6 +638,7 @@
 
 ## Go 
 
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [go-test/deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -979,6 +980,7 @@
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN a
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [Simonwep/nanopop](https://github.com/Simonwep/nanopop) - 🍦 Minimalistic, small, positioning engine. Build for high-performance, minimal footprint and maximum control over positioning behavior.
+- [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [patchbay-pub/patchbay.pub](https://github.com/patchbay-pub/patchbay.pub) - patchbay.pub static site
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
@@ -1197,6 +1199,7 @@
 
 ## JavaScript 
 
+- [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [mifi/instauto](https://github.com/mifi/instauto) - Instagram bot / automation library written in Javascript for Node.js
 - [hobochild/js-fire](https://github.com/hobochild/js-fire) - A javascript clone of google/python-fire 🔥
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
@@ -3069,7 +3072,7 @@
 - [ACloudGuru/serverless-plugin-aws-alerts](https://github.com/ACloudGuru/serverless-plugin-aws-alerts) - A Serverless Framework plugin that creates CloudWatch alarms for functions.
 - [vizflow/vizflow](https://github.com/vizflow/vizflow) - vizflow is an ES6 interactive visualization engine
 - [danielsmc/structure-exposed](https://github.com/danielsmc/structure-exposed) - A simple proxy that strips away CSS frippery.
-- [nolanlawson/marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (488 bytes min+gz)
+- [nolanlawson/marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (491 bytes min+gz)
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [serverless-heaven/serverless-webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless plugin to bundle your lambdas with Webpack
 - [jfromaniello/url-join](https://github.com/jfromaniello/url-join) - Join all arguments together and normalize the resulting url.
@@ -5285,6 +5288,7 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
@@ -5340,7 +5344,6 @@
 
 - [linkedin/feathr](https://github.com/linkedin/feathr) - Feathr – An Enterprise-Grade, High Performance Feature Store
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning service that personalizes articles, listings, search results, recommendations to boost user engagement. A friendly Learn-to-Rank engine
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [nafg/reactive](https://github.com/nafg/reactive) - A simple FRP library and a web UI framework built on it
@@ -5722,7 +5725,6 @@
 - [clinicjs/notare-monitor](https://github.com/clinicjs/notare-monitor) - 
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
-- [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [milesj/boost](https://github.com/milesj/boost) - 🚀 A collection of type-safe cross-platform packages for building robust server-side and client-side systems.
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
