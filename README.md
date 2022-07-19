@@ -642,6 +642,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
@@ -937,7 +938,7 @@
 - [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [sdboyer/gps](https://github.com/sdboyer/gps) - your dependencies have arrived
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
-- [benas/gossed](https://github.com/benas/gossed) - Push the standard output of ANY program to browsers as Server Sent Events
+- [fmbenhassine/gossed](https://github.com/fmbenhassine/gossed) - Push the standard output of ANY program to browsers as Server Sent Events
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [open-lambda/open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
@@ -5211,6 +5212,7 @@
 
 ## Rust 
 
+- [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [nitnelave/lldap](https://github.com/nitnelave/lldap) - Light LDAP implementation
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - A parser library for humans with powerful error recovery.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte) - Seed your development database with real data ⚡️
