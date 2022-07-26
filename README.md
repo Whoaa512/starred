@@ -249,6 +249,8 @@
 
 ## C++ 
 
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
+- [sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse) - FUSE driver for APFS (Apple File System)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [GauravDawra/Beast](https://github.com/GauravDawra/Beast) - A build system built for speed and power
 - [dblalock/bolt](https://github.com/dblalock/bolt) - 10x faster matrix and vector operations
@@ -643,6 +645,7 @@
 
 ## Go 
 
+- [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store
 - [mdempsky/gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
@@ -2500,7 +2503,7 @@
 - [strudeljs/strudel](https://github.com/strudeljs/strudel) - A front-end framework for the back-end powered web
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [littlstar/hivemind](https://github.com/littlstar/hivemind) - For creating distributed jobs using AWS Lambda functions
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [GroaJS/groa](https://github.com/GroaJS/groa) - Expressive gRPC middleware framework for Node.js
 - [olahol/react-tagsinput](https://github.com/olahol/react-tagsinput) - Highly customizable React component for inputing tags.
 - [react-tags/react-tags](https://github.com/react-tags/react-tags) - A fantastically simple tagging component for your projects
@@ -4353,7 +4356,7 @@
 - [adrianscheff/simple-awk](https://github.com/adrianscheff/simple-awk) - Simple and practical guide to awk.
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-- [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [meshpro/meshzoo](https://github.com/meshpro/meshzoo) - :tiger: :cow: :panda_face: A collection of meshes for canonical domains
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [n6ai/flowrift](https://github.com/n6ai/flowrift) - Beautifully designed Tailwind CSS UI blocks.
@@ -5536,6 +5539,7 @@
 
 ## TypeScript 
 
+- [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [etro-js/etro](https://github.com/etro-js/etro) - A typescript video-editing framework for the browser and Node
 - [oceanroleplay/discord.ts](https://github.com/oceanroleplay/discord.ts) - 🤖 Create a discord bot with TypeScript and Decorators!
 - [chiefGui/superstate](https://github.com/chiefGui/superstate) - 
