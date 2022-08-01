@@ -645,6 +645,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
@@ -3995,7 +3996,6 @@
 - [folktale/macros.operators](https://github.com/folktale/macros.operators) - [Unmaintained]
 - [locks/candyshop](https://github.com/locks/candyshop) - Sweet.js macros
 - [tgallant/repost.pw](https://github.com/tgallant/repost.pw) - social sharing/sentiment tool for hacker news and reddit
-- [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [fouber/page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs  ♨
 - [jsguy/mithril.bindings](https://github.com/jsguy/mithril.bindings) - Two way automatic bindings for mithril
 - [ruipgil/scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
@@ -4527,7 +4527,7 @@
 - [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
-- [stacks-network/stacks](https://github.com/stacks-network/stacks) - Stacks ecosystem overview.
+- [stacks-network/stacks](https://github.com/stacks-network/stacks) - Overview of Bitcoin's Stacks layer.
 - [dncrews/GraphQL-SublimeText3](https://github.com/dncrews/GraphQL-SublimeText3) - GraphQL IDL syntax highlighting for Sublime Text
 - [ethereum/pyethereum](https://github.com/ethereum/pyethereum) - Next generation cryptocurrency network
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
@@ -4756,7 +4756,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
@@ -5543,6 +5543,7 @@
 
 ## TypeScript 
 
+- [ar-nelson/spartan-schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [etro-js/etro](https://github.com/etro-js/etro) - A typescript video-editing framework for the browser and Node
 - [oceanroleplay/discord.ts](https://github.com/oceanroleplay/discord.ts) - 🤖 Create a discord bot with TypeScript and Decorators!
@@ -6335,6 +6336,7 @@
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
 - [blakeembrey/javascript-stringify](https://github.com/blakeembrey/javascript-stringify) - Stringify is to `eval` as `JSON.stringify` is to `JSON.parse`
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
+- [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
