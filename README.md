@@ -808,7 +808,7 @@
 - [apenwarr/git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [patchbay-pub/patchbay](https://github.com/patchbay-pub/patchbay) - Libary and CLI tools for interacting with patchbay servers
 - [patchbay-pub/patchbay-simple-server](https://github.com/patchbay-pub/patchbay-simple-server) - Intended to serve as a starting point for a self-hostable version of patchbay
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -2523,7 +2523,6 @@
 - [adam-hanna/react-responsive-tables](https://github.com/adam-hanna/react-responsive-tables) - A react component for responsive tables
 - [jareware/css-ns](https://github.com/jareware/css-ns) - Dead-simple CSS namespaces
 - [jamesknelson/react-cx](https://github.com/jamesknelson/react-cx) - Combine styles from CSS Modules with a `cx` prop.
-- [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [elbywan/bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks. :deciduous_tree:
 - [anvaka/ngraph.path](https://github.com/anvaka/ngraph.path) - Path finding in a graph
 - [mongoist/mongoist](https://github.com/mongoist/mongoist) - Mongodb driver inspired by mongojs built with async/await in mind
@@ -4160,7 +4159,6 @@
 
 ## Jupyter Notebook 
 
-- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [batfish/pybatfish](https://github.com/batfish/pybatfish) - Python client for Batfish: https://github.com/batfish/batfish
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -4736,6 +4734,7 @@
 - [alopezrivera/mpl_plotter](https://github.com/alopezrivera/mpl_plotter) - Publication-quality data representation library based on Matplotlib.
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [eerimoq/gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [IBM/import-tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library
@@ -5764,7 +5763,7 @@
 - [wangchunsen/vscode-bracket-select](https://github.com/wangchunsen/vscode-bracket-select) - A vscode plugin for select text between brackets
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 - [clinicjs/notare-monitor](https://github.com/clinicjs/notare-monitor) - 
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [milesj/boost](https://github.com/milesj/boost) - 🚀 A collection of type-safe cross-platform packages for building robust server-side and client-side systems.
@@ -6158,6 +6157,7 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://grnh.se/ca81c1701us
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [AEB-labs/graphql-weaver](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas
+- [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (144 bytes) event emitter library for JavaScript
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
