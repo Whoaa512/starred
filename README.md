@@ -130,6 +130,7 @@
 
 ## C 
 
+- [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [coder-mike/microvium](https://github.com/coder-mike/microvium) - A compact, embeddable scripting engine for applications and microcontrollers for executing programs written in a subset of the JavaScript language.
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
@@ -249,6 +250,7 @@
 
 ## C++ 
 
+- [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
 - [sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse) - FUSE driver for APFS (Apple File System)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -2090,6 +2092,7 @@
 - [pshihn/lumin](https://github.com/pshihn/lumin) - A JavaScript library to progressively highlight any text on a page.
 - [kitze/JSUI](https://github.com/kitze/JSUI) - A powerful UI toolkit for managing JavaScript apps
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [reach/router](https://github.com/reach/router) - 
 - [YGYOOO/react-draggable-tags](https://github.com/YGYOOO/react-draggable-tags) - A draggable component for React. 一个基于React的可拖拽组件。
@@ -3031,7 +3034,6 @@
 - [iarna/aproba](https://github.com/iarna/aproba) - A ridiculously light-weight function argument validator
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [webpack-contrib/css-loader](https://github.com/webpack-contrib/css-loader) - CSS Loader
-- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [webpack-contrib/extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) - [DEPRECATED] Please use https://github.com/webpack-contrib/mini-css-extract-plugin Extracts text from a bundle into a separate file
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [que-etc/resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) - A polyfill for the Resize Observer API
@@ -4733,6 +4735,7 @@
 
 ## Python 
 
+- [basetenlabs/truss](https://github.com/basetenlabs/truss) - Serve any model without boilerplate code
 - [alopezrivera/mpl_plotter](https://github.com/alopezrivera/mpl_plotter) - Publication-quality data representation library based on Matplotlib.
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
@@ -5220,6 +5223,7 @@
 
 ## Rust 
 
+- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [losfair/blueboat](https://github.com/losfair/blueboat) - All-in-one, multi-tenant serverless JavaScript runtime.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -6030,7 +6034,6 @@
 - [lucasconstantino/graphql-apq](https://github.com/lucasconstantino/graphql-apq) - :dart: Automatic persisted queries (APQ) for any GraphQL server.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [fahad19/proppy](https://github.com/fahad19/proppy) - Functional props composition for UI components (React.js & Vue.js)
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [AviVahl/ts-tools](https://github.com/AviVahl/ts-tools) - TypeScript Tools for Node.js
@@ -6242,6 +6245,7 @@
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [vercel/uid-promise](https://github.com/vercel/uid-promise) - Creates a cryptographically strong UID
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
+- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [serviejs/throwback](https://github.com/serviejs/throwback) - An asynchronous middleware pattern
 - [serviejs/servie-compat-http](https://github.com/serviejs/servie-compat-http) - **DEPRECATED** Map Servie `Request` and `Response` instances to node.js HTTP compatible objects
