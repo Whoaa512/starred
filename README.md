@@ -4734,6 +4734,7 @@
 
 ## Python 
 
+- [t0thkr1s/revshellgen](https://github.com/t0thkr1s/revshellgen) - Reverse shell generator written in Python 3.
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
 - [basetenlabs/truss](https://github.com/basetenlabs/truss) - Serve any model without boilerplate code
