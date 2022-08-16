@@ -647,6 +647,7 @@
 
 ## Go 
 
+- [gpanders/ijq](https://github.com/gpanders/ijq) - Interactive jq (mirror)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 [WIP] Feature-rich interactive Jira command line.
 - [recode-sh/cli](https://github.com/recode-sh/cli) - A CLI to create remote development environments in your cloud provider account in seconds
 - [scottleedavis/mattermost-plugin-remind](https://github.com/scottleedavis/mattermost-plugin-remind) - a mattermost plugin that sets reminders for users and channels.
@@ -1219,6 +1220,7 @@
 
 ## JavaScript 
 
+- [pemistahl/grex-js](https://github.com/pemistahl/grex-js) - A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases
 - [mortie/jcof](https://github.com/mortie/jcof) - An efficient drop-in replacement for JSON.
 - [node-cache-manager/node-cache-manager](https://github.com/node-cache-manager/node-cache-manager) - Cache module for Node.JS
 - [maxpert/node-cache-manager-sqlite](https://github.com/maxpert/node-cache-manager-sqlite) - A modern SQLite store for node-cache-manager
@@ -2989,7 +2991,7 @@
 - [millermedeiros/js-signals](https://github.com/millermedeiros/js-signals) - Custom Event/Messaging system for JavaScript inspired by AS3-Signals
 - [jahredhope/base64-image-loader](https://github.com/jahredhope/base64-image-loader) - base64 image loader for webpack
 - [Gerhut/axios-debug-log](https://github.com/Gerhut/axios-debug-log) - Axios interceptor of logging request & response with debug library.
-- [kelaberetiv/TagUI](https://github.com/kelaberetiv/TagUI) - Free RPA tool by AI Singapore
+- [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [bilbof/purser](https://github.com/bilbof/purser) - A lightweight JavaScript library for preserving user data from first website visit to signup.
 - [MikaAK/s3-plugin-webpack](https://github.com/MikaAK/s3-plugin-webpack) - Uploads files to s3 after complete
@@ -4331,6 +4333,7 @@
 
 ## Others 
 
+- [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [bigscience-workshop/model_card](https://github.com/bigscience-workshop/model_card) - 
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
