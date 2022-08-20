@@ -129,6 +129,7 @@
 
 ## C 
 
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [coder-mike/microvium](https://github.com/coder-mike/microvium) - A compact, embeddable scripting engine for applications and microcontrollers for executing programs written in a subset of the JavaScript language.
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
@@ -732,7 +733,7 @@
 - [sjansen/watchman](https://github.com/sjansen/watchman) - Go client for Facebook's Watchman file watching service
 - [cristalhq/aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
 - [hajimehoshi/oto](https://github.com/hajimehoshi/oto) - ♪ A low-level library to play sound on multiple platforms ♪
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory data structure store. It can be used both as an embedded Go library and as a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used both as an embedded Go library and as a language-independent service.
 - [ttacon/chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk
 - [theckman/yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -4172,6 +4173,7 @@
 
 ## Jupyter Notebook 
 
+- [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast) - Lightning ⚡️ fast forecasting with statistical and econometric models.
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [batfish/pybatfish](https://github.com/batfish/pybatfish) - Python client for Batfish: https://github.com/batfish/batfish
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
@@ -4336,6 +4338,7 @@
 
 ## Others 
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
 - [bigscience-workshop/model_card](https://github.com/bigscience-workshop/model_card) - 
@@ -5237,6 +5240,9 @@
 
 ## Rust 
 
+- [nnethercote/counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling
+- [fcoury/oxide](https://github.com/fcoury/oxide) - Teach your PostgreSQL database how to speak MongoDB Wire Protocol
+- [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A Python-compatible statically typed language
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
@@ -5252,7 +5258,7 @@
 - [x2bool/xlite](https://github.com/x2bool/xlite) - SQLite extension for querying Excel (.xlsx, .xls, .ods) files as virtual tables
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system for the JavaScript ecosystem, written in Rust.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - By mirroring traffic to and from your machine, mirrord surrounds your local service with a mirror image of its cloud environment.
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, letting you run local code in cloud conditions.
 - [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky) - A new, portable, regular expression language
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
