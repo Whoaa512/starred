@@ -5571,7 +5571,7 @@
 
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [ar-nelson/spartan-schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [etro-js/etro](https://github.com/etro-js/etro) - A typescript video-editing framework for the browser and Node
@@ -5592,7 +5592,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming SSR React Framework in Deno
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 💎 Next-gen browser/server fluid React framework
 - [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel) - A strictly typed utility library.
 - [remult/remult](https://github.com/remult/remult) - A CRUD framework for full stack TypeScript
 - [stackb/bazel-stack-vscode](https://github.com/stackb/bazel-stack-vscode) - VSCode Extension for Bazel
@@ -6003,7 +6003,7 @@
 - [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [jaredwray/cacheable-request](https://github.com/jaredwray/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library that helps you build reliable crawlers. Fast.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and "nothing"-handling in TypeScript.
