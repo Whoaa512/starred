@@ -200,7 +200,6 @@
 - [martin-ger/esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
 - [mnunberg/jsonsl](https://github.com/mnunberg/jsonsl) - Embeddable, Fast, Streaming, Non-Buffering JSON Parser
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
-- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android) - Make Node.JS apps for Android
 - [diracdeltas/FastestWebsiteEver](https://github.com/diracdeltas/FastestWebsiteEver) - ultrafast single TCP packet audio/visual experience
 - [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
@@ -369,6 +368,7 @@
 - [justvanbloom/nheqminer](https://github.com/justvanbloom/nheqminer) - Currently fastest public CPU Equihash/zcash/zec miner
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [msuiche/porosity](https://github.com/msuiche/porosity) - *UNMAINTAINED* Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
@@ -980,7 +980,6 @@
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [karan/joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 - [sourcegraph/xconf](https://github.com/sourcegraph/xconf) - xconf.io is a config file search engine built on the Sourcegraph (https://sourcegraph.com) API. It currently supports Dockerfiles.
@@ -3953,6 +3952,7 @@
 - [plouc/mozaik](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / redux / nivo / d3 to easily craft beautiful dashboards
 - [idevelop/treeql](https://github.com/idevelop/treeql) - JSON query and mutation library. It traverses a tree structure in post-order (leaves first, root last), across objects and arrays, returning the nodes which match the partial structure passed in the q
 - [alspore/ttsmp3](https://github.com/alspore/ttsmp3) - A node.js script used to download text-to-speech mp3 files.
+- [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [lodash-archive/lodash-fp](https://github.com/lodash-archive/lodash-fp) - Lodash with more functional fun.
 - [ironSource/node-if-async](https://github.com/ironSource/node-if-async) - async conditional execution for async.js or standalone usage
 - [winterbe/streamjs](https://github.com/winterbe/streamjs) - Lazy Object Streaming Pipeline for JavaScript
@@ -4748,6 +4748,7 @@
 
 ## Python 
 
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development toolkit
@@ -4759,7 +4760,7 @@
 - [alopezrivera/mpl_plotter](https://github.com/alopezrivera/mpl_plotter) - Publication-quality data representation library based on Matplotlib.
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Efficiently diff rows across two different databases.
-- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [eerimoq/gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [IBM/import-tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library
@@ -4835,7 +4836,7 @@
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [TartanLlama/vizh](https://github.com/TartanLlama/vizh) - An esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -5601,7 +5602,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - ⚔️ Hypermodern Zero-Legacy Deno/React Framework
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🧙 Hypermodern Zero-Legacy Deno/React Framework
 - [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel) - A strictly typed utility library.
 - [remult/remult](https://github.com/remult/remult) - A CRUD framework for full stack TypeScript
 - [stackb/bazel-stack-vscode](https://github.com/stackb/bazel-stack-vscode) - VSCode Extension for Bazel
