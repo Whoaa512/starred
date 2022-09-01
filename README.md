@@ -936,7 +936,7 @@
 - [sanbornm/mp](https://github.com/sanbornm/mp) - Simple Email Parser
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: An easier way to compare hashes /fingerprints, when dealing human weak link :link: :tada:
-- [micro/micro](https://github.com/micro/micro) - An API first development platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [segmentio/cwlogs](https://github.com/segmentio/cwlogs) - CLI tool for reading logs from Cloudwatch Logs
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [aybabtme/iocontrol](https://github.com/aybabtme/iocontrol) - Measure and throttle the rate at which data is transferred.
@@ -5246,6 +5246,7 @@
 
 ## Rust 
 
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
 - [nnethercote/counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling
 - [fcoury/oxide](https://github.com/fcoury/oxide) - Teach your PostgreSQL database how to speak MongoDB Wire Protocol
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
@@ -5416,6 +5417,9 @@
 
 ## Shell 
 
+- [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :penguin: Linux command line and Scripting guide for beginner to intermediate users
+- [learnbyexample/regexp-cut](https://github.com/learnbyexample/regexp-cut) - Use awk to provide cut like syntax for field extraction
+- [learnbyexample/command_help](https://github.com/learnbyexample/command_help) - :information_source: Extract help text from builtin commands and man pages
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [titzer/virgil](https://github.com/titzer/virgil) - A fast and lightweight native programming language
