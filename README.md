@@ -457,8 +457,8 @@
 - [AlexTatiyants/pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [creativetimofficial/now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
 - [Chalarangelo/mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
-- [shankariyerr/griddd](https://github.com/shankariyerr/griddd) - A dead simple, customisable, flexbox-based griddd
-- [shankariyerr/tinyreset](https://github.com/shankariyerr/tinyreset) - Tiny CSS reset for the modern web
+- [shankara-subramani/griddd](https://github.com/shankara-subramani/griddd) - A dead simple, customisable, flexbox-based griddd
+- [shankara-subramani/tinyreset](https://github.com/shankara-subramani/tinyreset) - Tiny CSS reset for the modern web
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
 - [tholman/obnoxious.css](https://github.com/tholman/obnoxious.css) - Animations for the strong of heart, and stupid of mind.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -1796,7 +1796,7 @@
 - [idanlo/react-spotify-api](https://github.com/idanlo/react-spotify-api) - A React component library that makes it easier to interact with the Spotify API
 - [cruise-automation/webviz](https://github.com/cruise-automation/webviz) - web-based visualization libraries
 - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
-- [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
+- [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -4763,6 +4763,7 @@
 
 ## Python 
 
+- [manimino/ducks](https://github.com/manimino/ducks) - Index your Python objects for fast lookup by their attributes.
 - [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 - [wakatime/wakaq](https://github.com/wakatime/wakaq) - Distributed background task queue for Python backed by Redis, a super minimal Celery
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
