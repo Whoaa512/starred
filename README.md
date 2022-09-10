@@ -603,7 +603,6 @@
 - [NoRedInk/elm-json-decode-pipeline](https://github.com/NoRedInk/elm-json-decode-pipeline) - Use pipelines to build JSON Decoders in Elm.
 - [pablohirafuji/elm-markdown](https://github.com/pablohirafuji/elm-markdown) - Pure Elm markdown parsing and rendering
 - [SidneyNemzer/elm-text-editor](https://github.com/SidneyNemzer/elm-text-editor) - A text editor written completely in Elm
-- [opvasger/devtools](https://github.com/opvasger/devtools) - Tools for developing Elm programs! :wrench:
 - [derrickreimer/level](https://github.com/derrickreimer/level) - Team communication optimized for deep work
 - [ohanhi/elm-shared-state](https://github.com/ohanhi/elm-shared-state) - Example app on managing shared state in large Elm SPAs. (ex elm-taco)
 - [evancz/elm-graphics](https://github.com/evancz/elm-graphics) - The graphical building blocks that inspired Elm in the first place
@@ -4388,7 +4387,7 @@
 - [adrianscheff/simple-awk](https://github.com/adrianscheff/simple-awk) - Simple and practical guide to awk.
 - [adrianscheff/useful-sed](https://github.com/adrianscheff/useful-sed) - Useful sed scripts & patterns.
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [meshpro/meshzoo](https://github.com/meshpro/meshzoo) - :tiger: :cow: :panda_face: A collection of meshes for canonical domains
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [n6ai/flowrift](https://github.com/n6ai/flowrift) - Beautifully designed Tailwind CSS UI blocks.
@@ -4968,7 +4967,7 @@
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
+- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [henighan/deeprl-intro](https://github.com/henighan/deeprl-intro) - Introducing myself to deep reinforcement learning
 - [keunwoochoi/torchaudio-contrib](https://github.com/keunwoochoi/torchaudio-contrib) - A test bed for updates and new features | pytorch/audio
 - [keunwoochoi/lstm_real_book](https://github.com/keunwoochoi/lstm_real_book) - LSTM source code to generate jazz chord progressions
@@ -6245,7 +6244,7 @@
 - [visgl/luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
-- [tech-conferences/confs.tech](https://github.com/tech-conferences/confs.tech) - List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops and more.
+- [tech-conferences/confs.tech](https://github.com/tech-conferences/confs.tech) - Frontend for www.confs.tech
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
 - [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
