@@ -132,7 +132,7 @@
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
 - [rxi/microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
-- [ahilss/wavvy](https://github.com/ahilss/wavvy) - 
+- [ahilss/wavacity](https://github.com/ahilss/wavacity) - 
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [coder-mike/microvium](https://github.com/coder-mike/microvium) - A compact, embeddable scripting engine for applications and microcontrollers for executing programs written in a subset of the JavaScript language.
@@ -692,6 +692,7 @@
 - [bcicen/jstream](https://github.com/bcicen/jstream) - Streaming JSON parser for Go
 - [bmatcuk/doublestar](https://github.com/bmatcuk/doublestar) - Implements support for double star (**) matches in golang's path.Match and filepath.Glob.
 - [jimlambrt/gldap](https://github.com/jimlambrt/gldap) - Build LDAP services w/ Go
+- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [denormal/go-gitignore](https://github.com/denormal/go-gitignore) - Go package for parsing and matching paths against .gitignore files.
 - [KablamoOSS/gofilewalk](https://github.com/KablamoOSS/gofilewalk) - 
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
@@ -946,7 +947,7 @@
 - [sanbornm/mp](https://github.com/sanbornm/mp) - Simple Email Parser
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: An easier way to compare hashes /fingerprints, when dealing human weak link :link: :tada:
-- [micro/micro](https://github.com/micro/micro) - Micro services development platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [segmentio/cwlogs](https://github.com/segmentio/cwlogs) - CLI tool for reading logs from Cloudwatch Logs
 - [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
 - [aybabtme/iocontrol](https://github.com/aybabtme/iocontrol) - Measure and throttle the rate at which data is transferred.
@@ -1234,6 +1235,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings with the fastest JS implementation of the Levenshtein distance algorithm
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [vitmalina/w2ui](https://github.com/vitmalina/w2ui) - UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
 - [diracdeltas/spleeter4max](https://github.com/diracdeltas/spleeter4max) - separate audio in ableton into stems using Spleeter
@@ -1245,7 +1247,7 @@
 - [jcubic/wayne](https://github.com/jcubic/wayne) - Service Worker Routing library for in browser HTTP requests
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [mifi/instauto](https://github.com/mifi/instauto) - Instagram bot / automation library written in Javascript for Node.js
-- [hobochild/js-fire](https://github.com/hobochild/js-fire) - A javascript clone of google/python-fire 🔥
+- [craigmulligan/js-fire](https://github.com/craigmulligan/js-fire) - A javascript clone of google/python-fire 🔥
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme.
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
@@ -1255,7 +1257,6 @@
 - [kangruixiang/Ankify](https://github.com/kangruixiang/Ankify) - Ankify notes into anki cards
 - [grafana/simple-json-datasource](https://github.com/grafana/simple-json-datasource) - Datasource that sends generic http requests to give url
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
-- [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [adnanaga/pushy](https://github.com/adnanaga/pushy) - Create awkward situations with my chrome extension that send you messages that look like an iMessage popup
 - [jcoglan/canopy](https://github.com/jcoglan/canopy) - A parser compiler for Java, JavaScript, Python, Ruby
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
@@ -1954,7 +1955,6 @@
 - [turtle-DB/tortoiseDB](https://github.com/turtle-DB/tortoiseDB) - Official tortoiseDB adapter for turtleDB
 - [evenchange4/graphql.macro](https://github.com/evenchange4/graphql.macro) - Compile GraphQL AST at build-time with babel-plugin-macros.
 - [nicolo-ribaudo/legacy-decorators-migration-utility](https://github.com/nicolo-ribaudo/legacy-decorators-migration-utility) - :top: A command line utility to upgrade your JavaScript files from the legacy decorators proposal to the new one.
-- [expressjs/csurf](https://github.com/expressjs/csurf) - CSRF token middleware
 - [kevva/graphql-got](https://github.com/kevva/graphql-got) - Convenience wrapper for got to interact with GraphQL
 - [arackaf/micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - Light and simple GraphQL React client with extensible, composable cache invalidation. Works with Suspense.
 - [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
@@ -4413,7 +4413,7 @@
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis) - A collection of unofficial apis. Designed to inspire your next Friday night hack
 - [thewhitetulip/awk-anti-textbook](https://github.com/thewhitetulip/awk-anti-textbook) - learn awk by example
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
@@ -4477,6 +4477,7 @@
 - [alan-platform/AlanForSublime](https://github.com/alan-platform/AlanForSublime) - Alan for Sublime Text 3
 - [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them.
 - [solid/solid-spec](https://github.com/solid/solid-spec) - Solid specification draft 0.7.0
+- [expressjs/csurf](https://github.com/expressjs/csurf) - CSRF token middleware
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -5001,7 +5002,7 @@
 - [AlexanderWillner/runMacOSinVirtualBox](https://github.com/AlexanderWillner/runMacOSinVirtualBox) - Run macOS 10.16 Big Sur (and other versions) in VirtualBox on macOS
 - [keithrozario/Klayers](https://github.com/keithrozario/Klayers) - Python Packages as AWS Lambda Layers
 - [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
