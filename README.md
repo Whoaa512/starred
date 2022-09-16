@@ -5522,7 +5522,7 @@
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [lambci/lambci](https://github.com/lambci/lambci) - A continuous integration system built on AWS Lambda
 - [lukechilds/gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [eventi/noreallyjustfuckingstopalready](https://github.com/eventi/noreallyjustfuckingstopalready) - Please OS X (or whatever your name is) just fucking reset your DNS cache please
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [deekayen/norman](https://github.com/deekayen/norman) - Norman keyboard layout - alternative to QWERTY for touch typing in English
