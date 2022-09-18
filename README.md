@@ -1235,6 +1235,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal
 - [jdeniau/changelog-view](https://github.com/jdeniau/changelog-view) - View changelog of packages in your console
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
 - [vadimdemedes/create-ink-app](https://github.com/vadimdemedes/create-ink-app) - Generate a starter Ink app
@@ -2940,7 +2941,6 @@
 - [dtschust/redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - :bug: A bug reporter and bug playback tool for redux. :bug:
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
 - [madyankin/postcss-each](https://github.com/madyankin/postcss-each) - PostCSS plugin to iterate through values
-- [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [vstirbu/fsm-as-promised](https://github.com/vstirbu/fsm-as-promised) - A finite state machine library using ES6 promises
 - [ivanseidel/node-draftlog](https://github.com/ivanseidel/node-draftlog) - 📜 Create mutable log lines into the terminal, and give life to your logs!
@@ -3680,8 +3680,6 @@
 - [rachelnicole/robokitty](https://github.com/rachelnicole/robokitty) - A DIY Cat (or dog. or human) Feeder powered by node
 - [vartan/ca-dmv-poller](https://github.com/vartan/ca-dmv-poller) - Polls DMV offices of your choice for the earliest appointment time
 - [chalk/ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
-- [substack/node-pony](https://github.com/substack/node-pony) - Send email and a pony.
-- [substack/node-password-reset](https://github.com/substack/node-password-reset) - middleware for password reset emails
 - [omnidan/redux-recycle](https://github.com/omnidan/redux-recycle) - :recycle: higher-order reducer to reset the redux state on certain actions
 - [Whoaa512/list-share](https://github.com/Whoaa512/list-share) - Share your lists, track your friends' lists, collaborate!
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
@@ -3770,7 +3768,6 @@
 - [fiatjaf/pgjson](https://github.com/fiatjaf/pgjson) - use Postgres as a zero-config NoSQL database.
 - [ngonzalvez/rest-facade](https://github.com/ngonzalvez/rest-facade) - Node.js module that abstracts the process of consuming a REST endpoint.
 - [jiahaog/Revenant](https://github.com/jiahaog/Revenant) - A high level PhantomJS headless browser in Node.js ideal for task automation
-- [substack/difflet](https://github.com/substack/difflet) - colorful diffs for javascript objects
 - [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 - [matthew-andrews/isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - Isomorphic WHATWG Fetch API, for Node & Browserify
 - [redux-utilities/redux-actions](https://github.com/redux-utilities/redux-actions) - Flux Standard Action utilities for Redux.
@@ -3785,7 +3782,6 @@
 - [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder [DEPRECATED]
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
-- [substack/network-simulator](https://github.com/substack/network-simulator) - simulate a low-level computer network
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors
 - [VictorTaelin/LJSON](https://github.com/VictorTaelin/LJSON) - JSON extended with pure functions.
@@ -3805,7 +3801,6 @@
 - [Jam3/awesome-streetview](https://github.com/Jam3/awesome-streetview) - beautiful [lat, lng] Google Street View locations
 - [simplewebrtc/signalmaster](https://github.com/simplewebrtc/signalmaster) - simple socket.io server for webrtc signaling
 - [paldepind/functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture) - A functional frontend framework.
-- [substack/data-structures-of-the-revolution](https://github.com/substack/data-structures-of-the-revolution) - slides from barcelonajs
 - [npm/npme-installer](https://github.com/npm/npme-installer) - npm Enterprise installer
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
 - [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC) - Simplest WebRTC ever
@@ -3845,8 +3840,8 @@
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [basicallydan/interfake](https://github.com/basicallydan/interfake) - :computer: Fake APIs for prototypes & automated tests.
 - [kraihn/dragon-names](https://github.com/kraihn/dragon-names) - 
-- [substack/tape](https://github.com/substack/tape) - tap-producing test harness for node and browsers
-- [substack/faucet](https://github.com/substack/faucet) - human-readable TAP summarizer
+- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
+- [ljharb/faucet](https://github.com/ljharb/faucet) - human-readable TAP summarizer
 - [sindresorhus/hash-obj](https://github.com/sindresorhus/hash-obj) - Get the hash of an object
 - [isaacs/async-cache](https://github.com/isaacs/async-cache) - Cache your async lookups and don't fetch the same thing more than necessary.
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
@@ -4003,13 +3998,11 @@
 - [alanshaw/joi-machine](https://github.com/alanshaw/joi-machine) - Generate a Joi schema from some JSON or a JS object
 - [twbs/bootlint](https://github.com/twbs/bootlint) - HTML linter for Bootstrap projects
 - [mitranim/jisp](https://github.com/mitranim/jisp) - Lisp-style language that compiles to JavaScript
-- [substack/unix-adventure](https://github.com/substack/unix-adventure) - become a unix wizard
 - [js-csp/js-csp](https://github.com/js-csp/js-csp) - CSP channels for Javascript (like Clojurescript's core.async, or Go)
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [danielstjules/jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code
 - [nullobject/fkit](https://github.com/nullobject/fkit) - A functional programming toolkit for JavaScript.
-- [substack/dupsh](https://github.com/substack/dupsh) - pipe together two shell commands full duplex
 - [zzmp/juliusjs](https://github.com/zzmp/juliusjs) - A speech recognition library for the web
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [z0mt3c/hapi.docset](https://github.com/z0mt3c/hapi.docset) - hapi docset generator for dash
@@ -4078,7 +4071,6 @@
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [Medium/sculpt](https://github.com/Medium/sculpt) - Manipulate streams.
 - [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
-- [substack/exterminate](https://github.com/substack/exterminate) - terminal emulator application like xterm in node and html
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [feross/drag-drop](https://github.com/feross/drag-drop) - HTML5 drag & drop for humans
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
@@ -5273,6 +5265,7 @@
 
 ## Rust 
 
+- [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [twitter/focus](https://github.com/twitter/focus) - 
 - [cloudwego/volo](https://github.com/cloudwego/volo) - A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.
 - [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
@@ -5911,7 +5904,7 @@
 - [fent/timequeue.js](https://github.com/fent/timequeue.js) - A queue with custom concurrency and time limit.
 - [repeaterjs/repeater](https://github.com/repeaterjs/repeater) - The missing constructor for creating safe async iterators
 - [rimeto/ts-optchain](https://github.com/rimeto/ts-optchain) - Optional Chaining for TypeScript
-- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .   备用地址: https://rsuite.vercel.app/
+- [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
 - [vmarchaud/openprofiling-node](https://github.com/vmarchaud/openprofiling-node) - OpenProfiling is a toolkit for collecting profiling data from production workload safely.
