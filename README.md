@@ -252,6 +252,7 @@
 
 ## C++ 
 
+- [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern OSS Key-Value store built for today's hardware
 - [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) - Colorizing text editor for ImGui
 - [btzy/nativefiledialog-extended](https://github.com/btzy/nativefiledialog-extended) - Cross platform (Windows, Mac, Linux) native file dialog library with C and C++ bindings, based on mlabbe/nativefiledialog.
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -4255,6 +4256,7 @@
 
 ## Lua 
 
+- [Questie/Questie](https://github.com/Questie/Questie) - Questie: the vanilla quest helper
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [winterbeak/Noneuclilypads](https://github.com/winterbeak/Noneuclilypads) - It's tough surviving the non-Euclidean marshlands. A roguelike with a broken grid, made for the 2019 GitHub Game-Off.
@@ -4350,6 +4352,7 @@
 
 ## Others 
 
+- [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [austinvhuang/awesome-haskell-deep-learning](https://github.com/austinvhuang/awesome-haskell-deep-learning) - In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning in Haskell.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
@@ -5002,7 +5005,7 @@
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
 - [deeplearningturkiye/reinforcement-learning-project](https://github.com/deeplearningturkiye/reinforcement-learning-project) - 
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [rl-king/tldr](https://github.com/rl-king/tldr) - :books: Simplified and community-driven man pages
 - [ecthros/uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
@@ -5606,6 +5609,7 @@
 
 ## TypeScript 
 
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Backend agnostic fetching framework for any javascript environment - queues, caching, persistence, builders, commands, offline and more!
@@ -5621,7 +5625,7 @@
 - [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [ar-nelson/spartan-schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
-- [etro-js/etro](https://github.com/etro-js/etro) - A typescript video-editing framework for the browser and Node
+- [etro-js/etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser and Node
 - [discordx-ts/discordx](https://github.com/discordx-ts/discordx) - 🤖 Create a discord bot with TypeScript and Decorators!
 - [chiefGui/superstate](https://github.com/chiefGui/superstate) - 
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
@@ -6298,7 +6302,7 @@
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transition between your website's pages.
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
