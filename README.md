@@ -12,6 +12,7 @@
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -126,6 +127,10 @@
 
 - [soulofmischief/Batch-Utilities](https://github.com/soulofmischief/Batch-Utilities) - A collection of useful batch files
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
+
+## Bikeshed 
+
+- [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 
 ## C 
 
@@ -2638,7 +2643,7 @@
 - [esbenp/pdf-bot](https://github.com/esbenp/pdf-bot) - 🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
 - [frdnrdb/bubb](https://github.com/frdnrdb/bubb) - Euphemism for a JS tooltip
 - [Thinkmill/react-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in &lt;Components/&gt;, &lt;Components/&gt; in **Markdown**
-- [xjamundx/eslint-plugin-promise](https://github.com/xjamundx/eslint-plugin-promise) - Enforce best practices for JavaScript promises
+- [eslint-community/eslint-plugin-promise](https://github.com/eslint-community/eslint-plugin-promise) - Enforce best practices for JavaScript promises
 - [colinhacks/bye-react](https://github.com/colinhacks/bye-react) - Command-line tool to migrate React to Preact
 - [webpack-contrib/purifycss-webpack](https://github.com/webpack-contrib/purifycss-webpack) - UNMAINTAINED, use https://github.com/FullHuman/purgecss-webpack-plugin
 - [siddharthkp/atom-import-cost-beta](https://github.com/siddharthkp/atom-import-cost-beta) - 
@@ -4286,7 +4291,6 @@
 
 - [stenh0use/docker-machine-for-mac](https://github.com/stenh0use/docker-machine-for-mac) - Docker Machine for Mac - an alternative to Docker for Mac
 - [dilshan/usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
-- [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
 - [deepsweet/chromium-headless-remote](https://github.com/deepsweet/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
