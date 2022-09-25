@@ -665,6 +665,8 @@
 
 ## Go 
 
+- [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is a modern, scalable backend for building real-time websites and apps.
+- [saurabh0719/jett](https://github.com/saurabh0719/jett) - Jett is a lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  :rocket:
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
 - [loopholelabs/frpc-go](https://github.com/loopholelabs/frpc-go) - fRPC-go is a lightweight, fast, and secure RPC framework implemented for Go that uses Frisbee under the hood
@@ -1014,6 +1016,7 @@
 
 ## HTML 
 
+- [tc39/proposal-array-from-async](https://github.com/tc39/proposal-array-from-async) - Draft specification for a proposed Array.fromAsync method in JavaScript.
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [SpeechResearch/speechresearch.github.io](https://github.com/SpeechResearch/speechresearch.github.io) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -4195,6 +4198,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/whisper](https://github.com/openai/whisper) - 
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [pedropro/TACO](https://github.com/pedropro/TACO) - 🌮 Trash Annotations in Context Dataset Toolkit
@@ -4775,6 +4779,8 @@
 
 ## Python 
 
+- [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
+- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [ArtyomKozyrev8/BucketRateLimiter](https://github.com/ArtyomKozyrev8/BucketRateLimiter) - collection of rate limiters which are based on bucket conception
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [manimino/ducks](https://github.com/manimino/ducks) - Index your Python objects for fast lookup by their attributes.
@@ -5283,6 +5289,8 @@
 
 ## Rust 
 
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [twitter/focus](https://github.com/twitter/focus) - 
 - [cloudwego/volo](https://github.com/cloudwego/volo) - A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.
@@ -5433,6 +5441,7 @@
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [bennettfeely/bennett](https://github.com/bennettfeely/bennett) - My portfolio at https://bennettfeely.com
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [amaroteam/react-credit-cards](https://github.com/amaroteam/react-credit-cards) - Beautiful credit cards for your payment forms
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
@@ -5624,6 +5633,8 @@
 
 ## TypeScript 
 
+- [peterkhayes/pitchfinder](https://github.com/peterkhayes/pitchfinder) - A compilation of pitch detection algorithms for Javascript.
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
@@ -5865,7 +5876,6 @@
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [milesj/boost](https://github.com/milesj/boost) - 🚀 A collection of type-safe cross-platform packages for building robust server-side and client-side systems.
-- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [microsoft/dtslint](https://github.com/microsoft/dtslint) - A utility built on TSLint for linting TypeScript declaration (.d.ts) files.
 - [bikeshaving/crank](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators.
