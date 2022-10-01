@@ -257,6 +257,7 @@
 
 ## C++ 
 
+- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
@@ -406,7 +407,6 @@
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ral99/knuckleball](https://github.com/ral99/knuckleball) - Data structure server.
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [JunoVR/MeditationGearV2](https://github.com/JunoVR/MeditationGearV2) - 
@@ -1019,6 +1019,7 @@
 
 ## HTML 
 
+- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [tc39/proposal-array-from-async](https://github.com/tc39/proposal-array-from-async) - Draft specification for a proposed Array.fromAsync method in JavaScript.
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
@@ -1300,7 +1301,7 @@
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension🎧[80+Features🧰](Please⭐document/wiki!)📌📌Lean&Longest-standing(©️2012)[Users👨‍👩‍👧‍👧485 000+] ⚙️⋮[🎞️☕🎛️🎬🔴⏯️🔊🧩📈 🎨🧪] [Player: Repeat Screenshot Rotate; Hide related video distraction. Alw
+- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+ Users👨‍👩‍👧‍👧](Guide/wiki missing!) - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Alway
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -1417,7 +1418,7 @@
 - [Debdut/react-fast-charts](https://github.com/Debdut/react-fast-charts) - Blazing Fast Charting Library in React with loading time less than 50ms
 - [chrisjpatty/flume](https://github.com/chrisjpatty/flume) - Extract logic from your apps with a user-friendly node editor powered by React.
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
-- [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [lamplightdev/aeon](https://github.com/lamplightdev/aeon) - A lightweight date picker built with web components that can be used anywhere
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [webpack/analyse](https://github.com/webpack/analyse) - analyse web app for webpack stats
@@ -4357,6 +4358,7 @@
 - [janten/keypad-layout](https://github.com/janten/keypad-layout) - Control window layout using Ctrl + Numeric Keypad on macOS
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash gives your iPad and iPhone instant offline access to 200+ API documentation sets
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [alunbestor/Boxer](https://github.com/alunbestor/Boxer) - The DOS game emulator that's fit for your Mac.
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
 - [sindresorhus/cocoa-dialog](https://github.com/sindresorhus/cocoa-dialog) - Display common GUI dialogs on macOS using cocoaDialog
@@ -4785,6 +4787,8 @@
 
 ## Python 
 
+- [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
+- [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [ArtyomKozyrev8/BucketRateLimiter](https://github.com/ArtyomKozyrev8/BucketRateLimiter) - collection of rate limiters which are based on bucket conception
@@ -5295,6 +5299,7 @@
 
 ## Rust 
 
+- [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -5602,6 +5607,7 @@
 
 ## Swift 
 
+- [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [zackelia/bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
@@ -5639,6 +5645,8 @@
 
 ## TypeScript 
 
+- [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
+- [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [rannn505/child-shell](https://github.com/rannn505/child-shell) - Node.js bindings 🔗 for shell
 - [peterkhayes/pitchfinder](https://github.com/peterkhayes/pitchfinder) - A compilation of pitch detection algorithms for Javascript.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
