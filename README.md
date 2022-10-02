@@ -58,6 +58,7 @@
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -363,7 +364,7 @@
 - [LUX-Core/lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever enc
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
 - [neonious/lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -826,7 +827,7 @@
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [sudhirj/pump](https://github.com/sudhirj/pump) - Transmit large files over lossy networks using Raptor fountain codes
 - [jesseduffield/horcrux-ui](https://github.com/jesseduffield/horcrux-ui) - GUI for horcrux
-- [mergestat/mergestat](https://github.com/mergestat/mergestat) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
+- [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [fiatjaf/jqview](https://github.com/fiatjaf/jqview) - simplest possible native GUI for inspecting JSON objects with jq
@@ -1301,7 +1302,7 @@
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+ Users👨‍👩‍👧‍👧](Guide/wiki missing!) - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Alway
+- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+ Users👨‍👩‍👧‍👧][Guide/wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Alway
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -4206,7 +4207,6 @@
 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [pedropro/TACO](https://github.com/pedropro/TACO) - 🌮 Trash Annotations in Context Dataset Toolkit
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -4327,6 +4327,10 @@
 ## Nix 
 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+
+## Nunjucks 
+
+- [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 
 ## OCaml 
 
@@ -4787,12 +4791,14 @@
 
 ## Python 
 
+- [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [ArtyomKozyrev8/BucketRateLimiter](https://github.com/ArtyomKozyrev8/BucketRateLimiter) - collection of rate limiters which are based on bucket conception
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [manimino/ducks](https://github.com/manimino/ducks) - Index your Python objects for fast lookup by their attributes.
 - [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
 - [wakatime/wakaq](https://github.com/wakatime/wakaq) - Distributed background task queue for Python backed by Redis, a super minimal Celery
@@ -5449,7 +5455,6 @@
 
 - [breakthecode2/neo](https://github.com/breakthecode2/neo) - A plugin that enables usage of cheatcodes in Break The Code 2
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [bennettfeely/bennett](https://github.com/bennettfeely/bennett) - My portfolio at https://bennettfeely.com
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
