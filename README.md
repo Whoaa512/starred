@@ -5751,7 +5751,7 @@
 - [vercel/async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
+- [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest en
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
