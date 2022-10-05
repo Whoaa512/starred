@@ -258,6 +258,8 @@
 
 ## C++ 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
+- [duckdblabs/postgres_scanner](https://github.com/duckdblabs/postgres_scanner) - 
 - [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [google/tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
@@ -364,7 +366,7 @@
 - [LUX-Core/lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [neonious/lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -669,6 +671,8 @@
 
 ## Go 
 
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is a modern, scalable backend for building real-time websites and apps.
 - [saurabh0719/jett](https://github.com/saurabh0719/jett) - Jett is a lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  :rocket:
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
@@ -1256,6 +1260,7 @@
 
 ## JavaScript 
 
+- [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [antonmedv/tinysh](https://github.com/antonmedv/tinysh) - A tiny spawn wrapper for Node.js
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [sindresorhus/terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal
@@ -1533,7 +1538,7 @@
 - [inspect-js/is-object](https://github.com/inspect-js/is-object) - Checks whether a value is an object, because typeof is a troll
 - [es-shims/Array.prototype.flat](https://github.com/es-shims/Array.prototype.flat) - An ESnext spec-compliant `Array.prototype.flat` shim/polyfill/replacement that works as far down as ES3.
 - [boblauer/MockDate](https://github.com/boblauer/MockDate) - A JavaScript Mock Date object that can be used to change when "now" is.
-- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [GoogleChromeLabs/react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints
 - [not-an-aardvark/git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into master
 - [pvdz/tenko](https://github.com/pvdz/tenko) - An 100% spec compliant ES2021 JavaScript parser written in JS
@@ -2728,7 +2733,7 @@
 - [zhaofengli/snappy](https://github.com/zhaofengli/snappy) - Helps you browse through and interpret your genotype data
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
-- [botui/botui](https://github.com/botui/botui) - 🤖 A JavaScript framework to create conversational UIs
+- [botui/botui](https://github.com/botui/botui) - 🤖 A JavaScript framework for building conversational UIs
 - [insin/react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component
 - [sindresorhus/internal-ip-cli](https://github.com/sindresorhus/internal-ip-cli) - Get your internal IP address
 - [mattbierner/bennu](https://github.com/mattbierner/bennu) - Javascript Parser Combinator Library
@@ -4379,6 +4384,7 @@
 
 ## Others 
 
+- [cpressey/Facts-about-State-Machines](https://github.com/cpressey/Facts-about-State-Machines) - I hold the opinion that state machines are underrated
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [austinvhuang/awesome-haskell-deep-learning](https://github.com/austinvhuang/awesome-haskell-deep-learning) - In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning in Haskell.
@@ -4598,7 +4604,7 @@
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [ruse-lang/stress-free-manifesto](https://github.com/ruse-lang/stress-free-manifesto) - Proclaim and encourage a stress-free environment in your open source project.
 - [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji) - Every commit is important. So let's celebrate each and every commit with a corresponding emoji! :smile:
-- [hangtwenty/python-tips](https://github.com/hangtwenty/python-tips) - [Archived.] Teammates asked for Python resources; here ya go! :)  For more up to date resources go here: https://github.com/alexmojaki/futurecoder and https://github.com/vinta/awesome-python#resources
+- [floer32/python-tips](https://github.com/floer32/python-tips) - [Archived.] Teammates asked for Python resources; here ya go! :)  For more up to date resources go here: https://github.com/alexmojaki/futurecoder and https://github.com/vinta/awesome-python#resources
 - [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [vincelwt/harmony](https://github.com/vincelwt/harmony) - :musical_note: Sleek music player for Spotify, SoundCloud, Google Play Music and your local files
 - [scrimba/community](https://github.com/scrimba/community) - Repository for public issue-tracking and discussions
@@ -5305,6 +5311,7 @@
 
 ## Rust 
 
+- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
 - [str4d/rage](https://github.com/str4d/rage) - A simple, secure and modern encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability.
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
