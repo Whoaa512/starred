@@ -1308,7 +1308,7 @@
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+ Users👨‍👩‍👧‍👧][Guide/wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Alway
+- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -4214,7 +4214,6 @@
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores
 - [pedropro/TACO](https://github.com/pedropro/TACO) - 🌮 Trash Annotations in Context Dataset Toolkit
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast) - Lightning ⚡️ fast forecasting with statistical and econometric models.
 - [batfish/pybatfish](https://github.com/batfish/pybatfish) - Python client for Batfish: https://github.com/batfish/batfish
@@ -4813,6 +4812,7 @@
 - [adap/flower](https://github.com/adap/flower) - Flower - A Friendly Federated Learning Framework
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development toolkit
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
