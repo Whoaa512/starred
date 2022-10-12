@@ -3144,7 +3144,7 @@
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [robeio/robe-react-ui](https://github.com/robeio/robe-react-ui) - Robe React UI Components
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [graphistry/falcor](https://github.com/graphistry/falcor) - Graphistry forks of the FalcorJS family of projects in a lerna-powered mono-repo.
 - [serverless-operations/serverless-step-functions](https://github.com/serverless-operations/serverless-step-functions) - AWS Step Functions plugin for Serverless Framework ⚡️
 - [nicka/serverless-plugin-diff](https://github.com/nicka/serverless-plugin-diff) - Plugin for Serverless v1 which compares local AWS CloudFormation templates against deployed ones.
@@ -4806,6 +4806,7 @@
 
 ## Python 
 
+- [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
@@ -5669,6 +5670,7 @@
 
 ## TypeScript 
 
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 - [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
@@ -5839,7 +5841,7 @@
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [mattinsler/lucy](https://github.com/mattinsler/lucy) - 
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
-- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+- [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [gajus/http-terminator](https://github.com/gajus/http-terminator) - Gracefully terminates HTTP(S) server.
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
