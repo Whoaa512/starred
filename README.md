@@ -1270,6 +1270,7 @@
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [antonmedv/tinysh](https://github.com/antonmedv/tinysh) - A tiny spawn wrapper for Node.js
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
+- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [sindresorhus/terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal
 - [jdeniau/changelog-view](https://github.com/jdeniau/changelog-view) - View changelog of packages in your console
 - [sindresorhus/alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Alfred 3 workflow to find relevant emoji from text
@@ -1839,7 +1840,7 @@
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sinedied/smoke](https://github.com/sinedied/smoke) - :dash: Simple yet powerful file-based mock server with recording abilities
-- [klaussinani/qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
+- [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
 - [rcjpisani/redactyl.js](https://github.com/rcjpisani/redactyl.js) - Redact sensitive information from JSON for logging (Node.js)
 - [AmanAgarwal041/copy-text-to-cb](https://github.com/AmanAgarwal041/copy-text-to-cb) - react component to copy text to clipboard with function to execute after copying.
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
@@ -2090,7 +2091,7 @@
 - [susielu/react-annotation](https://github.com/susielu/react-annotation) - Use react-annotation with built-in annotation types, or extend it to make custom annotations. It is made for annotations in SVG.
 - [jcmcneal/react-step-wizard](https://github.com/jcmcneal/react-step-wizard) - A modern flexible step wizard component built for React.
 - [vialer/vialer-js](https://github.com/vialer/vialer-js) - Pluggable WebRTC softphone and communication platform.
-- [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [fusionjs/fusionjs.github.io](https://github.com/fusionjs/fusionjs.github.io) - Modern framework for fast, powerful React apps
 - [fusionjs/fusion-core](https://github.com/fusionjs/fusion-core) - Migrated to https://github.com/fusionjs/fusionjs
 - [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
@@ -2130,7 +2131,7 @@
 - [uber/react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 - [aleedmanath/rogue.js](https://github.com/aleedmanath/rogue.js) - The "nearly invisible" way to server-render React applications
-- [klaussinani/singlie](https://github.com/klaussinani/singlie) - Singly circular & linear linked lists for ES6
+- [klaudiosinani/singlie](https://github.com/klaudiosinani/singlie) - Singly circular & linear linked lists for ES6
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [indexzero/nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
 - [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️[NOT MAINTAINED] Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
@@ -2168,7 +2169,7 @@
 - [ronami/minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
 - [nitin42/react-video-scroll](https://github.com/nitin42/react-video-scroll) - A React component to seek or control the video frame rate on scroll.
 - [jfairbank/revalidate](https://github.com/jfairbank/revalidate) - Elegant and composable validations
-- [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 - [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [creationix/js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git.
 - [TiBeN/shortcutd](https://github.com/TiBeN/shortcutd) - Launch commands when pressing keyboard keys combinations. No graph. env needed. Support keyboard hotplug
@@ -5502,6 +5503,7 @@
 
 ## Shell 
 
+- [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 - [asdf-community/asdf-rust](https://github.com/asdf-community/asdf-rust) - Rust plugin for the asdf version manager
 - [learnbyexample/cli-computing](https://github.com/learnbyexample/cli-computing) - :penguin: Linux command line and Scripting guide for beginner to intermediate users
@@ -6519,7 +6521,6 @@
 
 ## Vue 
 
-- [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The ultimate AWS RDS and Google Cloud SQL instance pricing comparison sheet
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
