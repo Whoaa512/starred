@@ -519,7 +519,7 @@
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [open-services/open-registry](https://github.com/open-services/open-registry) - Community Owned JavaScript Registry
 - [onyx-platform/onyx-examples](https://github.com/onyx-platform/onyx-examples) - Examples of using Onyx
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [Unrepl/unrepl](https://github.com/Unrepl/unrepl) - A common ground for better Clojure REPLs
 - [Macroz/GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -1509,7 +1509,6 @@
 - [webpack-contrib/worker-loader](https://github.com/webpack-contrib/worker-loader) - A webpack loader that registers a script as a Web Worker
 - [oblador/loki](https://github.com/oblador/loki) - 👁 Visual Regression Testing for Storybook
 - [pbeshai/vis-utils](https://github.com/pbeshai/vis-utils) - A collection of utility functions for helping with data visualization
-- [achingbrain/it](https://github.com/achingbrain/it) - A collection of utilities for making working with iterables more bearable
 - [luisfarzati/chromda](https://github.com/luisfarzati/chromda) - λ 🖼️ Chromda is an AWS Lambda function for capturing screenshots of websites.
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [kesiev/rewtro](https://github.com/kesiev/rewtro) - Papercraft videogame cartridges you can print and pirate with a copy machine.
@@ -5943,6 +5942,7 @@
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
+- [achingbrain/it](https://github.com/achingbrain/it) - A collection of utilities for making working with iterables more bearable
 - [blakeembrey/sql-type](https://github.com/blakeembrey/sql-type) - Type-safe SQL builder using ES2015 template tags
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [anephenix/sarus](https://github.com/anephenix/sarus) - A WebSocket JavaScript library
