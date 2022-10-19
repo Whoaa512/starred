@@ -1095,7 +1095,7 @@
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [una/diffee](https://github.com/una/diffee) - Instant visual diffing in the browser
 - [lwdgit/chrome-automator](https://github.com/lwdgit/chrome-automator) - Nightmare likely automator implemented by chrome-remote-interface.
-- [atotic/event-loop](https://github.com/atotic/event-loop) - event loop docs
+- [atotic/event-loop](https://github.com/atotic/event-loop) - Deep dive into JavaScript event loop
 - [jeromeetienne/AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [mludowise/AppleTV-XFinity-Activation](https://github.com/mludowise/AppleTV-XFinity-Activation) - Apple TV XFinity Activation
@@ -3650,7 +3650,7 @@
 - [dbuarque/repack-lambda](https://github.com/dbuarque/repack-lambda) - A AWS Lambda Microservice Architecture for Node.js
 - [bahmutov/wiseli](https://github.com/bahmutov/wiseli) - See the repo's example while installing it with NPM
 - [node-facebook/facebook-node-sdk](https://github.com/node-facebook/facebook-node-sdk) - Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).
-- [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command-Line
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
