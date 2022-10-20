@@ -804,7 +804,7 @@
 - [amirgamil/apollo](https://github.com/amirgamil/apollo) - A Unix-style personal search engine and web crawler for your digital footprint.
 - [remind101/assume-role](https://github.com/remind101/assume-role) - Easily assume AWS roles in your terminal.
 - [holochain/holochain-proto](https://github.com/holochain/holochain-proto) - Holographic storage for distributed applications -- a validating monotonic DHT "backed" by authoritative hashchains for data provenance (a Ceptr sub-project)
-- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server, SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [kool-dev/kool](https://github.com/kool-dev/kool) - From local development to the cloud: development workflow made easy.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
@@ -3650,7 +3650,7 @@
 - [dbuarque/repack-lambda](https://github.com/dbuarque/repack-lambda) - A AWS Lambda Microservice Architecture for Node.js
 - [bahmutov/wiseli](https://github.com/bahmutov/wiseli) - See the repo's example while installing it with NPM
 - [node-facebook/facebook-node-sdk](https://github.com/node-facebook/facebook-node-sdk) - Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).
-- [santinic/how2](https://github.com/santinic/how2) - AI for the Command-Line
+- [santinic/how2](https://github.com/santinic/how2) - AI for the Command Line
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
 - [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
@@ -4859,7 +4859,7 @@
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - Self-configuring, encrypted and resilient mesh for LoRa, packet radio, WiFi and everything in between
+- [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
@@ -5672,7 +5672,7 @@
 - [amotile/stable-diffusion-studio](https://github.com/amotile/stable-diffusion-studio) - An animation focused workflow frontend for Stable Diffusion
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
-- [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle & other frontend libraries.
@@ -5712,7 +5712,7 @@
 - [ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) - Verbum is a fully flexible text editor based on lexical framework.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - 🧙 Hypermodern Zero-Legacy Deno/React Framework
