@@ -134,6 +134,7 @@
 
 ## C 
 
+- [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
@@ -557,7 +558,6 @@
 - [plaxdan/react-topcoat](https://github.com/plaxdan/react-topcoat) - Topcoat components built with the React library
 - [atom-archive/space-pen](https://github.com/atom-archive/space-pen) - A simple and powerful client-side view framework that works in zero-gravity, no longer maintained.
 - [artursapek/mondrian](https://github.com/artursapek/mondrian) - Web-based vector graphics editor
-- [dailymuse/phantom-cluster](https://github.com/dailymuse/phantom-cluster) - Provides a cluster of phantomjs-backed workers
 - [Whoaa512/meteor-pong](https://github.com/Whoaa512/meteor-pong) - Meteor implementation of pong with DOM elements
 - [missinglink/breakdown](https://github.com/missinglink/breakdown) - Top class error reporting for js & coffee-script
 - [easelinc/tourist](https://github.com/easelinc/tourist) - Simple, flexible tours for your app
@@ -720,7 +720,7 @@
 - [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+- [dagger/dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [m-mizutani/zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to set environment variable by various method
@@ -1315,7 +1315,7 @@
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
@@ -3556,7 +3556,7 @@
 - [sindresorhus/anatine](https://github.com/sindresorhus/anatine) - [DEPRECATED] :bird: Pristine Twitter app
 - [developit/dropfox](https://github.com/developit/dropfox) - 🦊 📂 A dropbox client powered by Preact, Electron and Photon
 - [shichongrui/json-schema-dynamo](https://github.com/shichongrui/json-schema-dynamo) - 
-- [architectcodes/isomorphic-ensure](https://github.com/architectcodes/isomorphic-ensure) - :last_quarter_moon: Use webpack loaders seamlessly – in node as well as in the browser.
+- [tomek-he-him/isomorphic-ensure](https://github.com/tomek-he-him/isomorphic-ensure) - :last_quarter_moon: Use webpack loaders seamlessly – in node as well as in the browser.
 - [keeganstreet/specificity](https://github.com/keeganstreet/specificity) - A JavaScript module for calculating the specificity of CSS selectors
 - [morishitter/css-specificity](https://github.com/morishitter/css-specificity) - CSS selector specificity calculator
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
@@ -6197,7 +6197,7 @@
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [banterfm/graphql-crunch](https://github.com/banterfm/graphql-crunch) - Reduces the size of GraphQL responses by consolidating duplicate values
 - [salesforce/themify](https://github.com/salesforce/themify) - 👨‍🎨 CSS Themes Made Easy. A robust, opinionated solution to manage themes in your web application
-- [Simonwep/selection](https://github.com/Simonwep/selection) - ✨ Viselect - A simple and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks.
+- [Simonwep/selection](https://github.com/Simonwep/selection) - ✨ Viselect - A high-performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks.
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
