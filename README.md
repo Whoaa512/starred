@@ -200,7 +200,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD, Intel and NVIDIA GPUs process monitoring
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [cretz/go-sqleet](https://github.com/cretz/go-sqleet) - Encrypted SQLite for Go using go-sqlite3 and sqleet
@@ -260,6 +260,7 @@
 
 ## C++ 
 
+- [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [duckdblabs/postgres_scanner](https://github.com/duckdblabs/postgres_scanner) - 
@@ -317,7 +318,7 @@
 - [google/brunsli](https://github.com/google/brunsli) - Practical JPEG Repacker
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform and high-performance awesome apps. 👏
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
@@ -670,6 +671,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
@@ -704,7 +706,7 @@
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -1206,7 +1208,7 @@
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several l
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours
 - [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
@@ -1262,12 +1264,15 @@
 
 ## JavaScript 
 
+- [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
+- [oslabs-beta/DacheQL](https://github.com/oslabs-beta/DacheQL) - GraphQL caching tool
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
 - [planttheidea/fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
+- [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 - [antonmedv/tinysh](https://github.com/antonmedv/tinysh) - A tiny spawn wrapper for Node.js
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
@@ -1316,7 +1321,7 @@
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
 - [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension [80+Lean🧰Features]📌[Longest-standing©️2012]📌[485 000+Users👨‍👩‍👧‍👧][Guide/Wiki:missing!] - ⚙️⋮[🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪][Player: Repeat Screenshot Rotate][Hide related video distraction][Always
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -2390,7 +2395,7 @@
 - [evanlucas/debug-ee](https://github.com/evanlucas/debug-ee) - Print all event emitters and the events they emit
 - [croqaz/clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into clean text
 - [simonepri/country-iso](https://github.com/simonepri/country-iso) - 🗺 Get the ISO 3166-1 alpha-3 country code from geographic coordinates.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Powered by plain JavaScript (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [ethanent/phin](https://github.com/ethanent/phin) - Node HTTP client
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [rmfisher/react-measurements](https://github.com/rmfisher/react-measurements) - A component for measuring & annotating images.
@@ -2680,7 +2685,7 @@
 - [sghall/resonance](https://github.com/sghall/resonance) - :black_medium_small_square:Resonance | 5kb React animation library
 - [myheritage/UiZoo.js](https://github.com/myheritage/UiZoo.js) - Dynamic React components library 🦉
 - [floating/restore](https://github.com/floating/restore) - A predictable & observable state container for React apps
-- [arguiot/DisplayJS](https://github.com/arguiot/DisplayJS) - A simple JavaScript framework for building ambitious UIs 😊
+- [arguiot/DisplayJS](https://github.com/arguiot/DisplayJS) - A simple JavaScript framework for building ambitious UIs [DEPRECATED]
 - [mitranim/posterus](https://github.com/mitranim/posterus) - Composable async primitives with cancelation, control over scheduling, and coroutines. Superior replacement for JS Promises.
 - [auduno/clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 - [juliangruber/buffer-replace](https://github.com/juliangruber/buffer-replace) - Like String#replace(), except for buffers
@@ -4757,7 +4762,6 @@
 
 ## PHP 
 
-- [WordPress/wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search
@@ -4804,6 +4808,7 @@
 
 ## Python 
 
+- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
@@ -5669,6 +5674,10 @@
 
 ## TypeScript 
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
+- [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
+- [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra) - JavaScript package manager
 - [amotile/stable-diffusion-studio](https://github.com/amotile/stable-diffusion-studio) - An animation focused workflow frontend for Stable Diffusion
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
@@ -6521,6 +6530,7 @@
 
 ## Vue 
 
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The ultimate AWS RDS and Google Cloud SQL instance pricing comparison sheet
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
