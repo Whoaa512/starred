@@ -4820,7 +4820,7 @@
 - [ArtyomKozyrev8/BucketRateLimiter](https://github.com/ArtyomKozyrev8/BucketRateLimiter) - collection of rate limiters which are based on bucket conception
 - [DonDebonair/slack-machine](https://github.com/DonDebonair/slack-machine) - A simple, yet powerful and extendable Slack bot
 - [manimino/ducks](https://github.com/manimino/ducks) - Indexes your Python objects for fast lookup by their attributes.
-- [sd-webui/stable-diffusion-webui](https://github.com/sd-webui/stable-diffusion-webui) - Stable Diffusion web UI
+- [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [wakatime/wakaq](https://github.com/wakatime/wakaq) - Distributed background task queue for Python backed by Redis, a super minimal Celery
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [bhky/opennsfw2](https://github.com/bhky/opennsfw2) - TensorFlow 2 implementation of the Yahoo Open-NSFW model
@@ -5785,7 +5785,7 @@
 - [vercel/async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
-- [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest en
+- [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and 
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
