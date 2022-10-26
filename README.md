@@ -441,7 +441,6 @@
 - [bogas04/marinate](https://github.com/bogas04/marinate) - 🥘 A JavaScript library making use of Tagged Template Literals to chunk, transform and pipe a template to a given stream.
 - [robsheldon/sscaffold-css](https://github.com/robsheldon/sscaffold-css) - Base file for sscaffold-css.
 - [chenjiahan/rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
-- [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [ozluy/react-puzzle-confirm](https://github.com/ozluy/react-puzzle-confirm) - React confirm modal, by matching puzzle piece
 - [propjockey/augmented-ui](https://github.com/propjockey/augmented-ui) - Cyberpunk-inspired web UI made easy. Get augmented.
 - [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
@@ -721,7 +720,7 @@
 - [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a framework for cloud-native apps and infrastructure from code. It takes care of infrastructure and config without limiting your language or cloud, so you can spend your time writing applica
-- [dagger/dagger](https://github.com/dagger/dagger) - A cross-platform CI/CD engine that is programmable and container-native
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [m-mizutani/zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to set environment variable by various method
@@ -742,7 +741,6 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
-- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [tj/go-tea](https://github.com/tj/go-tea) - Tea provides an Elm inspired functional framework for interactive command-line programs.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
@@ -987,7 +985,7 @@
 - [thejerf/suture](https://github.com/thejerf/suture) - Supervisor trees for Go.
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
-- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Golang blocking leaky-bucket rate limit implementation
+- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 - [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [sdboyer/gps](https://github.com/sdboyer/gps) - your dependencies have arrived
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
@@ -4469,6 +4467,7 @@
 - [npms-io/npms](https://github.com/npms-io/npms) - Meta repository for centralized issues
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
 - [packal/repository](https://github.com/packal/repository) - A general collection repository for Alfred2 Workflows and Themes
+- [wesbos/cobalt2-vscode](https://github.com/wesbos/cobalt2-vscode) - Cobalt2 Theme for VS Code
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [joemccann/native-module-server](https://github.com/joemccann/native-module-server) - Native module directory server for AWS Lambda supported native node modules.
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
@@ -5033,7 +5032,6 @@
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
-- [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
 - [abrahamcalf/decamelize](https://github.com/abrahamcalf/decamelize) - 🐍 Convert a camelized string into snake_case
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -5375,6 +5373,7 @@
 - [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
 - [Mercateo/rust-for-node-developers](https://github.com/Mercateo/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -5543,6 +5542,7 @@
 - [good-parts/aws-bootstrap](https://github.com/good-parts/aws-bootstrap) - A template for setting up an AWS environment from scratch.
 - [pawelduda/fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
+- [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [donavon/hook-flow](https://github.com/donavon/hook-flow) - A flowchart that explains the new lifecycle of a Hooks component. https://dwe.st/hf
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
@@ -5617,7 +5617,7 @@
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
 - [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc) - Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja)
 - [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
-- [aspect-build/rules_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running NodeJS tools and building JavaScript projects
+- [aspect-build/rules_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running Node.js tools and building JavaScript projects
 - [bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis) - An API for caching and execution of actions on a remote system.
 - [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs) - JavaScript and NodeJS rules for Bazel
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
