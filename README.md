@@ -2305,7 +2305,6 @@
 - [stephencookdev/speed-measure-webpack-plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - ⏱ See how fast (or not) your plugins and loaders are, so you can optimise your builds
 - [anish000kumar/redux-box](https://github.com/anish000kumar/redux-box) - Modular and easy-to-grasp redux  based state management, with least boilerplate
 - [microsoft/TypeScript-Sublime-Plugin](https://github.com/microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins
-- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [Swizec/react-lazyload-fadein](https://github.com/Swizec/react-lazyload-fadein) - React component to lazyload children with a nice fadein effect.
 - [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
 - [webpack/webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - A development middleware for webpack
@@ -5005,7 +5004,7 @@
 - [armadsen/analyze_apps](https://github.com/armadsen/analyze_apps) - Script to analyze Swift usage in iOS or Mac apps
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
 - [abdilahrf/shania](https://github.com/abdilahrf/shania) - Scan secrets from Continuous Integration Build Logs
-- [kserve/kserve](https://github.com/kserve/kserve) - Serverless Inferencing on Kubernetes
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [sixpack/sixpack](https://github.com/sixpack/sixpack) - Sixpack is a language-agnostic a/b-testing framework
 - [AI-DI/Brancher](https://github.com/AI-DI/Brancher) - A user-centered Python package for differentiable probabilistic inference
 - [ConnorJL/GPT2](https://github.com/ConnorJL/GPT2) - An implementation of training for GPT2, supports TPUs
@@ -5986,7 +5985,7 @@
 - [jondot/storybook-cartesian](https://github.com/jondot/storybook-cartesian) - Automatically generate stories for all of your component variants
 - [getcampsite/campkit](https://github.com/getcampsite/campkit) - Build serverless Node.js microservices fast
 - [caderek/benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, PHP, R, Go, Ruby, Rust, Elixir, Java, MATLAB, C#, Dart, CFML, Ansible, Strest or JSON
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible, Strest or JSON
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [sleistner/vscode-fileutils](https://github.com/sleistner/vscode-fileutils) - Visual Studio Code Extension
@@ -6244,6 +6243,7 @@
 - [artsy/emission](https://github.com/artsy/emission) - ⚠️ Deprecated repo, moved to artsy/eigen ➡️ React Native Components
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [react-component/select](https://github.com/react-component/select) - React Select
+- [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
 - [funkia/list](https://github.com/funkia/list) - 🐆 An immutable list with unmatched performance and a comprehensive functional API.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
