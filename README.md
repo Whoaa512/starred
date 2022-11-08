@@ -133,6 +133,7 @@
 
 ## C 
 
+- [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
@@ -531,7 +532,6 @@
 ## CoffeeScript 
 
 - [notatestuser/gift](https://github.com/notatestuser/gift) - A wrapper for the Git CLI in Node.js
-- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [danielkalen/inspector-on-demand](https://github.com/danielkalen/inspector-on-demand) - Launch v8 inspector/devtools on demand for long-running apps
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [microsoft/windows-framer-toolkit](https://github.com/microsoft/windows-framer-toolkit) - Windows 10 UWP framer prototyping toolkit.
@@ -670,6 +670,8 @@
 
 ## Go 
 
+- [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
@@ -2013,6 +2015,7 @@
 - [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [ChrisCavs/t-writer.js](https://github.com/ChrisCavs/t-writer.js) - Native typewriter effect, without compromises or dependencies.
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [auchenberg/volkswagen](https://github.com/auchenberg/volkswagen) - :see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [react-component/upload](https://github.com/react-component/upload) - React Upload
 - [motdotla/dotenv-expand](https://github.com/motdotla/dotenv-expand) - Variable expansion for dotenv. Expand variables already on your machine for use in your .env file.
@@ -4809,6 +4812,7 @@
 
 ## Python 
 
+- [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
@@ -5690,7 +5694,7 @@
 ## TypeScript 
 
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
-- [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - Monorepo for Grafana JavaScript Agent
+- [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [modfy/oxide](https://github.com/modfy/oxide) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [modfy/nominal](https://github.com/modfy/nominal) - 🔒 The new way to do types in typescript.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -6197,7 +6201,7 @@
 - [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 - [thekevinscott/ml-classifier-ui](https://github.com/thekevinscott/ml-classifier-ui) - A UI tool for quickly training image classifiers in the browser
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
-- [nfriedly/express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
+- [express-rate-limit/express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for express
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [gokcan/react-shimmer](https://github.com/gokcan/react-shimmer) - 🌠 Async loading, performant Image component for React.js
 - [teodosii/react-notifications-component](https://github.com/teodosii/react-notifications-component) - Delightful and highly customisable React Component to notify your users
