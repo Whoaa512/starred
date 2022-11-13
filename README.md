@@ -672,6 +672,7 @@
 
 ## Go 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [averysmalldog/tesla-gen3wc-monitor](https://github.com/averysmalldog/tesla-gen3wc-monitor) - A complete monitoring solution for passively monitoring the Tesla Gen 3 Wall Connector
 - [averysmalldog/polly](https://github.com/averysmalldog/polly) - A simple program for periodically GET-ing from an API and dumping the output into a datastore. For now, InfluxDB.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
@@ -1215,6 +1216,8 @@
 
 ## Java 
 
+- [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm
+- [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
 - [vmware/differential-datalog](https://github.com/vmware/differential-datalog) - DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not writ
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Free and open-source live application debugger. Like chrome dev tools but for your backend
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
@@ -4276,7 +4279,6 @@
 - [tatsuyah/vehicle-detection](https://github.com/tatsuyah/vehicle-detection) - Vehicle detection using machine learning and computer vision techniques for Udacity's Self-Driving Car Engineer Nanodegree.
 - [gluon-api/gluon-api](https://github.com/gluon-api/gluon-api) - A clear, concise, simple yet powerful and efficient API for deep learning.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 - [lukas/ml-class](https://github.com/lukas/ml-class) - Machine learning lessons and teaching projects designed for engineers
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
@@ -5160,6 +5162,7 @@
 - [hwalsuklee/tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections) - Collection of generative models in Tensorflow
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [SublimeLinter/SublimeLinter-flow](https://github.com/SublimeLinter/SublimeLinter-flow) - SublimeLinter plugin for JavaScript static type checking, using flow.
@@ -5707,6 +5710,8 @@
 
 ## TypeScript 
 
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
+- [stylify/packages](https://github.com/stylify/packages) - 📦 Monorepository for Stylify packages. Stylify generates utility-first CSS dynamically based on what you write. Write HTML. Get CSS 🚀
 - [eoin-barr/pathfinding-visualizer](https://github.com/eoin-barr/pathfinding-visualizer) - 
 - [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
