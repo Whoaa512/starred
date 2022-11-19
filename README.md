@@ -1569,7 +1569,7 @@
 - [boblauer/MockDate](https://github.com/boblauer/MockDate) - A JavaScript Mock Date object that can be used to change when "now" is.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [GoogleChromeLabs/react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints
-- [not-an-aardvark/git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into master
+- [not-an-aardvark/git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into main
 - [pvdz/tenko](https://github.com/pvdz/tenko) - An 100% spec compliant ES2021 JavaScript parser written in JS
 - [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [broofa/BroofaJS](https://github.com/broofa/BroofaJS) - Misc. JS utilities that may be of broader interest
@@ -1893,7 +1893,7 @@
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [KidkArolis/jetpack](https://github.com/KidkArolis/jetpack) - 🚀 Jetpack – Webpack made more convenient.
-- [astroturfcss/astroturf](https://github.com/astroturfcss/astroturf) - An "artificial" CSS-in-JS for those that want it all.
+- [astroturfcss/astroturf](https://github.com/astroturfcss/astroturf) - Better Styling through Compiling: CSS-in-JS for those that want it all.
 - [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 - [facebook/fbt](https://github.com/facebook/fbt) - A JavaScript Internationalization Framework
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
@@ -4890,7 +4890,6 @@
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [markqvist/Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
-- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [hlorus/CAD_Sketcher](https://github.com/hlorus/CAD_Sketcher) - Constraint-based geometry sketcher for blender
