@@ -133,6 +133,8 @@
 
 ## C 
 
+- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
+- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.
 - [Luos-io/luos_engine](https://github.com/Luos-io/luos_engine) - Luos engine is an open source and real-time orchestrator for distributed architectures, to easily design, test and deploy edge and embedded applications.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
@@ -158,7 +160,7 @@
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [duke-git/c-datastructure-algorithm](https://github.com/duke-git/c-datastructure-algorithm) - Basic datastructure and algrithm implement by c
@@ -672,6 +674,8 @@
 
 ## Go 
 
+- [jetpack-io/launchpad](https://github.com/jetpack-io/launchpad) - From Code to Kubernetes in One Step.
+- [sibprogrammer/xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [averysmalldog/tesla-gen3wc-monitor](https://github.com/averysmalldog/tesla-gen3wc-monitor) - A complete monitoring solution for passively monitoring the Tesla Gen 3 Wall Connector
 - [averysmalldog/polly](https://github.com/averysmalldog/polly) - A simple program for periodically GET-ing from an API and dumping the output into a datastore. For now, InfluxDB.
@@ -1285,7 +1289,6 @@
 - [cube-root/directory-serve](https://github.com/cube-root/directory-serve) - CLI tool to send and receive file on a network to a server
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 A SQLite REST and realtime server
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
 - [oslabs-beta/DacheQL](https://github.com/oslabs-beta/DacheQL) - GraphQL caching tool
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
@@ -4411,6 +4414,7 @@
 
 ## Others 
 
+- [score-spec/spec](https://github.com/score-spec/spec) - The score specification file
 - [sw-yx/prompt-eng](https://github.com/sw-yx/prompt-eng) - notes for prompt engineering
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
@@ -4561,7 +4565,7 @@
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [dkundel/about-me](https://github.com/dkundel/about-me) - ⚓️ Developer Evangelist @twilio - JavaScript Hacker - Hackathon Enthusiast - Public Speaker - Co-Founder of jacobsHack! - Opinions are my own ⚓️
+- [dkundel/about-me](https://github.com/dkundel/about-me) - ⚓️ Product Manager @twilio - JavaScript Hacker - Hackathon Enthusiast - Public Speaker - Opinions are my own ⚓️
 - [domenic/proposal-blocks](https://github.com/domenic/proposal-blocks) - Former home of a proposal for a new syntactic construct for serializable blocks of JavaScript code
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
 - [j4p3/strimpack](https://github.com/j4p3/strimpack) - A platform for livestreamers to make a home for their audience.
@@ -4824,6 +4828,7 @@
 
 ## Python 
 
+- [jataware/cartwright](https://github.com/jataware/cartwright) - A recurrent neural network paired with heuristic methods that automatically infer geospatial, temporal and feature columns
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
@@ -5350,11 +5355,14 @@
 
 ## Rust 
 
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database.
+- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine for the next generation of AI applications
 - [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
 - [wishawa/async_ui](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
@@ -5711,6 +5719,9 @@
 
 ## TypeScript 
 
+- [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
+- [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
+- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [tantaman/Strut](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [stylify/packages](https://github.com/stylify/packages) - 📦 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate utility-first CSS dynamically based on what you write 🚀.
