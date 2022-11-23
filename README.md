@@ -1189,7 +1189,7 @@
 - [ff-notes/ff](https://github.com/ff-notes/ff) - A distributed note taker and task manager.
 - [ndmitchell/hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine
 - [kirel/detexify-hs-backend](https://github.com/kirel/detexify-hs-backend) - Detexify Backend written in Haskell
-- [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 - [chrisdone/jl](https://github.com/chrisdone/jl) - Functional sed for JSON
 - [tdammers/sprinkles](https://github.com/tdammers/sprinkles) - Web Development without programming
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
