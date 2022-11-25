@@ -160,7 +160,6 @@
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [duke-git/c-datastructure-algorithm](https://github.com/duke-git/c-datastructure-algorithm) - Basic datastructure and algrithm implement by c
@@ -752,6 +751,7 @@
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
 - [jespino/mattermost-plugin-messages-queue](https://github.com/jespino/mattermost-plugin-messages-queue) - Mattermost Message Queue Plugin
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark 
 - [rbrahul/gofp](https://github.com/rbrahul/gofp) - A super simple Lodash like utility library with essential functions that empowers the development in Go
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
@@ -2745,7 +2745,7 @@
 - [bokub/chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
-- [toxicFork/react-three-renderer](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React.
+- [firtoz/react-three-renderer](https://github.com/firtoz/react-three-renderer) - Render into a three.js canvas using React.
 - [jimmyn/aws-mqtt-client](https://github.com/jimmyn/aws-mqtt-client) - AWS Websocket Pub/Sub client
 - [AndersDJohnson/webpack-babel-env-deps](https://github.com/AndersDJohnson/webpack-babel-env-deps) - Find dependencies to transpile with Babel.
 - [sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache
@@ -5362,7 +5362,6 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine for the next generation of AI applications
 - [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
 - [wishawa/async_ui](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
@@ -5732,6 +5731,7 @@
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [modfy/oxide](https://github.com/modfy/oxide) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [modfy/nominal](https://github.com/modfy/nominal) - 🔒 The new way to do types in typescript.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
@@ -5845,7 +5845,7 @@
 - [vercel/async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - React-based framework for building dynamic, Shopify-powered custom storefronts.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for developers
+- [novuhq/novu](https://github.com/novuhq/novu) - The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
