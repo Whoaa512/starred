@@ -675,6 +675,7 @@
 
 ## Go 
 
+- [google/mangle](https://github.com/google/mangle) - 
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
 - [kiteco/kiteco-public](https://github.com/kiteco/kiteco-public) - Primary Kite repo — private bits replaced with XXXXXXX
