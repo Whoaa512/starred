@@ -33,6 +33,7 @@
 - [F#](#f#)
 - [FreeMarker](#freemarker)
 - [GCC Machine Description](#gcc-machine-description)
+- [GDScript](#gdscript)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HCL](#hcl)
@@ -668,6 +669,10 @@
 
 - [svanderbleek/haskellandchill.com](https://github.com/svanderbleek/haskellandchill.com) - writing on haskell
 
+## GDScript 
+
+- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
+
 ## GLSL 
 
 - [dmnsgn/glsl-conditionals](https://github.com/dmnsgn/glsl-conditionals) - Daniel Holden's functions designed to avoid conditionals in GLSL, available both as ES modules strings and as GLSL files for use with glslify.
@@ -675,6 +680,8 @@
 
 ## Go 
 
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [google/mangle](https://github.com/google/mangle) - 
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager
@@ -777,7 +784,6 @@
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mtlynch/rss-proxy](https://github.com/mtlynch/rss-proxy) - 
-- [containers/toolbox](https://github.com/containers/toolbox) - Tool for containerized command line environments on Linux
 - [jbowes/welk](https://github.com/jbowes/welk) - What's inside the shell? welk manages `curl | sh` style package installs 🐌
 - [jbowes/whatsnew](https://github.com/jbowes/whatsnew) - Check for new github releases of your Golang application 🎊
 - [jbowes/semver](https://github.com/jbowes/semver) - 🦔 semver and constraint parsing with a focus on performance
@@ -1226,6 +1232,7 @@
 
 ## Java 
 
+- [mwiede/jsch](https://github.com/mwiede/jsch) - fork of the popular jsch library
 - [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm
 - [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
 - [vmware/differential-datalog](https://github.com/vmware/differential-datalog) - DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not writ
@@ -1337,7 +1344,7 @@
 - [jcoglan/canopy](https://github.com/jcoglan/canopy) - A parser compiler for Java, JavaScript, Python, Ruby
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
-- [ndaidong/article-parser](https://github.com/ndaidong/article-parser) - To extract main article from given URL with Node.js
+- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eats anything, spits out JSON 🧀
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.
@@ -2708,7 +2715,7 @@
 - [malte-wessel/react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component
 - [supnate/memobind](https://github.com/supnate/memobind) - A simple javascript utility for function binding memoization.
 - [anvaka/amator](https://github.com/anvaka/amator) - Tiny animation library
-- [stipsan/scroll-into-view-if-needed](https://github.com/stipsan/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
+- [scroll-into-view/scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
 - [sghall/resonance](https://github.com/sghall/resonance) - :black_medium_small_square:Resonance | 5kb React animation library
 - [myheritage/UiZoo.js](https://github.com/myheritage/UiZoo.js) - Dynamic React components library 🦉
 - [floating/restore](https://github.com/floating/restore) - A predictable & observable state container for React apps
@@ -4836,6 +4843,7 @@
 
 ## Python 
 
+- [Tanmoy741127/lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
@@ -5373,6 +5381,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine for the next generation of AI applications
 - [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
 - [wishawa/async_ui](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
@@ -5579,6 +5588,7 @@
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [kennyp/asdf-golang](https://github.com/kennyp/asdf-golang) - golang plugin for asdf version manager https://github.com/asdf-vm/asdf
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
@@ -5686,7 +5696,6 @@
 
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [le0pard/sql-joins-app](https://github.com/le0pard/sql-joins-app) - SQL JOINS visualizer
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
@@ -5742,7 +5751,6 @@
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [modfy/oxide](https://github.com/modfy/oxide) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
 - [modfy/nominal](https://github.com/modfy/nominal) - 🔒 The new way to do types in typescript.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
 - [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform.
@@ -5810,7 +5818,7 @@
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [dflex-js/dflex](https://github.com/dflex-js/dflex) - The sophisticated Drag and Drop library you've been waiting for 🥳
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [joeattardi/picmo](https://github.com/joeattardi/picmo) - JavaScript emoji picker. Any app, any framework.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [tajo/ladle](https://github.com/tajo/ladle) - 🥄 Develop, test and document your React story components faster.
@@ -5839,6 +5847,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
 - [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects
 - [alexghr/got-fetch](https://github.com/alexghr/got-fetch) - A fetch interface to got
