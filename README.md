@@ -1243,7 +1243,7 @@
 - [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 - [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector) - Log4J scanner that detects vulnerable Log4J versions (CVE-2021-44228, CVE-2021-45046, etc) on your file-system within any application. It is able to even find Log4J instances that are hidden several l
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-- [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours
+- [onthegomap/planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data fast
 - [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [zinggAI/zingg](https://github.com/zinggAI/zingg) - Scalable identity resolution, entity resolution, data mastering and deduplication using ML
@@ -2133,7 +2133,6 @@
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [fusionjs/fusionjs.github.io](https://github.com/fusionjs/fusionjs.github.io) - Modern framework for fast, powerful React apps
 - [fusionjs/fusion-core](https://github.com/fusionjs/fusion-core) - Migrated to https://github.com/fusionjs/fusionjs
-- [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 - [fusionjs/fusion-cli](https://github.com/fusionjs/fusion-cli) - Migrated to https://github.com/fusionjs/fusionjs
 - [cdimascio/uuid-mongodb](https://github.com/cdimascio/uuid-mongodb) - 📇 Generates and parses MongoDB BSON UUIDs
 - [simonepri/upash](https://github.com/simonepri/upash) - 🔒Unified API for password hashing algorithms
@@ -3201,7 +3200,6 @@
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) - JSON-Schema + fake data generators
 - [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 - [subeeshcbabu-zz/swagmock](https://github.com/subeeshcbabu-zz/swagmock) - Mock data generator for swagger api
-- [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON/JSONP easy to read.
 - [bevacqua/promisees](https://github.com/bevacqua/promisees) - :incoming_envelope: Promise visualization playground for the adventurous
 - [react-dates/react-dates](https://github.com/react-dates/react-dates) - An easily internationalizable, mobile-friendly datepicker library for the web
 - [Thomas101/wmail](https://github.com/Thomas101/wmail) - The missing desktop client for Gmail & Google Inbox
@@ -4843,6 +4841,7 @@
 
 ## Python 
 
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
 - [Tanmoy741127/lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
@@ -6255,6 +6254,7 @@
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
 - [juliankrispel/react-text-selection-popover](https://github.com/juliankrispel/react-text-selection-popover) - Selection based Text UI made easy
+- [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 - [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
 - [thekevinscott/ml-classifier-ui](https://github.com/thekevinscott/ml-classifier-ui) - A UI tool for quickly training image classifiers in the browser
 - [cozmo/jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.
@@ -6503,6 +6503,7 @@
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [Huemul/trae](https://github.com/Huemul/trae) - :postbox: Minimalistic Fetch based HTTP client
+- [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [reactive-react/xreact](https://github.com/reactive-react/xreact) - reactive x react = xreact
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
@@ -6625,6 +6626,7 @@
 
 ## WebAssembly 
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based code runner that can be embedded as an iframe or used as a library.
 
 ## XSLT 
