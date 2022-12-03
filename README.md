@@ -266,6 +266,7 @@
 
 ## C++ 
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [dllu/nectar](https://github.com/dllu/nectar) - Tools to capture images with Alkeria Necta line scan camera
 - [e-dant/watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -680,6 +681,7 @@
 
 ## Go 
 
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [google/mangle](https://github.com/google/mangle) - 
@@ -3726,7 +3728,7 @@
 - [GriddleGriddle/Griddle](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React
 - [renatorib/bjson](https://github.com/renatorib/bjson) - ABANDONED! Bind Json: Reactive way to read/write json files.
 - [otissv/react-uikit-base](https://github.com/otissv/react-uikit-base) - React UIkit base higher order compenet with UIkit utility classes
-- [visionmedia/superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)
+- [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [zewish/rmodal.js](https://github.com/zewish/rmodal.js) - A simple 1.2 KB modal dialog with no dependencies
 - [gcedo/react-solitaire](https://github.com/gcedo/react-solitaire) - React implementation of the famous solitaire card game
 - [stevenhauser/i-have-to-return-some-videotapes](https://github.com/stevenhauser/i-have-to-return-some-videotapes) - Collect and return your videotapes that are scattered about the woods
@@ -4049,7 +4051,7 @@
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [visionmedia/supertest](https://github.com/visionmedia/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.
+- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [iskitsas/http-traffic-simulator](https://github.com/iskitsas/http-traffic-simulator) - A nodejs http traffic simulator
 - [cgiffard/Behaviour-Assertion-Sheets](https://github.com/cgiffard/Behaviour-Assertion-Sheets) - CSS-like declarative DSL for web integration testing.
 - [DSLibrary/dslib](https://github.com/DSLibrary/dslib) - A library of useful Javascript data structures
@@ -4931,7 +4933,7 @@
 - [SinaKhalili/Folders.py](https://github.com/SinaKhalili/Folders.py) - Implementation of the Folders📂 esoteric programming language, a language with no code and just folders.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor wh
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [timonweb/pytailwindcss](https://github.com/timonweb/pytailwindcss) - 
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
@@ -6626,7 +6628,6 @@
 
 ## WebAssembly 
 
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based code runner that can be embedded as an iframe or used as a library.
 
 ## XSLT 
