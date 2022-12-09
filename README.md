@@ -478,6 +478,7 @@
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [Martz90/vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 - [teefouad/gridzilla](https://github.com/teefouad/gridzilla) - Gridzilla is a responsive, mobile-first flexbox grid system.
+- [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [AlexTatiyants/pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
 - [creativetimofficial/now-ui-kit](https://github.com/creativetimofficial/now-ui-kit) - Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim
 - [Chalarangelo/mocka](https://github.com/Chalarangelo/mocka) - Simple, elegant content placeholder
@@ -681,6 +682,8 @@
 
 ## Go 
 
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
+- [vburenin/ifacemaker](https://github.com/vburenin/ifacemaker) - Generate interfaces from structure methods.
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1310,6 +1313,7 @@
 - [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
 - [oslabs-beta/DacheQL](https://github.com/oslabs-beta/DacheQL) - GraphQL caching tool
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for prompt engineering
 - [planttheidea/fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
@@ -1347,6 +1351,7 @@
 - [jcoglan/canopy](https://github.com/jcoglan/canopy) - A parser compiler for Java, JavaScript, Python, Ruby
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eats anything, spits out JSON 🧀
@@ -2237,9 +2242,9 @@
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [jamiebuilds/flow-shut-up](https://github.com/jamiebuilds/flow-shut-up) - Add inline Flow comments to make Flow shut up about errors
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
-- [JoshuaWise/wise-promise](https://github.com/JoshuaWise/wise-promise) - Native nodejs promises extended with powerful functionality.
-- [JoshuaWise/wise-river](https://github.com/JoshuaWise/wise-river) - Object streaming the way it should be.
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
+- [WiseLibs/wise-promise](https://github.com/WiseLibs/wise-promise) - Native promises extended with powerful functionality.
+- [WiseLibs/wise-river](https://github.com/WiseLibs/wise-river) - Object streaming the way it should be.
 - [VICEMedia/dynaflow](https://github.com/VICEMedia/dynaflow) - DynamoDB abstraction using rivers 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [selbekk/calidators](https://github.com/selbekk/calidators) - Red hot JavaScript validators 🌶
@@ -3008,7 +3013,7 @@
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [fossage/ASCII-Video](https://github.com/fossage/ASCII-Video) - A tool to create and play sprite animation in the terminal
-- [nodesecurity/eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [nickbullll/ReactSimpleFlexGrid](https://github.com/nickbullll/ReactSimpleFlexGrid) - A way to quickly add a Grid Layout to your React app 🚀
 - [dtschust/redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - :bug: A bug reporter and bug playback tool for redux. :bug:
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet) - Excel-like data grid (table) component for React
@@ -4429,7 +4434,6 @@
 ## Others 
 
 - [score-spec/spec](https://github.com/score-spec/spec) - The score specification file
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for prompt engineering
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -4626,7 +4630,6 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [vahidk/EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
-- [thejsway/thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [rachelandrew/gridbugs](https://github.com/rachelandrew/gridbugs) - A curated list of Grid interop issues
@@ -4845,7 +4848,7 @@
 
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
 - [Tanmoy741127/lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
-- [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale
+- [comet-ml/kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale 🦘
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
 - [jataware/cartwright](https://github.com/jataware/cartwright) - A recurrent neural network paired with heuristic methods that automatically infer geospatial, temporal and feature columns
@@ -5743,6 +5746,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -5831,7 +5835,6 @@
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
@@ -6128,7 +6131,7 @@
 - [jamiebuilds/dependency-free](https://github.com/jamiebuilds/dependency-free) - An experiment to unify/speed up CI/local development via small Docker containers
 - [vercel/vrs](https://github.com/vercel/vrs) - A serverless virtual reality e-commerce experience powered by Vercel
 - [blakeembrey/dedent-tag](https://github.com/blakeembrey/dedent-tag) - ES2015 tagged template string for removing indent from strings
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
@@ -6185,7 +6188,7 @@
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [Wenzil/Mhysa](https://github.com/Wenzil/Mhysa) - Dependency-free stream utils for Node.js
-- [bytedance/debugtron](https://github.com/bytedance/debugtron) - Debug in-production Electron based app
+- [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
 - [fel1xw/react-pusher-hoc](https://github.com/fel1xw/react-pusher-hoc) - Handle websocket events (pusher.com) in React, without the tears 😭.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
