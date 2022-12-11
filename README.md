@@ -70,6 +70,7 @@
 - [Pure Data](#pure-data)
 - [PureScript](#purescript)
 - [Python](#python)
+- [Q#](#q#)
 - [R](#r)
 - [ReScript](#rescript)
 - [Reason](#reason)
@@ -1219,7 +1220,7 @@
 - [dfinity-side-projects/dhc](https://github.com/dfinity-side-projects/dhc) - Compiles Haskell to WebAssembly
 - [lspitzner/brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
-- [aviaviavi/legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in haskell
+- [aviaviavi/legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in Haskell for educational purposes
 - [seagreen/plate](https://github.com/seagreen/plate) - Principled schema system for JSON. Work in progress.
 - [dhess/pinpon](https://github.com/dhess/pinpon) - A doorbell service in Haskell. No, really.
 - [rgleichman/glance](https://github.com/rgleichman/glance) - A visual Haskell
@@ -1306,7 +1307,7 @@
 
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [acss-io/atomizer](https://github.com/acss-io/atomizer) - A library to create small, reusable CSS that scales as your website grows.
 - [cube-root/directory-serve](https://github.com/cube-root/directory-serve) - CLI tool to send and receive file on a network to a server
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -1562,7 +1563,7 @@
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [kesiev/rewtro](https://github.com/kesiev/rewtro) - Papercraft videogame cartridges you can print and pirate with a copy machine.
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
-- [crisdosyago/Diskernet](https://github.com/crisdosyago/Diskernet) - 💾 Diskernet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
+- [crisdosyago/DiskerNet](https://github.com/crisdosyago/DiskerNet) - 💾 DiskerNet - An internet on yer disk. Full text search archive from your browsing and bookmarks. Weclome! to the Diskernet:  Your preferred backup solution. It's like you're still online! Disconnect 
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [packtracker/webpack-plugin](https://github.com/packtracker/webpack-plugin) - A webpack plugin to report build statistics to packtracker.io
 - [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch) - Keep watch of your bundle size
@@ -5311,6 +5312,10 @@
 - [embassynetwork/modernomad](https://github.com/embassynetwork/modernomad) - manage multi-use community houses: members, guests, events.
 - [facebookarchive/huxley](https://github.com/facebookarchive/huxley) - A testing system for catching visual regressions in Web applications.
 - [thomasweng15/E.V.E.](https://github.com/thomasweng15/E.V.E.) - a talking Jarvis program written in Python.
+
+## Q# # 
+
+- [eth-sri/silq](https://github.com/eth-sri/silq) - 
 
 ## R 
 
