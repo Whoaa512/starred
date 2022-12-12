@@ -1307,7 +1307,6 @@
 
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [acss-io/atomizer](https://github.com/acss-io/atomizer) - A library to create small, reusable CSS that scales as your website grows.
 - [cube-root/directory-serve](https://github.com/cube-root/directory-serve) - CLI tool to send and receive file on a network to a server
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -5753,6 +5752,7 @@
 ## TypeScript 
 
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
 - [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -5955,7 +5955,7 @@
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+- [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful) - A tiny color picker custom element for modern web apps (2.7 KB) 🎨
