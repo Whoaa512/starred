@@ -1081,7 +1081,6 @@
 - [elestio/ws-monitoring](https://github.com/elestio/ws-monitoring) - A simple & lightweight realtime monitoring web UI + server in Node.js
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN a
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
-- [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [patchbay-pub/patchbay.pub](https://github.com/patchbay-pub/patchbay.pub) - patchbay.pub static site
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
@@ -6025,6 +6024,7 @@
 - [clinicjs/notare-monitor](https://github.com/clinicjs/notare-monitor) - 
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
+- [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
 - [milesj/boost](https://github.com/milesj/boost) - 🚀 A collection of type-safe cross-platform packages for building robust server-side and client-side systems.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
