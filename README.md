@@ -1314,6 +1314,7 @@
 
 ## JavaScript 
 
+- [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
@@ -5412,6 +5413,7 @@
 
 ## Rust 
 
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
 - [supabase/wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust.
 - [asg017/sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) - A framework for writing fast and performant SQLite extensions in Rust
@@ -5783,6 +5785,7 @@
 
 ## TypeScript 
 
+- [apitable/apitable](https://github.com/apitable/apitable) - APITable, the best Airtable open-source alternative and an API-oriented low-code platform for building collaborative apps.
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [microsoft/cadl](https://github.com/microsoft/cadl) - 
