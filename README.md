@@ -2636,7 +2636,6 @@
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [egeozcan/ppipe](https://github.com/egeozcan/ppipe) - pipes values through functions, an alternative to using the proposed pipe operator ( |&gt; ) for ES
 - [beginner-corp/slack](https://github.com/beginner-corp/slack) - :tada:✨ Slack API client for Node and browsers.
-- [strudeljs/strudel](https://github.com/strudeljs/strudel) - A front-end framework for the back-end powered web
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [littlstar/hivemind](https://github.com/littlstar/hivemind) - For creating distributed jobs using AWS Lambda functions
 - [GroaJS/groa](https://github.com/GroaJS/groa) - Expressive gRPC middleware framework for Node.js
@@ -6492,7 +6491,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
-- [algolia/instantsearch.js](https://github.com/algolia/instantsearch.js) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache) - Client side TTL caching strategy for redux applications
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
