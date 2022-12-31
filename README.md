@@ -112,6 +112,7 @@
 
 ## Assembly 
 
+- [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [bluewaysw/pcgeos](https://github.com/bluewaysw/pcgeos) - #FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!
@@ -271,6 +272,7 @@
 
 ## C++ 
 
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal.
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Create native apps on mobile and desktop for any OS using HTML, CSS, and JavaScript — absolutely no Electron, Node, Rust, Cordova, React Native, etc. required.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -690,6 +692,7 @@
 
 ## Go 
 
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users.
 - [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) - A tool for generating self-contained, type-safe test doubles in go
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
@@ -1318,6 +1321,7 @@
 
 ## JavaScript 
 
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [socketsupply/ssc-node](https://github.com/socketsupply/ssc-node) - Node.js implementation of the Socket SDK client
 - [socketsupply/components](https://github.com/socketsupply/components) - Example Components (Built with Tonic)
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
@@ -4870,6 +4874,8 @@
 
 ## Python 
 
+- [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [thu-spmi/CAT](https://github.com/thu-spmi/CAT) - A CRF-based ASR Toolkit
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
@@ -5077,7 +5083,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [iver56/emoji-art-generator](https://github.com/iver56/emoji-art-generator) - Use a genetic algorithm to evolve an image by putting emojies on a canvas
-- [xadrianzetx/fullstack.ai](https://github.com/xadrianzetx/fullstack.ai) - End-to-end machine learning project showing key aspects of developing and deploying ML driven application
+- [xadrianzetx/fullstack.ai](https://github.com/xadrianzetx/fullstack.ai) - 
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
@@ -5229,7 +5235,7 @@
 - [zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_down:
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [SublimeLinter/SublimeLinter-flow](https://github.com/SublimeLinter/SublimeLinter-flow) - SublimeLinter plugin for JavaScript static type checking, using flow.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [gongzhitaao/tensorflow-adversarial](https://github.com/gongzhitaao/tensorflow-adversarial) - Crafting adversarial images
@@ -5623,6 +5629,8 @@
 
 ## Shell 
 
+- [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
+- [nikvdp/pbproxy](https://github.com/nikvdp/pbproxy) - 
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement.
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
@@ -5796,6 +5804,8 @@
 
 ## TypeScript 
 
+- [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
@@ -6491,7 +6501,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A JavaScript library for building performant and instant search experiences with Algolia.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache) - Client side TTL caching strategy for redux applications
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
