@@ -273,7 +273,7 @@
 ## C++ 
 
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal.
-- [socketsupply/socket](https://github.com/socketsupply/socket) - Create native apps on mobile and desktop for any OS using HTML, CSS, and JavaScript — absolutely no Electron, Node, Rust, Cordova, React Native, etc. required.
+- [socketsupply/socket](https://github.com/socketsupply/socket) - A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [dllu/nectar](https://github.com/dllu/nectar) - Tools to capture images with Alkeria Necta line scan camera
@@ -535,7 +535,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [open-services/open-registry](https://github.com/open-services/open-registry) - Community Owned JavaScript Registry
 - [onyx-platform/onyx-examples](https://github.com/onyx-platform/onyx-examples) - Examples of using Onyx
@@ -1341,7 +1341,6 @@
 - [11ty/webc](https://github.com/11ty/webc) - Single File Web Components
 - [oslabs-beta/DacheQL](https://github.com/oslabs-beta/DacheQL) - GraphQL caching tool
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
-- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for my AI studies, writing, and product brainstorming
 - [planttheidea/fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
@@ -4462,6 +4461,7 @@
 - [jassics/security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
+- [sw-yx/ai-notes](https://github.com/sw-yx/ai-notes) - notes for my AI studies, writing, and product brainstorming
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -5865,7 +5865,7 @@
 - [chiefGui/superstate](https://github.com/chiefGui/superstate) - 
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build sign-in, auth, and user identity.
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [node-cache-manager/node-cache-manager](https://github.com/node-cache-manager/node-cache-manager) - Cache module for Node.JS
