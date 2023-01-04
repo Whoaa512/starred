@@ -1102,6 +1102,7 @@
 - [patchbay-pub/patchbay.pub](https://github.com/patchbay-pub/patchbay.pub) - patchbay.pub static site
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
+- [trishume/trishume.github.com](https://github.com/trishume/trishume.github.com) - My website/blog thing. Made with Jekyll.
 - [tc39/proposal-global](https://github.com/tc39/proposal-global) - ECMAScript Proposal, specs, and reference implementation for `global`
 - [tc39/proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
@@ -1721,7 +1722,6 @@
 - [SteinHQ/JS-Client](https://github.com/SteinHQ/JS-Client) - JavaScript client library to interact with the Stein API
 - [SteinHQ/Stein](https://github.com/SteinHQ/Stein) - Use Google Sheets as your no-setup database
 - [HeroProtagonist/eslint-plugin-module-resolver](https://github.com/HeroProtagonist/eslint-plugin-module-resolver) - Eslint plugin to be used with babel-plugin-module-resolver
-- [trishume/trishume.github.com](https://github.com/trishume/trishume.github.com) - My website/blog thing. Made with Jekyll.
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
@@ -2919,7 +2919,7 @@
 - [sindresorhus/pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function
 - [SamVerschueren/kap-s3](https://github.com/SamVerschueren/kap-s3) - Kap plugin - Share on Amazon S3
 - [kevva/kap-clipboard](https://github.com/kevva/kap-clipboard) - [DEPRECATED] Kap plugin - Copy GIFs to clipboard
-- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [sindresorhus/escape-goat](https://github.com/sindresorhus/escape-goat) - &🐐; Escape a string for use in HTML or the inverse
 - [jonathantneal/preloadfill](https://github.com/jonathantneal/preloadfill) - A polyfill for the preload link type [rel="preload"]
 - [robertklep/top-level-await](https://github.com/robertklep/top-level-await) - Use `await` at your Node.js code's top level!
@@ -4875,6 +4875,7 @@
 
 ## Python 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
@@ -6097,7 +6098,7 @@
 - [bikeshaving/crank](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+- [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [curveball/core](https://github.com/curveball/core) - The Curveball framework is a TypeScript framework for node.js with support for modern HTTP features.
 - [JasonEtco/actions-toolkit](https://github.com/JasonEtco/actions-toolkit) - 🛠 A toolkit for building GitHub Actions in Node.js
 - [microsoft/types-publisher](https://github.com/microsoft/types-publisher) - This repo has moved:
