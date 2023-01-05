@@ -709,7 +709,7 @@
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [averysmalldog/tesla-gen3wc-monitor](https://github.com/averysmalldog/tesla-gen3wc-monitor) - A complete monitoring solution for passively monitoring the Tesla Gen 3 Wall Connector
 - [averysmalldog/polly](https://github.com/averysmalldog/polly) - A simple program for periodically GET-ing from an API and dumping the output into a datastore. For now, InfluxDB.
-- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
+- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
@@ -2056,7 +2056,6 @@
 - [rhardih/ekill](https://github.com/rhardih/ekill) - Chrome/Firefox extension to nuke annoying elements in a web page
 - [simov/request-compose](https://github.com/simov/request-compose) - Composable HTTP Client
 - [afram/is-uuid](https://github.com/afram/is-uuid) - UUID check for node and the browser
-- [cyjake/ssh-config](https://github.com/cyjake/ssh-config) - 📟 SSH config parser and stringifier
 - [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
 - [final-form/final-form-arrays](https://github.com/final-form/final-form-arrays) - Array Mutators for 🏁 Final Form
@@ -3255,7 +3254,7 @@
 - [panzerdp/voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 - [matthewmueller/increment](https://github.com/matthewmueller/increment) - increment strings. good for keeping slugs unique.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [tannerlinsley/react-form](https://github.com/tannerlinsley/react-form) - ⚛️ Hooks for managing form state and validation in React
+- [TanStack/form](https://github.com/TanStack/form) - ⚛️ Hooks for managing form state and validation in React
 - [mathisonian/premonish](https://github.com/mathisonian/premonish) - Predict which DOM element a user will interact with next.
 - [bahmutov/next-updater](https://github.com/bahmutov/next-updater) - Dependable and safe automatic dependency updater for Nodejs packages
 - [nswbmw/mongolass](https://github.com/nswbmw/mongolass) - Elegant MongoDB driver for Node.js.
@@ -3339,7 +3338,7 @@
 - [joeattardi/promise-poller](https://github.com/joeattardi/promise-poller) - A basic poller built on top of promises
 - [serverless/serverless-graphql](https://github.com/serverless/serverless-graphql) - Serverless GraphQL Examples for AWS AppSync and Apollo
 - [nikhilaravi/serverless-graphql](https://github.com/nikhilaravi/serverless-graphql) - A serverless app using Node.js, AWS Lambda, API Gateway, React and GraphQL
-- [redux-orm/redux-orm](https://github.com/redux-orm/redux-orm) - A small, simple and immutable ORM to manage relational data in your Redux store.
+- [redux-orm/redux-orm](https://github.com/redux-orm/redux-orm) - NOT MAINTAINED – A small, simple and immutable ORM to manage relational data in your Redux store.
 - [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
 - [hackergrrl/argv-or-stdin](https://github.com/hackergrrl/argv-or-stdin) - use the 1st argument, or, if none is present, standard input
 - [funretro/distributed](https://github.com/funretro/distributed) - 
@@ -4285,6 +4284,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores
@@ -4875,8 +4875,8 @@
 
 ## Python 
 
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [thu-spmi/CAT](https://github.com/thu-spmi/CAT) - A CRF-based ASR Toolkit
@@ -5807,6 +5807,7 @@
 
 ## TypeScript 
 
+- [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
@@ -6291,6 +6292,7 @@
 - [u32i64/vk-chat-bot](https://github.com/u32i64/vk-chat-bot) - :package: node package for building chat bots for VK communities (uses Callback API)
 - [alioguzhan/react-editext](https://github.com/alioguzhan/react-editext) - Editable Text Component for React Apps
 - [diegohaz/reuse](https://github.com/diegohaz/reuse) - ♻️ Reuse React components to create new ones
+- [cyjake/ssh-config](https://github.com/cyjake/ssh-config) - 📟 SSH config parser and stringifier
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 - [cinderblock/react-smoothie](https://github.com/cinderblock/react-smoothie) - React wrapper for Smoothie Charts
 - [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed) - Simplest way to add twitter widgets to your react project.
