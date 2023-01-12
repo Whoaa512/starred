@@ -1331,6 +1331,7 @@
 
 ## JavaScript 
 
+- [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [socketsupply/ssc-node](https://github.com/socketsupply/ssc-node) - Node.js implementation of the Socket SDK client
 - [socketsupply/components](https://github.com/socketsupply/components) - Example Components (Built with Tonic)
@@ -5819,6 +5820,7 @@
 
 ## TypeScript 
 
+- [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Use it as a lite react component.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
