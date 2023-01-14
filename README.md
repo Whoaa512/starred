@@ -162,7 +162,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [coder-mike/microvium](https://github.com/coder-mike/microvium) - A compact, embeddable scripting engine for applications and microcontrollers for executing programs written in a subset of the JavaScript language.
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
 - [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -279,8 +279,8 @@
 ## C++ 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal.
-- [socketsupply/socket](https://github.com/socketsupply/socket) - A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and unified.
+- [socketsupply/socket](https://github.com/socketsupply/socket) - A Cross-Platform Runtime for building native Desktop and Mobile Apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [dllu/nectar](https://github.com/dllu/nectar) - Tools to capture images with Alkeria Necta line scan camera
@@ -396,7 +396,6 @@
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [neonious/lowjs](https://github.com/neonious/lowjs) - A port of Node.JS with far lower system requirements. Community version for POSIX systems such as Linux, uClinux or Mac OS X.
 - [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [universam1/iSpindel](https://github.com/universam1/iSpindel) - electronic Hydrometer
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
@@ -1153,6 +1152,7 @@
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [russellsamora/scrollama](https://github.com/russellsamora/scrollama) - Scrollytelling with IntersectionObserver.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [iliakan/javascript-tutorial-ru](https://github.com/iliakan/javascript-tutorial-ru) - [Предыдущая редакция] Современный учебник JavaScript
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -1304,6 +1304,7 @@
 - [awslabs/amazon-kinesis-agent](https://github.com/awslabs/amazon-kinesis-agent) - Continuously monitors a set of log files  and sends new data to the Amazon Kinesis Stream and Amazon Kinesis Firehose in near-real-time.
 - [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 - [Mojang/brigadier](https://github.com/Mojang/brigadier) - Brigadier is a command parser & dispatcher, designed and developed for Minecraft: Java Edition.
+- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [nsporillo/GlobalWarming](https://github.com/nsporillo/GlobalWarming) - Server side global warming mechanics in Minecraft!
 - [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
 - [schibsted/strongbox](https://github.com/schibsted/strongbox) - A secret manager for AWS
@@ -2530,7 +2531,6 @@
 - [ronomon/reed-solomon](https://github.com/ronomon/reed-solomon) - Fast, reliable Reed-Solomon erasure coding as a native addon for Node.js.
 - [DiegoZoracKy/magicli](https://github.com/DiegoZoracKy/magicli) - Automagically generates command-line interfaces (CLI) for any module. Expected options and help sections are created automatically based on parameters names, with support to async.
 - [gajus/postloader](https://github.com/gajus/postloader) - A scaffolding tool for projects using DataLoader, Flow and PostgreSQL.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [atulmy/universal-react](https://github.com/atulmy/universal-react) - 🌐  A simple universal react application with server side rendering built with latest versions of React (v16+), React Router (v5+), Redux (v4+), Express (v5+), Webpack (v4+), Babel Preset ES6 👨‍💻
 - [avajs/option-chain](https://github.com/avajs/option-chain) - Use fluent property chains in lieu of options objects
 - [sindresorhus/find-cache-dir](https://github.com/sindresorhus/find-cache-dir) - Finds the common standard cache directory
@@ -4099,7 +4099,6 @@
 - [alongubkin/spider](https://github.com/alongubkin/spider) - Unsurprising JavaScript - No longer active
 - [lo-th/3d.city](https://github.com/lo-th/3d.city) - 3d city builder game
 - [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
-- [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [rap1ds/keyword](https://github.com/rap1ds/keyword) - Keyword-driven testing library
 - [s-kawaguchi/mocha-data-driven](https://github.com/s-kawaguchi/mocha-data-driven) - Data driven testing for mocha.js
 - [monmohan/dsjslib](https://github.com/monmohan/dsjslib) - A library implementing several standard data structures and utilities, in JavaScript. Its written and tested using Node.js which is the target platform.
@@ -6686,6 +6685,7 @@
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
+- [twilio/twilio-node](https://github.com/twilio/twilio-node) - Node.js helper library
 - [blakeembrey/javascript-stringify](https://github.com/blakeembrey/javascript-stringify) - Stringify is to `eval` as `JSON.stringify` is to `JSON.parse`
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
