@@ -279,7 +279,7 @@
 ## C++ 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and unified.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 📋 Cut, copy, and paste anything, anywhere, all from the terminal. Quick, easy, and pretty.
 - [socketsupply/socket](https://github.com/socketsupply/socket) - A Cross-Platform Runtime for building native Desktop and Mobile Apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -793,7 +793,7 @@
 - [rbrahul/gofp](https://github.com/rbrahul/gofp) - A super simple Lodash like utility library with essential functions that empowers the development in Go
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - Tool, language and decoders for working with binary data
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
 - [tj/go-tea](https://github.com/tj/go-tea) - Tea provides an Elm inspired functional framework for interactive command-line programs.
@@ -890,7 +890,7 @@
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [fiatjaf/jqview](https://github.com/fiatjaf/jqview) - simplest possible native GUI for inspecting JSON objects with jq
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -1339,7 +1339,7 @@
 - [socketsupply/ssc-node](https://github.com/socketsupply/ssc-node) - Node.js implementation of the Socket SDK client
 - [socketsupply/components](https://github.com/socketsupply/components) - Example Components (Built with Tonic)
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
-- [socketsupply/socket-api](https://github.com/socketsupply/socket-api) - A Node/Posix-like API for the Socket Runtime
+- [socketsupply/socket-api](https://github.com/socketsupply/socket-api) - A Node.js / Posix-like JavaScript front-end API for the Socket Runtime
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
@@ -1788,7 +1788,7 @@
 - [iGitScor/cypress-recorder](https://github.com/iGitScor/cypress-recorder) - Cypress scenario recorder
 - [jossmac/react-images](https://github.com/jossmac/react-images) - 🌄 A mobile-friendly, highly customizable, carousel component for displaying media in ReactJS
 - [pastelsky/network-idle-callback](https://github.com/pastelsky/network-idle-callback) - Like requestIdleCallback, but for detecting network idle
-- [streamxorg/streamx](https://github.com/streamxorg/streamx) - An iteration of the Node.js core streams with a series of improvements.
+- [mafintosh/streamx](https://github.com/mafintosh/streamx) - An iteration of the Node.js core streams with a series of improvements.
 - [sindresorhus/dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`
 - [planttheidea/inline-loops.macro](https://github.com/planttheidea/inline-loops.macro) - Iteration helpers that inline to native loops for performance
 - [WithoutHaste/Pinker](https://github.com/WithoutHaste/Pinker) - A standalone JavaScript library for rendering code dependency diagrams on your web page.
@@ -4944,7 +4944,7 @@
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [Nixtla/statsforecast](https://github.com/Nixtla/statsforecast) - Lightning ⚡️ fast forecasting with statistical and econometric models.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
-- [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development toolkit
+- [sematic-ai/sematic](https://github.com/sematic-ai/sematic) - An open-source ML pipeline development platform
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [t0thkr1s/revshellgen](https://github.com/t0thkr1s/revshellgen) - Reverse shell generator written in Python 3.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
@@ -5771,7 +5771,7 @@
 
 ## Stylus 
 
-- [socketsupply/socket-examples](https://github.com/socketsupply/socket-examples) - Socket Runtime Examples
+- [socketsupply/socket-examples](https://github.com/socketsupply/socket-examples) - Socket Runtime Examples – see how your favorite front-end framework is used to build cross platform UIs
 
 ## Svelte 
 
@@ -5835,7 +5835,7 @@
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
 - [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
