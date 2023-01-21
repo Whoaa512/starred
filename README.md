@@ -130,6 +130,7 @@
 
 ## Awk 
 
+- [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 - [geary/awk](https://github.com/geary/awk) - Random AWK code
 
@@ -144,6 +145,7 @@
 
 ## C 
 
+- [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [HydrasDB/hydra](https://github.com/HydrasDB/hydra) - The open source Snowflake alternative. OLAP Postgres
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
@@ -454,6 +456,7 @@
 
 ## CSS 
 
+- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Cleanest, modern and beatifull Tailwind CSS components.
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [openlgtv/openlgtv.github.io](https://github.com/openlgtv/openlgtv.github.io) - 
@@ -1333,6 +1336,7 @@
 
 ## JavaScript 
 
+- [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [nodeca/idoit](https://github.com/nodeca/idoit) - Redis-backed task queue engine with advanced task control and eventual consistency
 - [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
@@ -4884,6 +4888,7 @@
 
 ## Python 
 
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
 - [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - An index created by GPT to organize external information and answer queries!
 - [dogsheep/healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite) - Convert an Apple Healthkit export zip to a SQLite database
@@ -5402,6 +5407,7 @@
 
 ## Ruby 
 
+- [ankane/polars-ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [rubysolo/dentaku](https://github.com/rubysolo/dentaku) - math and logic formula parser and evaluator
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
@@ -5461,7 +5467,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
 - [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
 - [wishawa/async_ui](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
@@ -5826,13 +5832,12 @@
 
 ## TypeScript 
 
-- [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Use it as a lite react component.
+- [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Easily embedded as a component in web apps.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
-- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Cleanest, modern and beatifull Tailwind CSS components.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [microsoft/cadl](https://github.com/microsoft/cadl) - 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
@@ -5930,7 +5935,7 @@
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
@@ -6665,7 +6670,7 @@
 - [grahammendick/navigation](https://github.com/grahammendick/navigation) - Scene-Based Navigation for React and React Native
 - [charto/cwait](https://github.com/charto/cwait) - :hourglass: Limit number of promises running in parallel
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Node.js & Browser SDK & React UI components for Elasticsearch.
+- [searchkit/searchkit](https://github.com/searchkit/searchkit) - Search UI for Elasticsearch. Compatible with Algolia's Instantsearch and Autocomplete
 - [yesmeck/redux-modal](https://github.com/yesmeck/redux-modal) - Redux based modal
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [ShyykoSerhiy/skyweb](https://github.com/ShyykoSerhiy/skyweb) - Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol.
@@ -6715,6 +6720,7 @@
 
 ## Vim Script 
 
+- [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles, needless words omitted
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [jordwalke/VimBox](https://github.com/jordwalke/VimBox) - Simple, Modern MacVim Configuration
