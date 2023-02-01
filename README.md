@@ -479,6 +479,7 @@
 - [kishorepv/kishorepv.github.io](https://github.com/kishorepv/kishorepv.github.io) - 
 - [risk-first/website](https://github.com/risk-first/website) - Risk-First Software Development
 - [erikras/reactalicante2018](https://github.com/erikras/reactalicante2018) - Code from my talk at React Alicante 2018
+- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine) - HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
 - [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [csstools/postcss-preset-env](https://github.com/csstools/postcss-preset-env) - Convert modern CSS into something browsers understand
@@ -968,7 +969,6 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
@@ -1765,7 +1765,6 @@
 - [pownjs/cdb](https://github.com/pownjs/cdb) - Automate common Chrome Debug Protocol tasks to help debug web applications from the command-line and actively monitor and intercept HTTP requests and responses.
 - [dominictarr/coherence](https://github.com/dominictarr/coherence) - 
 - [atlassian/lerna-semantic-release](https://github.com/atlassian/lerna-semantic-release) - 📦:🛠✨💥 – fully automated package publishing
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [leo/args](https://github.com/leo/args) - Toolkit for building command line interfaces
 - [shannonmoeller/ygor](https://github.com/shannonmoeller/ygor) - Task toolkit. For when `npm run` isn't enough and everything else is too much.
 - [beatfreaker/subdownloader](https://github.com/beatfreaker/subdownloader) - :pencil: Painless subtitle downloader
@@ -3932,7 +3931,6 @@
 - [gotwarlost/istanbul-middleware](https://github.com/gotwarlost/istanbul-middleware) - Connect middleware for server side code coverage using istanbul
 - [mafintosh/string-editor](https://github.com/mafintosh/string-editor) - Edit a string using $EDITOR from within your node app.
 - [rowanmanning/joblint](https://github.com/rowanmanning/joblint) - Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [normalize/native-or-bluebird](https://github.com/normalize/native-or-bluebird) - [DEPRECATED] use any-promise
 - [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 - [chunpu/markdown2confluence](https://github.com/chunpu/markdown2confluence) - convert markdown to confluence markup
@@ -4400,6 +4398,7 @@
 - [deepsweet/chromium-headless-remote](https://github.com/deepsweet/chromium-headless-remote) - 🐳 Dockerized Chromium in headless remote debugging mode
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -5530,7 +5529,7 @@
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [levkk/pgcat](https://github.com/levkk/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
-- [Kindelia/HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
 - [Mercateo/rust-for-node-developers](https://github.com/Mercateo/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
@@ -5843,7 +5842,7 @@
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
+- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
 - [microsoft/cadl](https://github.com/microsoft/cadl) - 
@@ -6211,6 +6210,7 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [microsoft/just](https://github.com/microsoft/just) - The task library that just works
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
 - [tanepiper/node-bitly](https://github.com/tanepiper/node-bitly) - A Bit.ly library for node.js - This project is looking for a new maintainer
