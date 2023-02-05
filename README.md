@@ -280,7 +280,7 @@
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
-- [socketsupply/socket](https://github.com/socketsupply/socket) - A Cross-Platform Runtime for creating native Desktop and Mobile Apps with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [dllu/nectar](https://github.com/dllu/nectar) - Tools to capture images with Alkeria Necta line scan camera
@@ -4303,7 +4303,6 @@
 
 - [williamyang1991/VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
 - [deforum/stable-diffusion](https://github.com/deforum/stable-diffusion) - 
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -4915,6 +4914,7 @@
 - [dogsheep/dogsheep-beta](https://github.com/dogsheep/dogsheep-beta) - Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [thu-spmi/CAT](https://github.com/thu-spmi/CAT) - A CRF-based ASR Toolkit
@@ -5535,7 +5535,7 @@
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
-- [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed high-performance proxy built on top of the QUIC protocol
+- [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed 0-RTT proxy protocol
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
 - [wasmflow/node-to-rust](https://github.com/wasmflow/node-to-rust) - 
@@ -5852,6 +5852,7 @@
 
 ## TypeScript 
 
+- [tmm/react-supabase](https://github.com/tmm/react-supabase) - React Hooks library for Supabase
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
 - [tinystacks/precloud](https://github.com/tinystacks/precloud) - An open source command line interface that runs checks on infrastructure as code to catch potential deployment issues before deploying.
@@ -6620,7 +6621,7 @@
 - [SpoonX/wetland](https://github.com/SpoonX/wetland) - A Node.js ORM, mapping-based. Works with MySQL, PostgreSQL, SQLite and more.
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [harksys/npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
