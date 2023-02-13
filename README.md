@@ -699,6 +699,7 @@
 
 ## Go 
 
+- [loderunner/scrt](https://github.com/loderunner/scrt) - A command-line secret manager for developers, sysadmins, and devops.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [automerge/automerge-go](https://github.com/automerge/automerge-go) - 
 - [portola-labs/db-webhooks](https://github.com/portola-labs/db-webhooks) - Database Webhooks for Postgres
@@ -5860,6 +5861,8 @@
 
 ## TypeScript 
 
+- [editablejs/editable](https://github.com/editablejs/editable) - Editable is a rich text editor framework that provides stable rich text editing capabilities without relying on the contenteditable attribute.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [wmaurer/vscode-jumpy](https://github.com/wmaurer/vscode-jumpy) - Jumpy Extension for Visual Studio Code
@@ -6206,7 +6209,7 @@
 - [jondot/storybook-cartesian](https://github.com/jondot/storybook-cartesian) - Automatically generate stories for all of your component variants
 - [getcampsite/campkit](https://github.com/getcampsite/campkit) - Build serverless Node.js microservices fast
 - [caderek/benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to Python, JavaScript, Java, C#, PHP, Go, Dart, R, Ruby, Rust, MATLAB, Elixir, CFML, Ansible or JSON
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands to code
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [sleistner/vscode-fileutils](https://github.com/sleistner/vscode-fileutils) - Visual Studio Code Extension
