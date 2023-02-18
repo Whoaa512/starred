@@ -4958,7 +4958,7 @@
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -5897,7 +5897,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
-- [microsoft/cadl](https://github.com/microsoft/cadl) - 
+- [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
