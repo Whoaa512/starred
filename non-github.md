@@ -5,4 +5,4 @@
 - [https://gitlab.com/pdfgrep/pdfgrep](https://gitlab.com/pdfgrep/pdfgrep) - pdfgrep is a tool to search text in PDF files. It works similarly to grep. See [pdfgrep.org](https://pdfgrep.org/) for details
 - [ffmpeg.guide](https://ffmpeg.guide/) - Visual GUI for building FFMPEG filter graphs
 - [https://proxyman.io/](https://proxyman.io/) - Modern. Native Web Debugging Proxy
-
+- [Short design patterns video](https://www.youtube.com/watch\?v\=tAuRQs_d9F8/)
