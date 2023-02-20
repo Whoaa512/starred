@@ -153,7 +153,7 @@
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
-- [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.
+- [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Safely execute untrusted Javascript in your Javascript, and execute synchronous code that uses async functions
 - [Luos-io/luos_engine](https://github.com/Luos-io/luos_engine) - Open-source and real-time orchestrator for cyber-physical-systems, to easily design, test and deploy embedded applications and digital twins.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
@@ -5873,6 +5873,8 @@
 
 ## TypeScript 
 
+- [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+- [Geocld/vite-plugin-importus](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) - A library for helping developers craft prompts for Large Language Models
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - Type-level madness
 - [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
@@ -6029,7 +6031,7 @@
 - [vercel/async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [Shopify/hydrogen-v1](https://github.com/Shopify/hydrogen-v1) - React-based framework for building dynamic, Shopify-powered custom storefronts.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
@@ -6211,7 +6213,7 @@
 - [badgateway/ketting](https://github.com/badgateway/ketting) - The HATEOAS client for javascript
 - [af/envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
 - [oslabs-beta/GraphQuill](https://github.com/oslabs-beta/GraphQuill) - Real-time GraphQL API Exploration in VS Code
-- [pranshuchittora/autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node_modules
+- [pranshuchittora/autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from 📁 node_modules | Built with React
 - [macfire10/react-shortcuts-hook](https://github.com/macfire10/react-shortcuts-hook) - ⌨️ A zero-dependencies hook for capturing keyboard shortcuts in components.
 - [JMPerez/spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js) - A client-side JS wrapper for the Spotify Web API
 - [gliviu/dir-compare](https://github.com/gliviu/dir-compare) - Node JS directory compare
@@ -6593,7 +6595,7 @@
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [JumboInteractiveLimited/redux-cache](https://github.com/JumboInteractiveLimited/redux-cache) - Client side TTL caching strategy for redux applications
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
