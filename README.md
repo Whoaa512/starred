@@ -254,6 +254,7 @@
 
 ## C# # 
 
+- [CCob/ThreadlessInject](https://github.com/CCob/ThreadlessInject) - Threadless Process Injection using remote function hooking.
 - [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
 - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
@@ -279,10 +280,11 @@
 
 ## C++ 
 
+- [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake.
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, all from the terminal! 😄
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -702,6 +704,7 @@
 
 ## Go 
 
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
 - [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 - [kisielk/godepgraph](https://github.com/kisielk/godepgraph) - A Go dependency graph visualization tool
@@ -769,7 +772,7 @@
 - [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store
 - [mdempsky/gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
@@ -988,7 +991,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
 - [cristianoliveira/ergo](https://github.com/cristianoliveira/ergo) - The management of multiple apps running over different ports made easy
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
-- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Dragonfly is an intelligent P2P based image and file distribution system.
+- [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [schollz/recursive-recipes](https://github.com/schollz/recursive-recipes) - Visualize the recursive nature of recipes :cake: :cookie:
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
@@ -1100,6 +1103,7 @@
 
 ## HTML 
 
+- [tofsjonas/sortable](https://github.com/tofsjonas/sortable) - Vanilla JavaScript table sort
 - [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
@@ -1358,6 +1362,8 @@
 
 ## JavaScript 
 
+- [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Experimental port of tidalcycles to Javascript
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing. Available as a Node.js module, REST API server, and CLI app.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
@@ -1398,7 +1404,7 @@
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
 - [planttheidea/fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - ⭐️ Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
-- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
+- [wavesurfer-js/wavesurfer.js](https://github.com/wavesurfer-js/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser thanks to WebAssembly magic
@@ -2250,7 +2256,7 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [uber/react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
-- [aleedmanath/rogue.js](https://github.com/aleedmanath/rogue.js) - The "nearly invisible" way to server-render React applications
+- [alidloren/rogue.js](https://github.com/alidloren/rogue.js) - The "nearly invisible" way to server-render React applications
 - [klaudiosinani/singlie](https://github.com/klaudiosinani/singlie) - Singly circular & linear linked lists for ES6
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [indexzero/nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
@@ -3153,7 +3159,6 @@
 - [neutrinojs/neutrino](https://github.com/neutrinojs/neutrino) - Create and build modern JavaScript projects with zero initial configuration.
 - [jasondavies/science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
 - [frostney/require-webpack-compat](https://github.com/frostney/require-webpack-compat) - :monkey: Monkey-patches `require.context` into Node.js require
-- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [dougmoscrop/serverless-plugin-include-dependencies](https://github.com/dougmoscrop/serverless-plugin-include-dependencies) - 
 - [maxogden/mississippi](https://github.com/maxogden/mississippi) - A collection of useful stream utility modules for writing better code using streams
 - [millermedeiros/js-signals](https://github.com/millermedeiros/js-signals) - Custom Event/Messaging system for JavaScript inspired by AS3-Signals
@@ -4504,6 +4509,7 @@
 
 ## Others 
 
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [jubalh/awesome-package-maintainer](https://github.com/jubalh/awesome-package-maintainer) - How to become a packager
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -4923,6 +4929,10 @@
 
 ## Python 
 
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput generation.
+- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
+- [nickjj/flask-db](https://github.com/nickjj/flask-db) - A Flask CLI extension to help migrate and manage your SQL database.
+- [nickjj/webserver](https://github.com/nickjj/webserver) - A zero dependency Python 3 web server to echo back an HTTP request's headers and data.
 - [giannisdaras/ylg](https://github.com/giannisdaras/ylg) - [CVPR 2020] Official Implementation: "Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models".
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -4958,7 +4968,7 @@
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - 
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
-- [Tanmoy741127/lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
+- [Lumi-Official/lumi](https://github.com/Lumi-Official/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
@@ -5495,6 +5505,8 @@
 
 ## Rust 
 
+- [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
+- [matt-kimball/allocscope](https://github.com/matt-kimball/allocscope) - allocscope  -  a memory tracking tool
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging for Rust
@@ -5707,6 +5719,13 @@
 
 ## Shell 
 
+- [nickjj/wait-until](https://github.com/nickjj/wait-until) - A zero dependency Bash script that waits until a command of your choosing has run successfully.
+- [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
+- [nickjj/lcurl](https://github.com/nickjj/lcurl) - Visit a site every X seconds in a loop to help detect downtime while testing deployment strategies.
+- [nickjj/esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files) - An esbuild plugin to copy static files that changed from a source directory to a destination directory.
+- [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
+- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
+- [nickjj/docker-node-example](https://github.com/nickjj/docker-node-example) - An example Node / Express app that's using Docker and Docker Compose.
 - [neopunisher/Open-Text-Summarizer](https://github.com/neopunisher/Open-Text-Summarizer) - Automatic text summarization
 - [asdf-community/asdf-python](https://github.com/asdf-community/asdf-python) - Python plugin for the asdf version manager
 - [biox/pa](https://github.com/biox/pa) - a simple password manager. encryption via age, written in portable posix shell
@@ -5886,6 +5905,10 @@
 
 ## TypeScript 
 
+- [step-security/wait-for-secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication
+- [cs-au-dk/jelly](https://github.com/cs-au-dk/jelly) - JavaScript/TypeScript static analyzer for call graph construction, library usage pattern matching, and vulnerability exposure analysis
+- [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte) - A UI toolkit for building accessible web apps and design systems with SolidJS.
+- [urban-bot/urban-bot](https://github.com/urban-bot/urban-bot) - 🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [iasql/iasql](https://github.com/iasql/iasql) - Infrastructure as data in PostgreSQL
@@ -5926,7 +5949,7 @@
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted tool to sync secrets and configs across your team and infrastructure.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -6677,6 +6700,7 @@
 - [SpoonX/wetland](https://github.com/SpoonX/wetland) - A Node.js ORM, mapping-based. Works with MySQL, PostgreSQL, SQLite and more.
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [harksys/npmvet](https://github.com/harksys/npmvet) - A simple CLI tool for vetting npm package versions
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
