@@ -281,7 +281,7 @@
 ## C++ 
 
 - [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake.
-- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant URL parser written in modern C++
+- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, all from the terminal! 😄
@@ -713,7 +713,7 @@
 - [loderunner/scrt](https://github.com/loderunner/scrt) - A command-line secret manager for developers, sysadmins, and devops.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [automerge/automerge-go](https://github.com/automerge/automerge-go) - 
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Real-time events platform for Postgres
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Real-time events for Postgres
 - [lqs/sqlingo](https://github.com/lqs/sqlingo) - 💥 A lightweight DSL & ORM which helps you to write SQL in Go.
 - [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
@@ -1294,6 +1294,7 @@
 
 ## Java 
 
+- [thegeekyasian/geo-assist](https://github.com/thegeekyasian/geo-assist) - Geo Assist is a spatial library that allows you to manage spatial data in-memory.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [mwiede/jsch](https://github.com/mwiede/jsch) - fork of the popular jsch library
 - [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm
@@ -4961,7 +4962,7 @@
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
 - [riffusion/riffusion](https://github.com/riffusion/riffusion) - Stable diffusion for real-time music generation
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion
+- [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
 - [platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [code-kern-ai/bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
@@ -5905,6 +5906,7 @@
 
 ## TypeScript 
 
+- [camomeui/camome](https://github.com/camomeui/camome) - Light weight, accessible UI framework for React and CSS
 - [step-security/wait-for-secrets](https://github.com/step-security/wait-for-secrets) - Publish from GitHub Actions using multi-factor authentication
 - [cs-au-dk/jelly](https://github.com/cs-au-dk/jelly) - JavaScript/TypeScript static analyzer for call graph construction, library usage pattern matching, and vulnerability exposure analysis
 - [kobaltedev/kobalte](https://github.com/kobaltedev/kobalte) - A UI toolkit for building accessible web apps and design systems with SolidJS.
@@ -5997,7 +5999,7 @@
 - [chiefGui/superstate](https://github.com/chiefGui/superstate) - 
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto helps you build sign-in, auth, and user identity.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [node-cache-manager/node-cache-manager](https://github.com/node-cache-manager/node-cache-manager) - Cache module for Node.JS
