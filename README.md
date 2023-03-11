@@ -708,6 +708,7 @@
 
 ## Go 
 
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [joerdav/xc](https://github.com/joerdav/xc) - Markdown defined task runner.
@@ -1107,6 +1108,7 @@
 
 ## HTML 
 
+- [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [tofsjonas/sortable](https://github.com/tofsjonas/sortable) - Vanilla JavaScript table sort
 - [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
@@ -4937,9 +4939,12 @@
 
 ## Python 
 
+- [scenediffuser/Scene-Diffuser](https://github.com/scenediffuser/Scene-Diffuser) - Official implementation of CVPR23 paper "Diffusion-based Generation, Optimization, and Planning in 3D Scenes"
+- [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - A scalable general purpose micro-framework for defining dataflows. You can use it to build dataframes, numpy matrices, python objects, ML models, etc. Embed Hamilton anywhere python runs, e.g. spark, 
+- [markasoftware/llama-cpu](https://github.com/markasoftware/llama-cpu) - Fork of Facebooks LLaMa model to run on CPU
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Throughput-oriented systems for large language models on commodity GPUs.
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
 - [nickjj/flask-db](https://github.com/nickjj/flask-db) - A Flask CLI extension to help migrate and manage your SQL database.
 - [nickjj/webserver](https://github.com/nickjj/webserver) - A zero dependency Python 3 web server to echo back an HTTP request's headers and data.
@@ -4976,7 +4981,7 @@
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [code-kern-ai/bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
-- [openai/tiktoken](https://github.com/openai/tiktoken) - 
+- [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
 - [Lumi-Official/lumi](https://github.com/Lumi-Official/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
@@ -5532,7 +5537,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database.
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!
@@ -5913,6 +5918,9 @@
 
 ## TypeScript 
 
+- [TanStack/bling](https://github.com/TanStack/bling) - 💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.
+- [zckly/create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
+- [meza/trance-stack](https://github.com/meza/trance-stack) - A production-ready Remix stack built for AWS Lambda. Authentication. Security, Internationalization, Feature Flags, Analytics, Tests, Storybook, Ephemeral and Production CI/CD and more.
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [react-component/virtual-list](https://github.com/react-component/virtual-list) - 🧾 React Virtual List Component which worked with animation
 - [bitjson/qr-code](https://github.com/bitjson/qr-code) - A no-framework, no-dependencies, customizable, animate-able, SVG-based &lt;qr-code&gt; HTML element.
@@ -6098,7 +6106,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
-- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A Progressive React Framework for modern web development.
+- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
@@ -6267,7 +6275,7 @@
 - [ozum/pg-structure](https://github.com/ozum/pg-structure) - Get PostgreSQL database structure as a detailed JS Object.
 - [jchiatt/react-chaos](https://github.com/jchiatt/react-chaos) - Chaos Engineering for your React apps.
 - [fwouts/react-screenshot-test](https://github.com/fwouts/react-screenshot-test) - A dead simple library to screenshot test React components
-- [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - A resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Polly.
+- [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - 🐦 A resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Poll
 - [badgateway/ketting](https://github.com/badgateway/ketting) - The HATEOAS client for javascript
 - [af/envalid](https://github.com/af/envalid) - Environment variable validation for Node.js
 - [oslabs-beta/GraphQuill](https://github.com/oslabs-beta/GraphQuill) - Real-time GraphQL API Exploration in VS Code
