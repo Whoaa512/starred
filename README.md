@@ -169,7 +169,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [coder-mike/microvium](https://github.com/coder-mike/microvium) - A compact, embeddable scripting engine for applications and microcontrollers for executing programs written in a subset of the JavaScript language.
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [kspalaiologos/bzip3](https://github.com/kspalaiologos/bzip3) - A better and stronger spiritual successor to BZip2.
 - [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -292,7 +292,7 @@
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anytime, anywhere, all from the terminal! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝙚𝙖𝙨𝙮 way. Cut, copy, and paste anything, anytime, anywhere! 😄
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [dllu/nectar](https://github.com/dllu/nectar) - Tools to capture images with Alkeria Necta line scan camera
@@ -721,6 +721,7 @@
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [loderunner/scrt](https://github.com/loderunner/scrt) - A command-line secret manager for developers, sysadmins, and devops.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
+- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
 - [lqs/sqlingo](https://github.com/lqs/sqlingo) - 💥 A lightweight DSL & ORM which helps you to write SQL in Go.
 - [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
@@ -1388,7 +1389,6 @@
 - [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate integration tests for your Node.js app by recording server activity without writing a single line of code.
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
-- [inqueryio/inquery](https://github.com/inqueryio/inquery) - Safeguard your Postgres database
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
@@ -5936,6 +5936,7 @@
 
 ## TypeScript 
 
+- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [marblejs/marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.
@@ -5954,7 +5955,7 @@
 - [urban-bot/urban-bot](https://github.com/urban-bot/urban-bot) - 🤖 The universal chatbot library based on React. Write once, launch Telegram, Discord, Facebook, ... every messenger with chatbots
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [iasql/iasql](https://github.com/iasql/iasql) - Infrastructure as data in PostgreSQL
+- [iasql/iasql](https://github.com/iasql/iasql) - Cloud Infrastructure as data in PostgreSQL
 - [plexinc/papr](https://github.com/plexinc/papr) - MongoDB TypeScript-aware Models
 - [pixelomer/discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem
 - [aleclarson/vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite
