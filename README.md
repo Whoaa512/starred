@@ -84,7 +84,6 @@
 - [Shell](#shell)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
-- [Stylus](#stylus)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -292,7 +291,8 @@
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the 𝗲𝗮𝘀𝘆 way! Cut, copy, and paste anything, anytime, anywhere. 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort 𝘁𝗵𝗲 𝗲𝗮𝘀𝘆 𝘄𝗮𝘆! Cut, copy, and paste anything, anytime, anywhere. 😄
+- [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [dllu/nectar](https://github.com/dllu/nectar) - Tools to capture images with Alkeria Necta line scan camera
@@ -465,6 +465,7 @@
 
 ## CSS 
 
+- [stephane-monnot/react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
@@ -1401,9 +1402,9 @@
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [socketsupply/ssc-node](https://github.com/socketsupply/ssc-node) - Node.js implementation of the Socket SDK client
 - [socketsupply/components](https://github.com/socketsupply/components) - Example Components (Built with Tonic)
+- [socketsupply/socket-examples](https://github.com/socketsupply/socket-examples) - Socket Runtime Examples – see how your favorite front-end framework is used to build cross platform UIs
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [socketsupply/socket-api](https://github.com/socketsupply/socket-api) - A Node.js / Posix-like JavaScript front-end API for the Socket Runtime
-- [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -5754,7 +5755,6 @@
 
 ## Shell 
 
-- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [nickjj/wait-until](https://github.com/nickjj/wait-until) - A zero dependency Bash script that waits until a command of your choosing has run successfully.
 - [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
 - [nickjj/lcurl](https://github.com/nickjj/lcurl) - Visit a site every X seconds in a loop to help detect downtime while testing deployment strategies.
@@ -5887,10 +5887,6 @@
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
-## Stylus 
-
-- [socketsupply/socket-examples](https://github.com/socketsupply/socket-examples) - Socket Runtime Examples – see how your favorite front-end framework is used to build cross platform UIs
-
 ## Svelte 
 
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
@@ -5940,6 +5936,7 @@
 
 ## TypeScript 
 
+- [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
 - [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
@@ -5993,7 +5990,7 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
-- [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT. It's aliveeeee 🤖
+- [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
@@ -6006,7 +6003,7 @@
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [eoin-barr/pathfinding-visualizer](https://github.com/eoin-barr/pathfinding-visualizer) - 
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen frontend component library, it can be used in any framework or no framework.(跨技术栈组件库，能用于任何前端框架。)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen frontend component library, it can be used in any framework or no framework.
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [modfy/oxide](https://github.com/modfy/oxide) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
@@ -6039,7 +6036,7 @@
 - [aPinix/indent-jump-vscode](https://github.com/aPinix/indent-jump-vscode) - Move cursor and select contents between lines with the same indents.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [ar-nelson/spartan-schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [etro-js/etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
@@ -6048,7 +6045,7 @@
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [node-cache-manager/node-cache-manager](https://github.com/node-cache-manager/node-cache-manager) - Cache module for Node.JS
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
@@ -6057,7 +6054,7 @@
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) - Verbum is a fully flexible text editor based on lexical framework.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The React + TypeScript CMS. Payload is a free and open-source Headless CMS and Application Framework built with TypeScript, Node.js, React, and MongoDB.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -6200,7 +6197,7 @@
 - [peak-ai/jedlik](https://github.com/peak-ai/jedlik) - DynamoDB ODM for Node
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [ugudango/consistent-shading](https://github.com/ugudango/consistent-shading) - Shade consitency for various hues, based on luminance.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕜 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
@@ -6669,7 +6666,7 @@
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [jasonkuhrt/graphql-request](https://github.com/jasonkuhrt/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
-- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript. We're hiring https://boards.greenhouse.io/sentry
+- [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [AEB-labs/graphql-weaver](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas
