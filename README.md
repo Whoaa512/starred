@@ -173,7 +173,6 @@
 - [morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702) - Linux Driver for USB WiFi Adapters that are based on the RTL8812BU and RTL8822BU Chipsets - v5.13.1
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [lloyd/yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
-- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
 - [gojue/ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
 - [gholker/led-backlight-cmstorm](https://github.com/gholker/led-backlight-cmstorm) - Mac app to turn on the backlight of your CM Storm Devastator keyboard
@@ -291,7 +290,7 @@
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort 𝘁𝗵𝗲 𝗲𝗮𝘀𝘆 𝘄𝗮𝘆! Cut, copy, and paste anything, anytime, anywhere. 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -321,6 +320,7 @@
 - [AMDmi3/jsonslicer](https://github.com/AMDmi3/jsonslicer) - Stream JSON parser for Python
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
@@ -827,7 +827,7 @@
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
-- [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [tj/go-tea](https://github.com/tj/go-tea) - Tea provides an Elm inspired functional framework for interactive command-line programs.
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
@@ -909,7 +909,6 @@
 - [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine with CUE. Language and technology agnostic.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [leontrolski/dnjs](https://github.com/leontrolski/dnjs) - DOM Notation JS
@@ -2290,7 +2289,6 @@
 - [nnupoor-zz/js_designpatterns](https://github.com/nnupoor-zz/js_designpatterns) - 
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [kentcdodds/js-testing-fundamentals](https://github.com/kentcdodds/js-testing-fundamentals) - Fundamentals of Testing in JavaScript on TestingJavaScript.com
-- [mohebifar/react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough for your react native app
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
 - [rikschennink/short-and-sweet](https://github.com/rikschennink/short-and-sweet) - 📟 Accessible character counter for input elements
@@ -4524,6 +4522,7 @@
 
 ## Others 
 
+- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
 - [damo-vilab/composer](https://github.com/damo-vilab/composer) - Official implementation of "Composer: Creative and Controllable Image Synthesis with Composable Conditions"
@@ -5541,6 +5540,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [matt-kimball/allocscope](https://github.com/matt-kimball/allocscope) - allocscope  -  a memory tracking tool
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
@@ -5936,6 +5936,8 @@
 
 ## TypeScript 
 
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
 - [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
@@ -6209,6 +6211,7 @@
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
 - [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including colo
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [cdiggins/type-inference](https://github.com/cdiggins/type-inference) - Type Inference Library written in TypeScript
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
 - [edwinm/carbonium](https://github.com/edwinm/carbonium) - One kilobyte library for easy manipulation of the DOM
@@ -6539,6 +6542,7 @@
 - [lucasconstantino/graphql-apq](https://github.com/lucasconstantino/graphql-apq) - :dart: Automatic persisted queries (APQ) for any GraphQL server.
 - [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [mohebifar/react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough tooltip for your react native app
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [fahad19/proppy](https://github.com/fahad19/proppy) - Functional props composition for UI components (React.js & Vue.js)
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
