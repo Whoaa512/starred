@@ -936,7 +936,7 @@
 - [apenwarr/git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [patchbay-pub/patchbay](https://github.com/patchbay-pub/patchbay) - Libary and CLI tools for interacting with patchbay servers
 - [patchbay-pub/patchbay-simple-server](https://github.com/patchbay-pub/patchbay-simple-server) - Intended to serve as a starting point for a self-hostable version of patchbay
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -4966,6 +4966,8 @@
 - [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers.
 - [nickjj/flask-db](https://github.com/nickjj/flask-db) - A Flask CLI extension to help migrate and manage your SQL database.
 - [nickjj/webserver](https://github.com/nickjj/webserver) - A zero dependency Python 3 web server to echo back an HTTP request's headers and data.
+- [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
+- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [giannisdaras/ylg](https://github.com/giannisdaras/ylg) - [CVPR 2020] Official Implementation: "Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models".
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -5758,8 +5760,6 @@
 - [nickjj/notes](https://github.com/nickjj/notes) - A zero dependency shell script that makes it really simple to manage your text notes.
 - [nickjj/lcurl](https://github.com/nickjj/lcurl) - Visit a site every X seconds in a loop to help detect downtime while testing deployment strategies.
 - [nickjj/esbuild-copy-static-files](https://github.com/nickjj/esbuild-copy-static-files) - An esbuild plugin to copy static files that changed from a source directory to a destination directory.
-- [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
-- [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [nickjj/docker-node-example](https://github.com/nickjj/docker-node-example) - An example Node / Express app that's using Docker and Docker Compose.
 - [neopunisher/Open-Text-Summarizer](https://github.com/neopunisher/Open-Text-Summarizer) - Automatic text summarization
 - [asdf-community/asdf-python](https://github.com/asdf-community/asdf-python) - Python plugin for the asdf version manager
@@ -5935,6 +5935,7 @@
 
 ## TypeScript 
 
+- [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
@@ -6123,7 +6124,7 @@
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [Shopify/hydrogen-v1](https://github.com/Shopify/hydrogen-v1) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
-- [koskimas/kysely](https://github.com/koskimas/kysely) - A type-safe typescript SQL query builder
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
