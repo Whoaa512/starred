@@ -75,6 +75,7 @@
 - [R](#r)
 - [ReScript](#rescript)
 - [Reason](#reason)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -152,7 +153,6 @@
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - The open source Snowflake alternative. OLAP Postgres.
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
-- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 - [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Safely execute untrusted Javascript in your Javascript, and execute synchronous code that uses async functions
 - [Luos-io/luos_engine](https://github.com/Luos-io/luos_engine) - Open-source and real-time orchestrator for cyber-physical-systems, to easily design, test and deploy embedded applications and digital twins.
@@ -290,7 +290,7 @@
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [socketsupply/socket](https://github.com/socketsupply/socket) - Create native Desktop and Mobile Apps for any OS with HTML, CSS, and JavaScript. Bring your favorite Frontend Framework! Written from the ground up to be small and maintainable.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -733,6 +733,7 @@
 - [adhocteam/pushup](https://github.com/adhocteam/pushup) - Pushup is for making modern, page-oriented web apps in Go
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) - A tool for generating self-contained, type-safe test doubles in go
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [vburenin/ifacemaker](https://github.com/vburenin/ifacemaker) - Generate interfaces from structure methods.
@@ -759,7 +760,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
-- [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is an open source developer data platform that offers a suite of databases and data services with a code-first approach, empowering you to build responsive applications without the hassle of in
+- [tigrisdata/tigris](https://github.com/tigrisdata/tigris) - Tigris is an Open Source Serverless NoSQL Database and Search Platform.
 - [saurabh0719/jett](https://github.com/saurabh0719/jett) - Jett is a lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  :rocket:
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
@@ -941,7 +942,7 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [peak-ai/ais-service-discovery-go](https://github.com/peak-ai/ais-service-discovery-go) - Cloud application library for Golang
 - [golang/example](https://github.com/golang/example) - Go example projects
@@ -1147,6 +1148,7 @@
 - [littleblah/senior-engineer-checklist](https://github.com/littleblah/senior-engineer-checklist) - Senior Engineer CheckList
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
 - [trishume/trishume.github.com](https://github.com/trishume/trishume.github.com) - My website/blog thing. Made with Jekyll.
+- [paulrosen/abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 - [tc39/proposal-global](https://github.com/tc39/proposal-global) - ECMAScript Proposal, specs, and reference implementation for `global`
 - [tc39/proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
@@ -1413,6 +1415,7 @@
 - [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [mojolicious/mojo.js](https://github.com/mojolicious/mojo.js) - :unicorn: The Mojolicious real-time web framework for Node.js
+- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [acss-io/atomizer](https://github.com/acss-io/atomizer) - A library to create small, reusable CSS that scales as your website grows.
 - [cube-root/directory-serve](https://github.com/cube-root/directory-serve) - CLI tool to send and receive file on a network to a server
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -1471,7 +1474,7 @@
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - YouTube Extension: Enrich your experience & content [🧰80+Lean Features][📌Longest-standing since 2012][Please👨‍👩‍👧‍👧make Docum./HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide 'related vide
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing(2012)][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪}(Player Repeat Screenshot[Hide related YouTube v
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -1808,7 +1811,6 @@
 - [chrisveness/geodesy](https://github.com/chrisveness/geodesy) - Libraries of geodesy functions implemented in JavaScript
 - [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) - 361000 becomes "6 minutes, 1 second"
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [paulrosen/abcjs](https://github.com/paulrosen/abcjs) - javascript for rendering abc music notation
 - [Yomguithereal/mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript/TypeScript language.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [istanbuljs/v8-to-istanbul](https://github.com/istanbuljs/v8-to-istanbul) - convert from v8 coverage format to istanbul's format
@@ -2341,7 +2343,6 @@
 - [WiseLibs/wise-promise](https://github.com/WiseLibs/wise-promise) - Native promises extended with powerful functionality.
 - [WiseLibs/wise-river](https://github.com/WiseLibs/wise-river) - Object streaming the way it should be.
 - [VICEMedia/dynaflow](https://github.com/VICEMedia/dynaflow) - DynamoDB abstraction using rivers 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊
-- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [selbekk/calidators](https://github.com/selbekk/calidators) - Red hot JavaScript validators 🌶
 - [selbekk/calidation](https://github.com/selbekk/calidation) - Red hot form validation for React 🌶
 - [xJkit/react-goodbye](https://github.com/xJkit/react-goodbye) - A save reminder component for react router
@@ -4478,6 +4479,7 @@
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [glennsl/bs-json](https://github.com/glennsl/bs-json) - Compositional JSON encode/decode library for BuckleScript
 - [rrdelaney/ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) - :diamond_shape_with_a_dot_inside: Converts Flow and TypeScript definitions to Reason interfaces
@@ -5150,7 +5152,6 @@
 - [trailofbits/graphtage](https://github.com/trailofbits/graphtage) - A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV.
 - [simonw/airtable-export](https://github.com/simonw/airtable-export) - Export Airtable data to YAML, JSON or SQLite files on disk
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [MarkForged/GOMP](https://github.com/MarkForged/GOMP) - GOMP (Git cOMPare) is a tool for comparing branches.
@@ -5486,6 +5487,10 @@
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
+
+## Rich Text Format 
+
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 
 ## Roff 
 
@@ -5989,7 +5994,6 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - The authentication solution for the passkey era.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
@@ -6166,7 +6170,7 @@
 - [pouyakary/TextGraphic](https://github.com/pouyakary/TextGraphic) - TextGraphic is a framework for creating Textual Graphics. It provides layers, styling, rich color, text justification, layouts, tables, view-ports, transparency, etc.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [rahul-jha98/sheets-database](https://github.com/rahul-jha98/sheets-database) - Library to help use a Google Sheet as a database
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [githubocto/flat](https://github.com/githubocto/flat) - The GitHub Action which powers Flat
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
