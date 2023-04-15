@@ -1420,7 +1420,7 @@
 - [socketsupply/socket-examples](https://github.com/socketsupply/socket-examples) - Socket Runtime Examples – see how your favorite front-end framework is used to build cross platform UIs
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [socketsupply/socket-api](https://github.com/socketsupply/socket-api) - A Node.js / Posix-like JavaScript front-end API for the Socket Runtime
-- [socketsupply/socket](https://github.com/socketsupply/socket) - Build native desktop & mobile apps for any OS using your favorite frontend libraries!
+- [socketsupply/socket](https://github.com/socketsupply/socket) - The simplest way to build native desktop & mobile apps for any OS using your favorite frontend libraries!
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -6118,7 +6118,7 @@
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [Evertz/bzlgen](https://github.com/Evertz/bzlgen) - Bazel build file generator written in Typescript
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [maritz/nohm](https://github.com/maritz/nohm) - node.js object relations mapper (orm) for redis
 - [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) - 🌀 Insert Awesome Shapes into Your React Site with Ease.
 - [Zemnmez/do-sync](https://github.com/Zemnmez/do-sync) - perform asynchronous operations synchronously (intended for use with babel-plugin-macros)
