@@ -883,7 +883,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud! - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
@@ -4381,7 +4381,6 @@
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - jupyter/ipython experiment containers for GPU and general RAM re-use
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [cedrickchee/data-science-notebooks](https://github.com/cedrickchee/data-science-notebooks) - Data science Python notebooks—a collection of Jupyter notebooks on machine learning, deep learning, statistical inference, data analysis and visualization.
 - [simonw/cougar-or-not](https://github.com/simonw/cougar-or-not) - An API for identifying cougars v.s. bobcats v.s. other USA cat species
 - [radekosmulski/quickdraw](https://github.com/radekosmulski/quickdraw) - 
@@ -5199,7 +5198,7 @@
 - [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [jasonshanks/alfred-workflow-toggle-airpods](https://github.com/jasonshanks/alfred-workflow-toggle-airpods) - This Alfred workflow includes 2 scripts that set your AirPods name then toggles the connectivity to your Mac. A standalone AppleScript app is included for adaptation to other launchers.
-- [atlassian/localstack](https://github.com/atlassian/localstack) - ⚠️ **Note**: This repository is no longer actively maintained (see README below) ⚠️
+- [atlassian-archive/localstack](https://github.com/atlassian-archive/localstack) - ⚠️ **Note**: This repository is no longer actively maintained (see README below) ⚠️
 - [NolanNicholson/Looper](https://github.com/NolanNicholson/Looper) - A script for repeating music seamlessly and endlessly, designed with video game music in mind.
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
@@ -5302,6 +5301,7 @@
 - [tomgoldstein/loss-landscape](https://github.com/tomgoldstein/loss-landscape) - Code for visualizing the loss landscape of neural nets
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [cesium-ml/cesium](https://github.com/cesium-ml/cesium) - Machine Learning Time-Series Platform
 - [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
 - [yaojiach/red-panda](https://github.com/yaojiach/red-panda) - Easily interact with cloud (AWS) in your Data Science workflow.
@@ -6141,7 +6141,7 @@
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [Evertz/bzlgen](https://github.com/Evertz/bzlgen) - Bazel build file generator written in Typescript
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
@@ -6762,7 +6762,7 @@
 - [buildo/react-flexview](https://github.com/buildo/react-flexview) - A powerful React component to abstract over flexbox and create any layout on any browser
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [ReactiveX/IxJS](https://github.com/ReactiveX/IxJS) - The Interactive Extensions for JavaScript
-- [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [sorenbs/chromeless](https://github.com/sorenbs/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [vadimdemedes/ink-spinner](https://github.com/vadimdemedes/ink-spinner) - Spinner component for Ink
 - [botui/botui](https://github.com/botui/botui) - 🤖 A JavaScript framework for building conversational UIs
@@ -6908,7 +6908,7 @@
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
-- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - 
+- [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [PaulBGD/requireAsync](https://github.com/PaulBGD/requireAsync) - Require any module or file async in NodeJS.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
