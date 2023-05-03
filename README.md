@@ -629,7 +629,7 @@
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [astefanutti/scratch-node](https://github.com/astefanutti/scratch-node) - Distroless Node.js Docker Images
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 
 ## EJS 
 
@@ -2216,7 +2216,7 @@
 - [jossmac/react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 🍞 A toast notification system for react
 - [lesnitsky/git-tutor](https://github.com/lesnitsky/git-tutor) - :octocat:+md=:heart: Awesome tutorials from your git log
 - [fdaciuk/ajax](https://github.com/fdaciuk/ajax) - Ajax module in Vanilla JS
-- [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts) - Parse CLI arguments.
+- [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts) - Node.js CLI options parser
 - [c8r/x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat
 - [Rich-Harris/agadoo](https://github.com/Rich-Harris/agadoo) - Check whether a package is tree-shakeable
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
@@ -2262,7 +2262,7 @@
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ramhejazi/draxt](https://github.com/ramhejazi/draxt) - draxt.js – NodeList/jQuery-like package for File System (node.js)
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [sbayd/react-flippy](https://github.com/sbayd/react-flippy) - Flipping Cards for your React Projects. React-Flippy allows you to create flipper event with your content.
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [piecioshka/simple-data-table](https://github.com/piecioshka/simple-data-table) - :hammer: Lightweight and simple data table with no dependencies
@@ -2764,7 +2764,7 @@
 - [toniov/gcal-cli](https://github.com/toniov/gcal-cli) - Google Calendar command line tool for Node.js
 - [hiproxy/hiproxy](https://github.com/hiproxy/hiproxy) - 🛠 hiproxy is a lightweight proxy tool for Front-End developers based on Node.js that supports an NGINX-like configuration. 🔥
 - [finnfiddle/words-to-numbers](https://github.com/finnfiddle/words-to-numbers) - JS library to convert textual words to numbers with optional fuzzy text matching
-- [jorgebucaran/classcat](https://github.com/jorgebucaran/classcat) - Build a class attribute string quickly.
+- [jorgebucaran/classcat](https://github.com/jorgebucaran/classcat) - Build a class attribute string quickly
 - [fhinkel/type-profile](https://github.com/fhinkel/type-profile) - Collect runtime type information 😻 of your JavaScript code.
 - [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
 - [danilop/ServerlessByDesign](https://github.com/danilop/ServerlessByDesign) - A visual approach to serverless development. Think. Build. Repeat.
@@ -2981,7 +2981,7 @@
 - [typicode/react-fake-props](https://github.com/typicode/react-fake-props) - 🔮 Magically generate fake props for your React tests
 - [sidorares/react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target
 - [remerge/micro-http-client](https://github.com/remerge/micro-http-client) - Specify common request and response processing in a single location
-- [jorgebucaran/superfine](https://github.com/jorgebucaran/superfine) - Absolutely minimal view layer for building web interfaces.
+- [jorgebucaran/superfine](https://github.com/jorgebucaran/superfine) - Absolutely minimal view layer for building web interfaces
 - [gardenhq/o](https://github.com/gardenhq/o) - An in-browser loader/bundler for javascript. No Node required. No CLI required. Use with @gardenhq/willow for a flexible, 'unobtrusive' dependency injection builder to decouple your codebase.
 - [ternarylabs/porthole](https://github.com/ternarylabs/porthole) - A proxy to safely communicate to cross-domain iframes in javascript
 - [slap-editor/slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
@@ -3230,7 +3230,7 @@
 - [timarney/react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js
 - [kirillrogovoy/promised-pipe](https://github.com/kirillrogovoy/promised-pipe) - A ramda.pipe-like utility that handles promises internally with zero dependencies
 - [bencripps/react-redux-grid](https://github.com/bencripps/react-redux-grid) - A React Grid/Tree Component written in the Redux Pattern
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications.
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [ZijianHe/koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -4429,7 +4429,7 @@
 ## Lua 
 
 - [Wutname1/SpartanUI](https://github.com/Wutname1/SpartanUI) - SpartanUI
-- [Questie/Questie](https://github.com/Questie/Questie) - Questie: the vanilla quest helper
+- [Questie/Questie](https://github.com/Questie/Questie) - Questie: The WoW Classic quest helper
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [winterbeak/Noneuclilypads](https://github.com/winterbeak/Noneuclilypads) - It's tough surviving the non-Euclidean marshlands. A roguelike with a broken grid, made for the 2019 GitHub Game-Off.
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
@@ -6762,7 +6762,7 @@
 - [buildo/react-flexview](https://github.com/buildo/react-flexview) - A powerful React component to abstract over flexbox and create any layout on any browser
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [ReactiveX/IxJS](https://github.com/ReactiveX/IxJS) - The Interactive Extensions for JavaScript
-- [sorenbs/chromeless](https://github.com/sorenbs/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [vadimdemedes/ink-spinner](https://github.com/vadimdemedes/ink-spinner) - Spinner component for Ink
 - [botui/botui](https://github.com/botui/botui) - 🤖 A JavaScript framework for building conversational UIs
