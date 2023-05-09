@@ -795,7 +795,7 @@
 - [maxmunzel/kvass](https://github.com/maxmunzel/kvass) - a personal key-value store
 - [mdempsky/gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [gocopper/copper](https://github.com/gocopper/copper) - 🚀‏‏‎    ‎‏‏‎‏‏‎‎‎‎‎‎Copper is a Go toolkit complete with everything you need to build web apps.
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
@@ -4110,7 +4110,7 @@
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [tj/node-blocked](https://github.com/tj/node-blocked) - Check if the event loop is blocked
 - [gulpjs/gulp-cli](https://github.com/gulpjs/gulp-cli) - Command Line Interface for gulp.
-- [Yatser/prettypullrequests](https://github.com/Yatser/prettypullrequests) - A chrome extension to make reviewing pull requests in Github a little easier.
+- [brentyates/prettypullrequests](https://github.com/brentyates/prettypullrequests) - A chrome extension to make reviewing pull requests in Github a little easier.
 - [jeffbski/digest-stream](https://github.com/jeffbski/digest-stream) - Simple node.js pass-through stream (RW) which calculates the a crypto digest (sha/md5 hash) of a stream and also the length. Pipe your stream through this to get digest and length. (streams2)
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -4597,7 +4597,6 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
 - [chaance/cookbook](https://github.com/chaance/cookbook) - Open source recipes from your favorite biscuit chef 👩‍🍳
-- [perfsonar/project](https://github.com/perfsonar/project) - The perfSONAR project's primary wiki and issue tracker.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [tobetz/LegoMicroscope](https://github.com/tobetz/LegoMicroscope) - To learn about optics and microscopy, we generated a simple to build lego microscope that does not need precision optics and 3D printed parts.
 - [meshpro/optimesh](https://github.com/meshpro/optimesh) - :spider_web: Mesh optimization, mesh smoothing.
@@ -5830,6 +5829,7 @@
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
 - [nick-thompson/elementary](https://github.com/nick-thompson/elementary) - A JavaScript runtime for writing native audio applications, as well as a library and framework for composing audio signal processes.
+- [perfsonar/project](https://github.com/perfsonar/project) - The perfSONAR project's primary wiki and issue tracker.
 - [seek-oss/docker-ecr-cache-buildkite-plugin](https://github.com/seek-oss/docker-ecr-cache-buildkite-plugin) - Zero config plugin for caching Docker images in Amazon ECR or Google Container Registry
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
