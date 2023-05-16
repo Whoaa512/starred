@@ -1391,7 +1391,7 @@
 - [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [mozilla-frontend-infra/react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - 
-- [xenova/transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser!
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
@@ -2430,7 +2430,6 @@
 - [eteeselink/babel-plugin-transform-class-display-name](https://github.com/eteeselink/babel-plugin-transform-class-display-name) - Babel 6 plugin that adds a `displayName` static class property to every ES6 class.
 - [nachoaIvarez/flexbox-react](https://github.com/nachoaIvarez/flexbox-react) - Unopinionated, standard compliant flexbox component. No propietary APIs. Nothing but flexbox.
 - [mathiasbynens/CSS.escape](https://github.com/mathiasbynens/CSS.escape) - A robust polyfill for the CSS.escape utility method as defined in CSSOM.
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [umijs/babel-plugin-import](https://github.com/umijs/babel-plugin-import) - Modularly import plugin for babel.
 - [mafintosh/turbo-net](https://github.com/mafintosh/turbo-net) - Low level TCP library for Node.js
 - [VPNht/desktop-legacy](https://github.com/VPNht/desktop-legacy) - VPN.ht Desktop Application for Windows and Mac OS X built on top of Electron
@@ -4954,7 +4953,7 @@
 
 ## Python 
 
-- [smol-ai/developer](https://github.com/smol-ai/developer) - smol developer that writes code for u
+- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
@@ -5971,6 +5970,7 @@
 
 ## TypeScript 
 
+- [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [moonrepo/dev](https://github.com/moonrepo/dev) - Official moon developer tools and shared configurations for popular JavaScript tooling.
 - [moonrepo/setup-rust](https://github.com/moonrepo/setup-rust) - A maintained GitHub action for setting up Rust and Cargo.
@@ -5982,7 +5982,7 @@
 - [anantoghosh/react-linkify-it](https://github.com/anantoghosh/react-linkify-it) - A tiny react package that turns urls (with i18n and emoji support), emails, jira tickets, twitter handles, anything you want! in your text clickable (aka linkify).
 - [nitrictech/react-animated-term](https://github.com/nitrictech/react-animated-term) - React component for rendering animated terminals
 - [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn) - Work seamlessly with partial mocks in TypeScript.
-- [fern-api/fern](https://github.com/fern-api/fern) - Build APIs twice as fast ⚡
+- [fern-api/fern](https://github.com/fern-api/fern) - Generate client SDKs in multiple languages for your API
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
@@ -6632,6 +6632,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [maticzav/emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [hugozap/react-rotary-knob](https://github.com/hugozap/react-rotary-knob) - 🎛 Skinnable knob for React.
 - [sebholstein/tinystate](https://github.com/sebholstein/tinystate) - A tiny, yet powerful state management library for Angular
 - [assafg/osiris](https://github.com/assafg/osiris) - Simple Event Sourcing for NodeJS
