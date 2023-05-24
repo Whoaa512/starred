@@ -198,6 +198,7 @@
 - [hantuzun/hr-code](https://github.com/hantuzun/hr-code) - Human Response Code: Designed to be recognized by humans and OCR. Encodes all valid URL characters to images.
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [n64decomp/sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [pwn20wndstuff/Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [zerotier/lf](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store
 - [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience.
@@ -287,7 +288,7 @@
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart productivity tool :brain:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [dllu/nectar](https://github.com/dllu/nectar) - Tools to capture images with Alkeria Necta line scan camera
@@ -376,6 +377,7 @@
 - [swordfeng/pyjs](https://github.com/swordfeng/pyjs) - Call Python from Node.js in the same process
 - [fridgerator/PyNode](https://github.com/fridgerator/PyNode) - Node - Python Interop
 - [EspoTek/Labrador](https://github.com/EspoTek/Labrador) - EspoTek Labrador is a USB device that transforms your PC or smartphone into a fully-featured electronics lab.  This repo holds all of the source code!
+- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [eelcocramer/node-bluetooth-serial-port](https://github.com/eelcocramer/node-bluetooth-serial-port) - Serial I/O over bluetooth for NodeJS
 - [lloyd/node-memwatch](https://github.com/lloyd/node-memwatch) - A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks.
@@ -969,7 +971,6 @@
 - [griesemer/tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
 - [journeymidnight/yig](https://github.com/journeymidnight/yig) - An open source object storage server with Amazon S3 compatible API
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
-- [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -1130,7 +1131,7 @@
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [GoLinks/GoLinks.github.io](https://github.com/GoLinks/GoLinks.github.io) - golinks website
-- [heejkoo/Awesome-Score-based-Diffusion-Models](https://github.com/heejkoo/Awesome-Score-based-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [tc39/proposal-array-from-async](https://github.com/tc39/proposal-array-from-async) - Draft specification for a proposed Array.fromAsync method in JavaScript.
@@ -1463,7 +1464,7 @@
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [mifi/instauto](https://github.com/mifi/instauto) - Instagram bot / automation library written in Javascript for Node.js
 - [craigmulligan/js-fire](https://github.com/craigmulligan/js-fire) - A javascript clone of google/python-fire 🔥
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Easiest way to create vscode theme.
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API (v4) wrapper for Node.js
@@ -1609,6 +1610,7 @@
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [lamplightdev/aeon](https://github.com/lamplightdev/aeon) - A lightweight date picker built with web components that can be used anywhere
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 - [webpack/analyse](https://github.com/webpack/analyse) - analyse web app for webpack stats
 - [DonutEspresso/big-json](https://github.com/DonutEspresso/big-json) - A stream based implementation of JSON.parse and JSON.stringify for big POJOs
 - [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individua
@@ -4530,6 +4532,7 @@
 
 ## Others 
 
+- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
@@ -4953,7 +4956,7 @@
 
 ## Python 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We help developers to build, deploy, and monitor AI agents.  Focusing on specialized AI agents that build software for you - your personal software developers.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building & deploying AI agents.
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
@@ -4992,7 +4995,7 @@
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [blacklanternsecurity/MANSPIDER](https://github.com/blacklanternsecurity/MANSPIDER) - Spider entire networks for juicy files sitting on SMB shares.  Search filenames or file content - regex supported!
 - [blacklanternsecurity/TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - TREVORspray is a modular password sprayer with threading, clever proxying, loot modules, and more!
-- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - A reactive Python kernel for Jupyter notebooks
+- [ipyflow/ipyflow](https://github.com/ipyflow/ipyflow) - Reactive Python kernel for Jupyter notebooks.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
@@ -5214,7 +5217,6 @@
 - [xadrianzetx/fullstack.ai](https://github.com/xadrianzetx/fullstack.ai) - 
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [snovvcrash/usbrip](https://github.com/snovvcrash/usbrip) - Tracking history of USB events on GNU/Linux
@@ -5928,7 +5930,6 @@
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [le0pard/sql-joins-app](https://github.com/le0pard/sql-joins-app) - SQL JOINS visualizer
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
-- [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
 ## Swift 
 
