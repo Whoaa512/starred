@@ -642,7 +642,6 @@
 - [absinthe-graphql/dataloader](https://github.com/absinthe-graphql/dataloader) - DataLoader for Elixir
 - [absinthe-graphql/absinthe_phoenix](https://github.com/absinthe-graphql/absinthe_phoenix) - 
 - [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) - The GraphQL toolkit for Elixir
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [jwhiteman/a-little-elixir-goes-a-long-way](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - The Little Schemer in Elixir.
 
 ## Elm 
@@ -1492,7 +1491,7 @@
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -2284,7 +2283,6 @@
 - [noflo/noflo](https://github.com/noflo/noflo) - Flow-based programming for JavaScript
 - [kentcdodds/shallow-to-mock](https://github.com/kentcdodds/shallow-to-mock) - 
 - [hongru/canvas2image](https://github.com/hongru/canvas2image) - a tool for saving or converting canvas as img
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [uber/react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [realadvisor/rifm](https://github.com/realadvisor/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
@@ -4955,7 +4953,7 @@
 
 ## Python 
 
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building & deploying AI agents.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
@@ -5753,6 +5751,7 @@
 - [mozilla/mentat](https://github.com/mozilla/mentat) - UNMAINTAINED A persistent, relational store inspired by Datomic and DataScript.
 - [iliana/rust-crowbar](https://github.com/iliana/rust-crowbar) - Wrapper to simplify writing AWS Lambda functions in Rust (using the Python execution environment)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [pcwalton/sprocketnes](https://github.com/pcwalton/sprocketnes) - NES emulator written in Rust
@@ -5985,7 +5984,7 @@
 - [anantoghosh/react-linkify-it](https://github.com/anantoghosh/react-linkify-it) - A tiny react package that turns urls (with i18n and emoji support), emails, jira tickets, twitter handles, anything you want! in your text clickable (aka linkify).
 - [nitrictech/react-animated-term](https://github.com/nitrictech/react-animated-term) - React component for rendering animated terminals
 - [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn) - Work seamlessly with partial mocks in TypeScript.
-- [fern-api/fern](https://github.com/fern-api/fern) - Generate client SDKs in multiple languages for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - Generate client SDKs for your API
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
@@ -6589,6 +6588,7 @@
 - [gokcan/react-shimmer](https://github.com/gokcan/react-shimmer) - 🌠 Async loading, performant Image component for React.js
 - [teodosii/react-notifications-component](https://github.com/teodosii/react-notifications-component) - Delightful and highly customisable React Component to notify your users
 - [vaneenige/phenomenon](https://github.com/vaneenige/phenomenon) - ⚡️ A fast 2kB low-level WebGL API.
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [eropple/taskbotjs](https://github.com/eropple/taskbotjs) - My favorite JS/TS job processing framework. Maybe yours too? [ARCHIVED]
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [jamiemccrindle/axax](https://github.com/jamiemccrindle/axax) - Async Iterator Extensions for JavaScript e.g. map, reduce, filter, flatMap, etc.
@@ -6811,7 +6811,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [brn/fuel](https://github.com/brn/fuel) - Reactjs compatible more simple and fast virtual dom view implementation.
 - [camwest/react-slot-fill](https://github.com/camwest/react-slot-fill) - Slot & Fill component for merging React subtrees together. Portal on steroids.
-- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [shakiba/planck.js](https://github.com/shakiba/planck.js) - 2D JavaScript Physics Engine
 - [pd4d10/console-importer](https://github.com/pd4d10/console-importer) - Easily import JS and CSS resources from Chrome console.
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
