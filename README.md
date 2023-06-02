@@ -6066,7 +6066,7 @@
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [eoin-barr/pathfinding-visualizer](https://github.com/eoin-barr/pathfinding-visualizer) - 
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by quark.(浏览器原生组件库，可跨各种技术栈使用)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next-gen browser-native component library. Framework-agnostic, base on web components. Powered by quark.(浏览器原生组件库，无框架组件库，可跨各种技术栈使用)
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [scalarhq/oxide](https://github.com/scalarhq/oxide) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
@@ -6223,7 +6223,7 @@
 - [101arrowz/fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
+- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
 - [pouyakary/TextGraphic](https://github.com/pouyakary/TextGraphic) - TextGraphic is a framework for creating Textual Graphics. It provides layers, styling, rich color, text justification, layouts, tables, view-ports, transparency, etc.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [rahul-jha98/sheets-database](https://github.com/rahul-jha98/sheets-database) - Library to help use a Google Sheet as a database
@@ -6272,7 +6272,7 @@
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
 - [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including colo
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [cdiggins/type-inference](https://github.com/cdiggins/type-inference) - Type Inference Library written in TypeScript
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
 - [edwinm/carbonium](https://github.com/edwinm/carbonium) - One kilobyte library for easy manipulation of the DOM
