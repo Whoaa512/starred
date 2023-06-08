@@ -1409,7 +1409,7 @@
 - [netlify/zip-it-and-ship-it](https://github.com/netlify/zip-it-and-ship-it) - Intelligently prepare Node.js Lambda functions for deployment
 - [simov/express-admin](https://github.com/simov/express-admin) - MySQL, MariaDB, PostgreSQL, SQLite admin for Node.js
 - [johansatge/jpeg-autorotate](https://github.com/johansatge/jpeg-autorotate) - 📸 Node module to rotate JPEG images based on EXIF orientation.
-- [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate integration tests for your Node.js app by recording server activity without writing a single line of code.
+- [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without writing a single line of code.
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [schibsted/WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
@@ -4982,7 +4982,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
-- [keephq/keep](https://github.com/keephq/keep) - Open source alerting management for software developers.
+- [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform
 - [nickjj/flask-db](https://github.com/nickjj/flask-db) - A Flask CLI extension to help migrate and manage your SQL database.
 - [nickjj/webserver](https://github.com/nickjj/webserver) - A zero dependency Python 3 web server to echo back an HTTP request's headers and data.
 - [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
@@ -5108,7 +5108,7 @@
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
 - [Snowdar/asv-subtools](https://github.com/Snowdar/asv-subtools) - An Open Source Tools for Speaker Recognition
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
+- [kedro-org/kedro](https://github.com/kedro-org/kedro) - A Python framework for creating maintainable and modular data science code.
 - [SinaKhalili/Folders.py](https://github.com/SinaKhalili/Folders.py) - Implementation of the Folders📂 esoteric programming language, a language with no code and just folders.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
