@@ -2059,7 +2059,7 @@
 - [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 - [lirown/graphql-custom-directives](https://github.com/lirown/graphql-custom-directives) - A collection of custom graphql directives
 - [jnejati/WProfX-DevtoolsExtension](https://github.com/jnejati/WProfX-DevtoolsExtension) - 
-- [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
+- [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
 - [75lb/array-back](https://github.com/75lb/array-back) - Isomorphic, load-anywhere arrayify function
 - [eddiejibson/limitrr](https://github.com/eddiejibson/limitrr) - Light NodeJS rate limiting and response delaying using Redis - including Express middleware.
 - [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
@@ -2405,7 +2405,6 @@
 - [sindresorhus/unstated-debug](https://github.com/sindresorhus/unstated-debug) - Debug your Unstated containers with ease
 - [eveningkid/reacto](https://github.com/eveningkid/reacto) - A sweet IDE for React.js
 - [sindresorhus/ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink
-- [sindresorhus/ink-gradient](https://github.com/sindresorhus/ink-gradient) - Gradient color component for Ink
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
 - [djadmin/passw0rd](https://github.com/djadmin/passw0rd) - 🔑securely checks a password to see if it has been previously exposed in a data breach
@@ -6642,6 +6641,7 @@
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript
 - [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - react wrapper components for smooth-dnd
+- [sindresorhus/ink-gradient](https://github.com/sindresorhus/ink-gradient) - Gradient color component for Ink
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest) - ESLint plugin for Jest
