@@ -93,7 +93,6 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [WebAssembly](#webassembly)
 - [XSLT](#xslt)
 - [ZIL](#zil)
 - [Zig](#zig)
@@ -160,7 +159,7 @@
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
-- [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern OSS Key-Value store built for today's hardware
+- [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) - cachegrand - a modern data ingestion, processing and serving platform built for today's hardware
 - [corsix/amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
 - [rxi/microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore 
@@ -2339,7 +2338,6 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [getify/CAF](https://github.com/getify/CAF) - Cancelable Async Flows (CAF)
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
-- [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [mapbox/flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥
 - [petergombos/react-pledge](https://github.com/petergombos/react-pledge) - Declarative way to track promise lifecycle states using "render props" 🕶
 - [layerJS/layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
@@ -6162,6 +6160,7 @@
 - [ashutosh1919/react-awesome-shapes](https://github.com/ashutosh1919/react-awesome-shapes) - 🌀 Insert Awesome Shapes into Your React Site with Ease.
 - [Zemnmez/do-sync](https://github.com/Zemnmez/do-sync) - perform asynchronous operations synchronously (intended for use with babel-plugin-macros)
 - [sindresorhus/ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects
+- [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based code runner that can be embedded as an iframe or used as a library.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
@@ -6623,6 +6622,7 @@
 - [data-forge/data-forge-ts](https://github.com/data-forge/data-forge-ts) - The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
+- [sindresorhus/sindresorhus-cli](https://github.com/sindresorhus/sindresorhus-cli) - The Sindre Sorhus CLI
 - [banterfm/graphql-crunch](https://github.com/banterfm/graphql-crunch) - Reduces the size of GraphQL responses by consolidating duplicate values
 - [salesforce/themify](https://github.com/salesforce/themify) - 👨‍🎨 CSS Themes Made Easy. A robust, opinionated solution to manage themes in your web application
 - [simonwep/selection](https://github.com/simonwep/selection) - ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks!
@@ -6980,10 +6980,6 @@
 - [konaraddi/web-riimote](https://github.com/konaraddi/web-riimote) - :tada: Turn your smartphone into a 3D controller with a web app
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-
-## WebAssembly 
-
-- [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based code runner that can be embedded as an iframe or used as a library.
 
 ## XSLT 
 
