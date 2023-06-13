@@ -1133,7 +1133,6 @@
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [GoLinks/GoLinks.github.io](https://github.com/GoLinks/GoLinks.github.io) - golinks website
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
-- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [tc39/proposal-array-from-async](https://github.com/tc39/proposal-array-from-async) - Draft specification for a proposed Array.fromAsync method in JavaScript.
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
@@ -1778,7 +1777,7 @@
 - [intoli/slice](https://github.com/intoli/slice) - A JavaScript implementation of Python's negative indexing and extended slice syntax.
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
 - [sindresorhus/sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [terkelg/sqliterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
@@ -5038,6 +5037,7 @@
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
+- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 - [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -5917,7 +5917,7 @@
 - [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python) - Bazel Python Rules
 - [stackb/bazel-gazelle-debug](https://github.com/stackb/bazel-gazelle-debug) - Gazelle extension for debugging what gazelle is doing
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust) - Rust rules for Bazel
-- [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc) - Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja)
+- [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc) - Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)
 - [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib) - Common useful functions and rules for Bazel
 - [aspect-build/rules_js](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running Node.js tools and building JavaScript projects
 - [bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis) - An API for caching and execution of actions on a remote system.
@@ -6403,7 +6403,7 @@
 - [DanielMSchmidt/apollo-opentracing](https://github.com/DanielMSchmidt/apollo-opentracing) - Performance trace your Apollo GraphQL server with Opentracing
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native
+- [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [apollographql/space-kit](https://github.com/apollographql/space-kit) - 👩‍🚀 Home base for Apollo's design system: https://space-kit.netlify.com
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
@@ -6750,7 +6750,7 @@
 - [AEB-labs/graphql-weaver](https://github.com/AEB-labs/graphql-weaver) - A tool to combine, link and transform GraphQL schemas
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (144 bytes) event emitter library for JavaScript
+- [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (153 bytes) event emitter library for JavaScript
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [visgl/luma.gl](https://github.com/visgl/luma.gl) - High-performance Toolkit for WebGL-based Data Visualization
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
