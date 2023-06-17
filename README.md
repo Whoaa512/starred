@@ -3972,7 +3972,6 @@
 - [auchenberg/chrome-devtools-app](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app via Electron
 - [sabiwara/respect](https://github.com/sabiwara/respect) - 
 - [Netflix/falcor](https://github.com/Netflix/falcor) - A JavaScript library for efficient data fetching
-- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
 - [alidavut/locus](https://github.com/alidavut/locus) - Locus is a debugging module for node.js
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -5979,6 +5978,7 @@
 
 ## TypeScript 
 
+- [wmaurer/vscode-change-case](https://github.com/wmaurer/vscode-change-case) - Change Case Extension for Visual Studio Code
 - [LevanKvirkvelia/salute](https://github.com/LevanKvirkvelia/salute) - A simple and declarative way to control LLMs
 - [juanluispaz/ts-sql-query](https://github.com/juanluispaz/ts-sql-query) - Type-safe SQL query builder like QueryDSL or JOOQ in Java or Linq in .Net for TypeScript with MariaDB, MySql, Oracle, PostgreSql, Sqlite and SqlServer support.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
@@ -6931,6 +6931,7 @@
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
+- [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
 - [PaulBGD/requireAsync](https://github.com/PaulBGD/requireAsync) - Require any module or file async in NodeJS.
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
