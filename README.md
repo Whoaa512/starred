@@ -313,7 +313,7 @@
 - [diracdeltas/vstSpleeter](https://github.com/diracdeltas/vstSpleeter) - A VST interface to Spleeter
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux and Windows
 - [sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse) - FUSE driver for APFS (Apple File System)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [GauravDawra/Beast](https://github.com/GauravDawra/Beast) - A build system built for speed and power
@@ -1515,6 +1515,7 @@
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [matiasvlevi/Dann](https://github.com/matiasvlevi/Dann) - Deep Neural Network Library for JavaScript.
 - [blueconic/node-oom-heapdump](https://github.com/blueconic/node-oom-heapdump) - Create a V8 heap snapshot right before an "Out of Memory" error occurs, or create a heap snapshot or CPU profile on request.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [no-chris/chord-symbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -5030,7 +5031,7 @@
 - [platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [code-kern-ai/bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution -- all with a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
 - [tanmoysrt/lumi](https://github.com/tanmoysrt/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
@@ -6225,7 +6226,6 @@
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a documentation site solution.
