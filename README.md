@@ -497,7 +497,7 @@
 - [csstools/postcss-preset-env](https://github.com/csstools/postcss-preset-env) - Convert modern CSS into something browsers understand
 - [joerez/Woah.css](https://github.com/joerez/Woah.css) - CSS Animation Library for eccentrics
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
-- [evgenyrodionov/flexboxgrid2](https://github.com/evgenyrodionov/flexboxgrid2) - Modern 12 column grid system based on flex property
+- [imevro/flexboxgrid2](https://github.com/imevro/flexboxgrid2) - Modern 12 column grid system based on flex property
 - [socketsupply/scratches](https://github.com/socketsupply/scratches) - A scratchpad with node & browser apis.
 - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
@@ -2293,7 +2293,7 @@
 - [klaudiosinani/singlie](https://github.com/klaudiosinani/singlie) - Singly circular & linear linked lists for ES6
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
 - [indexzero/nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
-- [Canner/cannercms](https://github.com/Canner/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+- [CannerCMS/cannercms](https://github.com/CannerCMS/cannercms) - ⚡️ Content Management Framework creates custom CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
 - [jsforce/jsforce](https://github.com/jsforce/jsforce) - Salesforce API Library for JavaScript applications (both on Node.js and web browser)
 - [syt123450/giojs](https://github.com/syt123450/giojs) - 🌏  A Declarative 3D Globe Data Visualization Library built with Three.js
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -3592,7 +3592,7 @@
 - [jgornick/asyncp](https://github.com/jgornick/asyncp) - Port of the async library to use Promises.
 - [tgriesser/checkit](https://github.com/tgriesser/checkit) - simple, flexible validations for node and the browser
 - [dresende/node-orm2](https://github.com/dresende/node-orm2) - Object Relational Mapping
-- [evgenyrodionov/redux-diff-logger](https://github.com/evgenyrodionov/redux-diff-logger) - Diff logger between states for redux
+- [imevro/redux-diff-logger](https://github.com/imevro/redux-diff-logger) - Diff logger between states for redux
 - [ryanflorence/async-props](https://github.com/ryanflorence/async-props) - Co-located data loading for React Router
 - [ryanflorence/react-router-async-props](https://github.com/ryanflorence/react-router-async-props) - Data dependency loading and updating for React Router applications.
 - [olahol/reactpack](https://github.com/olahol/reactpack) - :package: build your react apps with one command and one `npm i`.
@@ -5999,7 +5999,7 @@
 
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems
-- [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome) - Studying done the correct way
+- [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome) - Web-based interactive flashcard learning software
 - [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [vinejs/vine](https://github.com/vinejs/vine) - VineJS is a form data validation library for Node.js
 - [dai-shi/waku](https://github.com/dai-shi/waku) - Minimalistic React Framework
