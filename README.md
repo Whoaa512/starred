@@ -399,7 +399,7 @@
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-- [borrowedcow/DeskGap](https://github.com/borrowedcow/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
+- [branchseer/DeskGap](https://github.com/branchseer/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
 - [perone/euclidesdb](https://github.com/perone/euclidesdb) - A multi-model machine learning feature embedding database
 - [LUX-Core/lux](https://github.com/LUX-Core/lux) - LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage)
@@ -1571,7 +1571,7 @@
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli) - 📟 CLI to create new Node.js CLI applications in minutes not hours.
 - [00000o1/servedata](https://github.com/00000o1/servedata) - File-system-based database (in the git repo), with a server attached with users and access control for serving this data. See an example in production:
-- [00000o1/sirdb](https://github.com/00000o1/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
+- [dosyago/sirdb](https://github.com/dosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [mafintosh/docker-parse-image](https://github.com/mafintosh/docker-parse-image) - Parse docker image urls
 - [ethanent/protocore](https://github.com/ethanent/protocore) - Specify and deploy performant binary protocol structures in Node
 - [guileen/node-sendmail](https://github.com/guileen/node-sendmail) - send mail without setting up a SMTP server
@@ -1784,7 +1784,7 @@
 - [intoli/slice](https://github.com/intoli/slice) - A JavaScript implementation of Python's negative indexing and extended slice syntax.
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [sindresorhus/sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [terkelg/sqliterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
@@ -4376,7 +4376,7 @@
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [worldveil/photomosaic](https://github.com/worldveil/photomosaic) - Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search
 - [stas00/ipyexperiments](https://github.com/stas00/ipyexperiments) - jupyter/ipython experiment containers for GPU and general RAM re-use
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 - [cedrickchee/data-science-notebooks](https://github.com/cedrickchee/data-science-notebooks) - Data science Python notebooks—a collection of Jupyter notebooks on machine learning, deep learning, statistical inference, data analysis and visualization.
 - [simonw/cougar-or-not](https://github.com/simonw/cougar-or-not) - An API for identifying cougars v.s. bobcats v.s. other USA cat species
 - [radekosmulski/quickdraw](https://github.com/radekosmulski/quickdraw) - 
@@ -5031,7 +5031,7 @@
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
 - [platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [code-kern-ai/bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
@@ -5215,7 +5215,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [clarencecastillo/alfred-powerthesaurus](https://github.com/clarencecastillo/alfred-powerthesaurus) - Search Powerthesaurus synonyms and antonyms from Alfred
-- [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [andrewferguson/YahooGroups-Archiver](https://github.com/andrewferguson/YahooGroups-Archiver) - A simple Python script that archives all the messages from a public Yahoo Group
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
@@ -5774,7 +5774,7 @@
 - [mozilla/mentat](https://github.com/mozilla/mentat) - UNMAINTAINED A persistent, relational store inspired by Datomic and DataScript.
 - [iliana/rust-crowbar](https://github.com/iliana/rust-crowbar) - Wrapper to simplify writing AWS Lambda functions in Rust (using the Python execution environment)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects written in various languages.
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [pcwalton/sprocketnes](https://github.com/pcwalton/sprocketnes) - NES emulator written in Rust
@@ -6586,7 +6586,7 @@
 - [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
-- [jaredwray/cacheable-request](https://github.com/jaredwray/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support
+- [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - Wrap native HTTP requests with RFC compliant cache support
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
