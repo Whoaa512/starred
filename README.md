@@ -189,6 +189,7 @@
 - [yandex/odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 - [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
 - [ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL) - A cloud-native database based on PostgreSQL developed by Alibaba Cloud.
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
@@ -290,6 +291,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [siara-cc/sqlite_blaster](https://github.com/siara-cc/sqlite_blaster) - Create huge Sqlite indexes at breakneck speeds
 - [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake.
+- [automerge/automerge-go](https://github.com/automerge/automerge-go) - 
 - [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
@@ -742,7 +744,6 @@
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [loderunner/scrt](https://github.com/loderunner/scrt) - A command-line secret manager for developers, sysadmins, and devops.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [automerge/automerge-go](https://github.com/automerge/automerge-go) - 
 - [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [lqs/sqlingo](https://github.com/lqs/sqlingo) - 💥 A lightweight DSL & ORM which helps you to write SQL in Go.
 - [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL
@@ -1545,7 +1546,6 @@
 - [elementz-ui/elementz](https://github.com/elementz-ui/elementz) - :space_invader: A React UI Component library for building modern applications easily & quickly
 - [mickhansen/graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
 - [hemanth/flat-xkcd](https://github.com/hemanth/flat-xkcd) - Exploring Flat Data Workflow
-- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [bestony/neshouse](https://github.com/bestony/neshouse) - NESHouse.com —— An open source implementation of ClubHouse
 - [doersino/tixyz](https://github.com/doersino/tixyz) - A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.
@@ -1612,7 +1612,6 @@
 - [Debdut/omg-curry](https://github.com/Debdut/omg-curry) - Curry All Code
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
 - [eclipsesource/tabris-js-cli](https://github.com/eclipsesource/tabris-js-cli) - Command line interface for Tabris.js
-- [deanoemcke/thegreatdiscarder](https://github.com/deanoemcke/thegreatdiscarder) - 
 - [Debdut/react-fast-charts](https://github.com/Debdut/react-fast-charts) - Blazing Fast Charting Library in React with loading time less than 50ms
 - [chrisjpatty/flume](https://github.com/chrisjpatty/flume) - Extract logic from your apps with a user-friendly node editor powered by React.
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
@@ -2090,7 +2089,7 @@
 - [getify/TNG-Hooks](https://github.com/getify/TNG-Hooks) - Provides React-inspired 'hooks' like useState(..) for stand-alone functions
 - [fwilkerson/clean-set](https://github.com/fwilkerson/clean-set) - A deep assignment alternative to the object spread operator and Object.assign
 - [deliciousinsights/mongoose-pii](https://github.com/deliciousinsights/mongoose-pii) - A Mongoose plugin that lets you transparently cipher stored PII and use securely-hashed passwords
-- [QubitProducts/urlite](https://github.com/QubitProducts/urlite) - A very small, fast, dependency free url parser and formatter for nodejs and the web
+- [alanclarke/urlite](https://github.com/alanclarke/urlite) - A very small, fast, dependency free url parser and formatter for nodejs and the web
 - [40818419/react-code-input](https://github.com/40818419/react-code-input) - React component for entering and validating PIN code.
 - [drcmda/mauerwerk](https://github.com/drcmda/mauerwerk) - ⚒  A react-spring driven masonry-like grid with enter/exit and shared element transitions
 - [expert-m/react-split-testing](https://github.com/expert-m/react-split-testing) - Simple A/B testing component for React
@@ -2131,7 +2130,7 @@
 - [jonrohan/alfred-figma](https://github.com/jonrohan/alfred-figma) - Alfred workflow to quick link figma projects and files
 - [transitive-bullshit/react-suspense-polyfill](https://github.com/transitive-bullshit/react-suspense-polyfill) - Polyfill for the React Suspense API 😮
 - [sindresorhus/filter-console](https://github.com/sindresorhus/filter-console) - Filter out unwanted `console.log()` output
-- [Tencent/omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架框架
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [gpietro/react-numpad](https://github.com/gpietro/react-numpad) - A numpad for number, date and time, built with and for React.
 - [overlookmotel/got-resume](https://github.com/overlookmotel/got-resume) - Fetch via HTTP/HTTPS using got with automatic resume after network failures
 - [mathiasbynens/hashtag-regex](https://github.com/mathiasbynens/hashtag-regex) - A regular expression to match hashtag identifiers as per the Unicode Standard.
@@ -3489,7 +3488,7 @@
 - [jacobarriola/github-feed-react](https://github.com/jacobarriola/github-feed-react) - A basic React app that fetches a user's public Github activity
 - [jesstelford/react-bsod](https://github.com/jesstelford/react-bsod) - :large_blue_circle: A Blue Screen Of Death (bsod) component to display your errors.
 - [googlecreativelab/giantemoji](https://github.com/googlecreativelab/giantemoji) - 
-- [QubitProducts/positions](https://github.com/QubitProducts/positions) - A small dom element positioning lib inspired by jquery-ui/position
+- [alanclarke/positions](https://github.com/alanclarke/positions) - A small dom element positioning lib inspired by jquery-ui/position
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [marpi/immersive](https://github.com/marpi/immersive) - Immersive Three.js Workshop
 - [markwatsonatx/jess](https://github.com/markwatsonatx/jess) - A Serverless and GUI-less app that tracks your budget
@@ -5035,7 +5034,7 @@
 - [code-kern-ai/bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
-- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
+- [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
 - [tanmoysrt/lumi](https://github.com/tanmoysrt/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [deanishe/alfred-convert](https://github.com/deanishe/alfred-convert) - Convert between different units in Alfred
@@ -5139,7 +5138,7 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [rednaks/django-async-orm](https://github.com/rednaks/django-async-orm) - Bringing Async Capabilities to django ORM
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
 - [ZhengkunTian/OpenTransformer](https://github.com/ZhengkunTian/OpenTransformer) - A No-Recurrence Sequence-to-Sequence Model for Speech Recognition
 - [thought-machine/pleasings](https://github.com/thought-machine/pleasings) - Addons & new build rules for Please
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
@@ -6370,7 +6369,7 @@
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
-- [eemeli/yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML
+- [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
 - [milesj/boost](https://github.com/milesj/boost) - 🚀 A collection of type-safe cross-platform packages for building robust server-side and client-side systems.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [microsoft/dtslint](https://github.com/microsoft/dtslint) - A utility built on TSLint for linting TypeScript declaration (.d.ts) files.
