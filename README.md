@@ -1323,7 +1323,6 @@
 
 ## Java 
 
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [thegeekyasian/geo-assist](https://github.com/thegeekyasian/geo-assist) - Geo Assist is a spatial library to manage spatial data in-memory.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [mwiede/jsch](https://github.com/mwiede/jsch) - fork of the popular jsch library
@@ -1834,7 +1833,6 @@
 - [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
 - [chrisveness/geodesy](https://github.com/chrisveness/geodesy) - Libraries of geodesy functions implemented in JavaScript
 - [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) - 361000 becomes "6 minutes, 1 second"
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [Yomguithereal/mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript/TypeScript language.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [istanbuljs/v8-to-istanbul](https://github.com/istanbuljs/v8-to-istanbul) - convert from v8 coverage format to istanbul's format
@@ -3014,7 +3012,7 @@
 - [graypegg/chromatism](https://github.com/graypegg/chromatism) - :rainbow: A simple set of utility functions for colours.
 - [DataHiveDJW/nodexchange](https://github.com/DataHiveDJW/nodexchange) - A Node.js scaling & load-balancing library
 - [mgcrea/node-easyrsa](https://github.com/mgcrea/node-easyrsa) - Node.js public key infrastructure management library inspired by EasyRSA.
-- [stacks-network/blockstack-browser](https://github.com/stacks-network/blockstack-browser) - The Blockstack Browser
+- [stacks-archive/blockstack-browser](https://github.com/stacks-archive/blockstack-browser) - The Blockstack Browser
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [gertjvr/serverless-plugin-simulate](https://github.com/gertjvr/serverless-plugin-simulate) - This is a proof of concept to see if we can replicate Amazon API Gateway using docker images to run lambda
 - [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled
@@ -3361,7 +3359,6 @@
 - [choojs/choo](https://github.com/choojs/choo) - :steam_locomotive::train: - sturdy 4kb frontend framework
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [web-pal/DBGlass](https://github.com/web-pal/DBGlass) - PostgreSQL client built with Electron.
-- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [postcss/postcss-devtools](https://github.com/postcss/postcss-devtools) - Log execution time for each plugin in a PostCSS instance.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [osnr/dagre-react](https://github.com/osnr/dagre-react) - :arrow_heading_down: React component to lay out and render directed graphs.
@@ -4540,6 +4537,7 @@
 
 ## Others 
 
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [dtinth/superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，
@@ -5056,7 +5054,7 @@
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
-- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
+- [ainfosec/FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone. Follow and ★ to show your support!
 - [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -5642,7 +5640,7 @@
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls` for the pros.
+- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
@@ -6001,6 +5999,7 @@
 
 ## TypeScript 
 
+- [lesgrieve/paste-indent](https://github.com/lesgrieve/paste-indent) - Visual Studio Code Extension meant to recreate the paste_and_indent feature in Sublime Text 3.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems
@@ -6459,6 +6458,7 @@
 - [Nishkalkashyap/Quark-electron](https://github.com/Nishkalkashyap/Quark-electron) - Quark is a cross-platform, integrated development environment for rapidly building - functional , prototypal projects, written in HTML, CSS and JavaScript with native desktop app like capabilities.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -6904,6 +6904,7 @@
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
 - [skovhus/jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest https://github.com/facebook/jest 👾
 - [holdfenytolvaj/pogi](https://github.com/holdfenytolvaj/pogi) - Javascript library for PostgreSQL and node.js
+- [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [sindresorhus/p-props](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
