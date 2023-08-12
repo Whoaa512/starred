@@ -991,7 +991,7 @@
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [westerndigitalcorporation/blb](https://github.com/westerndigitalcorporation/blb) - Blb is a distributed object storage system designed for use on bare metal in cluster computing environments.
