@@ -1271,7 +1271,6 @@
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [mozilla-appmaker/appmaker](https://github.com/mozilla-appmaker/appmaker) - Appmaker was an exploration in making app authoring available to non-developers
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [matteoroversi/svbtle-tumblr-theme](https://github.com/matteoroversi/svbtle-tumblr-theme) - A Tumblr theme inspired by svbtle.com
 - [madrobby/scriptaculous](https://github.com/madrobby/scriptaculous) - script.aculo.us is an open-source JavaScript framework for visual effects and interface behaviours.
 
@@ -1970,7 +1969,7 @@
 - [vercel/micro-dev](https://github.com/vercel/micro-dev) - The development environment for `micro`
 - [Whoaa512/pdf-generator-experiment](https://github.com/Whoaa512/pdf-generator-experiment) - An experiement in building a JSX ready playground for making PDFs
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
-- [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer
+- [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string, Buffer, ArrayBuffer or array
 - [schibsted/jsx-pdf](https://github.com/schibsted/jsx-pdf) - Generate PDFs using JSX! 🎯
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -6991,6 +6990,7 @@
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [orbitjs/orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 ## V 
 
