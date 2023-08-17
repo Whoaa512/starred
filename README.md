@@ -257,6 +257,7 @@
 
 ## C# # 
 
+- [peterhaneve/ONIMods](https://github.com/peterhaneve/ONIMods) - Peter Han's mods for Oxygen Not Included
 - [Mayall0513/ONIMods](https://github.com/Mayall0513/ONIMods) - 
 - [Pt-Djefferson/ONIMods](https://github.com/Pt-Djefferson/ONIMods) - 
 - [microsoft/ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
@@ -458,6 +459,7 @@
 - [JunoVR/MeditationVR](https://github.com/JunoVR/MeditationVR) - 
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [OpenAgricultureFoundation/gro-microcontroller](https://github.com/OpenAgricultureFoundation/gro-microcontroller) - **ALPHA VERSION** Code running on bot's microcontroller (Arduino Mega 2560).
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [NationalAssociationOfRealtors/libRETS](https://github.com/NationalAssociationOfRealtors/libRETS) - libRETS is RETS client library written in C++ that allows rapid development of RETS client applications. By saving the developer from dealing with the RETS protocol details, the application writer can
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [beark/ftl](https://github.com/beark/ftl) - C++ template library for fans of functional programming
@@ -1385,7 +1387,6 @@
 - [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 - [AWSinAction/apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [prezi/spaghetti](https://github.com/prezi/spaghetti) - Type-safe APIs for compile-to-JavaScript modules
@@ -4968,7 +4969,7 @@
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $135M cap.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
@@ -6091,7 +6092,7 @@
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
-- [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
@@ -6102,7 +6103,7 @@
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [eoin-barr/pathfinding-visualizer](https://github.com/eoin-barr/pathfinding-visualizer) - 
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(跨端/跨框架的原生 UI 组件库，即插即用。)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(跨端/跨框架原生组件库，即插即用。)
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [scalarhq/oxide](https://github.com/scalarhq/oxide) - Rust's Option&lt;T&gt; and Result&lt;T, E&gt;, implemented for TypeScript.
