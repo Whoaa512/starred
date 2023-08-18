@@ -4470,6 +4470,7 @@
 
 ## Mustache 
 
+- [sentry-kubernetes/charts](https://github.com/sentry-kubernetes/charts) - Easily deploy Sentry on your Kubernetes Cluster
 - [Slurmio/school-dev-k8s](https://github.com/Slurmio/school-dev-k8s) - 
 - [emojicode/emojicode.github.io](https://github.com/emojicode/emojicode.github.io) - The Emojicode Documentation
 
@@ -5555,7 +5556,7 @@
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [arkadiyt/aws_public_ips](https://github.com/arkadiyt/aws_public_ips) - Fetch all public IP addresses tied to your AWS account. Works with IPv4/IPv6, Classic/VPC networking, and across all AWS services
 - [vdaubry/github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github :
-- [flippercloud/flipper](https://github.com/flippercloud/flipper) - :dolphin: Beautiful, performant feature flags for Ruby.
+- [flippercloud/flipper](https://github.com/flippercloud/flipper) - 🐬 Beautiful, performant feature flags for Ruby.
 - [github/graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries
 - [fixerAPI/fixer](https://github.com/fixerAPI/fixer) - A foreign exchange rates and currency conversion API
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
@@ -5577,6 +5578,7 @@
 
 ## Rust 
 
+- [allada/turbo-cache](https://github.com/allada/turbo-cache) - Bazel CAS server implementation in rust. Built for stability and speed.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -5594,7 +5596,6 @@
 - [cloudquery/pg_gpt](https://github.com/cloudquery/pg_gpt) - Experimental extension that brings OpenAI API to your PostgreSQL to run queries in human language.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) - PyO3-based Rust bindings of the NumPy C-API
-- [allada/turbo-cache](https://github.com/allada/turbo-cache) - Bazel CAS server implementation in rust. Built for stability and speed.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [matt-kimball/allocscope](https://github.com/matt-kimball/allocscope) - allocscope  -  a memory tracking tool
