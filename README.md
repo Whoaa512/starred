@@ -836,7 +836,7 @@
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [m-mizutani/zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to set environment variable by various method
-- [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Caddy-SSH is a general-purpose, extensible, modular, memory-safe SSH server built in Go
+- [kadeessh/kadeessh](https://github.com/kadeessh/kadeessh) - Kadeessh (formerly Caddy-SSH) is a general-purpose, extensible, modular, memory-safe SSH server built in Go
 - [hack-pad/hackpadfs](https://github.com/hack-pad/hackpadfs) - An extensible file system abstraction for Go. File systems, composable interfaces, and test suites.
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming & outgoing events.
 - [dropbox/dbx_build_tools](https://github.com/dropbox/dbx_build_tools) - Dropbox's Bazel rules and tools
@@ -5627,7 +5627,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
-- [hermitcore/rusty-hermit](https://github.com/hermitcore/rusty-hermit) - RustyHermit - A Rust-based, lightweight unikernel
+- [hermitcore/hermit-rs](https://github.com/hermitcore/hermit-rs) - Hermit for Rust.
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
@@ -6093,7 +6093,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable diffusion for real-time music generation (web app)
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and user management for the passkey era
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
@@ -6429,7 +6429,7 @@
 - [jondot/storybook-cartesian](https://github.com/jondot/storybook-cartesian) - Automatically generate stories for all of your component variants
 - [getcampsite/campkit](https://github.com/getcampsite/campkit) - Build serverless Node.js microservices fast
 - [caderek/benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Convert cURL commands into code
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [sleistner/vscode-fileutils](https://github.com/sleistner/vscode-fileutils) - Visual Studio Code Extension
