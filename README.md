@@ -4357,7 +4357,6 @@
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency) - Measures the latency between CPU cores
 - [pedropro/TACO](https://github.com/pedropro/TACO) - 🌮 Trash Annotations in Context Dataset Toolkit
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [batfish/pybatfish](https://github.com/batfish/pybatfish) - Python client for Batfish: https://github.com/batfish/batfish
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
@@ -5105,7 +5104,7 @@
 - [vlnahp/Btcbf](https://github.com/vlnahp/Btcbf) - Bitcoin private key brute force tool, written in python. Also can be used as a bitcoin wallet generator.
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
 - [daggaz/json-stream](https://github.com/daggaz/json-stream) - Simple streaming JSON parser and encoder.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -6140,6 +6139,7 @@
 - [peterkhayes/pitchfinder](https://github.com/peterkhayes/pitchfinder) - A compilation of pitch detection algorithms for Javascript.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch) - ⚡ Fetching and realtime data exchange framework.
@@ -6816,7 +6816,7 @@
 - [ionic-team/stencil](https://github.com/ionic-team/stencil) - A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, and tradi
 - [takeoff-env/takeoff](https://github.com/takeoff-env/takeoff) - A rapid development environment using docker for convenience.
 - [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
-- [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
+- [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [BabylonJS/Spector.js](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
