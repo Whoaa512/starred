@@ -458,7 +458,6 @@
 - [JunoVR/MeditationVR](https://github.com/JunoVR/MeditationVR) - 
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [OpenAgricultureFoundation/gro-microcontroller](https://github.com/OpenAgricultureFoundation/gro-microcontroller) - **ALPHA VERSION** Code running on bot's microcontroller (Arduino Mega 2560).
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [NationalAssociationOfRealtors/libRETS](https://github.com/NationalAssociationOfRealtors/libRETS) - libRETS is RETS client library written in C++ that allows rapid development of RETS client applications. By saving the developer from dealing with the RETS protocol details, the application writer can
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [beark/ftl](https://github.com/beark/ftl) - C++ template library for fans of functional programming
@@ -718,6 +717,7 @@
 
 ## Go 
 
+- [tmc/smol-dev-go](https://github.com/tmc/smol-dev-go) - smol-dev-go, a Go implementation of smol developer
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multipl
 - [ucarion/urlpath](https://github.com/ucarion/urlpath) - A Golang library for matching REST-like URL path patterns
 - [Humpheh/goboy](https://github.com/Humpheh/goboy) - Multi-platform Nintendo Game Boy Color emulator written in Go
@@ -1156,7 +1156,6 @@
 - [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 - [tc39/proposal-array-from-async](https://github.com/tc39/proposal-array-from-async) - Draft specification for a proposed Array.fromAsync method in JavaScript.
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
-- [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - 🧪 Prototyping Tool for exporting React/Typescript Applications!
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [SpeechResearch/speechresearch.github.io](https://github.com/SpeechResearch/speechresearch.github.io) - 
@@ -1393,6 +1392,7 @@
 - [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 - [AWSinAction/apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [prezi/spaghetti](https://github.com/prezi/spaghetti) - Type-safe APIs for compile-to-JavaScript modules
@@ -2647,7 +2647,7 @@
 - [vitalets/websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [dollarshaveclub/es-check](https://github.com/dollarshaveclub/es-check) - Checks the version of ES in JavaScript files with simple shell commands  🏆
@@ -3698,7 +3698,6 @@
 - [shichongrui/json-schema-dynamo](https://github.com/shichongrui/json-schema-dynamo) - 
 - [tomek-he-him/isomorphic-ensure](https://github.com/tomek-he-him/isomorphic-ensure) - :last_quarter_moon: Use webpack loaders seamlessly – in node as well as in the browser.
 - [masaakim/css-specificity](https://github.com/masaakim/css-specificity) - CSS selector specificity calculator
-- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [arqex/react-datetime](https://github.com/arqex/react-datetime) - A lightweight but complete datetime picker react component.
 - [yilenpan/algorithmofanalgorithm](https://github.com/yilenpan/algorithmofanalgorithm) - 
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -3762,7 +3761,7 @@
 - [beginner-corp/lambda](https://github.com/beginner-corp/lambda) - :heart_decoration: Authoring tools for AWS Lambda functions
 - [brianleroux/bots](https://github.com/brianleroux/bots) - :star2: Build a Bot with AWS Lambda
 - [Lucifier129/react-lite](https://github.com/Lucifier129/react-lite) - An implementation of React v15.x that optimizes for small script size
-- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
+- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [tonyhb/redux-ui](https://github.com/tonyhb/redux-ui) - Easy UI state management for react redux
 - [erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - A proposal for bundling reducers, action types and actions when using Redux
@@ -4348,6 +4347,7 @@
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [rasbt/machine-learning-notes](https://github.com/rasbt/machine-learning-notes) - Collection of useful machine learning codes and snippets (originally intended for my personal use)
 - [roy-hachnochi/cross-domain-compositing](https://github.com/roy-hachnochi/cross-domain-compositing) - 
 - [williamyang1991/VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
@@ -4359,7 +4359,7 @@
 - [pedropro/TACO](https://github.com/pedropro/TACO) - 🌮 Trash Annotations in Context Dataset Toolkit
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [batfish/pybatfish](https://github.com/batfish/pybatfish) - Python client for Batfish: https://github.com/batfish/batfish
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [fastai/fastai2](https://github.com/fastai/fastai2) - Temporary home for fastai v2 while it's being developed
 - [AppleHolic/source_separation](https://github.com/AppleHolic/source_separation) - Deep learning based speech source separation using Pytorch
@@ -4985,14 +4985,13 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [asphalt-framework/asphalt](https://github.com/asphalt-framework/asphalt) - Asphalt application framework (core)
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning) - List of papers studying machine learning through the lens of category theory
 - [odashi/davinci-functions](https://github.com/odashi/davinci-functions) - Library to ask OpenAI GPT for generating objects on the Python runtime.
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMA using GPTQ
-- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
 - [ma-xu/Context-Cluster](https://github.com/ma-xu/Context-Cluster) - [ICLR 2023 Oral] Image as Set of Points
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
@@ -5159,7 +5158,7 @@
 - [samschott/maestral](https://github.com/samschott/maestral) - Open-source Dropbox client for macOS and Linux
 - [isidentical/refactor](https://github.com/isidentical/refactor) - AST-based fragmental source code refactoring toolkit for Python
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
-- [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [mda590/cloudping.co](https://github.com/mda590/cloudping.co) - AWS Inter-Region Latency Monitoring
@@ -5416,7 +5415,7 @@
 - [pichillilorenzo/JavaScriptEnhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) - JavaScript Enhancements is a plugin for Sublime Text 3. It offers not only a smart javascript autocomplete but also a lot of features about creating, developing and managing javascript projects (real-
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) - Code for "Learning to Generate Reviews and Discovering Sentiment"
-- [deepmind/sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
+- [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -5651,7 +5650,7 @@
 - [containers/krunvm](https://github.com/containers/krunvm) - Create microVMs from OCI images
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [dhruvkb/pls](https://github.com/dhruvkb/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
+- [pls-rs/pls](https://github.com/pls-rs/pls) - `pls` is a prettier and powerful `ls(1)` for the pros.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm) - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
@@ -6010,6 +6009,7 @@
 
 ## TypeScript 
 
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript.
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [dlight-js/dlight](https://github.com/dlight-js/dlight) - Dlight.js
@@ -6044,7 +6044,7 @@
 - [anantoghosh/react-linkify-it](https://github.com/anantoghosh/react-linkify-it) - A tiny react package that turns urls (with i18n and emoji support), emails, jira tickets, twitter handles, anything you want! in your text clickable (aka linkify).
 - [nitrictech/react-animated-term](https://github.com/nitrictech/react-animated-term) - React component for rendering animated terminals
 - [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn) - Work seamlessly with partial mocks in TypeScript.
-- [fern-api/fern](https://github.com/fern-api/fern) - Generate SDKs and Documentation for your API
+- [fern-api/fern](https://github.com/fern-api/fern) - SDKs and Documentation for your API
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
@@ -6955,6 +6955,7 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [arabold/serverless-sentry-plugin](https://github.com/arabold/serverless-sentry-plugin) - This plugin adds automatic forwarding of errors and exceptions to Sentry (https://sentry.io) and Serverless (https://serverless.com)
 - [keeganstreet/specificity](https://github.com/keeganstreet/specificity) - A JavaScript module for calculating the specificity of CSS selectors
+- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
 - [ademilter/bricklayer](https://github.com/ademilter/bricklayer) - Lightweight and independent Pinterest-like cascading grid layout library
