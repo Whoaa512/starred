@@ -153,7 +153,6 @@
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
-- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [justjake/quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Safely execute untrusted Javascript in your Javascript, and execute synchronous code that uses async functions
 - [Luos-io/luos_engine](https://github.com/Luos-io/luos_engine) - Open-source and real-time orchestrator for cyber-physical-systems, to easily design, test and deploy embedded applications and digital twins.
 - [apache/age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
@@ -317,7 +316,7 @@
 - [simongog/sdsl-lite](https://github.com/simongog/sdsl-lite) - Succinct Data Structure Library 2.0
 - [diracdeltas/vstSpleeter](https://github.com/diracdeltas/vstSpleeter) - A VST interface to Spleeter
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-- [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
+- [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux and Windows
 - [sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse) - FUSE driver for APFS (Apple File System)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1070,7 +1069,7 @@
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [olivere/elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [coyove/goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [stapelberg/expanderr](https://github.com/stapelberg/expanderr) - expands the Go Call Expression under your cursor to check errors
@@ -1149,6 +1148,7 @@
 - [mprimi/portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
+- [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
 - [GoLinks/GoLinks.github.io](https://github.com/GoLinks/GoLinks.github.io) - golinks website
@@ -1402,6 +1402,7 @@
 
 ## JavaScript 
 
+- [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [reactpractice-dev/unit-tests-jsx](https://github.com/reactpractice-dev/unit-tests-jsx) - 
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
@@ -1414,7 +1415,6 @@
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [mozilla-frontend-infra/react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - 
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-- [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
@@ -6057,6 +6057,7 @@
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [marblejs/marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.
+- [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
 - [TanStack/bling](https://github.com/TanStack/bling) - 💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.
 - [zckly/create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
 - [meza/trance-stack](https://github.com/meza/trance-stack) - A production-ready Remix stack built for AWS Lambda. Authentication. Security, Internationalization, Feature Flags, Analytics, Tests, Storybook, Ephemeral and Production CI/CD and more.
