@@ -746,7 +746,7 @@
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [mszostok/version](https://github.com/mszostok/version) - 🧬 Pure DNA of your CLI!
 - [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
-- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Small utility program to perform multiple operations for a given subnet/CIDR ranges.
+- [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) - Utility program to perform multiple operations for a given subnet/CIDR ranges.
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 - [pkg/errors](https://github.com/pkg/errors) - Simple error handling primitives
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
@@ -821,6 +821,7 @@
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [go-test/deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -1407,7 +1408,7 @@
 
 ## JavaScript 
 
-- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte
+- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [reactpractice-dev/unit-tests-jsx](https://github.com/reactpractice-dev/unit-tests-jsx) - 
@@ -1420,6 +1421,7 @@
 - [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [mozilla-frontend-infra/react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
@@ -1565,7 +1567,7 @@
 - [doersino/tixyz](https://github.com/doersino/tixyz) - A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.
 - [nodeshift/opossum](https://github.com/nodeshift/opossum) - Node.js circuit breaker - fails fast  ⚡️
 - [sergioramos/remark-hint](https://github.com/sergioramos/remark-hint) - Sprinkle hints/tips/warnings on your documents
-- [oblador/hush](https://github.com/oblador/hush) - Noiseless Browsing – Content Blocker for Safari
+- [oblador/hush](https://github.com/oblador/hush) - 🤫 Noiseless Browsing – Content Blocker for Safari
 - [simoneb/fast-folder-size](https://github.com/simoneb/fast-folder-size) - Node CLI or module to calculate folder size
 - [dijs/wiki](https://github.com/dijs/wiki) - Wikipedia Interface for Node.js
 - [maryrosecook/gitlet](https://github.com/maryrosecook/gitlet) - Git implemented in JavaScript
@@ -4450,7 +4452,6 @@
 
 ## MDX 
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [phuocng/1loc](https://github.com/phuocng/1loc) - What's your favorite JavaScript single LOC (line of code)?
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
@@ -4993,7 +4994,6 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [santiagobasulto/ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - An ChatGPT integration for Jupyter Notebooks and the IPython Shell
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [asphalt-framework/asphalt](https://github.com/asphalt-framework/asphalt) - Asphalt application framework (core)
@@ -6098,7 +6098,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer) - Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [wmaurer/vscode-jumpy](https://github.com/wmaurer/vscode-jumpy) - Jumpy Extension for Visual Studio Code
@@ -6188,7 +6188,7 @@
 - [bytebase/dbcost](https://github.com/bytebase/dbcost) - The simple pricing calculator and comparison tool for the cloud databases.
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra) - Zero-Legacy Deno/React Suspense SSR Framework
 - [MathisBullinger/froebel](https://github.com/MathisBullinger/froebel) - A strictly typed utility library.
-- [remult/remult](https://github.com/remult/remult) - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
+- [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [stackb/bazel-stack-vscode](https://github.com/stackb/bazel-stack-vscode) - VSCode Extension for Bazel
 - [bazelbuild/vscode-bazel](https://github.com/bazelbuild/vscode-bazel) - Bazel support for Visual Studio Code
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet) - Google Sheets API wrapper for Javascript / Typescript
