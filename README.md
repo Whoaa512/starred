@@ -4986,7 +4986,7 @@
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Data platform for LLMs - Load, index, retrieve and sync any unstructured data
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
-- [youquanl/Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
+- [youquanl/Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - [NeurIPS'23 Spotlight] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
@@ -5679,7 +5679,7 @@
 - [pomsky-lang/pomsky](https://github.com/pomsky-lang/pomsky) - A new, portable, regular expression language
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
