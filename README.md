@@ -141,6 +141,7 @@
 
 ## C 
 
+- [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -1519,7 +1520,7 @@
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -4351,6 +4352,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -4613,7 +4615,6 @@
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data
 - [bobeff/programming-math-science](https://github.com/bobeff/programming-math-science) - This is a list of links to different freely available learning resources about computer programming, math, and science.
 - [chaance/cookbook](https://github.com/chaance/cookbook) - Open source recipes from your favorite biscuit chef 👩‍🍳
-- [nick-thompson/elementary](https://github.com/nick-thompson/elementary) - A JavaScript runtime for writing native audio applications, as well as a library and framework for composing audio signal processes.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [tobetz/LegoMicroscope](https://github.com/tobetz/LegoMicroscope) - To learn about optics and microscopy, we generated a simple to build lego microscope that does not need precision optics and 3D printed parts.
 - [meshpro/optimesh](https://github.com/meshpro/optimesh) - :spider_web: Mesh optimization, mesh smoothing.
@@ -4975,6 +4976,9 @@
 
 ## Python 
 
+- [Skydio/revup](https://github.com/Skydio/revup) - Revolutionary github tools. Effortlessly create multiple branches and pull requests.
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
+- [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [capjamesg/visionscript](https://github.com/capjamesg/visionscript) - A high-level programming language for using computer vision.
