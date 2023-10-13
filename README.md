@@ -828,7 +828,7 @@
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [alajmo/sake](https://github.com/alajmo/sake) - :robot: sake is a task runner for local and remote hosts
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
@@ -910,7 +910,7 @@
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs
@@ -1410,6 +1410,7 @@
 
 ## JavaScript 
 
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [spencermountain/dumpster-dive](https://github.com/spencermountain/dumpster-dive) - roll a wikipedia dump into mongo
 - [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Pairs with htmx. Locality of Behavior.  Use one element or arrays transparently. Vanilla querySelector() but better!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
@@ -5812,6 +5813,7 @@
 
 ## SCSS 
 
+- [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [breakthecode2/neo](https://github.com/breakthecode2/neo) - A plugin that enables usage of cheatcodes in Break The Code 2
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [bennettfeely/bennett](https://github.com/bennettfeely/bennett) - My portfolio at https://bennettfeely.com
