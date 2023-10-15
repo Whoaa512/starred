@@ -286,6 +286,7 @@
 
 ## C++ 
 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster string search, split, sort, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with just a few lines of Arm Neon and x86 AVX2 & AVX-512 intrinsics 
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
@@ -717,6 +718,8 @@
 
 ## Go 
 
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+- [buildbarn/bb-storage](https://github.com/buildbarn/bb-storage) - Storage daemon, capable of storing data for the Remote Execution protocol
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [bazelbuild/rules_go](https://github.com/bazelbuild/rules_go) - Go rules for Bazel
@@ -1703,7 +1706,7 @@
 - [sindresorhus/empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [crubier/code-to-graph](https://github.com/crubier/code-to-graph) - Transforms JS code 🙈into mermaid flowchart 🐵
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [sketch-hq/SketchAPI](https://github.com/sketch-hq/SketchAPI) - The JavaScript plugin library embedded in Sketch
 - [webpack-contrib/worker-loader](https://github.com/webpack-contrib/worker-loader) - A webpack loader that registers a script as a Web Worker
@@ -2226,7 +2229,7 @@
 - [tumblr/webpack-web-app-manifest-plugin](https://github.com/tumblr/webpack-web-app-manifest-plugin) - A webpack plugin that generates a PWA manifest and integrates with the assets JSON.
 - [Rich-Harris/shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [async-library/react-async](https://github.com/async-library/react-async) - 🍾 Flexible promise-based React data loader
@@ -4980,6 +4983,8 @@
 
 ## Python 
 
+- [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [TheBlokeAI/AIScripts](https://github.com/TheBlokeAI/AIScripts) - Some simple scripts that I use day-to-day when working with LLMs and Huggingface Hub
 - [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - 
 - [Skydio/revup](https://github.com/Skydio/revup) - Revolutionary github tools. Effortlessly create multiple branches and pull requests.
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
@@ -5558,6 +5563,7 @@
 
 ## Ruby 
 
+- [ankane/rover](https://github.com/ankane/rover) - Simple, powerful data frames for Ruby
 - [shayonj/pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate) - Easily setup logical replication and switchover to new database with minimal downtime
 - [m-ender/hexagony](https://github.com/m-ender/hexagony) - A two-dimensional, hexagonal programming language.
 - [Shopify/job-iteration](https://github.com/Shopify/job-iteration) - Makes your background jobs interruptible and resumable by design.
@@ -5605,6 +5611,7 @@
 
 ## Rust 
 
+- [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
@@ -5845,6 +5852,7 @@
 
 ## Shell 
 
+- [wearedevx/llm-bash](https://github.com/wearedevx/llm-bash) - LLM-Bash - A Bash Wrapper around llm and Ollama for your code editor.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [nickjj/wait-until](https://github.com/nickjj/wait-until) - A zero dependency Bash script that waits until a command of your choosing has run successfully.
@@ -6032,6 +6040,8 @@
 
 ## TypeScript 
 
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - React component collection.
+- [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist) - A JavaScript library used for running emulators of retro consoles inside browsers.
 - [unional/type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
