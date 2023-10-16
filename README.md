@@ -2153,7 +2153,6 @@
 - [jonrohan/alfred-figma](https://github.com/jonrohan/alfred-figma) - Alfred workflow to quick link figma projects and files
 - [transitive-bullshit/react-suspense-polyfill](https://github.com/transitive-bullshit/react-suspense-polyfill) - Polyfill for the React Suspense API 😮
 - [sindresorhus/filter-console](https://github.com/sindresorhus/filter-console) - Filter out unwanted `console.log()` output
-- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [gpietro/react-numpad](https://github.com/gpietro/react-numpad) - A numpad for number, date and time, built with and for React.
 - [overlookmotel/got-resume](https://github.com/overlookmotel/got-resume) - Fetch via HTTP/HTTPS using got with automatic resume after network failures
 - [mathiasbynens/hashtag-regex](https://github.com/mathiasbynens/hashtag-regex) - A regular expression to match hashtag identifiers as per the Unicode Standard.
@@ -6626,6 +6625,7 @@
 - [squirrellyjs/squirrelly](https://github.com/squirrellyjs/squirrelly) - Semi-embedded JS template engine that supports helpers, filters, partials, and template inheritance. 4KB minzipped, written in TypeScript ⛺
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
 - [pelotom/hkts](https://github.com/pelotom/hkts) - A simple encoding of higher-kinded types in TypeScript
+- [Tencent/omi](https://github.com/Tencent/omi) - Web Components Framework - Web组件框架
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [wix-incubator/vscode-glean](https://github.com/wix-incubator/vscode-glean) - The extension provides refactoring tools for your React codebase
 - [JodusNodus/react-qr-reader](https://github.com/JodusNodus/react-qr-reader) - React component for reading QR codes from webcam.
