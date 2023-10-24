@@ -192,7 +192,7 @@
 - [samsonmking/epaper.js](https://github.com/samsonmking/epaper.js) - Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
-- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [petersalomonsen/wasm-git](https://github.com/petersalomonsen/wasm-git) - GIT for nodejs and the browser using https://libgit2.org compiled to WebAssembly with https://emscripten.org
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
@@ -1045,7 +1045,7 @@
 - [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly) - This repository has be archived and moved to the new repository https://github.com/dragonflyoss/Dragonfly2.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [schollz/recursive-recipes](https://github.com/schollz/recursive-recipes) - Visualize the recursive nature of recipes :cake: :cookie:
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [18F/git-seekret](https://github.com/18F/git-seekret) - Git module to prevent from committing sensitive information into the repository.
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
@@ -3593,7 +3593,6 @@
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [polygonplanet/chillout](https://github.com/polygonplanet/chillout) - Reduce CPU usage by non-blocking async loop and psychologically speed up in JavaScript
 - [tj/react-enroute](https://github.com/tj/react-enroute) - React router with a small footprint for modern browsers
-- [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [alexkuz/react-input-enhancements](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control
 - [krakenjs/levee](https://github.com/krakenjs/levee) - A circuit-breaker pattern implementation with fallback support.
@@ -4365,6 +4364,7 @@
 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -4998,7 +4998,6 @@
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
-- [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [capjamesg/visionscript](https://github.com/capjamesg/visionscript) - A high-level programming language for using computer vision.
 - [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model.
 - [roboflow/inference](https://github.com/roboflow/inference) - An easy-to-use, production-ready inference server for computer vision supporting deployment of many popular model architectures and fine-tuned models.
@@ -6992,6 +6991,7 @@
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [devlucky/Kakapo.js](https://github.com/devlucky/Kakapo.js) - :bird: Next generation mocking framework in Javascript
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
+- [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
