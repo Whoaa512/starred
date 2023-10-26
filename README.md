@@ -731,7 +731,7 @@
 - [cristalhq/builq](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [tmc/smol-dev-go](https://github.com/tmc/smol-dev-go) - smol-dev-go, a Go implementation of smol developer
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL,  Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multipl
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open source system software that runs and manages data infrastructure on K8s. It helps developers, SREs, and platform engineers deploy and maintain dedicated DBPaaS, and supports a va
 - [ucarion/urlpath](https://github.com/ucarion/urlpath) - A Golang library for matching REST-like URL path patterns
 - [Humpheh/goboy](https://github.com/Humpheh/goboy) - Multi-platform Nintendo Game Boy Color emulator written in Go
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
@@ -768,7 +768,6 @@
 - [loderunner/scrt](https://github.com/loderunner/scrt) - A command-line secret manager for developers, sysadmins, and devops.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [automerge/automerge-go](https://github.com/automerge/automerge-go) - 
-- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [lqs/sqlingo](https://github.com/lqs/sqlingo) - 💥 A lightweight DSL & ORM which helps you to write SQL in Go.
 - [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
@@ -2168,7 +2167,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [nitin42/react-color-tools](https://github.com/nitin42/react-color-tools) - A set of tools as React components for working with colors 🎨
 - [energydrink9/functional-data-grid](https://github.com/energydrink9/functional-data-grid) - Data grids in functional style with ReactJS
-- [JiLiZART/BBob](https://github.com/JiLiZART/BBob) - ⚡️Blazing-fast js-bbcode-parser, bbcode js, that transforms and parses to AST with plugin support in pure javascript, no dependencies
+- [JiLiZART/BBob](https://github.com/JiLiZART/BBob) - ⚡️Blazing fast js bbcode parser, that transforms and parses bbcode to AST with plugin support in pure javascript, no dependencies
 - [burakcan/mb](https://github.com/burakcan/mb) - Exception-free nested nullable attribute accessor
 - [americanexpress/react-albus](https://github.com/americanexpress/react-albus) - ✨ React component library for building declarative multi-step flows.
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
@@ -4471,7 +4470,7 @@
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
 ## MQL4 
@@ -5625,7 +5624,7 @@
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [TraceMachina/turbo-cache](https://github.com/TraceMachina/turbo-cache) - Bazel CAS server implementation in Rust. Built for stability and speed in safety critical simulation.
+- [TraceMachina/turbo-cache](https://github.com/TraceMachina/turbo-cache) - Bazel CAS server implementation in Rust. Built for stability and speed in safety critical products.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -6134,6 +6133,7 @@
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
+- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [wmaurer/vscode-jumpy](https://github.com/wmaurer/vscode-jumpy) - Jumpy Extension for Visual Studio Code
 - [tmm/react-supabase](https://github.com/tmm/react-supabase) - React Hooks library for Supabase
@@ -6156,7 +6156,7 @@
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
-- [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
+- [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
@@ -6335,7 +6335,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [antongolub/yarn-audit-fix](https://github.com/antongolub/yarn-audit-fix) - The missing `yarn audit fix`
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
@@ -6805,7 +6805,7 @@
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [adblockradio/stream-audio-fingerprint](https://github.com/adblockradio/stream-audio-fingerprint) - Audio landmark fingerprinting as a Node Stream module
 - [sanketbajoria/ssh2-promise](https://github.com/sanketbajoria/ssh2-promise) - ssh with promise/async await and typescript support
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
@@ -6868,7 +6868,7 @@
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [BabylonJS/Spector.js](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
-- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Build, mock, and stitch a GraphQL schema using the schema language
+- [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools) - :wrench: Utility library for GraphQL to build, stitch and mock GraphQL schema using SDL
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
