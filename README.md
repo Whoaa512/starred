@@ -769,7 +769,6 @@
 - [loderunner/scrt](https://github.com/loderunner/scrt) - A command-line secret manager for developers, sysadmins, and devops.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [automerge/automerge-go](https://github.com/automerge/automerge-go) - 
-- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [lqs/sqlingo](https://github.com/lqs/sqlingo) - 💥 A lightweight DSL & ORM which helps you to write SQL in Go.
 - [arthurkushman/buildsqlx](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
@@ -1215,7 +1214,6 @@
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
 - [colorswall/CSS-file-icons](https://github.com/colorswall/CSS-file-icons) - Pure CSS icons for popular file extensions
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [solid/solid](https://github.com/solid/solid) - Solid - Re-decentralizing the web (project directory)
 - [WICG/portals](https://github.com/WICG/portals) - A proposal for enabling seamless navigations between sites or pages
 - [nadvornix/calculus-made-easy](https://github.com/nadvornix/calculus-made-easy) - HTML conversion of a great beginner calculus book
@@ -1420,6 +1418,7 @@
 
 ## JavaScript 
 
+- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [chris-armstrong/dynamodb-size-js](https://github.com/chris-armstrong/dynamodb-size-js) - Calculate DynamoDB object size
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [spencermountain/dumpster-dive](https://github.com/spencermountain/dumpster-dive) - roll a wikipedia dump into mongo
@@ -2214,7 +2213,6 @@
 - [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [React9k/react-timeline-9000](https://github.com/React9k/react-timeline-9000) - React Timeline
 - [Dogstudio/highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
-- [intoli/user-agents](https://github.com/intoli/user-agents) - A JavaScript library for generating random user agents with data that's updated daily.
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [npm/tink](https://github.com/npm/tink) - a dependency unwinder for javascript
@@ -4437,6 +4435,7 @@
 
 ## Less 
 
+- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [keystonejs/keystone-demo](https://github.com/keystonejs/keystone-demo) - 
 
 ## LiveScript 
@@ -4516,7 +4515,7 @@
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 - [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [glennsl/bs-json](https://github.com/glennsl/bs-json) - Compositional JSON encode/decode library for BuckleScript
 - [rrdelaney/ReasonablyTyped](https://github.com/rrdelaney/ReasonablyTyped) - :diamond_shape_with_a_dot_inside: Converts Flow and TypeScript definitions to Reason interfaces
 - [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive developme
@@ -5623,7 +5622,6 @@
 
 ## Rust 
 
-- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [web-infra-dev/oxc](https://github.com/web-infra-dev/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
@@ -5718,7 +5716,7 @@
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Stream processing redefined 🌊: your scalable, reliable, and PostgreSQL-compatible streaming database in the cloud. ☁️
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The streaming database: redefining stream processing 🌊. PostgreSQL-compatible, highly performant, scalable, elastic, and reliable ☁️.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
@@ -6140,6 +6138,7 @@
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
+- [tableflowhq/tableflow](https://github.com/tableflowhq/tableflow) - The open source CSV importer
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [wmaurer/vscode-jumpy](https://github.com/wmaurer/vscode-jumpy) - Jumpy Extension for Visual Studio Code
 - [tmm/react-supabase](https://github.com/tmm/react-supabase) - React Hooks library for Supabase
@@ -6182,7 +6181,7 @@
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Holistic visual testing for your Frontend 🖼 First class integration with Storybook, Ladle, Playwright & other frontend libraries.
@@ -6436,7 +6435,7 @@
 - [wangchunsen/vscode-bracket-select](https://github.com/wangchunsen/vscode-bracket-select) - A vscode plugin for select text between brackets
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 - [clinicjs/notare-monitor](https://github.com/clinicjs/notare-monitor) - 
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
@@ -6669,6 +6668,7 @@
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 - [microsoft/ReSub](https://github.com/microsoft/ReSub) - A library for writing React components that automatically manage subscriptions to data sources simply by accessing them
 - [mozmorris/react-webcam](https://github.com/mozmorris/react-webcam) - Webcam component
+- [intoli/user-agents](https://github.com/intoli/user-agents) - A JavaScript library for generating random user agents with data that's updated daily.
 - [erikbrinkman/d3-dag](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acyclic graphs
 - [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
@@ -6958,7 +6958,7 @@
 - [serviejs/servie-route](https://github.com/serviejs/servie-route) - Simple route middleware for Servie
 - [waysact/webpack-subresource-integrity](https://github.com/waysact/webpack-subresource-integrity) - Webpack plugin for enabling Subresource Integrity.
 - [serviejs/servie](https://github.com/serviejs/servie) - Standard, framework-agnostic HTTP interfaces for JavaScript servers and clients
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 - [mgechev/injection-js](https://github.com/mgechev/injection-js) - Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and we
 - [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
