@@ -1124,6 +1124,7 @@
 - [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [sdboyer/gps](https://github.com/sdboyer/gps) - your dependencies have arrived
 - [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [fmbenhassine/gossed](https://github.com/fmbenhassine/gossed) - Push the standard output of ANY program to browsers as Server Sent Events
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [open-lambda/open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
@@ -4435,7 +4436,6 @@
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [mplacona/BurnerPhones](https://github.com/mplacona/BurnerPhones) - A burner phone application using the Twilio API and Kotlin at the backend
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 
 ## Less 
 
