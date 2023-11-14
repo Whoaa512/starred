@@ -2880,7 +2880,7 @@
 - [davidkpiano/react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
 - [roaclark/tab-tree](https://github.com/roaclark/tab-tree) - Chrome extension to track tab workflows
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [sergiodxa/grial](https://github.com/sergiodxa/grial) - A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.
 - [darcyclarke/rawkit](https://github.com/darcyclarke/rawkit) - 🦊 Immediately Open Chrome DevTools when debugging Node.js apps
 - [jbmusso/zer](https://github.com/jbmusso/zer) - Zer helps you create and serialize generic JavaScript chains to String representations of any languages by leveraging ES2015 Proxy objects.
@@ -6181,7 +6181,7 @@
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 - [stylify/packages](https://github.com/stylify/packages) - 💎 Monorepository for Stylify packages. Stylify uses CSS-like selectors to generate Extremely optimized utility-first CSS dynamically based on what you write 💎.
 - [eoin-barr/pathfinding-visualizer](https://github.com/eoin-barr/pathfinding-visualizer) - 
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(面向未来的组件库，跨端、跨框架、浏览器原生，即插即用。)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(面向未来的组件库，跨端、跨框架、浏览器原生，即插即用。底层基于 Quarkc！)
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
