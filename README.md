@@ -1386,7 +1386,7 @@
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [uber-archive/phabricator-jenkins-plugin](https://github.com/uber-archive/phabricator-jenkins-plugin) - Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [cgeo/cgeo](https://github.com/cgeo/cgeo) - c:geo - The powerful Android geocaching app.
-- [sirixdb/sirix](https://github.com/sirixdb/sirix) - SirixDB is an embeddable, temporal, evolutionary database system, which uses an append-only approach to store immutable revisions. It keeps the full history of each resource. Every commit stores a spa
+- [sirixdb/sirix](https://github.com/sirixdb/sirix) - SirixDB is an an embeddable, bitemporal, append-only database system and event store, storing immutable lightweight snapshots. It keeps the full history of each resource. Every commit stores a space-e
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [aleksandarmilicevic/hola](https://github.com/aleksandarmilicevic/hola) - Alloy*---Higher Order Logic for Alloy
 - [awslabs/amazon-kinesis-agent](https://github.com/awslabs/amazon-kinesis-agent) - Continuously monitors a set of log files  and sends new data to the Amazon Kinesis Stream and Amazon Kinesis Firehose in near-real-time.
@@ -1540,7 +1540,7 @@
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~3 YouTube Extension! Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra 
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform. Also detects if episodes have been shortened in duration.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -2675,7 +2675,6 @@
 - [vitalets/websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - 👻 Zero-configuration framework-agnostic static prerendering for SPAs
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [dollarshaveclub/es-check](https://github.com/dollarshaveclub/es-check) - Checks the version of ES in JavaScript files with simple shell commands  🏆
@@ -2983,7 +2982,7 @@
 - [erikolson186/zangodb](https://github.com/erikolson186/zangodb) - MongoDB-like interface for HTML5 IndexedDB
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [db-migrate/node-db-migrate](https://github.com/db-migrate/node-db-migrate) - Database migration framework for node
-- [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [fourkitchens/aframe-boilerplate](https://github.com/fourkitchens/aframe-boilerplate) - Very simple take on how A-Frame applications should be structured. 👓 😲
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [oliviertassinari/babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes from the production build. :balloon:
@@ -4567,7 +4566,6 @@
 
 ## Others 
 
-- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 - [criccomini/awesome-infra](https://github.com/criccomini/awesome-infra) - A curated list of infrastructure projects and companies.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -5001,6 +4999,7 @@
 
 - [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives
 - [openai/human-eval-infilling](https://github.com/openai/human-eval-infilling) - Code for the paper "Efficient Training of Language Models to Fill in the Middle"
+- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.
 - [bugen/pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
 - [baicunko/scanyourpdf](https://github.com/baicunko/scanyourpdf) - Repository for the Scan Your Pdf community
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
@@ -5330,7 +5329,7 @@
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [googleapis/google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph) - Python library for Representation Learning on Knowledge Graphs https://docs.ampligraph.org
-- [abrahamcalf/decamelize](https://github.com/abrahamcalf/decamelize) - 🐍 Convert a camelized string into snake_case
+- [abrahamhba/decamelize](https://github.com/abrahamhba/decamelize) - 🐍 Convert a camelized string into snake_case
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [Scitator/catalyst-rl-framework](https://github.com/Scitator/catalyst-rl-framework) - Catalyst.RL: A Distributed Framework for Reproducible RL Research
@@ -5631,16 +5630,17 @@
 
 ## Rust 
 
+- [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [vmchale/tin-summer](https://github.com/vmchale/tin-summer) - Find build artifacts that are taking up disk space
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [TraceMachina/turbo-cache](https://github.com/TraceMachina/turbo-cache) - Bazel CAS server implementation in Rust. Built for stability and speed in safety critical products.
+- [TraceMachina/native-link](https://github.com/TraceMachina/native-link) - Bazel CAS server implementation in Rust. Built for stability and speed in safety critical products.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -5669,7 +5669,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
+- [Tracel-AI/burn](https://github.com/Tracel-AI/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
 - [supabase/wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust.
@@ -6313,7 +6313,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
-- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework, a npm package solution and a build tool.
+- [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
@@ -6563,7 +6563,7 @@
 - [kitze/graphql-user](https://github.com/kitze/graphql-user) - Reusable utility methods for GraphQL authentication in Node.js
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [mvasin/react-div-100vh](https://github.com/mvasin/react-div-100vh) - A workaround for the '100vh' issue in mobile browsers
-- [sarneeh/reaptcha](https://github.com/sarneeh/reaptcha) - Google reCAPTCHA v2 for React
+- [jsardev/reaptcha](https://github.com/jsardev/reaptcha) - Google reCAPTCHA v2 for React
 - [nickmcmillan/react-physics-dragger](https://github.com/nickmcmillan/react-physics-dragger) - A simple, no-frills horiztonal dragger/slider with physics
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [dai-shi/react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - React custom hooks for web workers
@@ -6854,6 +6854,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic) - A React tiling window manager
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [urish/muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)
 - [ip-num/ip-num](https://github.com/ip-num/ip-num) - A TypeScript/JavaScript library for working with ASN, IPv4, and IPv6 numbers. It provides representations of these internet protocol numbers with the ability to perform various IP related operations l
@@ -7042,7 +7043,7 @@
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [ShyykoSerhiy/skyweb](https://github.com/ShyykoSerhiy/skyweb) - Unofficial Skype API for nodejs via 'Skype (HTTP)' protocol.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
+- [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
