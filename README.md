@@ -381,7 +381,7 @@
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [google/liquidfun](https://github.com/google/liquidfun) - 2D physics engine for games
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
@@ -3211,7 +3211,7 @@
 - [jasondavies/science.js](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
 - [frostney/require-webpack-compat](https://github.com/frostney/require-webpack-compat) - :monkey: Monkey-patches `require.context` into Node.js require
 - [dougmoscrop/serverless-plugin-include-dependencies](https://github.com/dougmoscrop/serverless-plugin-include-dependencies) - 
-- [maxogden/mississippi](https://github.com/maxogden/mississippi) - A collection of useful stream utility modules for writing better code using streams
+- [max-mapper/mississippi](https://github.com/max-mapper/mississippi) - A collection of useful stream utility modules for writing better code using streams
 - [millermedeiros/js-signals](https://github.com/millermedeiros/js-signals) - Custom Event/Messaging system for JavaScript inspired by AS3-Signals
 - [jahredhope/base64-image-loader](https://github.com/jahredhope/base64-image-loader) - base64 image loader for webpack
 - [Gerhut/axios-debug-log](https://github.com/Gerhut/axios-debug-log) - Axios interceptor of logging request & response with debug library.
@@ -3379,7 +3379,7 @@
 - [dreyescat/react-rating](https://github.com/dreyescat/react-rating) - A rating react component with custom symbols.
 - [sindresorhus/ua-string](https://github.com/sindresorhus/ua-string) - Get the user agent of a recent Chrome version to pretend to be a browser in network requests
 - [sindresorhus/p-time](https://github.com/sindresorhus/p-time) - Measure the time a promise takes to resolve
-- [maxogden/yo-yo](https://github.com/maxogden/yo-yo) - A tiny library for building modular UI components using DOM diffing and ES6 tagged template literals
+- [max-mapper/yo-yo](https://github.com/max-mapper/yo-yo) - A tiny library for building modular UI components using DOM diffing and ES6 tagged template literals
 - [open-cli-tools/chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - Fast cross-platform cli utility to watch file system changes
 - [vitogit/gDriveSync.js](https://github.com/vitogit/gDriveSync.js) - Javascript wrapper library for Google Drive API v3
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
@@ -3917,7 +3917,7 @@
 - [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification with the power of CSS Modules
 - [vicapow/react-map-gl-heatmap-overlay](https://github.com/vicapow/react-map-gl-heatmap-overlay) - 
 - [Ayms/torrent-live](https://github.com/Ayms/torrent-live) - Anti-spies and private torrents, live streaming and dynamic torrent blocklist
-- [maxogden/torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
+- [max-mapper/torrent](https://github.com/max-mapper/torrent) - download torrents with node from the CLI
 - [mafintosh/peercast](https://github.com/mafintosh/peercast) - torrent-stream + chromecast
 - [mikermcneil/machinepack-pokemon](https://github.com/mikermcneil/machinepack-pokemon) - Fetch data about Pokémon, their moves, abilities, types, egg groups and much much more.
 - [plurals/pluralize](https://github.com/plurals/pluralize) - Pluralize or singularize any word based on a count
@@ -4011,7 +4011,7 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [petehunt/webpack-howto](https://github.com/petehunt/webpack-howto) - 
 - [millermedeiros/esformatter](https://github.com/millermedeiros/esformatter) - ECMAScript code beautifier/formatter
-- [maxogden/standard-format](https://github.com/maxogden/standard-format) - converts your code into Standard JavaScript Format
+- [max-mapper/standard-format](https://github.com/max-mapper/standard-format) - converts your code into Standard JavaScript Format
 - [paldepind/functionize](https://github.com/paldepind/functionize) - A library which aids in making any JavaScript library more functional.
 - [thisables/curry](https://github.com/thisables/curry) - :curry: Currying made simple.
 - [1-liners/1-liners](https://github.com/1-liners/1-liners) - Functional tools that couldn’t be simpler.
@@ -4322,7 +4322,7 @@
 - [deitch/booster](https://github.com/deitch/booster) - Booster is the fastest way to get a full-fledged REST service up and running in nodejs
 - [PatrickJS/Data-Collaborator](https://github.com/PatrickJS/Data-Collaborator) - Data visualizations unlock insights and initiate important conversations  Our tool, Data Collaborator, enables people to create data visualizations about their Fitbit data, and collaborate with their 
 - [fortunejs/fortune](https://github.com/fortunejs/fortune) - Non-native graph database abstraction layer for Node.js and web browsers.
-- [maxogden/ndarray-stl](https://github.com/maxogden/ndarray-stl) - convert voxels into 3D printable .stl files
+- [max-mapper/ndarray-stl](https://github.com/max-mapper/ndarray-stl) - convert voxels into 3D printable .stl files
 - [sintaxi/terraform](https://github.com/sintaxi/terraform) - Asset pipeline for the Harp Web Server.
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [pyykkis/Backbone.EventStreams](https://github.com/pyykkis/Backbone.EventStreams) - Functional Reactive Programming with Bacon.js is tasty. I want my Backbone events as EventStreams, too.
@@ -4861,7 +4861,7 @@
 - [reactjs/core-notes](https://github.com/reactjs/core-notes) - Weekly meeting notes from the React core team
 - [webpack/meeting-notes](https://github.com/webpack/meeting-notes) - Webpack core team meeting notes.
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source
-- [maxogden/async-team](https://github.com/maxogden/async-team) - Documentation about how to run an async team (e.g. a remote team in different places)
+- [max-mapper/async-team](https://github.com/max-mapper/async-team) - Documentation about how to run an async team (e.g. a remote team in different places)
 - [tc39/proposal-UnambiguousJavaScriptGrammar](https://github.com/tc39/proposal-UnambiguousJavaScriptGrammar) - 
 - [pmuens/awesome-serverless](https://github.com/pmuens/awesome-serverless) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [rhys-vdw/bookshelf-api-proposal](https://github.com/rhys-vdw/bookshelf-api-proposal) - 
@@ -5751,6 +5751,7 @@
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
+- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
@@ -6030,7 +6031,6 @@
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [zackelia/bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [cooklang/CookCLI](https://github.com/cooklang/CookCLI) - macOS and Linux command line program which provides a suite of tools to create shopping lists and maintain recipes.
 - [ColdGrub1384/LibTerm](https://github.com/ColdGrub1384/LibTerm) - iOS sandboxed terminal with Python, Lua and Clang
 - [rootstrap/ios-base](https://github.com/rootstrap/ios-base) - Boilerplate for new iOS projects using Swift 5. Provides a handful of functionalities.
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
@@ -6939,7 +6939,7 @@
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [springload/react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
