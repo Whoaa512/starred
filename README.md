@@ -6112,7 +6112,6 @@
 - [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn) - Work seamlessly with partial mocks in TypeScript.
 - [fern-api/fern](https://github.com/fern-api/fern) - SDKs and Docs for your API
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [motifland/markprompt](https://github.com/motifland/markprompt) - AI for customer support
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library
@@ -7105,7 +7104,7 @@
 
 ## Vue 
 
-- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-first web HTTP client
+- [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Minimalist HTTP client for the Web & Desktop
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
