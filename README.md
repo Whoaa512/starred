@@ -141,6 +141,9 @@
 
 ## C 
 
+- [octo/liboping](https://github.com/octo/liboping) - Protocol independent ANSI-C ping library and command line utility.
+- [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
+- [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 - [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
 - [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
@@ -245,7 +248,6 @@
 - [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
 - [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat) - It's like cat, but for images.
 - [Netflix/dynomite](https://github.com/Netflix/dynomite) - A generic dynamo implementation for different k-v storage engines
-- [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [lzfse/lzfse](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool
 - [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays
@@ -724,6 +726,14 @@
 
 ## Go 
 
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities.
+- [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+- [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
 - [viktomas/godu](https://github.com/viktomas/godu) - Simple golang utility helping to discover large files/folders.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [scratchdata/ScratchDB](https://github.com/scratchdata/ScratchDB) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
@@ -1162,6 +1172,7 @@
 
 ## HTML 
 
+- [everestpipkin/tools-list](https://github.com/everestpipkin/tools-list) - Open source, experimental, and tiny tools roundup
 - [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 - [micah5/PSone.css](https://github.com/micah5/PSone.css) - 🎮 PS1 style CSS Framework, inspired by NES.css
@@ -1432,7 +1443,7 @@
 - [gnat/surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Pairs with htmx. Locality of Behavior.  Use one element or arrays transparently. Vanilla querySelector() but better!
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [laurentpayot/verticalize](https://github.com/laurentpayot/verticalize) - A pipe-like function to verticalize your JavaScript code
-- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
+- [nuejs/nue](https://github.com/nuejs/nue) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [reactpractice-dev/unit-tests-jsx](https://github.com/reactpractice-dev/unit-tests-jsx) - 
@@ -1874,6 +1885,7 @@
 - [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
 - [chrisveness/geodesy](https://github.com/chrisveness/geodesy) - Libraries of geodesy functions implemented in JavaScript
 - [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) - 361000 becomes "6 minutes, 1 second"
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [Yomguithereal/mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript/TypeScript language.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [istanbuljs/v8-to-istanbul](https://github.com/istanbuljs/v8-to-istanbul) - convert from v8 coverage format to istanbul's format
@@ -1969,7 +1981,7 @@
 - [aurbano/robinhood-node](https://github.com/aurbano/robinhood-node) - :chart_with_upwards_trend: NodeJS client for Robinhood Trading :fire:
 - [yura505/robinhood-node](https://github.com/yura505/robinhood-node) - :chart_with_upwards_trend: NodeJS client for Robinhood Trading
 - [zoltantothcom/Design-Patterns-JavaScript](https://github.com/zoltantothcom/Design-Patterns-JavaScript) - A game to test your familiarity with the ‘Gang of Four’ design patterns implemented in JavaScript.
-- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
 - [stripe-archive/react-stripe-elements](https://github.com/stripe-archive/react-stripe-elements) - Moved to stripe/react-stripe-js.
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
@@ -4454,6 +4466,7 @@
 
 ## Lua 
 
+- [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [Wutname1/SpartanUI](https://github.com/Wutname1/SpartanUI) - SpartanUI
 - [Questie/Questie](https://github.com/Questie/Questie) - Questie: The WoW Classic quest helper
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -4567,6 +4580,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [criccomini/awesome-infra](https://github.com/criccomini/awesome-infra) - A curated list of infrastructure projects and companies.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -4999,6 +5013,7 @@
 
 ## Python 
 
+- [isamert/scli](https://github.com/isamert/scli) - a simple terminal user interface for signal messenger (using signal-cli)
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [TheTechRobo/youtubevideofinder](https://github.com/TheTechRobo/youtubevideofinder) - Searches for lost YouTube videos in archives
@@ -5634,6 +5649,11 @@
 
 ## Rust 
 
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+- [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+- [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
+- [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
 - [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
 - [sharkdp/diskus](https://github.com/sharkdp/diskus) - A minimal, fast alternative to 'du -sh'
@@ -5773,7 +5793,6 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [jez/as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [mikedilger/formdata](https://github.com/mikedilger/formdata) - Parsing of multipart/form-data
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
@@ -5880,6 +5899,7 @@
 
 ## Shell 
 
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [wearedevx/llm-bash](https://github.com/wearedevx/llm-bash) - LLM-Bash - A Bash Wrapper around llm and Ollama for your code editor.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
@@ -6069,6 +6089,7 @@
 
 ## TypeScript 
 
+- [gregsadetsky/sagittarius](https://github.com/gregsadetsky/sagittarius) - A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
 - [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion) - react-magic-motion is a react.js library that ✨ magically animates your components.
@@ -6541,7 +6562,6 @@
 - [Nishkalkashyap/Quark-electron](https://github.com/Nishkalkashyap/Quark-electron) - Quark is a cross-platform, integrated development environment for rapidly building - functional , prototypal projects, written in HTML, CSS and JavaScript with native desktop app like capabilities.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -7097,7 +7117,7 @@
 
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
-- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles, needless words omitted
+- [jwworth/til](https://github.com/jwworth/til) - ⌨️  Technical articles; needless words omitted
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [jordwalke/VimBox](https://github.com/jordwalke/VimBox) - Simple, Modern MacVim Configuration
 - [patrickocoffeyo/workstation](https://github.com/patrickocoffeyo/workstation) - This repository contains an Ansible playbook that completely configures my Ubuntu-based workstation.
