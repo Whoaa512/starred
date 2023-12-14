@@ -726,6 +726,7 @@
 
 ## Go 
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -1659,7 +1660,6 @@
 - [JubbeArt/removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [sindresorhus/terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) - Display images in the terminal
 - [sindresorhus/make-synchronous](https://github.com/sindresorhus/make-synchronous) - Make an asynchronous function synchronous
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
 - [Debdut/omg-curry](https://github.com/Debdut/omg-curry) - Curry All Code
 - [eclipsesource/tabris-js](https://github.com/eclipsesource/tabris-js) - Create native mobile apps in JavaScript or TypeScript.
@@ -2996,7 +2996,7 @@
 - [erikolson186/zangodb](https://github.com/erikolson186/zangodb) - MongoDB-like interface for HTML5 IndexedDB
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [db-migrate/node-db-migrate](https://github.com/db-migrate/node-db-migrate) - Database migration framework for node
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [fourkitchens/aframe-boilerplate](https://github.com/fourkitchens/aframe-boilerplate) - Very simple take on how A-Frame applications should be structured. 👓 😲
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [oliviertassinari/babel-plugin-transform-react-remove-prop-types](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes from the production build. :balloon:
@@ -5649,6 +5649,7 @@
 
 ## Rust 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -6424,6 +6425,7 @@
 - [22mahmoud/faven](https://github.com/22mahmoud/faven) - A web tool to help you generate favicons
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
