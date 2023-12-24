@@ -728,6 +728,7 @@
 
 ## Go 
 
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [lasorda/protobuf-language-server](https://github.com/lasorda/protobuf-language-server) - A language server implementation for Google Protocol Buffers
 - [ncruces/go-sqlite-bench](https://github.com/ncruces/go-sqlite-bench) - Benchmarks for Golang SQLite Drivers
 - [ireina7/fgo](https://github.com/ireina7/fgo) - Functional GOlang
@@ -1371,6 +1372,7 @@
 
 ## Java 
 
+- [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 - [alipay/fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [thegeekyasian/geo-assist](https://github.com/thegeekyasian/geo-assist) - Geo Assist is a spatial library to manage spatial data in-memory.
@@ -1443,6 +1445,7 @@
 
 ## JavaScript 
 
+- [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) - Interactive code examples for documentation, education and fun.
 - [elfvingralf/macOSpilot-ai-assistant](https://github.com/elfvingralf/macOSpilot-ai-assistant) - Voice + Vision powered AI assistant that answers questions about any application, in context and in audio.
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 - [chris-armstrong/dynamodb-size-js](https://github.com/chris-armstrong/dynamodb-size-js) - Calculate DynamoDB object size
@@ -5020,6 +5023,8 @@
 
 ## Python 
 
+- [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+- [baaivision/Emu](https://github.com/baaivision/Emu) - Emu Series: Generative Multimodal Models from BAAI
 - [s-casci/tinyzero](https://github.com/s-casci/tinyzero) - Easily train AlphaZero-like agents on any environment you want!
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [threestudio-project/threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
@@ -6105,6 +6110,7 @@
 
 ## TypeScript 
 
+- [penxio/penx](https://github.com/penxio/penx) - A structured note-taking app for personal use.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [gregsadetsky/sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
