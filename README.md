@@ -141,6 +141,7 @@
 
 ## C 
 
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [rochus-keller/CspChan](https://github.com/rochus-keller/CspChan) - A pure C (-std=c89) implementation of Go channels, including blocking and non-blocking selects.
 - [octo/liboping](https://github.com/octo/liboping) - Protocol independent ANSI-C ping library and command line utility.
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
@@ -728,6 +729,7 @@
 
 ## Go 
 
+- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [lasorda/protobuf-language-server](https://github.com/lasorda/protobuf-language-server) - A language server implementation for Google Protocol Buffers
 - [ncruces/go-sqlite-bench](https://github.com/ncruces/go-sqlite-bench) - Benchmarks for Golang SQLite Drivers
@@ -2274,7 +2276,7 @@
 - [jossmac/react-toast-notifications](https://github.com/jossmac/react-toast-notifications) - 🍞 A toast notification system for react
 - [lesnitsky/git-tutor](https://github.com/lesnitsky/git-tutor) - :octocat:+md=:heart: Awesome tutorials from your git log
 - [fdaciuk/ajax](https://github.com/fdaciuk/ajax) - Ajax module in Vanilla JS
-- [joxji/getopts](https://github.com/joxji/getopts) - Node.js CLI options parser
+- [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts) - Node.js CLI options parser
 - [c8r/x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat
 - [Rich-Harris/agadoo](https://github.com/Rich-Harris/agadoo) - Check whether a package is tree-shakeable
 - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌
@@ -2320,7 +2322,7 @@
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated) - State so simple, it goes without saying
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [ramhejazi/draxt](https://github.com/ramhejazi/draxt) - draxt.js – NodeList/jQuery-like package for File System (node.js)
-- [joxji/colorette](https://github.com/joxji/colorette) - 🌈Easily set your terminal text color & styles
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [sbayd/react-flippy](https://github.com/sbayd/react-flippy) - Flipping Cards for your React Projects. React-Flippy allows you to create flipper event with your content.
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [piecioshka/simple-data-table](https://github.com/piecioshka/simple-data-table) - :hammer: Lightweight and simple data table with no dependencies
@@ -2814,7 +2816,7 @@
 - [toniov/gcal-cli](https://github.com/toniov/gcal-cli) - Google Calendar command line tool for Node.js
 - [hiproxy/hiproxy](https://github.com/hiproxy/hiproxy) - 🛠 hiproxy is a lightweight proxy tool for Front-End developers based on Node.js that supports an NGINX-like configuration. 🔥
 - [finnfiddle/words-to-numbers](https://github.com/finnfiddle/words-to-numbers) - JS library to convert textual words to numbers with optional fuzzy text matching
-- [joxji/classcat](https://github.com/joxji/classcat) - Build a class attribute string quickly
+- [jorgebucaran/classcat](https://github.com/jorgebucaran/classcat) - Build a class attribute string quickly
 - [fhinkel/type-profile](https://github.com/fhinkel/type-profile) - Collect runtime type information 😻 of your JavaScript code.
 - [mplewis/src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.
 - [danilop/ServerlessByDesign](https://github.com/danilop/ServerlessByDesign) - A visual approach to serverless development. Think. Build. Repeat.
@@ -3029,7 +3031,7 @@
 - [typicode/react-fake-props](https://github.com/typicode/react-fake-props) - 🔮 Magically generate fake props for your React tests
 - [sidorares/react-x11](https://github.com/sidorares/react-x11) - React renderer with X11 as a target
 - [remerge/micro-http-client](https://github.com/remerge/micro-http-client) - Specify common request and response processing in a single location
-- [joxji/superfine](https://github.com/joxji/superfine) - Absolutely minimal view layer for building web interfaces
+- [jorgebucaran/superfine](https://github.com/jorgebucaran/superfine) - Absolutely minimal view layer for building web interfaces
 - [gardenhq/o](https://github.com/gardenhq/o) - An in-browser loader/bundler for javascript. No Node required. No CLI required. Use with @gardenhq/willow for a flexible, 'unobtrusive' dependency injection builder to decouple your codebase.
 - [ternarylabs/porthole](https://github.com/ternarylabs/porthole) - A proxy to safely communicate to cross-domain iframes in javascript
 - [slap-editor/slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
@@ -3278,7 +3280,7 @@
 - [timarney/react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js
 - [kirillrogovoy/promised-pipe](https://github.com/kirillrogovoy/promised-pipe) - A ramda.pipe-like utility that handles promises internally with zero dependencies
 - [bencripps/react-redux-grid](https://github.com/bencripps/react-redux-grid) - A React Grid/Tree Component written in the Redux Pattern
-- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [ZijianHe/koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
@@ -4981,6 +4983,7 @@
 
 ## PHP 
 
+- [joaovitoriasilva/endurain](https://github.com/joaovitoriasilva/endurain) - 
 - [biati-digital/alfred-calculate-anything](https://github.com/biati-digital/alfred-calculate-anything) - Alfred Workflow to calculate anything with natural language
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
@@ -5023,6 +5026,8 @@
 
 ## Python 
 
+- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [baaivision/Emu](https://github.com/baaivision/Emu) - Emu Series: Generative Multimodal Models from BAAI
 - [s-casci/tinyzero](https://github.com/s-casci/tinyzero) - Easily train AlphaZero-like agents on any environment you want!
@@ -5709,7 +5714,7 @@
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie) - An ergonomic and safe syscall interception framework for Linux.
 - [matt-kimball/allocscope](https://github.com/matt-kimball/allocscope) - allocscope  -  a memory tracking tool
 - [slawlor/ractor](https://github.com/slawlor/ractor) - Rust actor framework
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging for Rust
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -6161,7 +6166,7 @@
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library.
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
-- [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build data-rich applications using a growing list of advanced React components.
+- [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [marblejs/marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.
