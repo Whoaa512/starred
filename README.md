@@ -469,6 +469,7 @@
 - [JunoVR/MeditationVR](https://github.com/JunoVR/MeditationVR) - 
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [OpenAgricultureFoundation/gro-microcontroller](https://github.com/OpenAgricultureFoundation/gro-microcontroller) - **ALPHA VERSION** Code running on bot's microcontroller (Arduino Mega 2560).
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [NationalAssociationOfRealtors/libRETS](https://github.com/NationalAssociationOfRealtors/libRETS) - libRETS is RETS client library written in C++ that allows rapid development of RETS client applications. By saving the developer from dealing with the RETS protocol details, the application writer can
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [beark/ftl](https://github.com/beark/ftl) - C++ template library for fans of functional programming
@@ -729,6 +730,7 @@
 
 ## Go 
 
+- [linhx/tbmk](https://github.com/linhx/tbmk) - A commands bookmark for terminal 🔖
 - [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [lasorda/protobuf-language-server](https://github.com/lasorda/protobuf-language-server) - A language server implementation for Google Protocol Buffers
@@ -1438,7 +1440,6 @@
 - [jenkinsci/blueocean-plugin](https://github.com/jenkinsci/blueocean-plugin) - Blue Ocean is a reboot of the Jenkins CI/CD User Experience
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
 - [AWSinAction/apigateway](https://github.com/AWSinAction/apigateway) - AWS in Action: API Gateway
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [modesty/pdf2json](https://github.com/modesty/pdf2json) - A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [prezi/spaghetti](https://github.com/prezi/spaghetti) - Type-safe APIs for compile-to-JavaScript modules
@@ -2100,7 +2101,7 @@
 - [carlin-q-scott/browser-media-players](https://github.com/carlin-q-scott/browser-media-players) - Control interface for a variety of web based media players
 - [rikschennink/shiny](https://github.com/rikschennink/shiny) - 🌟 Shiny reflections for mobile websites
 - [lukeed/obj-str](https://github.com/lukeed/obj-str) - A tiny (96B) library for serializing Object values to Strings.
-- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [ElemeFE/obsolete-webpack-plugin](https://github.com/ElemeFE/obsolete-webpack-plugin) - 🌈 A Webpack plugin generates a browser-side standalone script that detects browser compatibility based on `Browserslist` and prompts website users to upgrade it.
 - [sergioramos/apr](https://github.com/sergioramos/apr) - this is like caolan/async which is like lodash but async, but awaitful
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
@@ -5911,6 +5912,7 @@
 
 ## Scala 
 
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
@@ -6273,7 +6275,7 @@
 - [aPinix/indent-jump-vscode](https://github.com/aPinix/indent-jump-vscode) - Move cursor and select contents between lines with the same indents.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [ar-nelson/spartan-schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [etro-js/etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
