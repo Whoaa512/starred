@@ -729,6 +729,7 @@
 
 ## Go 
 
+- [gokrazy/breakglass](https://github.com/gokrazy/breakglass) - emergency/debugging access for gokrazy installations
 - [schollz/find3-cli-scanner](https://github.com/schollz/find3-cli-scanner) - The command-line scanner that supports Bluetooth and WiFi
 - [linhx/tbmk](https://github.com/linhx/tbmk) - A commands bookmark for terminal 🔖
 - [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
@@ -968,7 +969,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
-- [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
+- [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -1802,6 +1803,7 @@
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 - [kaelzhang/node-comment-json](https://github.com/kaelzhang/node-comment-json) - Parse and stringify JSON with comments. It will retain comments even when after saved!
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [streamich/fs-monkey](https://github.com/streamich/fs-monkey) - Monkey-patches for file system related things
 - [Whoaa512/prompts](https://github.com/Whoaa512/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [fxnoob/mark-incognito](https://github.com/fxnoob/mark-incognito) - A chrome extension to help users with managing domains to incognito mode only
@@ -5309,7 +5311,6 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [clarencecastillo/alfred-powerthesaurus](https://github.com/clarencecastillo/alfred-powerthesaurus) - Search Powerthesaurus synonyms and antonyms from Alfred
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [vaexio/vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀
 - [andrewferguson/YahooGroups-Archiver](https://github.com/andrewferguson/YahooGroups-Archiver) - A simple Python script that archives all the messages from a public Yahoo Group
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
