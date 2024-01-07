@@ -294,6 +294,7 @@
 
 ## C++ 
 
+- [wernerturing/multi-delogo](https://github.com/wernerturing/multi-delogo) - Detect and remove logos from videos, even if they change position several times
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -4394,6 +4395,7 @@
 
 ## Jupyter Notebook 
 
+- [braindotai/Watermark-Removal-Pytorch](https://github.com/braindotai/Watermark-Removal-Pytorch) - 🔥 CNN for Watermark Removal using Deep Image Prior with Pytorch 🔥.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
