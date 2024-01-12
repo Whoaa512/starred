@@ -656,7 +656,7 @@
 ## Elixir 
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, and user/group sync.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -3658,7 +3658,6 @@
 - [olahol/reactpack](https://github.com/olahol/reactpack) - :package: build your react apps with one command and one `npm i`.
 - [carteb/carte-blanche](https://github.com/carteb/carte-blanche) - An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them.
 - [kalohq/recon](https://github.com/kalohq/recon) - Code Intelligence for React Applications
-- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [mrdoob/texgen.js](https://github.com/mrdoob/texgen.js) - JavaScript Texture Generator
 - [bcoe/which-cloud](https://github.com/bcoe/which-cloud) - given an ip address, return which cloud provider it belongs to (AWS, GCE, etc)
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
@@ -5936,6 +5935,7 @@
 
 ## Shell 
 
+- [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [m3at/video-watermark-removal](https://github.com/m3at/video-watermark-removal) - Remove simple watermarks from videos with minimal setup
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [wearedevx/llm-bash](https://github.com/wearedevx/llm-bash) - LLM-Bash - A Bash Wrapper around llm and Ollama for your code editor.
@@ -5978,7 +5978,7 @@
 - [perfsonar/project](https://github.com/perfsonar/project) - The perfSONAR project's primary wiki and issue tracker.
 - [seek-oss/docker-ecr-cache-buildkite-plugin](https://github.com/seek-oss/docker-ecr-cache-buildkite-plugin) - Zero config plugin for caching Docker images in Amazon ECR or Google Container Registry
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
@@ -6127,6 +6127,7 @@
 
 ## TypeScript 
 
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [penxio/penx](https://github.com/penxio/penx) - A structured note-taking app for personal use.
@@ -6408,7 +6409,7 @@
 - [101arrowz/fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
 - [pouyakary/TextGraphic](https://github.com/pouyakary/TextGraphic) - TextGraphic is a framework for creating Textual Graphics. It provides layers, styling, rich color, text justification, layouts, tables, view-ports, transparency, etc.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [rahul-jha98/sheets-database](https://github.com/rahul-jha98/sheets-database) - Library to help use a Google Sheet as a database
@@ -6623,7 +6624,7 @@
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [gregberge/react-teleporter](https://github.com/gregberge/react-teleporter) - Teleport React components in the same React tree 📡
 - [mqttjs/MQTT.js](https://github.com/mqttjs/MQTT.js) - The MQTT client for Node.js and the browser
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [tediousjs/tedious](https://github.com/tediousjs/tedious) - Node TDS module for connecting to SQL Server databases.
 - [kitze/graphql-user](https://github.com/kitze/graphql-user) - Reusable utility methods for GraphQL authentication in Node.js
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
@@ -7083,6 +7084,7 @@
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
+- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
