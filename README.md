@@ -6233,7 +6233,7 @@
 - [tableflowhq/csv-import](https://github.com/tableflowhq/csv-import) - The open-source CSV importer, maintained by @tableflowhq
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [wmaurer/vscode-jumpy](https://github.com/wmaurer/vscode-jumpy) - Jumpy Extension for Visual Studio Code
-- [tmm/react-supabase](https://github.com/tmm/react-supabase) - React Hooks library for Supabase
+- [awkweb/react-supabase](https://github.com/awkweb/react-supabase) - React Hooks library for Supabase
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨ Trigger.dev is the open source background jobs framework for TypeScript. With features like API integrations, webhooks, scheduling and delays.
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
 - [tinystacks/precloud](https://github.com/tinystacks/precloud) - An open source command line interface that runs checks on infrastructure as code to catch potential deployment issues before deploying.
