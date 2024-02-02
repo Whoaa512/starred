@@ -1653,7 +1653,7 @@
 - [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 - [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli) - 📟 CLI to create new Node.js CLI applications in minutes not hours.
-- [00000o1/servedata](https://github.com/00000o1/servedata) - File-system-based database (in the git repo), with a server attached with users and access control for serving this data. See an example in production:
+- [o0101/servedata](https://github.com/o0101/servedata) - File-system-based database (in the git repo), with a server attached with users and access control for serving this data. See an example in production:
 - [dosyago/sirdb](https://github.com/dosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [mafintosh/docker-parse-image](https://github.com/mafintosh/docker-parse-image) - Parse docker image urls
 - [ethanent/protocore](https://github.com/ethanent/protocore) - Specify and deploy performant binary protocol structures in Node
@@ -2921,7 +2921,7 @@
 - [davidkpiano/react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
 - [roaclark/tab-tree](https://github.com/roaclark/tab-tree) - Chrome extension to track tab workflows
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [sergiodxa/grial](https://github.com/sergiodxa/grial) - A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.
 - [darcyclarke/rawkit](https://github.com/darcyclarke/rawkit) - 🦊 Immediately Open Chrome DevTools when debugging Node.js apps
 - [jbmusso/zer](https://github.com/jbmusso/zer) - Zer helps you create and serialize generic JavaScript chains to String representations of any languages by leveraging ES2015 Proxy objects.
@@ -3607,7 +3607,6 @@
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [hemanth/node-nightly](https://github.com/hemanth/node-nightly) - node-nightly at your fingertips!
 - [airbnb/rheostat](https://github.com/airbnb/rheostat) - Rheostat is a www, mobile, and accessible slider component built with React
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [hemanth/node-nightly-version](https://github.com/hemanth/node-nightly-version) - Get the node nightly version.
 - [boramalper/Essential-YouTube](https://github.com/boramalper/Essential-YouTube) - An experimental UI for YouTube.
 - [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) - An experimental peer-to-peer Web browser
@@ -4451,7 +4450,6 @@
 - [fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [andri27-ts/Reinforcement-Learning](https://github.com/andri27-ts/Reinforcement-Learning) - Learn Deep Reinforcement Learning in 60 days! Lectures & Code in Python. Reinforcement Learning + Deep Learning
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [axu2/improved-seam-carving](https://github.com/axu2/improved-seam-carving) - A numpy implementation of forward energy from the paper “Improved Seam Carving for Video Retargeting" (2008)
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) - Microsoft Quantum Development Kit Samples
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -4901,6 +4899,7 @@
 - [witheve/rfcs](https://github.com/witheve/rfcs) - Request for Comments on changes to Eve
 - [AHAAAAAAA/PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - 🌏 Live visualization of all the pokemon in your area... and more! (shutdown)
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [przeor/awesome-falcor](https://github.com/przeor/awesome-falcor) - A collection of awesome things regarding Falcor (FalcorJS) Netflix ecosystem.
 - [reactjs/core-notes](https://github.com/reactjs/core-notes) - Weekly meeting notes from the React core team
@@ -5450,6 +5449,7 @@
 - [microsoft/nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [KonstantinSchubert/zero](https://github.com/KonstantinSchubert/zero) - Local file system transparently swapping to the cloud
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [calebmadrigal/trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Like nmap for mapping wifi networks you're not connected to, plus device tracking
 - [astorfi/Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap) - :satellite: Organized Resources for Deep Learning Researchers and Developers
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -5802,7 +5802,7 @@
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. 🚀 10x easier. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - The Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x easier. 🚀 10x more cost-efficient.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
@@ -6396,7 +6396,7 @@
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [jovotech/jovo-framework](https://github.com/jovotech/jovo-framework) - 🔈 The React for Voice and Chat: Build Apps for Alexa, Messenger, Instagram, the Web, and more
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [evinism/mistql](https://github.com/evinism/mistql) - A query / expression language for performing computations on JSON-like structures. Tuned for clientside ML feature extraction.
 - [golang/vscode-go](https://github.com/golang/vscode-go) - Go extension for Visual Studio Code
 - [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - Modern.js is a web engineering system, including a web framework and a npm package solution.
