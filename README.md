@@ -333,7 +333,7 @@
 - [diracdeltas/vstSpleeter](https://github.com/diracdeltas/vstSpleeter) - A VST interface to Spleeter
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux and Windows
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse) - FUSE driver for APFS (Apple File System)
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [GauravDawra/Beast](https://github.com/GauravDawra/Beast) - A build system built for speed and power
@@ -4020,7 +4020,6 @@
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [restify/node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
 - [sindresorhus/os-homedir](https://github.com/sindresorhus/os-homedir) - [DEPRECATED] Node.js `os.homedir()` ponyfill
-- [nylas/nylas-nodejs](https://github.com/nylas/nylas-nodejs) - A NodeJS wrapper for the Nylas REST API for email, contacts, and calendar.
 - [amrav/restify-jwt](https://github.com/amrav/restify-jwt) - restify middleware that validates a JsonWebToken (JWT) and sets the req.user with the attributes
 - [rtfeldman/seamless-immutable](https://github.com/rtfeldman/seamless-immutable) - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.
 - [rtfeldman/dreamwriter](https://github.com/rtfeldman/dreamwriter) - (NOTE! This has not been updated since Elm 0.15.1.) Streamlined long-form writing software. Written in Elm.
@@ -7149,6 +7148,7 @@
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+- [nylas/nylas-nodejs](https://github.com/nylas/nylas-nodejs) - A NodeJS wrapper for the Nylas REST API for email, contacts, and calendar.
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
