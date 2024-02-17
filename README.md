@@ -294,6 +294,7 @@
 
 ## C++ 
 
+- [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [wernerturing/multi-delogo](https://github.com/wernerturing/multi-delogo) - Detect and remove logos from videos, even if they change position several times
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
@@ -4068,8 +4069,8 @@
 - [MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 - [basicallydan/interfake](https://github.com/basicallydan/interfake) - :computer: Fake APIs for prototypes & automated tests.
 - [kraihn/dragon-names](https://github.com/kraihn/dragon-names) - 
-- [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
-- [ljharb/faucet](https://github.com/ljharb/faucet) - human-readable TAP summarizer
+- [tape-testing/tape](https://github.com/tape-testing/tape) - tap-producing test harness for node and browsers
+- [tape-testing/faucet](https://github.com/tape-testing/faucet) - human-readable TAP summarizer
 - [sindresorhus/hash-object](https://github.com/sindresorhus/hash-object) - Get the hash of an object
 - [isaacs/async-cache](https://github.com/isaacs/async-cache) - Cache your async lookups and don't fetch the same thing more than necessary.
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
@@ -5073,7 +5074,7 @@
 - [TheBlokeAI/AIScripts](https://github.com/TheBlokeAI/AIScripts) - Some simple scripts that I use day-to-day when working with LLMs and Huggingface Hub
 - [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - 
 - [Skydio/revup](https://github.com/Skydio/revup) - Revolutionary github tools. Effortlessly create multiple branches and pull requests.
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
 - [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
@@ -5697,6 +5698,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - UI accessibility infrastructure across platforms and programming languages
 - [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
