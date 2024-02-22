@@ -517,7 +517,7 @@
 - [joerez/Woah.css](https://github.com/joerez/Woah.css) - CSS Animation Library for eccentrics
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [imevro/flexboxgrid2](https://github.com/imevro/flexboxgrid2) - Modern 12 column grid system based on flex property
-- [socketsupply/scratches](https://github.com/socketsupply/scratches) - A scratchpad with node & browser apis.
+- [socketsupply/scratches](https://github.com/socketsupply/scratches) - A scratchpad for Socket Runtime (like Electron Fiddle)
 - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
@@ -981,7 +981,7 @@
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [quackduck/uniclip](https://github.com/quackduck/uniclip) - Cross-platform shared clipboard
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [v-byte-cpu/sx](https://github.com/v-byte-cpu/sx) - :vulcan_salute: Fast, modern, easy-to-use network scanner
 - [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
@@ -1393,7 +1393,7 @@
 
 ## Java 
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven orchestration platform
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol, event-native proxy. Securely interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
@@ -1743,7 +1743,7 @@
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [anvaka/npmgraph.an](https://github.com/anvaka/npmgraph.an) - 2d visualization of npm
 - [clinicjs/notare](https://github.com/clinicjs/notare) - 
-- [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - :butterfly: Fantasy Land compliant (monadic) alternative to Promises
+- [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
 - [addyosmani/puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - Automating Web Performance testing with Puppeteer 🎪
 - [git-insights/git-insights](https://github.com/git-insights/git-insights) - Git Insights is an analytics tool to give you insights on your software projects and teams.
 - [stewdio/q.js](https://github.com/stewdio/q.js) - Quantum computing in your browser.
@@ -1981,7 +1981,7 @@
 - [synox/youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - OBSOLETE - Interactively select the quality and format for youtube-dl
 - [bahmutov/snap-shot-it](https://github.com/bahmutov/snap-shot-it) - Smarter snapshot utility for Mocha and BDD test runners + data-driven testing!
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
-- [joeshub/react-808](https://github.com/joeshub/react-808) - 808 Drum Machine built using React.js hooks API
+- [PLUSDEVLLC/react-808](https://github.com/PLUSDEVLLC/react-808) - 808 Drum Machine built using React.js hooks API
 - [react-designer/react-designer](https://github.com/react-designer/react-designer) - It's not art
 - [AdamRisberg/react-image-magnifiers](https://github.com/AdamRisberg/react-image-magnifiers) - A collection of responsive, image magnifying React components for mouse and touch.
 - [reZach/my-budget](https://github.com/reZach/my-budget) - Free, open source offline cross-platform budgeting solution built with Electron.
@@ -4991,7 +4991,7 @@
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [leonardw/elasticsearch-query-builder](https://github.com/leonardw/elasticsearch-query-builder) - Utility to assist in building Elasticsearch query JSON. Supports wildcard in inputs.
 - [facebook/react-devtools](https://github.com/facebook/react-devtools) - An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
-- [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
@@ -5073,7 +5073,7 @@
 - [baicunko/scanyourpdf](https://github.com/baicunko/scanyourpdf) - Repository for the Scan Your Pdf community
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [TheBlokeAI/AIScripts](https://github.com/TheBlokeAI/AIScripts) - Some simple scripts that I use day-to-day when working with LLMs and Huggingface Hub
-- [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - 
+- [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
 - [Skydio/revup](https://github.com/Skydio/revup) - Revolutionary github tools. Effortlessly create multiple branches and pull requests.
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
 - [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
@@ -6163,7 +6163,7 @@
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [gregsadetsky/sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Chrome extension that generates API specs for any app or website
+- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion) - react-magic-motion is a react.js library that ✨ magically animates your components.
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - React component collection.
@@ -6383,7 +6383,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
 - [cwackerfuss/reactle](https://github.com/cwackerfuss/reactle) - A word-guessing game made using React, Typescript, and Tailwind
 - [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects
 - [alexghr/got-fetch](https://github.com/alexghr/got-fetch) - A fetch interface to got
