@@ -5501,7 +5501,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [SublimeLinter/SublimeLinter-flow](https://github.com/SublimeLinter/SublimeLinter-flow) - SublimeLinter plugin for JavaScript static type checking, using flow.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [gongzhitaao/tensorflow-adversarial](https://github.com/gongzhitaao/tensorflow-adversarial) - Crafting adversarial images
 - [fchollet/deep-learning-models](https://github.com/fchollet/deep-learning-models) - Keras code and weights files for popular deep learning models.
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
@@ -6312,7 +6312,7 @@
 - [aPinix/indent-jump-vscode](https://github.com/aPinix/indent-jump-vscode) - Move cursor and select contents between lines with the same indents.
 - [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [ar-nelson/spartan-schema](https://github.com/ar-nelson/spartan-schema) - Ultra-minimal JSON schemas with Typescript inference
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [etro-js/etro](https://github.com/etro-js/etro) - Typescript video-editing framework for the browser
