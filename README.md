@@ -5372,7 +5372,7 @@
 - [chris104957/maildown](https://github.com/chris104957/maildown) - A super simple CLI for sending emails
 - [youknowone/ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support.
 - [weskerfoot/DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
-- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Drive Storage by splitting binary files into base64
+- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [vtemian/interviews-prep](https://github.com/vtemian/interviews-prep) - 
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
