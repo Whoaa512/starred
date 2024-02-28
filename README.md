@@ -75,7 +75,6 @@
 - [R](#r)
 - [ReScript](#rescript)
 - [Reason](#reason)
-- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -112,7 +111,6 @@
 
 ## Assembly 
 
-- [ebitengine/purego](https://github.com/ebitengine/purego) - 
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
@@ -517,7 +515,6 @@
 - [joerez/Woah.css](https://github.com/joerez/Woah.css) - CSS Animation Library for eccentrics
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [imevro/flexboxgrid2](https://github.com/imevro/flexboxgrid2) - Modern 12 column grid system based on flex property
-- [socketsupply/scratches](https://github.com/socketsupply/scratches) - Like Codepen, but for native apps!
 - [ajusa/lit](https://github.com/ajusa/lit) - World's smallest responsive 🔥 css framework (395 bytes)
 - [IBM/css-gridish](https://github.com/IBM/css-gridish) - Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
@@ -807,6 +804,7 @@
 - [kisielk/godepgraph](https://github.com/kisielk/godepgraph) - A Go dependency graph visualization tool
 - [elmarsan/vhs](https://github.com/elmarsan/vhs) - Your CLI home video recorder 📼
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
+- [ebitengine/purego](https://github.com/ebitengine/purego) - 
 - [loderunner/scrt](https://github.com/loderunner/scrt) - A command-line secret manager for developers, sysadmins, and devops.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [automerge/automerge-go](https://github.com/automerge/automerge-go) - 
@@ -1489,7 +1487,7 @@
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [20lives/FrontendMastersDownloader](https://github.com/20lives/FrontendMastersDownloader) - FrontendMasters Downloader - A tool to keep offline copy of frontendmasters courses
 - [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
-- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
+- [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching module for JavaScript.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [holepunchto/hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted
 - [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
@@ -1780,7 +1778,7 @@
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [kesiev/rewtro](https://github.com/kesiev/rewtro) - Papercraft videogame cartridges you can print and pirate with a copy machine.
 - [victorqribeiro/isocity](https://github.com/victorqribeiro/isocity) - A isometric city builder in JavaScript
-- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content your browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
+- [dosyago/DownloadNet](https://github.com/dosyago/DownloadNet) - 💾 DownloadNet - All content you browse online available offline. Search through the full-text of all pages in your browser history. ⭐️ Star to support our work!
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [packtracker/webpack-plugin](https://github.com/packtracker/webpack-plugin) - A webpack plugin to report build statistics to packtracker.io
 - [bundlewatch/bundlewatch](https://github.com/bundlewatch/bundlewatch) - Keep watch of your bundle size
@@ -2439,6 +2437,7 @@
 - [WiseLibs/wise-promise](https://github.com/WiseLibs/wise-promise) - Native promises extended with powerful functionality.
 - [WiseLibs/wise-river](https://github.com/WiseLibs/wise-river) - Object streaming the way it should be.
 - [VICEMedia/dynaflow](https://github.com/VICEMedia/dynaflow) - DynamoDB abstraction using rivers 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [selbekk/calidators](https://github.com/selbekk/calidators) - Red hot JavaScript validators 🌶
 - [selbekk/calidation](https://github.com/selbekk/calidation) - Red hot form validation for React 🌶
 - [xJkit/react-goodbye](https://github.com/xJkit/react-goodbye) - A save reminder component for react router
@@ -2585,6 +2584,7 @@
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
+- [socketsupply/socket-app-studio](https://github.com/socketsupply/socket-app-studio) - Like Codepen, but for native apps!
 - [planttheidea/remeasure](https://github.com/planttheidea/remeasure) - Get position and size attributes for any React Component
 - [ctxhou/react-tabtab](https://github.com/ctxhou/react-tabtab) - 💃 Make your react tab dance🕺
 - [UXPin/adele](https://github.com/UXPin/adele) - Adele - Design Systems Repository
@@ -2664,7 +2664,6 @@
 - [denisraslov/react-spreadsheet-grid](https://github.com/denisraslov/react-spreadsheet-grid) - An Excel-like grid component for React with custom cell editors, performant scroll & resizable columns
 - [nitin42/React-Web-AR](https://github.com/nitin42/React-Web-AR) - 🕶️ Augmented Reality on web with React
 - [moscajs/mosca](https://github.com/moscajs/mosca) - MQTT broker as a module
-- [bichenkk/coinmon](https://github.com/bichenkk/coinmon) - 💰  The cryptocurrency price tool on CLI. 🖥
 - [elgris/microservice-app-example](https://github.com/elgris/microservice-app-example) - Example of polyglot microservice app
 - [rijs/fullstack](https://github.com/rijs/fullstack) - modern fullstack framework
 - [redux-loop/redux-loop](https://github.com/redux-loop/redux-loop) - A library that ports Elm's effect system to Redux
@@ -3597,7 +3596,6 @@
 - [imagemin/imagemin-pngquant](https://github.com/imagemin/imagemin-pngquant) - Imagemin plugin for `pngquant`
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [NeXTs/Jets.js](https://github.com/NeXTs/Jets.js) - Native CSS search engine
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [iamdustan/tiny-react-renderer](https://github.com/iamdustan/tiny-react-renderer) - Learn you a React Renderer for Great Good
 - [joelburget/d4](https://github.com/joelburget/d4) - Data-Driven Declarative Documents
@@ -5112,7 +5110,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and automation platform
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [nickjj/flask-db](https://github.com/nickjj/flask-db) - A Flask CLI extension to help migrate and manage your SQL database.
 - [nickjj/webserver](https://github.com/nickjj/webserver) - A zero dependency Python 3 web server to echo back an HTTP request's headers and data.
 - [nickjj/docker-flask-example](https://github.com/nickjj/docker-flask-example) - A production ready example Flask app that's using Docker and Docker Compose.
@@ -5129,7 +5127,7 @@
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [whipper-team/whipper](https://github.com/whipper-team/whipper) - Python CD-DA ripper preferring accuracy over speed
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [dogsheep/healthkit-to-sqlite](https://github.com/dogsheep/healthkit-to-sqlite) - Convert an Apple Healthkit export zip to a SQLite database
 - [dogsheep/dogsheep-photos](https://github.com/dogsheep/dogsheep-photos) - Upload your photos to S3 and import metadata about them into a SQLite database
 - [dogsheep/github-to-sqlite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database
@@ -5635,10 +5633,6 @@
 
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
-
-## Rich Text Format 
-
-- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 
 ## Roff 
 
@@ -6383,7 +6377,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [cwackerfuss/reactle](https://github.com/cwackerfuss/reactle) - A word-guessing game made using React, Typescript, and Tailwind
 - [craigmichaelmartin/pure-orm](https://github.com/craigmichaelmartin/pure-orm) - A pure ORM for writing native SQL queries yielding pure business objects
 - [alexghr/got-fetch](https://github.com/alexghr/got-fetch) - A fetch interface to got
@@ -7107,6 +7101,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [gamestdio/three-text2d](https://github.com/gamestdio/three-text2d) - Render texture from canvas into THREE's Mesh or Sprite.
 - [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) - 👽 Wire for web
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [typestyle/csx](https://github.com/typestyle/csx) - Utility functions for TypeStyle
 - [deepsweet/start](https://github.com/deepsweet/start) - :red_circle: Functional task runner for Node.js
