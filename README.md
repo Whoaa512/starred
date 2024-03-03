@@ -818,7 +818,7 @@
 - [adhocteam/pushup](https://github.com/adhocteam/pushup) - Pushup is for making modern, page-oriented web apps in Go
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Auth and user management for the passkey era
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Customer Identity and Access Management for the passkey era
 - [maxbrunsfeld/counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) - A tool for generating self-contained, type-safe test doubles in go
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [vburenin/ifacemaker](https://github.com/vburenin/ifacemaker) - Generate interfaces from structure methods.
@@ -2002,7 +2002,7 @@
 - [emersonlaurentino/babel-upgrade-online](https://github.com/emersonlaurentino/babel-upgrade-online) - A tiny editor for upgrading Babel versions (to v7)
 - [evanplaice/jquery-csv](https://github.com/evanplaice/jquery-csv) - A jQuery CSV parser plugin. Battle Tested | Optimized | 100% IETF RFC 4180 Complete
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
-- [nearst/laconia](https://github.com/nearst/laconia) - Create well-crafted serverless applications, effortlessly
+- [nearst/laconia](https://github.com/nearst/laconia) - Create well-crafted serverless applications, effortlessly.
 - [nodejs/node-inspect](https://github.com/nodejs/node-inspect) - Code that's now part of node, previously `node debug` for `node --inspect`
 - [zcaceres/lambdagram](https://github.com/zcaceres/lambdagram) - ☁️A Tiny Cloud Service to Build Image Datasets with Instagram 📸
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
@@ -3489,7 +3489,6 @@
 - [hoppula/react-apig-lambda](https://github.com/hoppula/react-apig-lambda) - Render React.js on-demand with CDN caching
 - [bijection/g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-- [rommguy/react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - Easily customize the browser scroll bar with native OS scroll behavior
 - [GeekyAnts/react-native-easy-grid](https://github.com/GeekyAnts/react-native-easy-grid) - Easy React Native Layout & Grid for the Dumb
 - [redibox/core](https://github.com/redibox/core) - Modular Redis connection and PUBSUB subscription manager for node. Easily extendable. Built for performance, powered by ioredis.
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
@@ -5952,6 +5951,7 @@
 
 ## Shell 
 
+- [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
 - [m3at/video-watermark-removal](https://github.com/m3at/video-watermark-removal) - Remove simple watermarks from videos with minimal setup
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -7094,6 +7094,7 @@
 - [pact-foundation/pact-js](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [react-component/tabs](https://github.com/react-component/tabs) - React Tabs
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [rommguy/react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - Easily customize the browser scroll bar with native OS scroll behavior
 - [robertknight/webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of Webpack bundles
 - [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
