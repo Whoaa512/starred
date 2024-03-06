@@ -432,7 +432,6 @@
 - [tensorflow/minigo](https://github.com/tensorflow/minigo) - An open-source implementation of the AlphaGoZero algorithm
 - [facebookarchive/Flicks](https://github.com/facebookarchive/Flicks) - A unit of time defined in C++.
 - [relativty/Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [voodooattack/nexusjs](https://github.com/voodooattack/nexusjs) - Nexus.js - The next-gen JavaScript platform
 - [apple/turicreate](https://github.com/apple/turicreate) - Turi Create simplifies the development of custom machine learning models.
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -1227,7 +1226,6 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [elestio/ws-monitoring](https://github.com/elestio/ws-monitoring) - A simple & lightweight realtime monitoring web UI + server in Node.js
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN a
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
@@ -4558,6 +4556,7 @@
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -5042,6 +5041,7 @@
 
 ## Python 
 
+- [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
@@ -5238,7 +5238,7 @@
 - [SinaKhalili/Folders.py](https://github.com/SinaKhalili/Folders.py) - Implementation of the Folders📂 esoteric programming language, a language with no code and just folders.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [wonderworks-software/PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python - https://wonderworks-software.github.io/PyFlow
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [timonweb/pytailwindcss](https://github.com/timonweb/pytailwindcss) - 
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
@@ -5630,7 +5630,6 @@
 
 ## Reason 
 
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
 
 ## Roff 
@@ -5692,6 +5691,7 @@
 
 ## Rust 
 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed DataFrame for Python designed for the cloud, powered by Rust
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - UI accessibility infrastructure across platforms and programming languages
@@ -6470,6 +6470,7 @@
 - [peak-ai/jedlik](https://github.com/peak-ai/jedlik) - DynamoDB ODM for Node
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [ugudango/consistent-shading](https://github.com/ugudango/consistent-shading) - Shade consitency for various hues, based on luminance.
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
