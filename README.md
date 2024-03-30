@@ -6346,7 +6346,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
-- [node-cache-manager/node-cache-manager](https://github.com/node-cache-manager/node-cache-manager) - Cache module for Node.JS
+- [node-cache-manager/cache-manager](https://github.com/node-cache-manager/cache-manager) - Cache module for Node.JS
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
