@@ -294,6 +294,7 @@
 
 ## C++ 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [wernerturing/multi-delogo](https://github.com/wernerturing/multi-delogo) - Detect and remove logos from videos, even if they change position several times
@@ -5050,6 +5051,7 @@
 
 ## Python 
 
+- [leapingio/leaping](https://github.com/leapingio/leaping) - 
 - [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
@@ -5735,7 +5737,7 @@
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - Bazel RBE with CAS server implementation in Rust. The free remote execution service, built for stability and speed for the people that need it. If you target GPUs for your platform, you're in luck.
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - Bazel RBE with CAS server implementation in Rust. The free cache and remote execution service, prioritizing stability and speed for the people that need it.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -7185,7 +7187,7 @@
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [nylas/nylas-nodejs](https://github.com/nylas/nylas-nodejs) - A NodeJS wrapper for the Nylas REST API for email, contacts, and calendar.
-- [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) - A fast cache that automatically deletes the least recently used items
