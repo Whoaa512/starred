@@ -1478,6 +1478,7 @@
 
 ## JavaScript 
 
+- [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [rvagg/spacemon](https://github.com/rvagg/spacemon) - Tool to monitor Filecoin storage space onboarding 🐶🍖
@@ -5064,6 +5065,7 @@
 
 ## Python 
 
+- [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [madron/iptables-exporter](https://github.com/madron/iptables-exporter) - 
 - [santigl/sqliteanalyzer](https://github.com/santigl/sqliteanalyzer) - Python 3 module that provides functions to easily extract storage metrics from SQLite databases
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
@@ -5725,6 +5727,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bobobo1618/ninesleep](https://github.com/bobobo1618/ninesleep) - 
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [sabledb-io/sabledb](https://github.com/sabledb-io/sabledb) - Ultra fast, persistent database supporting Redis API
