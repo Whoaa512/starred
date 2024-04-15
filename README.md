@@ -5998,6 +5998,7 @@
 
 ## Shell 
 
+- [Whoaa512/dotfiles](https://github.com/Whoaa512/dotfiles) - :wrench: .files, including ~/.osx — sensible hacker defaults for OS X
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
@@ -6113,7 +6114,6 @@
 - [tj/n](https://github.com/tj/n) - Node version management
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [binx/WiFiDiary](https://github.com/binx/WiFiDiary) - 
-- [Whoaa512/dotfiles](https://github.com/Whoaa512/dotfiles) - :wrench: .files, including ~/.osx — sensible hacker defaults for OS X
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [ankitvad/goto](https://github.com/ankitvad/goto) - Linux Shell 'cd' replacement tool. cd on steroids, with fuzzy file finder and a directory bookmark saver.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
