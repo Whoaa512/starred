@@ -647,6 +647,7 @@
 
 ## Dockerfile 
 
+- [JetBrains/teamcity-docker-images](https://github.com/JetBrains/teamcity-docker-images) - TeamCity docker images
 - [smy20011/dreambooth-docker](https://github.com/smy20011/dreambooth-docker) - 
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
@@ -1402,6 +1403,7 @@
 
 ## Java 
 
+- [Hafthor/zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip-separated-values
 - [tcplugins/tcWebHooks](https://github.com/tcplugins/tcWebHooks) - WebHooks plugin for Teamcity. Supports many build states and payload formats.
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven orchestration platform
@@ -1478,6 +1480,7 @@
 
 ## JavaScript 
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
@@ -4630,6 +4633,7 @@
 
 ## Others 
 
+- [splitwise/api-docs](https://github.com/splitwise/api-docs) - API documentation for the Splitwise API.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [criccomini/awesome-infra](https://github.com/criccomini/awesome-infra) - A curated list of infrastructure projects and companies.
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -5065,6 +5069,7 @@
 
 ## Python 
 
+- [Evan-Wildenhain/CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Ctrl-f for videos
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [madron/iptables-exporter](https://github.com/madron/iptables-exporter) - 
 - [santigl/sqliteanalyzer](https://github.com/santigl/sqliteanalyzer) - Python 3 module that provides functions to easily extract storage metrics from SQLite databases
@@ -5727,6 +5732,7 @@
 
 ## Rust 
 
+- [kimono-koans/dano](https://github.com/kimono-koans/dano) - A hashdeep/md5tree (but much more) for media files
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bobobo1618/ninesleep](https://github.com/bobobo1618/ninesleep) - 
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
@@ -5850,7 +5856,7 @@
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
