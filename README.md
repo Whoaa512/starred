@@ -662,7 +662,7 @@
 ## Elixir 
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
@@ -1065,7 +1065,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - The AWS Provider enables Terraform to manage AWS resources.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
@@ -4368,7 +4368,7 @@
 - [borismus/keysocket](https://github.com/borismus/keysocket) - 
 - [petethepig/devtools-terminal](https://github.com/petethepig/devtools-terminal) - Terminal in Chrome Devtools
 - [HuddleEng/PhantomFlow](https://github.com/HuddleEng/PhantomFlow) - Describe and visualise user flows through tests with PhantomJS
-- [docusign/docusign.github.io](https://github.com/docusign/docusign.github.io) - DocuSign Signing Complete page
+- [docusign/docusign.github.io](https://github.com/docusign/docusign.github.io) - Docusign Examples. See the DevCenter for more examples.
 - [FGRibreau/Growl-Chrome-Notification](https://github.com/FGRibreau/Growl-Chrome-Notification) - Notifications Growl pour Google Chrome :: Proof of concept :: HTML5 Web Notification API + WebSocket + NodeJS
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [krasimir/absurd](https://github.com/krasimir/absurd) - A JavaScript library with superpowers
