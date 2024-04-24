@@ -746,6 +746,7 @@
 - [erning/gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a "bang line" in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS.
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
@@ -2245,7 +2246,6 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [nitin42/react-color-tools](https://github.com/nitin42/react-color-tools) - A set of tools as React components for working with colors 🎨
 - [energydrink9/functional-data-grid](https://github.com/energydrink9/functional-data-grid) - Data grids in functional style with ReactJS
-- [JiLiZART/BBob](https://github.com/JiLiZART/BBob) - ⚡️Blazing fast js bbcode parser, that transforms and parses bbcode to AST with plugin support in pure javascript, no dependencies
 - [burakcan/mb](https://github.com/burakcan/mb) - Exception-free nested nullable attribute accessor
 - [americanexpress/react-albus](https://github.com/americanexpress/react-albus) - ✨ React component library for building declarative multi-step flows.
 - [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
@@ -5080,7 +5080,6 @@
 - [paveldedik/ludic](https://github.com/paveldedik/ludic) - 🌳 Lightweight framework for building dynamic HTML pages in pure Python.
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [aappleby/hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
@@ -6251,7 +6250,7 @@
 - [LevanKvirkvelia/salute](https://github.com/LevanKvirkvelia/salute) - A simple and declarative way to control LLMs
 - [juanluispaz/ts-sql-query](https://github.com/juanluispaz/ts-sql-query) - Type-safe SQL query builder like QueryDSL or JOOQ in Java or Linq in .Net for TypeScript with MariaDB, MySql, Oracle, PostgreSql, Sqlite and SqlServer support.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure cloud runtime for AI apps & AI agents. Fully open-source.
 - [Zeus-Labs/ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud) - Open Source Cloud Security
 - [nadeesha/ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project. 🛀
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -6815,6 +6814,7 @@
 - [wix-incubator/vscode-glean](https://github.com/wix-incubator/vscode-glean) - The extension provides refactoring tools for your React codebase
 - [JodusNodus/react-qr-reader](https://github.com/JodusNodus/react-qr-reader) - React component for reading QR codes from webcam.
 - [sapegin/stack-styled](https://github.com/sapegin/stack-styled) - Stacking layouts for React
+- [JiLiZART/BBob](https://github.com/JiLiZART/BBob) - ⚡️Blazing fast js bbcode parser, that transforms and parses bbcode to AST with plugin support in pure javascript, no dependencies
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [awaitlink/vk-chat-bot](https://github.com/awaitlink/vk-chat-bot) - :package: node package for building chat bots for VK communities (uses Callback API)
 - [alioguzhan/react-editext](https://github.com/alioguzhan/react-editext) - Editable Text Component for React Apps
