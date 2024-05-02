@@ -738,6 +738,7 @@
 
 ## Go 
 
+- [ansiwen/shorterr](https://github.com/ansiwen/shorterr) - Short-circuit error handling for Go
 - [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
 - [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database
 - [arduino/arduino-create-agent](https://github.com/arduino/arduino-create-agent) - The Arduino Create Agent
@@ -5736,6 +5737,7 @@
 
 ## Rust 
 
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [kimono-koans/dano](https://github.com/kimono-koans/dano) - A hashdeep/md5tree (but much more) for media files
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bobobo1618/ninesleep](https://github.com/bobobo1618/ninesleep) - 
