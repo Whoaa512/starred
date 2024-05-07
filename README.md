@@ -2124,7 +2124,7 @@
 - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
-- [futil-js/futil-js](https://github.com/futil-js/futil-js) - F(unctional) util(ities). Resistance is futile.
+- [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sinedied/smoke](https://github.com/sinedied/smoke) - :dash: Simple yet powerful file-based mock server with recording abilities
 - [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
