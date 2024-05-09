@@ -1493,6 +1493,7 @@
 
 ## JavaScript 
 
+- [KusStar/vite-bundle-visualizer](https://github.com/KusStar/vite-bundle-visualizer) - CLI for visualizing your vite project bundle.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
@@ -6214,6 +6215,7 @@
 
 ## TypeScript 
 
+- [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
 - [mckravchyk/shocut](https://github.com/mckravchyk/shocut) - A fast, lightweight, multi-context and i18n friendly keyboard shortcut library for web-based renderers
 - [fwcd/vscode-kotlin](https://github.com/fwcd/vscode-kotlin) - Kotlin code completion, linting and more for VSCode
@@ -6367,7 +6369,7 @@
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel) - Open source alternative to Percy, Chromatic, Applitools.
-- [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+- [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [rannn505/child-shell](https://github.com/rannn505/child-shell) - Node.js bindings 🔗 for shell
 - [peterkhayes/pitchfinder](https://github.com/peterkhayes/pitchfinder) - A compilation of pitch detection algorithms for Javascript.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
@@ -7305,6 +7307,7 @@
 
 ## Zig 
 
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
