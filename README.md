@@ -744,6 +744,8 @@
 
 ## Go 
 
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
+- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [Yifeeeeei/butterknife](https://github.com/Yifeeeeei/butterknife) - A tool for printing stuffs along with its callers in Golang
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores
 - [gosuri/uitable](https://github.com/gosuri/uitable) - A go library to improve readability in terminal apps using tabular data
@@ -7151,7 +7153,7 @@
 - [vercel/uid-promise](https://github.com/vercel/uid-promise) - Creates a cryptographically strong UID
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [serviejs/throwback](https://github.com/serviejs/throwback) - An asynchronous middleware pattern
 - [serviejs/servie-compat-http](https://github.com/serviejs/servie-compat-http) - **DEPRECATED** Map Servie `Request` and `Response` instances to node.js HTTP compatible objects
 - [serviejs/servie-lambda](https://github.com/serviejs/servie-lambda) - Servie transport for AWS lambda proxy
