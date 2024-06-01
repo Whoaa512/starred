@@ -2059,6 +2059,7 @@
 - [aurbano/robinhood-node](https://github.com/aurbano/robinhood-node) - :chart_with_upwards_trend: NodeJS client for Robinhood Trading :fire:
 - [yura505/robinhood-node](https://github.com/yura505/robinhood-node) - :chart_with_upwards_trend: NodeJS client for Robinhood Trading
 - [zoltantothcom/Design-Patterns-JavaScript](https://github.com/zoltantothcom/Design-Patterns-JavaScript) - A game to test your familiarity with the ‘Gang of Four’ design patterns implemented in JavaScript.
+- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
 - [stripe-archive/react-stripe-elements](https://github.com/stripe-archive/react-stripe-elements) - Moved to stripe/react-stripe-js.
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
@@ -3796,7 +3797,7 @@
 - [developit/dropfox](https://github.com/developit/dropfox) - 🦊 📂 A dropbox client powered by Preact, Electron and Photon
 - [shichongrui/json-schema-dynamo](https://github.com/shichongrui/json-schema-dynamo) - 
 - [tomek-he-him/isomorphic-ensure](https://github.com/tomek-he-him/isomorphic-ensure) - :last_quarter_moon: Use webpack loaders seamlessly – in node as well as in the browser.
-- [masaakim/css-specificity](https://github.com/masaakim/css-specificity) - CSS selector specificity calculator
+- [matype/css-specificity](https://github.com/matype/css-specificity) - CSS selector specificity calculator
 - [arqex/react-datetime](https://github.com/arqex/react-datetime) - A lightweight but complete datetime picker react component.
 - [yilenpan/algorithmofanalgorithm](https://github.com/yilenpan/algorithmofanalgorithm) - 
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -4984,7 +4985,7 @@
 - [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
-- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps! (PR welcomed ;))
+- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
 - [simple10/baby-sleep](https://github.com/simple10/baby-sleep) - Baby sleep guides curated from the best of the Internet.
 - [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) - A community-curated list of awesome open companies.
 - [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - A curated list of awesome curated lists! Inspired by inspiration.
@@ -5865,7 +5866,7 @@
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [pomsky-lang/pomsky](https://github.com/pomsky-lang/pomsky) - A new, portable, regular expression language
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -6761,7 +6762,6 @@
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [wsmd/reattempt](https://github.com/wsmd/reattempt) - 🤞 Give your functions another chance
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
 - [kevinsqi/react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar) - A circular progressbar component, built with SVG and extensively customizable
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
