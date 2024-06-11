@@ -48,6 +48,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Less](#less)
 - [LiveScript](#livescript)
 - [Lua](#lua)
@@ -348,7 +349,6 @@
 - [AMDmi3/jsonslicer](https://github.com/AMDmi3/jsonslicer) - Stream JSON parser for Python
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
@@ -1178,7 +1178,7 @@
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: An easier way to compare hashes /fingerprints, when dealing human weak link :link: :tada:
 - [micro/micro](https://github.com/micro/micro) - A Go service development platform
 - [segmentio/cwlogs](https://github.com/segmentio/cwlogs) - CLI tool for reading logs from Cloudwatch Logs
-- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & Versatile interactive shell
+- [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [aybabtme/iocontrol](https://github.com/aybabtme/iocontrol) - Measure and throttle the rate at which data is transferred.
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
@@ -4517,6 +4517,10 @@
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 - [uber/RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [mplacona/BurnerPhones](https://github.com/mplacona/BurnerPhones) - A burner phone application using the Twilio API and Kotlin at the backend
+
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Less 
 
