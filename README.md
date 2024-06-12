@@ -1514,7 +1514,7 @@
 - [sebastiansandqvist/s-ago](https://github.com/sebastiansandqvist/s-ago) - Human readable relative times (eg. 4 minutes ago)
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
-- [leftmove/wallstreetlocal](https://github.com/leftmove/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful.
+- [leftmove/wallstreetlocal](https://github.com/leftmove/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [alfateam/orange-orm](https://github.com/alfateam/orange-orm) - The ultimate ORM for Node and Typescript
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
@@ -4421,10 +4421,10 @@
 - [unsetbit/collage](https://github.com/unsetbit/collage) - Live, dynamic, and interactive collages
 - [unsetbit/big-surface](https://github.com/unsetbit/big-surface) - Limitless space within DOM elements
 - [unsetbit/giant-quadtree](https://github.com/unsetbit/giant-quadtree) - 2D collision detection without boundaries
-- [sherah/bookstrap](https://github.com/sherah/bookstrap) - BookStrap is a dashboard that organizes the components of your classes.
-- [sherah/TalkRemote](https://github.com/sherah/TalkRemote) - A remote control app used by the audience of a lecture to provide feedback to the lecturer in real time.
+- [formerStartupLuvr/bookstrap](https://github.com/formerStartupLuvr/bookstrap) - BookStrap is a dashboard that organizes the components of your classes.
+- [formerStartupLuvr/TalkRemote](https://github.com/formerStartupLuvr/TalkRemote) - A remote control app used by the audience of a lecture to provide feedback to the lecturer in real time.
 - [junejung/Hive](https://github.com/junejung/Hive) - Javascript version of hive
-- [sherah/sparkmails](https://github.com/sherah/sparkmails) - (WIP) A creativity tool. Provides an automatic, scrolling interface through which to easily browse your 'spark file' and add to it as needed.
+- [formerStartupLuvr/sparkmails](https://github.com/formerStartupLuvr/sparkmails) - (WIP) A creativity tool. Provides an automatic, scrolling interface through which to easily browse your 'spark file' and add to it as needed.
 - [padolsey/vic.js](https://github.com/padolsey/vic.js) - Validation & Input Correction abstraction
 - [florian/js-testing-boilerplates](https://github.com/florian/js-testing-boilerplates) - Just some boilerplates for common JS testing setups.
 - [mindmup/legacy-mindmup](https://github.com/mindmup/legacy-mindmup) - Legacy MindMup (v1) code
@@ -5798,7 +5798,7 @@
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - Bazel RBE with CAS server implementation in Rust. The free cache and remote execution service, prioritizing stability and speed for the people that need it.
+- [nativelink/nativelink](https://github.com/nativelink/nativelink) - Bazel RBE with CAS server implementation in Rust. The free cache and remote execution service, prioritizing stability and speed for the people that need it.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
