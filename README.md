@@ -810,7 +810,7 @@
 - [cristalhq/builq](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [tmc/smol-dev-go](https://github.com/tmc/smol-dev-go) - smol-dev-go, a Go implementation of smol developer
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
 - [ucarion/urlpath](https://github.com/ucarion/urlpath) - A Golang library for matching REST-like URL path patterns
 - [Humpheh/goboy](https://github.com/Humpheh/goboy) - Multi-platform Nintendo Game Boy Color emulator written in Go
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) - Exposure Notification Reference Server | Covid-19 Exposure Notifications
@@ -1031,7 +1031,7 @@
 - [mfbx9da4/brightpath-backend](https://github.com/mfbx9da4/brightpath-backend) - Find the safest well lit walking path between two locations on earth.
 - [martinlindhe/subtitles](https://github.com/martinlindhe/subtitles) - Go library and command-line tools for manipulating .srt, .vtt and .ssa subtitles
 - [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [hofstadter-io/hof](https://github.com/hofstadter-io/hof) - Framework that joins data models, schemas, code generation, and a task engine. Language and technology agnostic.
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -6369,7 +6369,7 @@
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
