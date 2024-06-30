@@ -267,7 +267,7 @@
 
 - [3xpl01tc0d3r/ProcessInjection](https://github.com/3xpl01tc0d3r/ProcessInjection) - This program is designed to demonstrate various process injection techniques
 - [peterhaneve/ONIMods](https://github.com/peterhaneve/ONIMods) - Peter Han's mods for Oxygen Not Included
-- [Mayall0513/ONIMods](https://github.com/Mayall0513/ONIMods) - 
+- [Mayall0513/oni-mods](https://github.com/Mayall0513/oni-mods) - 
 - [Pt-Djefferson/ONIMods](https://github.com/Pt-Djefferson/ONIMods) - 
 - [microsoft/ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
 - [CCob/ThreadlessInject](https://github.com/CCob/ThreadlessInject) - Threadless Process Injection using remote function hooking.
@@ -865,7 +865,7 @@
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go
 - [vburenin/ifacemaker](https://github.com/vburenin/ifacemaker) - Generate interfaces from structure methods.
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [google/mangle](https://github.com/google/mangle) - 
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -2723,7 +2723,7 @@
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [sunesimonsen/ukkonen](https://github.com/sunesimonsen/ukkonen) - Ukkonen's Approximate String Matching algorithm
-- [tigercosmos/node-color-log](https://github.com/tigercosmos/node-color-log) - ⌨️ The more powerful JavaScript logger for NodeJS and browsers ✏️
+- [tigercosmos/node-color-log](https://github.com/tigercosmos/node-color-log) - ⌨️ A lightwight and more powerful JavaScript logger for NodeJS and browsers ✏️
 - [ronomon/reed-solomon](https://github.com/ronomon/reed-solomon) - Fast, reliable Reed-Solomon erasure coding as a native addon for Node.js.
 - [DiegoZoracKy/magicli](https://github.com/DiegoZoracKy/magicli) - Automagically generates command-line interfaces (CLI) for any module. Expected options and help sections are created automatically based on parameters names, with support to async.
 - [gajus/postloader](https://github.com/gajus/postloader) - A scaffolding tool for projects using DataLoader, Flow and PostgreSQL.
