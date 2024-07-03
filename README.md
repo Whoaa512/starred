@@ -1377,7 +1377,6 @@
 - [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
 - [passy/react-pokemon](https://github.com/passy/react-pokemon) - A React component for displaying Pokémon
 - [Altreus/colourblind](https://github.com/Altreus/colourblind) - Colour blindness bookmarklet
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [mozilla-appmaker/appmaker](https://github.com/mozilla-appmaker/appmaker) - Appmaker was an exploration in making app authoring available to non-developers
@@ -3270,6 +3269,7 @@
 - [halfzebra/create-elm-app](https://github.com/halfzebra/create-elm-app) - 🍃 Create Elm apps with zero configuration
 - [zkat/pacote](https://github.com/zkat/pacote) - programmatic npm package and metadata downloader (moved!)
 - [wix-incubator/react-native-interactable](https://github.com/wix-incubator/react-native-interactable) - Experimental implementation of high performance interactable views in React Native
+- [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [anvaka/VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
 - [andresgottlieb/soundcast](https://github.com/andresgottlieb/soundcast) - Cast audio from macOS to Chromecast
 - [matbee-eth/chromecast-audio-stream](https://github.com/matbee-eth/chromecast-audio-stream) - Stream your Windows PC's audio to the Chromecast
@@ -5786,7 +5786,7 @@
 - [bobobo1618/ninesleep](https://github.com/bobobo1618/ninesleep) - 
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [sabledb-io/sabledb](https://github.com/sabledb-io/sabledb) - Ultra fast, persistent database supporting Redis API
-- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake.
+- [spiceai/spiceai](https://github.com/spiceai/spiceai) - A self-hostable CDN for databases. Spice provides a unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data l
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [hellux/jotdown](https://github.com/hellux/jotdown) - A Djot parser library
 - [sunng87/pgwire](https://github.com/sunng87/pgwire) - PostgreSQL wire protocol implemented as a rust library.
@@ -6011,6 +6011,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [pcwalton/sprocketnes](https://github.com/pcwalton/sprocketnes) - NES emulator written in Rust
 
 ## SCSS 
@@ -7174,7 +7175,6 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [pd4d10/console-importer](https://github.com/pd4d10/console-importer) - Easily import JS and CSS resources from Chrome console.
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
-- [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [SpoonX/wetland](https://github.com/SpoonX/wetland) - A Node.js ORM, mapping-based. Works with MySQL, PostgreSQL, SQLite and more.
 - [gsantiago/subtitle.js](https://github.com/gsantiago/subtitle.js) - Stream-based library for parsing and manipulating subtitle files
