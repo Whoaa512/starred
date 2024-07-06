@@ -5816,7 +5816,7 @@
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - 🔥🔥🔥 Bazel RBE with CAS server implementation in Rust. The free and open source cache and remote execution service, prioritizing stability and speed for the people that need it.
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - Bazel RBE with CAS server implementation in Rust. The free and open source cache and remote execution service, prioritizing stability and speed for the people that need it.
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
