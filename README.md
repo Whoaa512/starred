@@ -160,7 +160,7 @@
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-- [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
+- [BitairLabs/linker.js](https://github.com/BitairLabs/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
 - [lucydsl/liblucy](https://github.com/lucydsl/liblucy) - Core Lucy compiler
 - [NateBrune/silk-guardian](https://github.com/NateBrune/silk-guardian) - &lt;&lt; Silk Guardian &gt;&gt; is an anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
@@ -297,6 +297,7 @@
 
 ## C++ 
 
+- [FTL-Hyperspace/FTL-Hyperspace](https://github.com/FTL-Hyperspace/FTL-Hyperspace) - Hyperspace -- A mod for FTL: Faster than Light
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [systemd/node-sd-notify](https://github.com/systemd/node-sd-notify) - wrapper around sd_notify for using systemd as a node process manager
@@ -1182,7 +1183,7 @@
 - [sanbornm/mp](https://github.com/sanbornm/mp) - Simple Email Parser
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: An easier way to compare hashes /fingerprints, when dealing human weak link :link: :tada:
-- [micro/micro](https://github.com/micro/micro) - A Go service development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [segmentio/cwlogs](https://github.com/segmentio/cwlogs) - CLI tool for reading logs from Cloudwatch Logs
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [aybabtme/iocontrol](https://github.com/aybabtme/iocontrol) - Measure and throttle the rate at which data is transferred.
@@ -1544,7 +1545,7 @@
 - [reactpractice-dev/unit-tests-jsx](https://github.com/reactpractice-dev/unit-tests-jsx) - Practice React by fixing tests - Check your JSX knowledge!
 - [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [20lives/FrontendMastersDownloader](https://github.com/20lives/FrontendMastersDownloader) - FrontendMasters Downloader - A tool to keep offline copy of frontendmasters courses
-- [ColonelParrot/jscanify](https://github.com/ColonelParrot/jscanify) - Open-source Javascript mobile document scanner.
+- [puffinsoft/jscanify](https://github.com/puffinsoft/jscanify) - Open-source Javascript mobile document scanner.
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - ⚡️ Advanced in-memory caching for JavaScript.
 - [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [holepunchto/hypershell](https://github.com/holepunchto/hypershell) - Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted
@@ -4215,7 +4216,6 @@
 - [brentyates/prettypullrequests](https://github.com/brentyates/prettypullrequests) - A chrome extension to make reviewing pull requests in Github a little easier.
 - [jeffbski/digest-stream](https://github.com/jeffbski/digest-stream) - Simple node.js pass-through stream (RW) which calculates the a crypto digest (sha/md5 hash) of a stream and also the length. Pipe your stream through this to get digest and length. (streams2)
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [jacoborus/deep-json](https://github.com/jacoborus/deep-json) - Load a tree of splitted JSON files and folders
 - [jackschaedler/circles-sines-signals](https://github.com/jackschaedler/circles-sines-signals) - A Compact Primer on Digital Signal Processing
 - [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node.
@@ -7295,6 +7295,7 @@
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [MicrosoftDX/Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [este/este](https://github.com/este/este) - This repo is suspended.
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
