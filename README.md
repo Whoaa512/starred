@@ -749,6 +749,7 @@
 
 ## Go 
 
+- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics
@@ -2117,7 +2118,6 @@
 - [schibsted/jsx-pdf](https://github.com/schibsted/jsx-pdf) - Generate PDFs using JSX! 🎯
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 - [ehmicky/unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
 - [emmabostian/find-a-mentor](https://github.com/emmabostian/find-a-mentor) - Find a mentor website
@@ -2670,7 +2670,6 @@
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Semantic-Org/Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) - The official Semantic-UI-React integration
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
-- [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
 - [seek-oss/html-sketchapp-cli](https://github.com/seek-oss/html-sketchapp-cli) - Quickly generate Sketch libraries from HTML documents and living style guides, powered by html-sketchapp
 - [evanlucas/debug-ee](https://github.com/evanlucas/debug-ee) - Print all event emitters and the events they emit
 - [croqaz/clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into clean text
@@ -5059,6 +5058,7 @@
 
 ## PHP 
 
+- [daminikhq/daminik](https://github.com/daminikhq/daminik) - Daminik is a simple & scalable Digital Asset Manager with a built-in Content Delivery Network. The single source of truth for all your assets.
 - [biati-digital/alfred-calculate-anything](https://github.com/biati-digital/alfred-calculate-anything) - Alfred Workflow to calculate anything with natural language
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
@@ -5101,6 +5101,8 @@
 
 ## Python 
 
+- [yuval-reshef/StreamVC](https://github.com/yuval-reshef/StreamVC) - An unofficial pytorch implementation of "STREAMVC: REAL-TIME LOW-LATENCY VOICE CONVERSION".
+- [hrnoh24/stream-vc](https://github.com/hrnoh24/stream-vc) - An unofficial PyTorch implementation of the StreamVC(Real-Time Low-Latency Voice Conversion)
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [vladkens/twscrape](https://github.com/vladkens/twscrape) - 2024! X / Twitter API scrapper with authorization support. Allows you to scrape search results, User's profiles (followers/following), Tweets (favoriters/retweeters) and more.
 - [AnswerDotAI/web2md](https://github.com/AnswerDotAI/web2md) - Convert a web page to markdown
@@ -5772,6 +5774,7 @@
 
 ## Rust 
 
+- [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.
 - [maelstrom-software/maelstrom](https://github.com/maelstrom-software/maelstrom) - Maelstrom is a fast Rust and Python test runner that runs every test in its own container. Tests are either run locally or distributed to a clustered job runner.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -6815,6 +6818,7 @@
 - [midrissi/func-loc](https://github.com/midrissi/func-loc) - A simple tool that helps you to retrieve the function location from its reference.
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 - [blakeembrey/react-free-style](https://github.com/blakeembrey/react-free-style) - Make React components easier and more maintainable by using inline style objects
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
 - [ampproject/worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
