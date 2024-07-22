@@ -5184,7 +5184,7 @@
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [tloen/llama-int8](https://github.com/tloen/llama-int8) - Quantized inference code for LLaMA models
 - [ma-xu/Context-Cluster](https://github.com/ma-xu/Context-Cluster) - [ICLR 2023 Oral] Image as Set of Points
-- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
+- [nebuly-ai/optimate](https://github.com/nebuly-ai/optimate) - A collection of libraries to optimise AI model performances
 - [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [scenediffuser/Scene-Diffuser](https://github.com/scenediffuser/Scene-Diffuser) - Official implementation of CVPR23 paper "Diffusion-based Generation, Optimization, and Planning in 3D Scenes"
 - [markasoftware/llama-cpu](https://github.com/markasoftware/llama-cpu) - Fork of Facebooks LLaMa model to run on CPU
