@@ -2728,7 +2728,6 @@
 - [apache/couchdb-nano](https://github.com/apache/couchdb-nano) - Nano: The official Apache CouchDB library for Node.js
 - [andreypopp/react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS
 - [vaheqelyan/react-awesome-popover](https://github.com/vaheqelyan/react-awesome-popover) - A smart popover component with animation support for ReactJS
-- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [sunesimonsen/ukkonen](https://github.com/sunesimonsen/ukkonen) - Ukkonen's Approximate String Matching algorithm
 - [tigercosmos/node-color-log](https://github.com/tigercosmos/node-color-log) - ⌨️ A lightwight and more powerful JavaScript logger for NodeJS and browsers ✏️
@@ -4189,7 +4188,7 @@
 - [benhmoore/Knwl](https://github.com/benhmoore/Knwl) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
 - [hughsk/smokestack](https://github.com/hughsk/smokestack) - Pipe your JavaScript into a browser, logging console output in Node
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
-- [astoilkov/jsblocks](https://github.com/astoilkov/jsblocks) - Better MV-ish Framework
+- [astoilkov/jsblocks](https://github.com/astoilkov/jsblocks) - 2012 UI framework (I was 20 years old, React didn't exist, inspired by Knockout)
 - [jkif/parser](https://github.com/jkif/parser) - SUO-KIF to JavaScript parser
 - [jprichardson/node-death](https://github.com/jprichardson/node-death) - Gracefully cleanup when termination signals are sent to your process.
 - [kolodny/nip](https://github.com/kolodny/nip) - Node Input/output Piper
@@ -5632,7 +5631,7 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [SublimeText-Markdown/MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [duydao/Text-Pastry](https://github.com/duydao/Text-Pastry) - Extend the power of multiple selections in Sublime Text. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.
 - [toabctl/jiracli](https://github.com/toabctl/jiracli) - Simple command line interface for Jira
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
@@ -6750,7 +6749,7 @@
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
 - [antoinechalifour/memento](https://github.com/antoinechalifour/memento) - Memento is a development-only tool that caches HTTP calls once they have been executed.
 - [vmarchaud/openprofiling-node](https://github.com/vmarchaud/openprofiling-node) - OpenProfiling is a toolkit for collecting profiling data from production workload safely.
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [DanielMSchmidt/apollo-opentracing](https://github.com/DanielMSchmidt/apollo-opentracing) - Performance trace your Apollo GraphQL server with Opentracing
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -7075,6 +7074,7 @@
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [ganderzz/react-scroll-to](https://github.com/ganderzz/react-scroll-to) - Scroll to a position in React
+- [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
