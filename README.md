@@ -6277,7 +6277,7 @@
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
 - [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
 - [mckravchyk/shocut](https://github.com/mckravchyk/shocut) - A fast, lightweight, multi-context and i18n friendly keyboard shortcut library for web-based renderers
-- [fwcd/vscode-kotlin](https://github.com/fwcd/vscode-kotlin) - Kotlin code completion, linting and more for VSCode
+- [fwcd/vscode-kotlin](https://github.com/fwcd/vscode-kotlin) - Kotlin code completion, debugging, linting and more for VSCode
 - [jgm/djot.js](https://github.com/jgm/djot.js) - JavaScript implementation of djot
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
