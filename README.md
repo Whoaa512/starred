@@ -178,6 +178,7 @@
 - [rxi/microtar](https://github.com/rxi/microtar) - A lightweight tar library written in ANSI C
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [ahilss/wavacity](https://github.com/ahilss/wavacity) - 
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [asg017/sqlite-lines](https://github.com/asg017/sqlite-lines) - A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)
 - [coder-mike/microvium](https://github.com/coder-mike/microvium) - A compact, embeddable scripting engine for applications and microcontrollers for executing programs written in a subset of the JavaScript language.
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
@@ -1659,7 +1660,7 @@
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform. Also detects if episodes have been shortened in duration.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -3758,7 +3759,7 @@
 - [sitespeedio/coach](https://github.com/sitespeedio/coach) - Clear Eyes. Full Hearts. Can’t Lose.
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [chromakode/picnic](https://github.com/chromakode/picnic) - Be spontaneous. Have a picnic!
 - [GoogleChromeLabs/sw-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox) - [Deprecated] A collection of service worker tools for offlining runtime requests
 - [sindresorhus/parent-directories](https://github.com/sindresorhus/parent-directories) - Get an array of parent directories including itself
@@ -4704,7 +4705,6 @@
 - [joaocarvalhoopen/How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 - [maxwell-bland/copilot-in-the-terminal](https://github.com/maxwell-bland/copilot-in-the-terminal) - Hack to get Github Copilot working in the terminal with bash
 - [austinvhuang/awesome-haskell-deep-learning](https://github.com/austinvhuang/awesome-haskell-deep-learning) - In the tradition of "awesome" (curated) lists, this is a list of references and code for doing deep learning in Haskell.
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [bigscience-workshop/model_card](https://github.com/bigscience-workshop/model_card) - 
@@ -5921,7 +5921,7 @@
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - SQL query engine for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Pos
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Continuous SQL for event streams. Perform streaming analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch processing. Postg
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
@@ -6466,7 +6466,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
-- [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - Caching for Nodej.js - the goal with the Cacheable Project is to provide a robust, scalable, and maintained set of caching packages
+- [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - Caching for Nodej.js
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
