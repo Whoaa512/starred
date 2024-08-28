@@ -678,7 +678,7 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Postgres everywhere — your data, in sync, wherever you need it.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync subsets of your Postgres data into local apps and services.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
@@ -1455,6 +1455,7 @@
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [thegeekyasian/geo-assist](https://github.com/thegeekyasian/geo-assist) - Geo Assist is a spatial library to manage spatial data in-memory.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
+- [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [mwiede/jsch](https://github.com/mwiede/jsch) - fork of the popular jsch library
 - [zaboople/klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm
 - [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
@@ -5523,7 +5524,7 @@
 - [agawronski/pandas_redshift](https://github.com/agawronski/pandas_redshift) - Load data from redshift into a pandas DataFrame and vice versa.
 - [johannfaouzi/pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series classification
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+- [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
@@ -6399,7 +6400,7 @@
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [wmaurer/vscode-jumpy](https://github.com/wmaurer/vscode-jumpy) - Jumpy Extension for Visual Studio Code
 - [awkweb/react-supabase](https://github.com/awkweb/react-supabase) - React Hooks library for Supabase
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform for TypeScript.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [lukemorales/exhaustive](https://github.com/lukemorales/exhaustive) - Exhaustiveness checking in TypeScript
 - [tinystacks/precloud](https://github.com/tinystacks/precloud) - An open source command line interface that runs checks on infrastructure as code to catch potential deployment issues before deploying.
 - [Kanaries/graphic-walker](https://github.com/Kanaries/graphic-walker) - An open source alternative to Tableau. Embeddable visual analytic
@@ -6409,7 +6410,6 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [riffusion/riffusion-app-hobby](https://github.com/riffusion/riffusion-app-hobby) - Stable diffusion for real-time music generation (web app)
-- [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
