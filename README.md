@@ -323,7 +323,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [siara-cc/sqlite_blaster](https://github.com/siara-cc/sqlite_blaster) - Create huge Sqlite indexes at breakneck speeds
 - [rochus-keller/LeanCreator](https://github.com/rochus-keller/LeanCreator) - LeanCreator is a stripped-down version of Qt Creator, easy to build from source on all platforms supported by LeanQt and using BUSY instead of qmake.
-- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++
+- [ada-url/ada](https://github.com/ada-url/ada) - WHATWG-compliant and fast URL parser written in modern C++, part of Node.js, Redpanda, Kong, Telegram and Cloudflare Workers.
 - [jafarlihi/sysm](https://github.com/jafarlihi/sysm) - sysm makes your system play custom sounds when any configured system or external event happens
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -4600,6 +4600,7 @@
 ## Markdown 
 
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -4675,7 +4676,7 @@
 
 ## Others 
 
-- [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - 
+- [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
@@ -4846,7 +4847,6 @@
 - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
 - [martenbjork/github-xp](https://github.com/martenbjork/github-xp) - Give Github some XP flair 🔥
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [dkundel/about-me](https://github.com/dkundel/about-me) - ⚓️ Product Manager @twilio - JavaScript Hacker - Hackathon Enthusiast - Public Speaker - Opinions are my own ⚓️
 - [domenic/proposal-blocks](https://github.com/domenic/proposal-blocks) - Former home of a proposal for a new syntactic construct for serializable blocks of JavaScript code
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
@@ -7024,7 +7024,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [nhn/tui.chart](https://github.com/nhn/tui.chart) - 🍞📊  Beautiful chart for data visualization.
 - [maticzav/emma-cli](https://github.com/maticzav/emma-cli) - 📦 Terminal assistant to find and install node packages.
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [hugozap/react-rotary-knob](https://github.com/hugozap/react-rotary-knob) - 🎛 Skinnable knob for React.
 - [sebholstein/tinystate](https://github.com/sebholstein/tinystate) - A tiny, yet powerful state management library for Angular
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
