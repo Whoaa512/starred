@@ -6181,7 +6181,7 @@
 - [eventi/noreallyjustfuckingstopalready](https://github.com/eventi/noreallyjustfuckingstopalready) - Please OS X (or whatever your name is) just fucking reset your DNS cache please
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [deekayen/norman](https://github.com/deekayen/norman) - Norman keyboard layout - alternative to QWERTY for touch typing in English
-- [yoshuawuyts/dotfiles](https://github.com/yoshuawuyts/dotfiles) - Linux desktop config
+- [yoshuawuyts/dotfiles-linux-2019](https://github.com/yoshuawuyts/dotfiles-linux-2019) - Linux desktop config
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [dnozay/osx-defaults](https://github.com/dnozay/osx-defaults) - read OSX default settings
