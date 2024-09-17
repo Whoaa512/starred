@@ -3395,6 +3395,7 @@
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [sindresorhus/get-emails-cli](https://github.com/sindresorhus/get-emails-cli) - Get all emails in a text file or stdin
 - [featurist/promise-limit](https://github.com/featurist/promise-limit) - limits calls to functions that return promises
+- [staeco/boundaries](https://github.com/staeco/boundaries) - GeoJSON Boundaries for Earth
 - [ttezel/unio](https://github.com/ttezel/unio) - One REST API Client for All
 - [join-monster/join-monster](https://github.com/join-monster/join-monster) - A GraphQL to SQL query execution layer for query planning and batch data fetching.
 - [briancavalier/assert](https://github.com/briancavalier/assert) - Composable, strongly typed, curried test assertions
@@ -4935,7 +4936,6 @@
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript Learning Resources
-- [staeco/boundaries](https://github.com/staeco/boundaries) - GeoJSON Boundaries for Earth
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I've read. Table of contents at the end 👇
 - [mathisonian/awesome-visualization-research](https://github.com/mathisonian/awesome-visualization-research) - A list of recommended research papers and other readings on data visualization
