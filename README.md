@@ -994,7 +994,7 @@
 - [sjansen/watchman](https://github.com/sjansen/watchman) - Go client for Facebook's Watchman file watching service
 - [cristalhq/aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
 - [ebitengine/oto](https://github.com/ebitengine/oto) - ♪ A low-level library to play sound on multiple platforms ♪
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.
+- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [ttacon/chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. http://godoc.org/github.com/ttacon/chalk
 - [theckman/yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner; providing over 80 easy to use and customizable terminal spinners for multiple OSes
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
@@ -4440,10 +4440,10 @@
 - [unsetbit/collage](https://github.com/unsetbit/collage) - Live, dynamic, and interactive collages
 - [unsetbit/big-surface](https://github.com/unsetbit/big-surface) - Limitless space within DOM elements
 - [unsetbit/giant-quadtree](https://github.com/unsetbit/giant-quadtree) - 2D collision detection without boundaries
-- [formerStartupLuvr/bookstrap](https://github.com/formerStartupLuvr/bookstrap) - BookStrap is a dashboard that organizes the components of your classes.
-- [formerStartupLuvr/TalkRemote](https://github.com/formerStartupLuvr/TalkRemote) - A remote control app used by the audience of a lecture to provide feedback to the lecturer in real time.
+- [5herah/bookstrap](https://github.com/5herah/bookstrap) - BookStrap is a dashboard that organizes the components of your classes.
+- [5herah/TalkRemote](https://github.com/5herah/TalkRemote) - A remote control app used by the audience of a lecture to provide feedback to the lecturer in real time.
 - [junejung/Hive](https://github.com/junejung/Hive) - Javascript version of hive
-- [formerStartupLuvr/sparkmails](https://github.com/formerStartupLuvr/sparkmails) - (WIP) A creativity tool. Provides an automatic, scrolling interface through which to easily browse your 'spark file' and add to it as needed.
+- [5herah/sparkmails](https://github.com/5herah/sparkmails) - (WIP) A creativity tool. Provides an automatic, scrolling interface through which to easily browse your 'spark file' and add to it as needed.
 - [padolsey/vic.js](https://github.com/padolsey/vic.js) - Validation & Input Correction abstraction
 - [florian/js-testing-boilerplates](https://github.com/florian/js-testing-boilerplates) - Just some boilerplates for common JS testing setups.
 - [mindmup/legacy-mindmup](https://github.com/mindmup/legacy-mindmup) - Legacy MindMup (v1) code
