@@ -3494,7 +3494,7 @@
 - [kotojs/kotojs](https://github.com/kotojs/kotojs) - A framework for building reusable components with d3.js
 - [caroso1222/amazon-autocomplete](https://github.com/caroso1222/amazon-autocomplete) - 🚀  Unlock the full power of the Amazon autocompletion engine right into your search input. JavaScript Plugin.
 - [ccoenraets/forcejs](https://github.com/ccoenraets/forcejs) - Micro library to use the Salesforce REST APIs in JavaScript Apps
-- [DataDog/redux-doghouse](https://github.com/DataDog/redux-doghouse) - Scoping helpers for building reusable components with Redux
+- [DataDog/redux-doghouse](https://github.com/DataDog/redux-doghouse) - ## Auto-archived due to inactivity. ## Scoping helpers for building reusable components with Redux
 - [cramforce/splittable](https://github.com/cramforce/splittable) - Module bundler with support for code splitting, ES6 & CommonJS modules.
 - [choojs/choo](https://github.com/choojs/choo) - :steam_locomotive::train: - sturdy 4kb frontend framework
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
@@ -5112,6 +5112,7 @@
 
 ## Python 
 
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [nginxinc/crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
@@ -5713,7 +5714,7 @@
 
 ## Q# # 
 
-- [eth-sri/silq](https://github.com/eth-sri/silq) - 
+- [silq-lang/silq](https://github.com/silq-lang/silq) - 
 
 ## R 
 
