@@ -1679,7 +1679,6 @@
 - [weinberg/SQLToy](https://github.com/weinberg/SQLToy) - Learn SQL by creating a SQL database in JavaScript
 - [ethanhs/python-wasm](https://github.com/ethanhs/python-wasm) - Build scripts and configuration for building CPython for Emscripten
 - [mistic100/tinygradient](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation, built on top of TinyColor
-- [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [matiasvlevi/Dann](https://github.com/matiasvlevi/Dann) - Deep Neural Network Library for JavaScript.
 - [blueconic/node-oom-heapdump](https://github.com/blueconic/node-oom-heapdump) - Create a V8 heap snapshot right before an "Out of Memory" error occurs, or create a heap snapshot or CPU profile on request.
 - [no-chris/chord-symbol](https://github.com/no-chris/chord-symbol) - The definitive chord symbol parser and renderer for Javascript/NodeJS.
@@ -6556,6 +6555,7 @@
 - [yeemachine/kalidokit](https://github.com/yeemachine/kalidokit) - Blendshape and kinematics calculator for Mediapipe/Tensorflow.js Face, Eyes, Pose, and Finger tracking models.
 - [Shopify/hydrogen-v1](https://github.com/Shopify/hydrogen-v1) - React-based framework for building dynamic, Shopify-powered custom storefronts.
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
