@@ -5928,7 +5928,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [dimensionhq/fleet](https://github.com/dimensionhq/fleet) - 🚀 The blazing fast build tool for Rust.
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -6910,7 +6910,7 @@
 - [wix-incubator/vscode-glean](https://github.com/wix-incubator/vscode-glean) - The extension provides refactoring tools for your React codebase
 - [JodusNodus/react-qr-reader](https://github.com/JodusNodus/react-qr-reader) - React component for reading QR codes from webcam.
 - [sapegin/stack-styled](https://github.com/sapegin/stack-styled) - Stacking layouts for React
-- [JiLiZART/BBob](https://github.com/JiLiZART/BBob) - ⚡️Blazing fast js bbcode parser, that transforms and parses bbcode to AST with plugin support in pure javascript, no dependencies
+- [JiLiZART/BBob](https://github.com/JiLiZART/BBob) - ⚡️Blazing fast js bbcode parser, that transforms and parses bbcode to AST and transform it to HTML, React, Vue with plugin support in pure javascript, no dependencies
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [awaitlink/vk-chat-bot](https://github.com/awaitlink/vk-chat-bot) - :package: node package for building chat bots for VK communities (uses Callback API)
 - [alioguzhan/react-editext](https://github.com/alioguzhan/react-editext) - Editable Text Component for React Apps
