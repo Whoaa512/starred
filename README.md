@@ -144,6 +144,7 @@
 
 ## C 
 
+- [c0stya/trre](https://github.com/c0stya/trre) - Transductive regular expressions
 - [lexiforest/curl-chrome](https://github.com/lexiforest/curl-chrome) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [ASDAlexander77/TypeScript2Cxx](https://github.com/ASDAlexander77/TypeScript2Cxx) - TypeScript to C++
 - [mattn/go-sqlite3](https://github.com/mattn/go-sqlite3) - sqlite3 driver for go using database/sql
@@ -168,7 +169,7 @@
 - [NateBrune/silk-guardian](https://github.com/NateBrune/silk-guardian) - &lt;&lt; Silk Guardian &gt;&gt; is an anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
-- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
+- [hydradatabase/columnar](https://github.com/hydradatabase/columnar) - Postgres-native columnar storage extension
 - [deweller/switchaudio-osx](https://github.com/deweller/switchaudio-osx) - Change the audio source for Mac OS X from the command line.
 - [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
 - [Luos-io/luos_engine](https://github.com/Luos-io/luos_engine) - Open-source and real-time orchestrator for cyber-physical-systems, to easily design, test and deploy embedded applications and digital twins.
@@ -416,7 +417,7 @@
 - [trilinos/Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
 - [swordfeng/pyjs](https://github.com/swordfeng/pyjs) - Call Python from Node.js in the same process
 - [fridgerator/PyNode](https://github.com/fridgerator/PyNode) - Node - Python Interop
-- [EspoTek/Labrador](https://github.com/EspoTek/Labrador) - EspoTek Labrador is a USB device that transforms your PC or smartphone into a fully-featured electronics lab.  This repo holds all of the source code!
+- [espotek-org/Labrador](https://github.com/espotek-org/Labrador) - EspoTek Labrador is a USB device that transforms your PC or smartphone into a fully-featured electronics lab.  This repo holds all of the source code!
 - [kythe/kythe](https://github.com/kythe/kythe) - Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [eelcocramer/node-bluetooth-serial-port](https://github.com/eelcocramer/node-bluetooth-serial-port) - Serial I/O over bluetooth for NodeJS
@@ -592,7 +593,7 @@
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [open-services/open-registry](https://github.com/open-services/open-registry) - Community Owned JavaScript Registry
 - [onyx-platform/onyx-examples](https://github.com/onyx-platform/onyx-examples) - Examples of using Onyx
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [Unrepl/unrepl](https://github.com/Unrepl/unrepl) - A common ground for better Clojure REPLs
 - [Macroz/GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
@@ -1206,7 +1207,7 @@
 - [sanbornm/mp](https://github.com/sanbornm/mp) - Simple Email Parser
 - [radovskyb/watcher](https://github.com/radovskyb/watcher) - watcher is a Go package for watching for files or directory changes without using filesystem events.
 - [emojisum/emojisum](https://github.com/emojisum/emojisum) - :pray: :paperclip: An easier way to compare hashes /fingerprints, when dealing human weak link :link: :tada:
-- [micro/micro](https://github.com/micro/micro) - An API first development platform
+- [micro/micro](https://github.com/micro/micro) - An API development platform
 - [segmentio/cwlogs](https://github.com/segmentio/cwlogs) - CLI tool for reading logs from Cloudwatch Logs
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language & versatile interactive shell
 - [aybabtme/iocontrol](https://github.com/aybabtme/iocontrol) - Measure and throttle the rate at which data is transferred.
@@ -1214,7 +1215,7 @@
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [cloe-lang/cloe](https://github.com/cloe-lang/cloe) - Cloe programming language
 - [owenthereal/godzilla](https://github.com/owenthereal/godzilla) - Godzilla is a ES2015 to Go source code transpiler and runtime
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
+- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 - [adtac/commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
@@ -1534,6 +1535,7 @@
 
 ## JavaScript 
 
+- [AIFanatic/three-nanite](https://github.com/AIFanatic/three-nanite) - An attempt at reproducing unreal nanite in threejs
 - [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
@@ -2002,7 +2004,6 @@
 - [vimeo/player.js](https://github.com/vimeo/player.js) - Interact with and control an embedded Vimeo Player.
 - [chrisveness/geodesy](https://github.com/chrisveness/geodesy) - Libraries of geodesy functions implemented in JavaScript
 - [EvanHahn/HumanizeDuration.js](https://github.com/EvanHahn/HumanizeDuration.js) - 361000 becomes "6 minutes, 1 second"
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [Yomguithereal/mnemonist](https://github.com/Yomguithereal/mnemonist) - Curated collection of data structures for the JavaScript/TypeScript language.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [istanbuljs/v8-to-istanbul](https://github.com/istanbuljs/v8-to-istanbul) - convert from v8 coverage format to istanbul's format
@@ -2194,7 +2195,7 @@
 - [Rich-Harris/sander](https://github.com/Rich-Harris/sander) - Promise-based power tool for common filesystem tasks
 - [OneGraph/graphiql-explorer-example](https://github.com/OneGraph/graphiql-explorer-example) - Example of OneGraph's GraphiQL Explorer in action
 - [OneGraph/graphiql-explorer](https://github.com/OneGraph/graphiql-explorer) - Explorer plugin for GraphiQL
-- [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+- [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo:
 - [Noitidart/Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) - Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites.
 - [carlin-q-scott/browser-media-players](https://github.com/carlin-q-scott/browser-media-players) - Control interface for a variety of web based media players
 - [rikschennink/shiny](https://github.com/rikschennink/shiny) - 🌟 Shiny reflections for mobile websites
@@ -5257,7 +5258,7 @@
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
 - [platelminto/chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT using your voice, and have it talk back.
 - [code-kern-ai/bricks](https://github.com/code-kern-ai/bricks) - Open-source natural language enrichments at your fingertips.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [microsoft/torchscale](https://github.com/microsoft/torchscale) - Foundation Architecture for (M)LLMs
@@ -5864,7 +5865,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster buil
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
@@ -6058,7 +6059,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [pcwalton/sprocketnes](https://github.com/pcwalton/sprocketnes) - NES emulator written in Rust
 
 ## SCSS 
@@ -6314,7 +6315,7 @@
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
-- [Cloud-Code-AI/BrowserAI](https://github.com/Cloud-Code-AI/BrowserAI) - Run local LLMs inside your browser
+- [Cloud-Code-AI/BrowserAI](https://github.com/Cloud-Code-AI/BrowserAI) - Run local LLMs like llama, deepseek-distill, kokoro and more inside your browser
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [egoist/sitefetch](https://github.com/egoist/sitefetch) - Fetch an entire site and save it as a text file (to be used with AI models).
@@ -6830,6 +6831,7 @@
 - [Nishkalkashyap/Quark-electron](https://github.com/Nishkalkashyap/Quark-electron) - Quark is a cross-platform, integrated development environment for rapidly building - functional , prototypal projects, written in HTML, CSS and JavaScript with native desktop app like capabilities.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
