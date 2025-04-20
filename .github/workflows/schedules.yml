@@ -16,7 +16,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install starred
+        # From my fork
+        pip install "starred"@git+https://github.com/whoaa512/py-starred.git@better-error-handling#egg=starred
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
