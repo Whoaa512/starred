@@ -253,6 +253,8 @@ func (g *GitHubClient) GetAllStarredRepositories(
 	count := 0
 
 	fmt.Printf("Fetching starred repositories for %s...\n", username)
+	start := time.Now()
+	maxTotalWaitTime := 30 * time.Minute
 
 	for hasNextPage {
 		if cursor != nil {
@@ -265,6 +267,17 @@ func (g *GitHubClient) GetAllStarredRepositories(
 			topicStargazerCountLimit,
 		)
 		if err != nil {
+			// Check if error is due to rate limiting
+			timeSpent := time.Since(start)
+			if timeSpent > maxTotalWaitTime {
+				return nil, fmt.Errorf("max wait time exceeded: %w", err)
+			}
+			if strings.Contains(err.Error(), "You have exceeded a secondary rate limit") {
+				fmt.Println("Rate limit exceeded. Retrying in 60 seconds...")
+				time.Sleep(60 * time.Second)
+				continue
+			}
+
 			return nil, err
 		}
 
