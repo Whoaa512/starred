@@ -287,6 +287,7 @@ func (g *GitHubClient) GetAllStarredRepositories(
 
 		cursor = nextCursor
 		hasNextPage = hasNext
+		time.Sleep(5 * time.Second) // Avoid hitting the rate limit
 	}
 
 	return allRepos, nil
