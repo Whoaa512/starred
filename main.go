@@ -273,7 +273,7 @@ func (g *GitHubClient) GetAllStarredRepositories(
 				return nil, fmt.Errorf("max wait time exceeded: %w", err)
 			}
 			if strings.Contains(err.Error(), "You have exceeded a secondary rate limit") {
-				fmt.Println("Rate limit exceeded. Retrying in 60 seconds...")
+				fmt.Println("Rate limit exceeded. Retrying in 15 seconds...")
 				time.Sleep(15 * time.Second)
 				continue
 			}
