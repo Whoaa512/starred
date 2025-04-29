@@ -828,7 +828,6 @@
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS.
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [jsouthworth/curry](https://github.com/jsouthworth/curry) - Curry arbitrary functions in go
@@ -4193,7 +4192,7 @@
 - [sindresorhus/hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [sindresorhus/fkill](https://github.com/sindresorhus/fkill) - Fabulously kill processes. Cross-platform.
 - [scholtzm/vapor](https://github.com/scholtzm/vapor) - ☁️ Lightweight Steam client framework for node.js
-- [docusign/docusign-esign-node-client](https://github.com/docusign/docusign-esign-node-client) - The Official DocuSign Node.js Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.
+- [docusign/docusign-esign-node-client](https://github.com/docusign/docusign-esign-node-client) - The Official Docusign Node.js Client Library used to interact with the eSign REST API. Send, sign, and approve documents using this client.
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [azproduction/node-mc](https://github.com/azproduction/node-mc) - nmc – Midnight Commander written in React/Node stack.
 - [ptarjan/node-cache](https://github.com/ptarjan/node-cache) - A simple in-memory cache for nodejs
@@ -5144,13 +5143,14 @@
 
 ## Python 
 
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [facebookresearch/MILS](https://github.com/facebookresearch/MILS) - Code release for "LLMs can see and hear without any training"
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
-- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI - Pocket Flow Tutorial Project
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -5234,7 +5234,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [TheBlokeAI/AIScripts](https://github.com/TheBlokeAI/AIScripts) - Some simple scripts that I use day-to-day when working with LLMs and Huggingface Hub
 - [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
-- [Skydio/revup](https://github.com/Skydio/revup) - Effortlessly create and manage pull requests without changing branches. Powers a stacked diffs workflow with python and git "plumbing" commands.
+- [Skydio/revup](https://github.com/Skydio/revup) - Upload once to create multiple, relative PRs. Productivity-focused git tools with patch revision tracking, rebase detection and more. Uses python and git plumbing commands.
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
@@ -6425,6 +6425,7 @@
 - [pingdotgg/planetscale-autobranching-demo](https://github.com/pingdotgg/planetscale-autobranching-demo) - Demo showing how to add autobranching for PlanetScale x Vercel
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
