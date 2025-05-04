@@ -3774,7 +3774,6 @@
 - [danilop/LambdAuth](https://github.com/danilop/LambdAuth) - A sample authentication service implemented with a server-less architecture, using AWS Lambda to host and execute the code and Amazon DynamoDB as persistent storage. This provides a cost-efficient sol
 - [sindresorhus/loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail
 - [segmentio/analytics.js](https://github.com/segmentio/analytics.js) - The hassle-free way to integrate analytics into any web application.
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [inspect-js/node-deep-equal](https://github.com/inspect-js/node-deep-equal) - node's assert.deepEqual algorithm
 - [ericclemmons/react-resolver](https://github.com/ericclemmons/react-resolver) - Async rendering & data-fetching for universal React applications.
