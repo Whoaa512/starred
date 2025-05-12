@@ -62,6 +62,7 @@
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nu](#nu)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
@@ -4560,7 +4561,7 @@
 
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [bytedance/btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Perfetto, it support to define custom events automatically during building apk and using bhook to provider mor
-- [basti564/Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
+- [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [Tinder/bazel-diff](https://github.com/Tinder/bazel-diff) - Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) - ⚠️ Fenix (Firefox for Android) moved to a new repository. It is now developed and maintained as part of: https://github.com/mozilla-mobile/firefox-android
@@ -4654,8 +4655,11 @@
 
 ## Nix 
 
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+
+## Nu 
+
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 
 ## OCaml 
 
@@ -5152,6 +5156,9 @@
 
 ## Python 
 
+- [RVCA212/codesys](https://github.com/RVCA212/codesys) - 
+- [blackrabbit17/xenolab](https://github.com/blackrabbit17/xenolab) - A monitoring station for carnivorous flora.
+- [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data.
 - [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem) - ContextGem: Effortless LLM extraction from documents
 - [KoljaB/RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat) - Have a natural, spoken conversation with AI!
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -5981,6 +5988,7 @@
 - [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
@@ -6237,7 +6245,6 @@
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
-- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [charlax/engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
 - [mbailey/bash-my-aws](https://github.com/mbailey/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
@@ -6397,6 +6404,7 @@
 
 ## TypeScript 
 
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [vanviegen/aberdeen](https://github.com/vanviegen/aberdeen) - A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
