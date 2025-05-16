@@ -3846,7 +3846,7 @@
 - [ethereum/mist](https://github.com/ethereum/mist) - [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 - [leonaves/redux-cut](https://github.com/leonaves/redux-cut) - Middleware to block redux actions based on provided criteria.
 - [imsky/holder](https://github.com/imsky/holder) - :city_sunrise: Client-side image placeholders.
-- [electron-userland/devtron](https://github.com/electron-userland/devtron) - [LOOKING FOR MAINTAINERS] An Electron DevTools Extension
+- [electron-userland/devtron](https://github.com/electron-userland/devtron) - An Electron DevTools Extension
 - [stevemao/mock-git](https://github.com/stevemao/mock-git) - Mock any git command
 - [salsita/redux-side-effects](https://github.com/salsita/redux-side-effects) - Redux toolset for keeping all the side effects inside your reducers while maintaining their purity.
 - [twada/power-assert-runtime](https://github.com/twada/power-assert-runtime) - monorepo of power-assert runtime side
@@ -5162,7 +5162,6 @@
 
 ## Python 
 
-- [RVCA212/codesys](https://github.com/RVCA212/codesys) - 
 - [blackrabbit17/xenolab](https://github.com/blackrabbit17/xenolab) - A monitoring station for carnivorous flora.
 - [marcboeker/gmail-to-sqlite](https://github.com/marcboeker/gmail-to-sqlite) - Index your Gmail account to a SQLite DB and play with the data.
 - [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem) - ContextGem: Effortless LLM extraction from documents
@@ -6470,7 +6469,7 @@
 - [fwcd/vscode-kotlin](https://github.com/fwcd/vscode-kotlin) - Kotlin code completion, debugging, linting and more for VSCode
 - [jgm/djot.js](https://github.com/jgm/djot.js) - JavaScript implementation of djot
 - [chearon/dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [pingdotgg/planetscale-autobranching-demo](https://github.com/pingdotgg/planetscale-autobranching-demo) - Demo showing how to add autobranching for PlanetScale x Vercel
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -6648,7 +6647,7 @@
 - [chiefGui/superstate](https://github.com/chiefGui/superstate) - 
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity platform for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - a robust, scalable, and maintained set of caching packages
