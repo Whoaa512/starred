@@ -5885,6 +5885,7 @@
 
 ## Rust 
 
+- [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -6652,7 +6653,7 @@
 - [chiefGui/superstate](https://github.com/chiefGui/superstate) - 
 - [KyleMayes/install-llvm-action](https://github.com/KyleMayes/install-llvm-action) - A GitHub Action for downloading and installing LLVM and Clang binaries.
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - a robust, scalable, and maintained set of caching packages
