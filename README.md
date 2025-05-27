@@ -701,7 +701,7 @@
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Real-time sync for Postgres.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
-- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [papercups-io/papercups](https://github.com/papercups-io/papercups) - Open-source live customer chat
 - [bontaq/textdb](https://github.com/bontaq/textdb) - The whole shaboodle for textdb, a simple data sharing service
 - [absinthe-graphql/dataloader](https://github.com/absinthe-graphql/dataloader) - DataLoader for Elixir
@@ -774,6 +774,7 @@
 
 ## Go 
 
+- [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
@@ -2365,7 +2366,6 @@
 - [afram/is-uuid](https://github.com/afram/is-uuid) - UUID check for node and the browser
 - [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
-- [final-form/final-form-arrays](https://github.com/final-form/final-form-arrays) - Array Mutators for 🏁 Final Form
 - [final-form/final-form-calculate](https://github.com/final-form/final-form-calculate) - Decorator for calculating field values based on other field values in 🏁 Final Form
 - [final-form/react-final-form-arrays](https://github.com/final-form/react-final-form-arrays) - A component for rendering and editing arrays 🏁 React Final Form
 - [final-form/final-form-focus](https://github.com/final-form/final-form-focus) - 🏁 Final Form "decorator" that will attempt to apply focus to the first field with an error upon an attempted form submission
@@ -4512,7 +4512,7 @@
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [rasbt/machine-learning-notes](https://github.com/rasbt/machine-learning-notes) - Collection of useful machine learning codes and snippets (originally intended for my personal use)
-- [apache/hamilton](https://github.com/apache/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
+- [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [roy-hachnochi/cross-domain-compositing](https://github.com/roy-hachnochi/cross-domain-compositing) - 
 - [williamyang1991/VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
 - [deforum/stable-diffusion](https://github.com/deforum/stable-diffusion) - 
@@ -5828,7 +5828,6 @@
 
 ## Roff 
 
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [0beqz/realism-effects](https://github.com/0beqz/realism-effects) - SSGI, Motion Blur, TRAA - Effects to enhance your three.js scene's realism
 - [oasislinux/oasis](https://github.com/oasislinux/oasis) - a small statically-linked linux system
 - [matiasinsaurralde/facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) - Tunneling Internet traffic over Facebook chat.
@@ -6428,6 +6427,7 @@
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
 - [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) - The official TypeScript/Node client for the Pinecone vector database
 - [BLamy/onshape-mcp](https://github.com/BLamy/onshape-mcp) - MCP server or onshape CAD
@@ -6700,7 +6700,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
 - [Evertz/bzlgen](https://github.com/Evertz/bzlgen) - Bazel build file generator written in Typescript
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
@@ -7098,6 +7098,7 @@
 - [diegohaz/reuse](https://github.com/diegohaz/reuse) - ♻️ Reuse React components to create new ones
 - [cyjake/ssh-config](https://github.com/cyjake/ssh-config) - 📟 SSH config parser and stringifier
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
+- [final-form/final-form-arrays](https://github.com/final-form/final-form-arrays) - Array Mutators for 🏁 Final Form
 - [cinderblock/react-smoothie](https://github.com/cinderblock/react-smoothie) - React wrapper for Smoothie Charts
 - [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed) - Simplest way to add twitter widgets to your react project.
 - [yosbelms/react-progressive-loader](https://github.com/yosbelms/react-progressive-loader) - Utility to load images and React components progressively, and get code splitting for free
