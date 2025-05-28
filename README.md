@@ -790,7 +790,7 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，Tik
+- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，Tik
 - [shurcooL/goexec](https://github.com/shurcooL/goexec) - A command line tool to execute Go functions.
 - [natefinch/gorram](https://github.com/natefinch/gorram) - It's like go run for any go function
 - [dolmen-go/goeval](https://github.com/dolmen-go/goeval) - Run Go snippets instantly from the command-line
@@ -1611,7 +1611,6 @@
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
 - [leftmove/wallstreetlocal](https://github.com/leftmove/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers.
-- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [alfateam/orange-orm](https://github.com/alfateam/orange-orm) - The ultimate ORM for Node and Typescript
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [YouTransfer/YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
@@ -1804,7 +1803,6 @@
 - [o0101/servedata](https://github.com/o0101/servedata) - File-system-based database (in the git repo), with a server attached with users and access control for serving this data. See an example in production:
 - [DO-SAY-GO/sirdb](https://github.com/DO-SAY-GO/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [mafintosh/docker-parse-image](https://github.com/mafintosh/docker-parse-image) - Parse docker image urls
-- [ethan7g/protocore](https://github.com/ethan7g/protocore) - Specify and deploy performant binary protocol structures in Node
 - [guileen/node-sendmail](https://github.com/guileen/node-sendmail) - send mail without setting up a SMTP server
 - [maximilianschmitt/cypress-routines](https://github.com/maximilianschmitt/cypress-routines) - Easily write scalable Node.js setup code for Cypress
 - [onlywei/explain-git-with-d3](https://github.com/onlywei/explain-git-with-d3) - Use D3 to visualize simple git branching operations.
@@ -2367,7 +2365,6 @@
 - [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
 - [final-form/final-form-calculate](https://github.com/final-form/final-form-calculate) - Decorator for calculating field values based on other field values in 🏁 Final Form
-- [final-form/react-final-form-arrays](https://github.com/final-form/react-final-form-arrays) - A component for rendering and editing arrays 🏁 React Final Form
 - [final-form/final-form-focus](https://github.com/final-form/final-form-focus) - 🏁 Final Form "decorator" that will attempt to apply focus to the first field with an error upon an attempted form submission
 - [turtle-DB/turtleDB](https://github.com/turtle-DB/turtleDB) - Official turtleDB project
 - [turtle-DB/tortoiseDB](https://github.com/turtle-DB/tortoiseDB) - Official tortoiseDB adapter for turtleDB
@@ -2648,7 +2645,6 @@
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [fabiomcosta/thebugger](https://github.com/fabiomcosta/thebugger) - 🐞debug a nodejs process without inspect flags.
 - [11ways/janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
-- [ethan7g/coroute](https://github.com/ethan7g/coroute) - Node HTTP reverse-proxy server
 - [sahilnarain/aws-api-gateway-log-parser](https://github.com/sahilnarain/aws-api-gateway-log-parser) - AWS API Gateway Log Parser
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [electerious/basicScroll](https://github.com/electerious/basicScroll) - Standalone parallax scrolling for mobile and desktop with CSS variables.
@@ -2742,13 +2738,11 @@
 - [croqaz/clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into clean text
 - [simonepri/country-iso](https://github.com/simonepri/country-iso) - 🗺 Get the ISO 3166-1 alpha-3 country code from geographic coordinates.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
-- [ethan7g/phin](https://github.com/ethan7g/phin) - Node HTTP client
 - [bradleyboy/tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file
 - [rmfisher/react-measurements](https://github.com/rmfisher/react-measurements) - A component for measuring & annotating images.
 - [amsul/react-translated](https://github.com/amsul/react-translated) - A dead simple way to add complex translations (i18n) in a React (DOM/Native) project 🌎🌍🌏
 - [ReactPrimer/ReactPrimer](https://github.com/ReactPrimer/ReactPrimer) - React component prototyping tool that generates fully connected class component code.
 - [Anstinus/lazy-linq](https://github.com/Anstinus/lazy-linq) - A full port of LINQ for javascript. It works fully in 'lazy' mode for the best performance.
-- [ethan7g/Vaxic](https://github.com/ethan7g/Vaxic) - Node HTTP server framework
 - [jackfranklin/tweet-parser](https://github.com/jackfranklin/tweet-parser) - Parsing tweets into lists of entities.
 - [sindresorhus/on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
@@ -5937,6 +5931,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [AccessKit/accesskit](https://github.com/AccessKit/accesskit) - Accessibility infrastructure for UI toolkits
 - [AmrDeveloper/GQL](https://github.com/AmrDeveloper/GQL) - GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and wi
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
@@ -5957,7 +5952,7 @@
 - [zbirenbaum/copilot-rs](https://github.com/zbirenbaum/copilot-rs) - Copilot LSP implementation in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically fast
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faste
 - [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.
@@ -6413,6 +6408,7 @@
 
 ## TypeScript 
 
+- [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
 - [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl) - Real-time deduplication and temporal joins for streaming data
@@ -6455,7 +6451,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [egoist/sitefetch](https://github.com/egoist/sitefetch) - Fetch an entire site and save it as a text file (to be used with AI models).
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The TypeScript framework for automating browsers with AI
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
@@ -7099,6 +7095,7 @@
 - [cyjake/ssh-config](https://github.com/cyjake/ssh-config) - 📟 SSH config parser and stringifier
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 - [final-form/final-form-arrays](https://github.com/final-form/final-form-arrays) - Array Mutators for 🏁 Final Form
+- [final-form/react-final-form-arrays](https://github.com/final-form/react-final-form-arrays) - A component for rendering and editing arrays 🏁 React Final Form
 - [cinderblock/react-smoothie](https://github.com/cinderblock/react-smoothie) - React wrapper for Smoothie Charts
 - [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed) - Simplest way to add twitter widgets to your react project.
 - [yosbelms/react-progressive-loader](https://github.com/yosbelms/react-progressive-loader) - Utility to load images and React components progressively, and get code splitting for free
