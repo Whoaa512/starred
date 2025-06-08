@@ -2366,7 +2366,6 @@
 - [afram/is-uuid](https://github.com/afram/is-uuid) - UUID check for node and the browser
 - [thinkjs/thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [kylestetz/slang](https://github.com/kylestetz/slang) - 🎤 a simple audio programming language implemented in JS
-- [final-form/final-form-calculate](https://github.com/final-form/final-form-calculate) - Decorator for calculating field values based on other field values in 🏁 Final Form
 - [turtle-DB/turtleDB](https://github.com/turtle-DB/turtleDB) - Official turtleDB project
 - [turtle-DB/tortoiseDB](https://github.com/turtle-DB/tortoiseDB) - Official tortoiseDB adapter for turtleDB
 - [evenchange4/graphql.macro](https://github.com/evenchange4/graphql.macro) - Compile GraphQL AST at build-time with babel-plugin-macros.
@@ -6863,7 +6862,7 @@
 - [FredrikNoren/jsplot](https://github.com/FredrikNoren/jsplot) - 
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
-- [holocron-hq/fumabase](https://github.com/holocron-hq/fumabase) - Effortless documentation with Next.js and MDX
+- [remorses/fumabase](https://github.com/remorses/fumabase) - Effortless documentation with Next.js and MDX
 - [ngneat/helipopper](https://github.com/ngneat/helipopper) - 🚁 A Powerful Tooltip and Popover for Angular Applications
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -7102,6 +7101,7 @@
 - [cyjake/ssh-config](https://github.com/cyjake/ssh-config) - 📟 SSH config parser and stringifier
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 - [final-form/final-form-arrays](https://github.com/final-form/final-form-arrays) - Array Mutators for 🏁 Final Form
+- [final-form/final-form-calculate](https://github.com/final-form/final-form-calculate) - Decorator for calculating field values based on other field values in 🏁 Final Form
 - [final-form/react-final-form-arrays](https://github.com/final-form/react-final-form-arrays) - A component for rendering and editing arrays 🏁 React Final Form
 - [final-form/final-form-focus](https://github.com/final-form/final-form-focus) - 🏁 Final Form "decorator" that will attempt to apply focus to the first field with an error upon an attempted form submission
 - [cinderblock/react-smoothie](https://github.com/cinderblock/react-smoothie) - React wrapper for Smoothie Charts
