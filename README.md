@@ -383,6 +383,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [bytedance/btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
 - [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [meshpro/pygalmesh](https://github.com/meshpro/pygalmesh) - :spider_web: A Python interface to CGAL's meshing tools
@@ -775,6 +776,7 @@
 
 ## Go 
 
+- [nielskrijger/gitstat](https://github.com/nielskrijger/gitstat) - Generates git history json datafile for
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
@@ -1638,6 +1640,7 @@
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [mozilla-frontend-infra/react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - INACTIVE
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
@@ -4560,7 +4563,6 @@
 
 - [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp) - Kotlin Language Server and plugin for Visual Studio Code
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
-- [bytedance/btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Perfetto, it support to define custom events automatically during building apk and using bhook to provider mor
 - [ptrpaws/Oculess](https://github.com/ptrpaws/Oculess) - Removes account requirements and telemetry from Oculus Quest devices
 - [Tinder/bazel-diff](https://github.com/Tinder/bazel-diff) - Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
@@ -5526,7 +5528,7 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [roadhump/SublimeLinter-contrib-eslint_d](https://github.com/roadhump/SublimeLinter-contrib-eslint_d) - This linter plugin for SublimeLinter provides an interface to eslint_d
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [iver56/emoji-art-generator](https://github.com/iver56/emoji-art-generator) - Use a genetic algorithm to evolve an image by putting emojies on a canvas
 - [xadrianzetx/fullstack.ai](https://github.com/xadrianzetx/fullstack.ai) - 
@@ -6486,7 +6488,7 @@
 - [pingdotgg/planetscale-autobranching-demo](https://github.com/pingdotgg/planetscale-autobranching-demo) - Demo showing how to add autobranching for PlanetScale x Vercel
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
-- [flydelabs/flyde](https://github.com/flydelabs/flyde) - 🌟 Open-source, visual programming for developers. Includes a VS Code extension, integrates with existing TypeScript code, browser and Node.js.
+- [flydelabs/flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backe
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [FrigadeHQ/remote-storage](https://github.com/FrigadeHQ/remote-storage) - remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions, devices, and browsers. It works as a simple key value database store and back
 - [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
@@ -6546,7 +6548,6 @@
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 - [antvis/G2Plot](https://github.com/antvis/G2Plot) - :dango:  An interactive and responsive charting library based on G2.
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
-- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
