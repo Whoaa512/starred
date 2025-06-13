@@ -318,6 +318,7 @@
 
 ## C++ 
 
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
@@ -5272,7 +5273,7 @@
 - [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model.
 - [roboflow/inference](https://github.com/roboflow/inference) - Turn any computer or edge device into a command center for your computer vision projects.
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [youquanl/Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - [NeurIPS'23 Spotlight] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -6371,6 +6372,8 @@
 
 ## Swift 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [nate-parrott/ball](https://github.com/nate-parrott/ball) - 
@@ -6443,7 +6446,7 @@
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [andrewmd5/hako](https://github.com/andrewmd5/hako) - An embeddable, lightweight, secure, high-performance JavaScript engine.
-- [rivet-gg/actor-core](https://github.com/rivet-gg/actor-core) - 🎭 Stateful Serverless That Runs Anywhere. The easiest way to build stateful, AI agent, collaborative, or local-first applications. Deploy to Rivet, Cloudflare, Bun, Node.js, and more.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🎭 Stateful Serverless That Runs Anywhere. The easiest way to build stateful, AI agent, collaborative, or local-first applications. Deploy to Rivet, Cloudflare, Bun, Node.js, and more.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [herol3oy/austen](https://github.com/herol3oy/austen) - 📚 discover story relationships
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
