@@ -777,6 +777,8 @@
 
 ## Go 
 
+- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [nielskrijger/gitstat](https://github.com/nielskrijger/gitstat) - Generates git history json datafile for
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
@@ -857,7 +859,7 @@
 - [gokrazy/breakglass](https://github.com/gokrazy/breakglass) - emergency/debugging access for gokrazy installations
 - [schollz/find3-cli-scanner](https://github.com/schollz/find3-cli-scanner) - The command-line scanner that supports Bluetooth and WiFi
 - [linhx/tbmk](https://github.com/linhx/tbmk) - A commands bookmark for shells 🔖
-- [maypok86/otter](https://github.com/maypok86/otter) - A high performance cache for Go
+- [maypok86/otter](https://github.com/maypok86/otter) - A high performance caching library for Go
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [lasorda/protobuf-language-server](https://github.com/lasorda/protobuf-language-server) - A language server implementation for Google Protocol Buffers
 - [ireina7/fgo](https://github.com/ireina7/fgo) - Functional GOlang
@@ -1170,7 +1172,7 @@
 - [hashicorp/go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [westerndigitalcorporation/blb](https://github.com/westerndigitalcorporation/blb) - Blb is a distributed object storage system designed for use on bare metal in cluster computing environments.
 - [alessio/shellescape](https://github.com/alessio/shellescape) - Escape arbitrary strings for use as command line arguments
 - [maxzender/jv](https://github.com/maxzender/jv) - Helps you view JSON on the command-line.
@@ -1596,7 +1598,7 @@
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [AIFanatic/three-nanite](https://github.com/AIFanatic/three-nanite) - An attempt at reproducing unreal nanite in threejs
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [thesephist/libsearch](https://github.com/thesephist/libsearch) - Simple, index-free full-text search for JavaScript
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
@@ -1641,11 +1643,11 @@
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [mozilla-frontend-infra/react-lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - INACTIVE
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
+- [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - 📈 A React Chart Library based on @antvis, include plot, graph, and map.
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
@@ -5160,8 +5162,11 @@
 
 ## Python 
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9
 - [Kuberwastaken/meow](https://github.com/Kuberwastaken/meow) - The most Purr-fect Image File Format for your AI workflows
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + [Gemini Pro / Flash / O3 / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 - [CNCKitchen/ConicalSlicer](https://github.com/CNCKitchen/ConicalSlicer) - Python Scripts for Conical GCode Slicing
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context
@@ -6206,6 +6211,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [pkgxdev/mash](https://github.com/pkgxdev/mash) - Mash up millions of open source packages into monstrously powerful scripts
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
@@ -6794,7 +6800,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [antongolub/yarn-audit-fix](https://github.com/antongolub/yarn-audit-fix) - The missing `yarn audit fix`
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
