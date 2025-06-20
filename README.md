@@ -777,6 +777,7 @@
 
 ## Go 
 
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI agents like Claude Code, Aider, Codex, OpenCode, and Amp.
@@ -1348,7 +1349,7 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [elestio/ws-monitoring](https://github.com/elestio/ws-monitoring) - A simple & lightweight realtime monitoring web UI + server in Node.js
 - [speechbrain/speechbrain.github.io](https://github.com/speechbrain/speechbrain.github.io) - The SpeechBrain project aims to build a novel speech toolkit fully based on PyTorch. With SpeechBrain users can easily create speech processing systems, ranging from speech recognition (both HMM/DNN a
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
 - [robinsloan/perfect-edition](https://github.com/robinsloan/perfect-edition) - A lightweight, responsive web e-book template
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -1556,6 +1557,7 @@
 - [shzlw/poli](https://github.com/shzlw/poli) - An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights.
 - [uber-archive/phabricator-jenkins-plugin](https://github.com/uber-archive/phabricator-jenkins-plugin) - Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [cgeo/cgeo](https://github.com/cgeo/cgeo) - c:geo - The powerful Android geocaching app.
+- [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [aleksandarmilicevic/hola](https://github.com/aleksandarmilicevic/hola) - Alloy*---Higher Order Logic for Alloy
 - [awslabs/amazon-kinesis-agent](https://github.com/awslabs/amazon-kinesis-agent) - Continuously monitors a set of log files  and sends new data to the Amazon Kinesis Stream and Amazon Kinesis Firehose in near-real-time.
@@ -1647,7 +1649,6 @@
 - [neemspees/tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 - [humanwhocodes/momoa](https://github.com/humanwhocodes/momoa) - A JSON parser, tokenizer, traverser, and printer.
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
-- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
@@ -4721,6 +4722,8 @@
 
 ## Others 
 
+- [dwarvesf/WeAreHiring](https://github.com/dwarvesf/WeAreHiring) - We stand for the craftsmanship in software development and we're hiring.
+- [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev in Cursor
 - [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
 - [VoidenHQ/feedback](https://github.com/VoidenHQ/feedback) - 
 - [hyvectorapp/hyvector-issues](https://github.com/hyvectorapp/hyvector-issues) - 
@@ -4751,6 +4754,7 @@
 - [rehypejs/awesome-rehype](https://github.com/rehypejs/awesome-rehype) - Curated list of awesome rehype resources
 - [ali-vilab/composer](https://github.com/ali-vilab/composer) - Official implementation of "Composer: Creative and Controllable Image Synthesis with Composable Conditions"
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+- [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [jubalh/awesome-package-maintainer](https://github.com/jubalh/awesome-package-maintainer) - How to become a packager
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [libsql/sqld](https://github.com/libsql/sqld) - LibSQL with extended capabilities like HTTP protocol, replication, and more.
@@ -5165,6 +5169,7 @@
 
 ## Python 
 
+- [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9
@@ -5894,6 +5899,7 @@
 
 ## Rust 
 
+- [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
 - [tbillington/kondo](https://github.com/tbillington/kondo) - Cleans dependencies and build artifacts from your projects.
@@ -6193,7 +6199,6 @@
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
-- [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [prisma/prisma1](https://github.com/prisma/prisma1) - 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [nafg/reactive](https://github.com/nafg/reactive) - A simple FRP library and a web UI framework built on it
@@ -6382,6 +6387,8 @@
 
 ## Swift 
 
+- [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
+- [dwarvesf/micro-sniff](https://github.com/dwarvesf/micro-sniff) - An ultra-light macOS utility that notify whenever your micro-device is being used
 - [steipete/VibeMeter](https://github.com/steipete/VibeMeter) - A project to measure costs for Cursor and other AI provider.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
@@ -6430,6 +6437,7 @@
 
 ## TypeScript 
 
+- [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [henryhawke/mcp-titan](https://github.com/henryhawke/mcp-titan) - This tool is a cutting-edge memory engine that blends real-time learning, persistent three-tier context awareness, and seamless plug-n-play LLM integration to continuously evolve and enrich your AI’
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
