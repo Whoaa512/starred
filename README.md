@@ -385,7 +385,7 @@
 - [RobotLocomotion/drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [bytedance/btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
-- [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome
+- [google/perfetto](https://github.com/google/perfetto) - Production-grade client-side tracing, profiling, and analysis for complex software systems.
 - [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 - [meshpro/pygalmesh](https://github.com/meshpro/pygalmesh) - :spider_web: A Python interface to CGAL's meshing tools
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -1873,7 +1873,6 @@
 - [1000hz/winmine-exe](https://github.com/1000hz/winmine-exe) - tonight i'm gonna party like it's nineteen ninety-five  🙂 😮 😵 😎
 - [nolanlawson/emoji-picker-element](https://github.com/nolanlawson/emoji-picker-element) - A lightweight emoji picker for the modern web
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
-- [remorses/fumabase](https://github.com/remorses/fumabase) - The open source Mintlify. Agent that writes documentation for you.
 - [vvo/tzdb](https://github.com/vvo/tzdb) - 🕰 Simplified, grouped and always up to date list of time zones, with major cities
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
@@ -5171,6 +5170,7 @@
 
 ## Python 
 
+- [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [featureform/enrichmcp](https://github.com/featureform/enrichmcp) - EnrichMCP is a python framework for building data driven MCP servers
 - [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
@@ -5723,6 +5723,7 @@
 - [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) - End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow
 - [unknownuser88/consolewrap](https://github.com/unknownuser88/consolewrap) - This plugin helps you to work easily with log statements
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [markop159/KODI-Popcorn-Time](https://github.com/markop159/KODI-Popcorn-Time) - With KODI Popcorn Time you can search for movies that you can see immediately in KODI.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [pichillilorenzo/JavaScript-Completions](https://github.com/pichillilorenzo/JavaScript-Completions) - JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.
@@ -6409,7 +6410,7 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [ColdGrub1384/LibTerm](https://github.com/ColdGrub1384/LibTerm) - iOS sandboxed terminal with Python, Lua and Clang
 - [rootstrap/ios-base](https://github.com/rootstrap/ios-base) - Boilerplate for new iOS projects using Swift 5. Provides a handful of functionalities.
-- [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify in your menu bar
+- [kmikiy/SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify & Apple Music in your menu bar
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
@@ -6441,6 +6442,7 @@
 
 ## TypeScript 
 
+- [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold) - A scaffold demonstrating how to use a turbo, mono repo, trpc, better auth, react, postgres and cursor ai rules.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
@@ -6808,7 +6810,7 @@
 - [101arrowz/fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [pouyakary/TextGraphic](https://github.com/pouyakary/TextGraphic) - TextGraphic is a framework for creating Textual Graphics. It provides layers, styling, rich color, text justification, layouts, tables, view-ports, transparency, etc.
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv) - CSV parser and formatter for node
 - [rahul-jha98/sheets-database](https://github.com/rahul-jha98/sheets-database) - Library to help use a Google Sheet as a database
@@ -6895,6 +6897,7 @@
 - [FredrikNoren/jsplot](https://github.com/FredrikNoren/jsplot) - 
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
+- [remorses/fumabase](https://github.com/remorses/fumabase) - The open source Mintlify. Agent that writes documentation for you.
 - [ngneat/helipopper](https://github.com/ngneat/helipopper) - 🚁 A Powerful Tooltip and Popover for Angular Applications
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
@@ -7090,7 +7093,7 @@
 - [shirakaba/nside](https://github.com/shirakaba/nside) - A JavaScript IDE for accessing a phone/tablet's native runtime via NativeScript bindings!
 - [solvvy/redact-pii](https://github.com/solvvy/redact-pii) - Remove personally identifiable information from text.
 - [nklayman/ca-dmv-poller](https://github.com/nklayman/ca-dmv-poller) - A tool to poll multiple DMV locations and find the earliest available appointment time.
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [Kiikurage/babel-plugin-flow-to-typescript](https://github.com/Kiikurage/babel-plugin-flow-to-typescript) - Babel plugin to convert Flow code into TypeScript
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [david-j-lee/oni-calc](https://github.com/david-j-lee/oni-calc) - Calculator for Oxygen Not Included
@@ -7419,7 +7422,6 @@
 - [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
 - [FinNLP/en-inflectors](https://github.com/FinNLP/en-inflectors) - 📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation.
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [springload/react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React
