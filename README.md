@@ -780,6 +780,7 @@
 
 ## Go 
 
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A a
@@ -3996,7 +3997,7 @@
 - [GriddleGriddle/Griddle](https://github.com/GriddleGriddle/Griddle) - Simple Grid Component written in React
 - [renatorib/bjson](https://github.com/renatorib/bjson) - ABANDONED! Bind Json: Reactive way to read/write json files.
 - [otissv/react-uikit-base](https://github.com/otissv/react-uikit-base) - React UIkit base higher order compenet with UIkit utility classes
-- [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [zewish/rmodal.js](https://github.com/zewish/rmodal.js) - A simple 1.2 KB modal dialog with no dependencies
 - [gcedo/react-solitaire](https://github.com/gcedo/react-solitaire) - React implementation of the famous solitaire card game
 - [stevenhauser/i-have-to-return-some-videotapes](https://github.com/stevenhauser/i-have-to-return-some-videotapes) - Collect and return your videotapes that are scattered about the woods
@@ -4305,7 +4306,7 @@
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [iskitsas/http-traffic-simulator](https://github.com/iskitsas/http-traffic-simulator) - A nodejs http traffic simulator
 - [cgiffard/Behaviour-Assertion-Sheets](https://github.com/cgiffard/Behaviour-Assertion-Sheets) - CSS-like declarative DSL for web integration testing.
 - [DSLibrary/dslib](https://github.com/DSLibrary/dslib) - A library of useful Javascript data structures
@@ -4730,6 +4731,7 @@
 
 ## Others 
 
+- [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - 
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Here is a full guide on claude tips and tricks and how you can optimise your claude code the best  full guides and every command possible even hidden ones!
 - [dwarvesf/WeAreHiring](https://github.com/dwarvesf/WeAreHiring) - We stand for the craftsmanship in software development and we're hiring.
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev in Cursor
@@ -5179,6 +5181,7 @@
 
 ## Python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [jimmc414/cctrace](https://github.com/jimmc414/cctrace) - Claude Code Trace - Export Claude Code chat sessions into markdown and XML
 - [simedw/spegel](https://github.com/simedw/spegel) - Spegel - Reflect the web through AI
 - [codelion/openevolve](https://github.com/codelion/openevolve) - Open-source implementation of AlphaEvolve
@@ -5739,7 +5742,6 @@
 - [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) - End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow
 - [unknownuser88/consolewrap](https://github.com/unknownuser88/consolewrap) - This plugin helps you to work easily with log statements
 - [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [markop159/KODI-Popcorn-Time](https://github.com/markop159/KODI-Popcorn-Time) - With KODI Popcorn Time you can search for movies that you can see immediately in KODI.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [pichillilorenzo/JavaScript-Completions](https://github.com/pichillilorenzo/JavaScript-Completions) - JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.
@@ -5919,6 +5921,7 @@
 
 ## Rust 
 
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [pytorch-labs/monarch](https://github.com/pytorch-labs/monarch) - PyTorch Single Controller
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -7452,6 +7455,7 @@
 - [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
 - [FinNLP/en-inflectors](https://github.com/FinNLP/en-inflectors) - 📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation.
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [springload/react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React
