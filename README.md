@@ -523,6 +523,7 @@
 
 ## CSS 
 
+- [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
 - [pipes-digital/pipes](https://github.com/pipes-digital/pipes) - Repository for Pipes
 - [andyk/ht](https://github.com/andyk/ht) - headless terminal - wrap any binary with a terminal interface for easy programmatic access.
 - [stephane-monnot/react-vertical-timeline](https://github.com/stephane-monnot/react-vertical-timeline) - Vertical timeline for React.js
@@ -781,6 +782,8 @@
 
 ## Go 
 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+- [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server) - Official MCP Server for Buildkite.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [kelindar/event](https://github.com/kelindar/event) - Simple internal event bus for Go applications
@@ -1599,6 +1602,7 @@
 
 ## JavaScript 
 
+- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - No need to switch browsers, just use Dia on Chrome or on Arc.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - MCP Server integration for Bear note app
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
@@ -4733,7 +4737,7 @@
 
 ## Others 
 
-- [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - 
+- [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - My personal Claude Code Development Kit. If you've questions reach out to me on LinkedIn @peterkrueck
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!
 - [dwarvesf/WeAreHiring](https://github.com/dwarvesf/WeAreHiring) - We stand for the craftsmanship in software development and we're hiring.
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev in Cursor
@@ -5183,6 +5187,10 @@
 
 ## Python 
 
+- [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+- [TencentQQGYLab/AppAgent](https://github.com/TencentQQGYLab/AppAgent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+- [browser-use/macOS-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [jimmc414/cctrace](https://github.com/jimmc414/cctrace) - Claude Code Trace - Export Claude Code chat sessions into markdown and XML
 - [simedw/spegel](https://github.com/simedw/spegel) - Spegel - Reflect the web through AI
@@ -6506,7 +6514,7 @@
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [andrewmd5/hako](https://github.com/andrewmd5/hako) - An embeddable, lightweight, secure, high-performance JavaScript engine.
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 Lightweight libraries for backends. Install one package, scale to production. Just a library, no SaaS.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - 🧰 Rivet Actors is a library that provides durable state, realtime, and scalability. Easily self-hostable and works with your infrastructure. Just a library, no SaaS.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [herol3oy/austen](https://github.com/herol3oy/austen) - 📚 discover story relationships
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
@@ -6588,7 +6596,7 @@
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
+- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [wmaurer/vscode-change-case](https://github.com/wmaurer/vscode-change-case) - Change Case Extension for Visual Studio Code
 - [LevanKvirkvelia/salute](https://github.com/LevanKvirkvelia/salute) - A simple and declarative way to control LLMs
 - [juanluispaz/ts-sql-query](https://github.com/juanluispaz/ts-sql-query) - Type-safe SQL query builder like QueryDSL or JOOQ in Java or Linq in .Net for TypeScript with MariaDB, MySql, Oracle, PostgreSql, Sqlite and SqlServer support.
