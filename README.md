@@ -4535,7 +4535,7 @@
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [roy-hachnochi/cross-domain-compositing](https://github.com/roy-hachnochi/cross-domain-compositing) - 
 - [williamyang1991/VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
-- [deforum/stable-diffusion](https://github.com/deforum/stable-diffusion) - 
+- [deforum-ai/stable-diffusion](https://github.com/deforum-ai/stable-diffusion) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
