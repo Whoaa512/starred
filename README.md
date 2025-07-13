@@ -4415,7 +4415,6 @@
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [aychtang/remove-whitespaces](https://github.com/aychtang/remove-whitespaces) - For people who don't sed.
 - [typicode/katon](https://github.com/typicode/katon) - (use hotel instead)
-- [sorellabs/polygamous](https://github.com/sorellabs/polygamous) - Clojure-style multi-methods for JavaScript.
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [cultofmetatron/Shen](https://github.com/cultofmetatron/Shen) - higher order flow control functions for creating generators
@@ -4535,7 +4534,7 @@
 - [apache/hamilton](https://github.com/apache/hamilton) - Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.
 - [roy-hachnochi/cross-domain-compositing](https://github.com/roy-hachnochi/cross-domain-compositing) - 
 - [williamyang1991/VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
-- [deforum-ai/stable-diffusion](https://github.com/deforum-ai/stable-diffusion) - 
+- [deforum-art/stable-diffusion](https://github.com/deforum-art/stable-diffusion) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore multimedia datasets at scale
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
@@ -4738,6 +4737,7 @@
 
 ## Others 
 
+- [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!
 - [dwarvesf/WeAreHiring](https://github.com/dwarvesf/WeAreHiring) - We stand for the craftsmanship in software development and we're hiring.
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
