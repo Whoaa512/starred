@@ -1603,7 +1603,7 @@
 
 ## JavaScript 
 
-- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - No need to switch browsers, just use Dia on Chrome or on Arc.
+- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. No need to switch, just use Dia on Chrome or Arc.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - MCP Server integration for Bear note app
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
