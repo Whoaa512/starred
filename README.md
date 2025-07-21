@@ -456,7 +456,6 @@
 - [OpenShot/libopenshot-audio](https://github.com/OpenShot/libopenshot-audio) - OpenShot Audio Library (libopenshot-audio) is a free, open-source project that enables high-quality editing and playback of audio, and is based on the amazing JUCE library.
 - [randrew/phantomstyle](https://github.com/randrew/phantomstyle) - Cross-platform QStyle for traditionalists
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
-- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [branchseer/DeskGap](https://github.com/branchseer/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [bwapi/bwapi](https://github.com/bwapi/bwapi) - Brood War API
@@ -1692,7 +1691,7 @@
 - [socketsupply/components](https://github.com/socketsupply/components) - Example Components (Built with Tonic)
 - [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
 - [socketsupply/socket-api](https://github.com/socketsupply/socket-api) - A Node.js / Posix-like JavaScript front-end API for the Socket Runtime
-- [socketsupply/socket](https://github.com/socketsupply/socket) - A cross-platform runtime for Web developers to build desktop & mobile apps for any OS using any frontend library.
+- [socketsupply/socket](https://github.com/socketsupply/socket) - 
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -2220,6 +2219,7 @@
 - [alexfoxy/lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (&lt;4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [ehmicky/unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
 - [emmabostian/find-a-mentor](https://github.com/emmabostian/find-a-mentor) - Find a mentor website
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
