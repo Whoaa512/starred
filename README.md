@@ -782,6 +782,7 @@
 
 ## Go 
 
+- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server) - Official MCP Server for Buildkite.
@@ -1603,6 +1604,7 @@
 
 ## JavaScript 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系�
 - [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [akseyh/bear-mcp-server](https://github.com/akseyh/bear-mcp-server) - MCP Server integration for Bear note app
