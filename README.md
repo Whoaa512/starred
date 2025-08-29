@@ -370,7 +370,7 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [simongog/sdsl-lite](https://github.com/simongog/sdsl-lite) - Succinct Data Structure Library 2.0
 - [diracdeltas/vstSpleeter](https://github.com/diracdeltas/vstSpleeter) - A VST interface to Spleeter
-- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [sgan81/apfs-fuse](https://github.com/sgan81/apfs-fuse) - FUSE driver for APFS (Apple File System)
@@ -486,7 +486,7 @@
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [msuiche/porosity](https://github.com/msuiche/porosity) - *UNMAINTAINED* Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
@@ -799,7 +799,6 @@
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
 - [nielskrijger/gitstat](https://github.com/nielskrijger/gitstat) - Generates git history json datafile for
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2) - F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [usbarmory/tamago](https://github.com/usbarmory/tamago) - TamaGo - bare metal Go
@@ -1609,6 +1608,7 @@
 
 ## JavaScript 
 
+- [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) - A light-weight torrent media center at one place.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系�
@@ -2421,7 +2421,7 @@
 - [cliqz-oss/re-consent](https://github.com/cliqz-oss/re-consent) - Consent-management browser extension
 - [schollz/rwtxt](https://github.com/schollz/rwtxt) - A cms for absolute minimalists.
 - [React9k/react-timeline-9000](https://github.com/React9k/react-timeline-9000) - React Timeline
-- [Dogstudio/highway](https://github.com/Dogstudio/highway) - Highway - A Modern Javascript Transitions Manager
+- [dept/highway](https://github.com/dept/highway) - Highway - A Modern Javascript Transitions Manager
 - [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [npm/tink](https://github.com/npm/tink) - a dependency unwinder for javascript
@@ -2469,7 +2469,6 @@
 - [braintree/braintree-web](https://github.com/braintree/braintree-web) - A suite of tools for integrating Braintree in the browser
 - [ghostery/local-sheriff](https://github.com/ghostery/local-sheriff) - Think of Local sheriff as a recon tool in your browser (WebExtension). While you normally browse the internet, Local Sheriff works in the background to empower you in identifying what data points (PII
 - [ArunMichaelDsouza/react-image-appear](https://github.com/ArunMichaelDsouza/react-image-appear) - ReactJS component to make images appear with transition as they load.
-- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [pacdiv/hoc-form](https://github.com/pacdiv/hoc-form) - Concise form validation for React! 🚀
 - [osrec/SuperSlide.js](https://github.com/osrec/SuperSlide.js) - A flexible, smooth, GPU accelerated sliding menu for your next PWA
 - [hasura/graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
@@ -2815,7 +2814,7 @@
 - [mafintosh/flat-tree](https://github.com/mafintosh/flat-tree) - A series of functions to map a binary tree to a list
 - [apache/couchdb-nano](https://github.com/apache/couchdb-nano) - Nano: The official Apache CouchDB library for Node.js
 - [andreypopp/react-css-components](https://github.com/andreypopp/react-css-components) - Define React presentational components with CSS
-- [vaheqelyan/react-awesome-popover](https://github.com/vaheqelyan/react-awesome-popover) - A smart popover component with animation support for ReactJS
+- [valqelyan/react-awesome-popover](https://github.com/valqelyan/react-awesome-popover) - A smart popover component with animation support for ReactJS
 - [remotestorage/remotestorage.js](https://github.com/remotestorage/remotestorage.js) - ⬡ JavaScript client library for integrating remoteStorage in apps
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [sunesimonsen/ukkonen](https://github.com/sunesimonsen/ukkonen) - Ukkonen's Approximate String Matching algorithm
@@ -4527,7 +4526,6 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [BauplanLabs/examples](https://github.com/BauplanLabs/examples) - reference implementations and use cases done with bauplan
 - [babycommando/neuralgraffiti](https://github.com/babycommando/neuralgraffiti) - Live-bending a foundation model’s output at neural network level.
-- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [microsoft/TaskTracker](https://github.com/microsoft/TaskTracker) - TaskTracker is an approach to detecting task drift in Large Language Models (LLMs) by analysing their internal activations. It provides a simple linear probe-based method and a more sophisticated metr
 - [adam-maj/deep-learning](https://github.com/adam-maj/deep-learning) - A deep-dive on the entire history of deep-learning
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
@@ -5255,6 +5253,7 @@
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
+- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS
@@ -5333,7 +5332,7 @@
 - [TheBlokeAI/AIScripts](https://github.com/TheBlokeAI/AIScripts) - Some simple scripts that I use day-to-day when working with LLMs and Huggingface Hub
 - [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
 - [Skydio/revup](https://github.com/Skydio/revup) - Upload once to create multiple, relative PRs. Productivity-focused git tools with patch revision tracking, rebase detection and more. Uses python and git plumbing commands.
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
@@ -5956,7 +5955,7 @@
 
 - [farshed/sage](https://github.com/farshed/sage) - Self-hosted voice chat with LLMs
 - [emilk/eon](https://github.com/emilk/eon) - A simple and friendly config format
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
 - [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -6145,7 +6144,7 @@
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
-- [cooklang/cookcli](https://github.com/cooklang/cookcli) - Command line program which provides a suite of tools to create shopping lists and maintain recipes.
+- [cooklang/cookcli](https://github.com/cooklang/cookcli) - CLI + embedded web-server to work with Cooklang recipes
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [doyoubi/undermoon](https://github.com/doyoubi/undermoon) - Mordern Redis Cluster solution for easy operation.
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
@@ -6501,6 +6500,7 @@
 
 ## TypeScript 
 
+- [TensorPoet/runlog-cli](https://github.com/TensorPoet/runlog-cli) - Share your claude code conversations online.
 - [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps.
 - [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
@@ -6529,6 +6529,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl) - Real-time deduplication and temporal joins for streaming data
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -6771,7 +6772,7 @@
 - [codemix/deprank](https://github.com/codemix/deprank) - Use PageRank to find the most important files in your codebase.
 - [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - a robust, scalable, and maintained set of caching packages
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
+- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [maverick-js/signals](https://github.com/maverick-js/signals) - A tiny (~1kB minzipped) and extremely fast library for creating reactive observables via functions.
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [ozanyurtsever/verbum](https://github.com/ozanyurtsever/verbum) - Verbum is a fully flexible text editor based on lexical framework.
@@ -7260,6 +7261,7 @@
 - [deepsweet/foxr](https://github.com/deepsweet/foxr) - 🦊 Node.js API to control Firefox
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [catc/react-timekeeper](https://github.com/catc/react-timekeeper) - Google Keep app inspired time picker for react :clock4:
+- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [yinxin630/fiora](https://github.com/yinxin630/fiora) - An interesting open source chat application. Developed with node.js, mongoDB, socket.io and react
