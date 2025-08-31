@@ -1477,7 +1477,6 @@
 - [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
 - [passy/react-pokemon](https://github.com/passy/react-pokemon) - A React component for displaying Pokémon
 - [Altreus/colourblind](https://github.com/Altreus/colourblind) - Colour blindness bookmarklet
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [mozilla-appmaker/appmaker](https://github.com/mozilla-appmaker/appmaker) - Appmaker was an exploration in making app authoring available to non-developers
@@ -6236,6 +6235,7 @@
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [pcwalton/sprocketnes](https://github.com/pcwalton/sprocketnes) - NES emulator written in Rust
 
 ## SCSS 
@@ -6505,7 +6505,7 @@
 - [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps.
 - [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-- [getAsterisk/gooey](https://github.com/getAsterisk/gooey) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [jhlee0409/claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer) - 
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
