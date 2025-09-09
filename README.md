@@ -1605,6 +1605,7 @@
 
 ## JavaScript 
 
+- [TuckerTucker/tkr-portfolio](https://github.com/TuckerTucker/tkr-portfolio) - 
 - [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) - A light-weight torrent media center at one place.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
@@ -3151,7 +3152,7 @@
 - [sindresorhus/ensure-error](https://github.com/sindresorhus/ensure-error) - Ensures a value is a valid error by making it one if not
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 - [kadirahq/graphql-errors](https://github.com/kadirahq/graphql-errors) - Better error handling for GraphQL
-- [tuananh/camaro](https://github.com/tuananh/camaro) - camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.
+- [tuananh/camaro](https://github.com/tuananh/camaro) - camaro is a Node.js library that transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.
 - [dabit3/create-new-cli](https://github.com/dabit3/create-new-cli) - Create your own CLI using a series of simple commands.
 - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries' flags.
 - [erikolson186/zangodb](https://github.com/erikolson186/zangodb) - MongoDB-like interface for HTML5 IndexedDB
@@ -4695,7 +4696,6 @@
 
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [glennsl/bs-json](https://github.com/glennsl/bs-json) - Compositional JSON encode/decode library for BuckleScript
@@ -5196,6 +5196,7 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I'm absolutely right!
 - [makalin/KeyForge3D](https://github.com/makalin/KeyForge3D) - KeyForge3D is an app that turns a photo of a key into a 3D-printable STL file. Ideal for locksmiths and hobbyists, it analyzes the key's bitting pattern using image processing and generates an accurat
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
@@ -6255,7 +6256,7 @@
 ## Scala 
 
 - [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
 - [feathr-ai/feathr](https://github.com/feathr-ai/feathr) - Feathr – A scalable, unified data and AI engineering platform for enterprise
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
@@ -6496,6 +6497,7 @@
 
 ## TypeScript 
 
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
 - [slopus/happy-cli](https://github.com/slopus/happy-cli) - Happy Coder CLI to connect your local Claude Code to mobile device
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Claude Code, with realtime voice, encryption and fully featured
 - [TensorPoet/runlog-cli](https://github.com/TensorPoet/runlog-cli) - Share your claude code conversations online.
@@ -7714,6 +7716,7 @@
 - [robbielyman/seamstress-v1](https://github.com/robbielyman/seamstress-v1) - seamstress is an art engine
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 ## jq 
