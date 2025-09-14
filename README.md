@@ -814,7 +814,7 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [ncruces/go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
-- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, an
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, an
 - [shurcooL/goexec](https://github.com/shurcooL/goexec) - A command line tool to execute Go functions.
 - [natefinch/gorram](https://github.com/natefinch/gorram) - It's like go run for any go function
 - [dolmen-go/goeval](https://github.com/dolmen-go/goeval) - Run Go snippets instantly from the command-line
@@ -1625,7 +1625,6 @@
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
 - [matthewp/views-the-hard-way](https://github.com/matthewp/views-the-hard-way) - JavaScript views; done as painfully as possible
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
-- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [AIFanatic/three-nanite](https://github.com/AIFanatic/three-nanite) - An attempt at reproducing unreal nanite in threejs
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
@@ -6551,6 +6550,7 @@
 - [pinterest/querybook](https://github.com/pinterest/querybook) - Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [andrewmd5/hako](https://github.com/andrewmd5/hako) - An embeddable, lightweight, secure, high-performance JavaScript engine.
+- [rivet-gg/rivetkit](https://github.com/rivet-gg/rivetkit) - A library for building stateful workloads anywhere
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [herol3oy/austen](https://github.com/herol3oy/austen) - 📚 discover story relationships
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
