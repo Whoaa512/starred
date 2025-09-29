@@ -17,6 +17,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -97,6 +98,7 @@
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vala](#vala)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
@@ -153,6 +155,7 @@
 
 ## C 
 
+- [ExcessiveMotion/drive-software](https://github.com/ExcessiveMotion/drive-software) - 
 - [spotify/sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
 - [sqliteai/sqlite-js](https://github.com/sqliteai/sqlite-js) - Create custom SQLite functions in JavaScript. Extend your database with scalars, aggregates, window functions, and collations directly in JavaScript.
 - [kingtuna/sshpot](https://github.com/kingtuna/sshpot) - A simple ssh honeypot that logs usernames and passwords
@@ -521,6 +524,10 @@
 - [mcostalba/Stockfish](https://github.com/mcostalba/Stockfish) - UCI chess engine
 - [appjs/appjs](https://github.com/appjs/appjs) - (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
 
+## CMake 
+
+- [ExcessiveMotion/GUI](https://github.com/ExcessiveMotion/GUI) - 
+
 ## CSS 
 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
@@ -783,6 +790,7 @@
 
 ## Go 
 
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game engine for Go
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -870,7 +878,7 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
-- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+- [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [jsouthworth/curry](https://github.com/jsouthworth/curry) - Curry arbitrary functions in go
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
 - [blevesearch/vellum](https://github.com/blevesearch/vellum) - A Go library implementing a FST (finite state transducer)
@@ -1334,6 +1342,7 @@
 
 ## HTML 
 
+- [ExcessiveMotion/controller-hardware](https://github.com/ExcessiveMotion/controller-hardware) - 
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [benwinding/command-pal](https://github.com/benwinding/command-pal) - The hackable command palette for the web, inspired by Visual Studio Code.
 - [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) - Just a detailed in-depth, and comprehensive explanation of how computers operate internally, focusing on RAM and CPU aspects, respectively. By @ILyesMk2
@@ -2258,7 +2267,7 @@
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [sinedied/smoke](https://github.com/sinedied/smoke) - :dash: Simple yet powerful file-based mock server with recording abilities
-- [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
+- [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts library
 - [rcjpisani/redactyl.js](https://github.com/rcjpisani/redactyl.js) - Redact sensitive information from JSON for logging (Node.js)
 - [AmanAgarwal041/copy-text-to-cb](https://github.com/AmanAgarwal041/copy-text-to-cb) - react component to copy text to clipboard with function to execute after copying.
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
@@ -2563,7 +2572,7 @@
 - [ronami/minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
 - [nitin42/react-video-scroll](https://github.com/nitin42/react-video-scroll) - A React component to seek or control the video frame rate on scroll.
 - [jfairbank/revalidate](https://github.com/jfairbank/revalidate) - Elegant and composable validations
-- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+- [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [creationix/js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git.
 - [TiBeN/shortcutd](https://github.com/TiBeN/shortcutd) - Launch commands when pressing keyboard keys combinations. No graph. env needed. Support keyboard hotplug
@@ -4746,6 +4755,10 @@
 ## Others 
 
 - [ExcessiveMotion/drive-hardware](https://github.com/ExcessiveMotion/drive-hardware) - 
+- [ExcessiveMotion/pendant-hardware](https://github.com/ExcessiveMotion/pendant-hardware) - 
+- [ExcessiveMotion/brake-module-hardware](https://github.com/ExcessiveMotion/brake-module-hardware) - 
+- [ExcessiveMotion/pendant-software](https://github.com/ExcessiveMotion/pendant-software) - 
+- [ExcessiveMotion/brake-module-software](https://github.com/ExcessiveMotion/brake-module-software) - 
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!
@@ -4902,6 +4915,7 @@
 - [guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Growing the code out of your notebooks - the right way.
 - [soumith/ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
 - [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
+- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [bytecodealliance/cranelift](https://github.com/bytecodealliance/cranelift) - Cranelift code generator
 - [niieani/typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype) - Differences between Flowtype and TypeScript -- syntax and usability
 - [dabit3/awesome-aws-appsync](https://github.com/dabit3/awesome-aws-appsync) - Curated list of AWS AppSync Resources
@@ -5956,6 +5970,7 @@
 
 ## Rust 
 
+- [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [withered-magic/starpls](https://github.com/withered-magic/starpls) - An LSP implementation for Starlark, the configuration language used by Bazel and Buck2.
 - [farshed/sage](https://github.com/farshed/sage) - Self-hosted voice chat with LLMs
 - [emilk/eon](https://github.com/emilk/eon) - A simple and friendly config format
@@ -7184,7 +7199,6 @@
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [Wenzil/Mhysa](https://github.com/Wenzil/Mhysa) - Dependency-free stream utils for Node.js
 - [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
-- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [fel1xw/react-pusher-hoc](https://github.com/fel1xw/react-pusher-hoc) - Handle websocket events (pusher.com) in React, without the tears 😭.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
@@ -7675,6 +7689,10 @@
 ## Vala 
 
 - [babluboy/bookworm](https://github.com/babluboy/bookworm) - A simple ebook reader for Elementary OS
+
+## Verilog 
+
+- [ExcessiveMotion/controller-software](https://github.com/ExcessiveMotion/controller-software) - 
 
 ## Vim Script 
 
