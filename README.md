@@ -5974,7 +5974,7 @@
 - [withered-magic/starpls](https://github.com/withered-magic/starpls) - An LSP implementation for Starlark, the configuration language used by Bazel and Buck2.
 - [farshed/sage](https://github.com/farshed/sage) - Self-hosted voice chat with LLMs
 - [emilk/eon](https://github.com/emilk/eon) - A simple and friendly config format
-- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Self-hosted plaform for secure execution of untrusted user/AI code
+- [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User/AI Code
 - [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
