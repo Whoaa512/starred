@@ -2254,7 +2254,7 @@
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [fagbokforlaget/simple-fs](https://github.com/fagbokforlaget/simple-fs) - Handles files on indexeddb like you would do in node.js (promise)
-- [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
+- [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [sindresorhus/capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites
 - [dbusjs/node-dbus-next](https://github.com/dbusjs/node-dbus-next) - 🚌 The next great dbus library for node
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -5242,7 +5242,7 @@
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9
 - [Kuberwastaken/meow](https://github.com/Kuberwastaken/meow) - The most Purr-fect Image File Format for your AI workflows
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [CNCKitchen/ConicalSlicer](https://github.com/CNCKitchen/ConicalSlicer) - Python Scripts for Conical GCode Slicing
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context
