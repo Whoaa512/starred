@@ -1248,7 +1248,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
-- [1backend/1backend](https://github.com/1backend/1backend) - Self-hosted AI microservices platform & backend framework for building scalable, on-premise apps with built-in AI models. Language agnostic.
+- [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [sandglass/sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
@@ -6103,7 +6103,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
 - [wishawa/async_ui](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
@@ -6644,7 +6644,7 @@
 - [expressots/expressots](https://github.com/expressots/expressots) - A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎
 - [dlight-js/dlight](https://github.com/dlight-js/dlight) - DX-first UI Rendering Library
 - [revant-io/cdk-cost-limit](https://github.com/revant-io/cdk-cost-limit) - A Collection of CDK Constructs to Deploy Cost-Aware Self-Limiting Resources
-- [lesgrieve/paste-indent](https://github.com/lesgrieve/paste-indent) - Visual Studio Code Extension meant to recreate the paste_and_indent feature in Sublime Text 3.
+- [lesgrieve/paste-indent](https://github.com/lesgrieve/paste-indent) - Visual Studio Code Extension meant to recreate the paste_and_indent feature from Sublime Text 3.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems
