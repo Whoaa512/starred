@@ -2623,7 +2623,7 @@
 - [trivago/parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
 - [webpack-contrib/cache-loader](https://github.com/webpack-contrib/cache-loader) - [DEPRECATED] Caches the result of following loaders on disk
-- [webpack-contrib/postcss-loader](https://github.com/webpack-contrib/postcss-loader) - PostCSS loader for webpack
+- [webpack/postcss-loader](https://github.com/webpack/postcss-loader) - PostCSS loader for webpack
 - [testing-library/dom-testing-library](https://github.com/testing-library/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [GiladShoham/seven-boom](https://github.com/GiladShoham/seven-boom) - A decorator around Boom (HTTP-friendly error objects) to empower it
@@ -2730,7 +2730,7 @@
 - [developit/jsdom-worker](https://github.com/developit/jsdom-worker) - 👷‍♀️ Use Web Workers in Jest / JSDOM 🌈
 - [mrvautin/expressCart](https://github.com/mrvautin/expressCart) - A fully functioning Node.js shopping cart with Stripe, PayPal, Authorize.net, PayWay, Blockonomics, Adyen, Zip and Instore payments.
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
-- [webpack-contrib/less-loader](https://github.com/webpack-contrib/less-loader) - Compiles Less to CSS
+- [webpack/less-loader](https://github.com/webpack/less-loader) - Compiles Less to CSS
 - [lukeed/sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦
 - [webpack/voting-app](https://github.com/webpack/voting-app) - An application for casting votes on new webpack features and fixes.
 - [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
@@ -5559,7 +5559,7 @@
 - [alex-damian/pulse](https://github.com/alex-damian/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
@@ -6002,7 +6002,7 @@
 - [mystor/rust-cpp](https://github.com/mystor/rust-cpp) - Embed C++ directly inside your rust code!
 - [Joakker/lua-json5](https://github.com/Joakker/lua-json5) - A json5 parser for luajit
 - [yoshuawuyts/rustcpp](https://github.com/yoshuawuyts/rustcpp) - 
-- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) - A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [EmbarkStudios/buildkite-jobify](https://github.com/EmbarkStudios/buildkite-jobify) - 👷 Kubekite, but in Rust, using configuration from your repos 🦀
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
