@@ -121,7 +121,7 @@
 
 ## Assembly 
 
-- [ebitengine/purego](https://github.com/ebitengine/purego) - 
+- [ebitengine/purego](https://github.com/ebitengine/purego) - A library for calling C functions from Go without Cgo
 - [below/HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
 - [pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level langu
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
@@ -177,7 +177,6 @@
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [MidnightCommander/mc-old](https://github.com/MidnightCommander/mc-old) - Midnight Commander's repository
 - [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
-- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [trholding/llama2.c](https://github.com/trholding/llama2.c) - Llama 2 Everywhere (L2E)
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 100x faster strings for C, C++, CUDA, Python, Rust, Swift, JS, & Go, leveraging NEON, AVX2, AVX-512, SVE, GPGPU, & SWAR to accelerate search, hashing, sorting, edit distances, sketches, and memo
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
@@ -345,6 +344,7 @@
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
+- [omnigres/omnigres](https://github.com/omnigres/omnigres) - The All-in-One Database
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
@@ -2475,7 +2475,7 @@
 - [m3g4p0p/from-html](https://github.com/m3g4p0p/from-html) - Get element references directly from a HTML string
 - [FullStack-Academy-Kiev/react-chrome-extension](https://github.com/FullStack-Academy-Kiev/react-chrome-extension) - Chrome Extension boilerplate with ReactJS and vanilla JS examples
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [ekmartin/unicode-style](https://github.com/ekmartin/unicode-style) - Format text using unicode characters
 - [braintree/braintree-web](https://github.com/braintree/braintree-web) - A suite of tools for integrating Braintree in the browser
 - [ghostery/local-sheriff](https://github.com/ghostery/local-sheriff) - Think of Local sheriff as a recon tool in your browser (WebExtension). While you normally browse the internet, Local Sheriff works in the background to empower you in identifying what data points (PII
@@ -4676,7 +4676,7 @@
 
 ## Markdown 
 
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -5217,6 +5217,7 @@
 
 ## Python 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise 
 - [Whoaa512/claude-skills](https://github.com/Whoaa512/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
