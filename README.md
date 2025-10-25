@@ -2618,7 +2618,7 @@
 - [mattgperry/vekta](https://github.com/mattgperry/vekta) - A JavaScript vector type with GLSL-inspired swizzling
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [suguru03/neo-async](https://github.com/suguru03/neo-async) - Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster
-- [webpack-contrib/thread-loader](https://github.com/webpack-contrib/thread-loader) - Runs the following loaders in a worker pool
+- [webpack/thread-loader](https://github.com/webpack/thread-loader) - Runs the following loaders in a worker pool
 - [asfktz/autodll-webpack-plugin](https://github.com/asfktz/autodll-webpack-plugin) - Webpack's DllPlugin without the boilerplate
 - [trivago/parallel-webpack](https://github.com/trivago/parallel-webpack) - Builds multi-config webpack projects in parallel
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
@@ -3585,7 +3585,7 @@
 - [sindresorhus/p-defer](https://github.com/sindresorhus/p-defer) - Create a deferred promise
 - [sindresorhus/p-props](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 - [Jasonette/JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS) - 📡 Native App over HTTP, on iOS
-- [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+- [webpack/webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [brijeshb42/medium-draft](https://github.com/brijeshb42/medium-draft) - 📝 A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.
 - [naver/egjs](https://github.com/naver/egjs) - Javascript components group that brings easiest and fastest way to build a web application in your way.
@@ -3866,7 +3866,7 @@
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [ddsol/redux-schema](https://github.com/ddsol/redux-schema) - Automatic actions, reducers and validation for Redux
 - [garbles/why-did-you-update](https://github.com/garbles/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
-- [webpack-contrib/copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin) - Copy files and directories with webpack
+- [webpack/copy-webpack-plugin](https://github.com/webpack/copy-webpack-plugin) - Copy files and directories with webpack
 - [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
 - [cerebral-legacy/redux-action-tree](https://github.com/cerebral-legacy/redux-action-tree) - The Cerebral signals running with Redux
 - [cerebral/cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management for popular JavaScript frameworks
@@ -4287,7 +4287,7 @@
 - [mikl/node-chaos-monkeyware](https://github.com/mikl/node-chaos-monkeyware) - Chaos Monkey implemented as Node.js Express-compatible middleware…
 - [sanctuary-js/sanctuary](https://github.com/sanctuary-js/sanctuary) - :see_no_evil: Refuge from unsafe JavaScript
 - [WearyMonkey/ngtemplate-loader](https://github.com/WearyMonkey/ngtemplate-loader) - Include AngularJS templates in the Webpack bundle and preload the template cache.
-- [webpack-contrib/html-loader](https://github.com/webpack-contrib/html-loader) - HTML Loader
+- [webpack/html-loader](https://github.com/webpack/html-loader) - HTML Loader
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [tj/node-blocked](https://github.com/tj/node-blocked) - Check if the event loop is blocked
 - [gulpjs/gulp-cli](https://github.com/gulpjs/gulp-cli) - Command Line Interface for gulp.
@@ -6098,7 +6098,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage data + run iMessage Diagnostics
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
 - [supabase/wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust.
