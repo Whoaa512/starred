@@ -243,6 +243,32 @@ func (g *GitHubClient) GetStarredRepositories(
 	return repos, nextCursor, query.User.StarredRepositories.PageInfo.HasNextPage, nil
 }
 
+// isRetryableError checks if an error is transient and should be retried
+func isRetryableError(err error) bool {
+	if err == nil {
+		return false
+	}
+	errStr := err.Error()
+	retryablePatterns := []string{
+		"502 Bad Gateway",
+		"503 Service Unavailable",
+		"504 Gateway Timeout",
+		"stream error",
+		"CANCEL",
+		"json_decode_error",
+		"connection reset",
+		"EOF",
+		"timeout",
+		"You have exceeded a secondary rate limit",
+	}
+	for _, pattern := range retryablePatterns {
+		if strings.Contains(errStr, pattern) {
+			return true
+		}
+	}
+	return false
+}
+
 func (g *GitHubClient) GetAllStarredRepositories(
 	username string,
 	topicStargazerCountLimit int,
@@ -255,30 +281,47 @@ func (g *GitHubClient) GetAllStarredRepositories(
 	fmt.Printf("Fetching starred repositories for %s...\n", username)
 	start := time.Now()
 	maxTotalWaitTime := 30 * time.Minute
+	maxRetries := 5
 
 	for hasNextPage {
 		if cursor != nil {
 			fmt.Printf("Using after cursor: %s\n", *cursor)
 		}
 
-		repos, nextCursor, hasNext, err := g.GetStarredRepositories(
-			username,
-			cursor,
-			topicStargazerCountLimit,
-		)
-		if err != nil {
-			// Check if error is due to rate limiting
+		var repos []Repository
+		var nextCursor *string
+		var hasNext bool
+		var err error
+
+		// Retry loop with exponential backoff
+		for attempt := 0; attempt < maxRetries; attempt++ {
+			repos, nextCursor, hasNext, err = g.GetStarredRepositories(
+				username,
+				cursor,
+				topicStargazerCountLimit,
+			)
+			if err == nil {
+				break
+			}
+
 			timeSpent := time.Since(start)
 			if timeSpent > maxTotalWaitTime {
 				return nil, fmt.Errorf("max wait time exceeded: %w", err)
 			}
-			if strings.Contains(err.Error(), "You have exceeded a secondary rate limit") {
-				fmt.Println("Rate limit exceeded. Retrying in 15 seconds...")
-				time.Sleep(15 * time.Second)
-				continue
+
+			if !isRetryableError(err) {
+				return nil, err
 			}
 
-			return nil, err
+			// Exponential backoff: 5s, 10s, 20s, 40s, 80s
+			backoff := time.Duration(5*(1<<attempt)) * time.Second
+			fmt.Printf("Transient error (attempt %d/%d): %v\n", attempt+1, maxRetries, err)
+			fmt.Printf("Retrying in %v...\n", backoff)
+			time.Sleep(backoff)
+		}
+
+		if err != nil {
+			return nil, fmt.Errorf("max retries exceeded: %w", err)
 		}
 
 		allRepos = append(allRepos, repos...)
