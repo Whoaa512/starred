@@ -619,7 +619,7 @@
 ## Clojure 
 
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
 - [open-services/open-registry](https://github.com/open-services/open-registry) - Community Owned JavaScript Registry
 - [onyx-platform/onyx-examples](https://github.com/onyx-platform/onyx-examples) - Examples of using Onyx
@@ -792,6 +792,7 @@
 
 ## Go 
 
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 - [steipete/tmuxwatch](https://github.com/steipete/tmuxwatch) - A simple TUI to watch tmux sessions
 - [cli/browser](https://github.com/cli/browser) - Go helpers to open URLs, files, or readers in a web browser.
