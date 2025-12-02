@@ -694,7 +694,7 @@
 
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
 - [HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - 🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 
 ## Dockerfile 
@@ -1551,7 +1551,7 @@
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
@@ -3551,7 +3551,6 @@
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI app for editing, visualizing, and manipulating JSON data
 - [erikras/redux-form-material-ui](https://github.com/erikras/redux-form-material-ui) - A set of wrapper components to facilitate using Material UI with Redux Form
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [weixu365/serverless-scriptable-plugin](https://github.com/weixu365/serverless-scriptable-plugin) - Adding script support to Serverless 1.x which enables you to customize Serverless behavior without writing a plugin.
 - [dvajs/dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -5937,7 +5936,6 @@
 
 ## Ruby 
 
-- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [pipes-digital/pipes](https://github.com/pipes-digital/pipes) - Repository for Pipes
 - [rails/solid_queue](https://github.com/rails/solid_queue) - Database-backed Active Job backend
@@ -6005,6 +6003,7 @@
 - [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
@@ -6333,6 +6332,7 @@
 
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [alexfazio/cc-trace](https://github.com/alexfazio/cc-trace) - Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
+- [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Handle context at scale - my custom Claude Code workflow including hooks, mcp and sub agents
@@ -6587,7 +6587,6 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [maccman/ai-monorepo-scaffold](https://github.com/maccman/ai-monorepo-scaffold) - A scaffold demonstrating how to use a turbo, mono repo, trpc, better auth, react, postgres and cursor ai rules.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [RamiAwar/dataline](https://github.com/RamiAwar/dataline) - Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
 - [henryhawke/mcp-titan](https://github.com/henryhawke/mcp-titan) - This tool is a cutting-edge memory engine that blends real-time learning, persistent three-tier context awareness, and seamless plug-n-play LLM integration to continuously evolve and enrich your AI’
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
@@ -7617,6 +7616,7 @@
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
@@ -7721,7 +7721,7 @@
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
