@@ -916,6 +916,7 @@
 - [buildbarn/bb-storage](https://github.com/buildbarn/bb-storage) - Storage daemon, capable of storing data for the Remote Execution protocol
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
+- [teslamotors/vehicle-command](https://github.com/teslamotors/vehicle-command) - 
 - [bazel-contrib/rules_go](https://github.com/bazel-contrib/rules_go) - Go rules for Bazel
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.
 - [cristalhq/builq](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
@@ -1105,7 +1106,7 @@
 - [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecos
 - [suborbital/sat](https://github.com/suborbital/sat) - Tiny & fast WebAssembly edge compute server
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -1551,7 +1552,6 @@
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
@@ -1621,6 +1621,7 @@
 
 ## JavaScript 
 
+- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [ognistik/alfred-superwhisper](https://github.com/ognistik/alfred-superwhisper) - Use Alfred to Control Superwhisper - AI Powered Voice to Text
 - [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) - A light-weight torrent media center at one place.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
@@ -5220,14 +5221,14 @@
 - [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - Open-source framework for holistic, structured repository-level documentation across multilingual codebases
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
-- [GibsonAI/Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+- [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 - [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Constrain, log and scan your MCP connections for security vulnerabilities.
 - [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) - autonomous ai agents for trading in python
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise 
 - [Whoaa512/claude-skills](https://github.com/Whoaa512/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
-- [EveryInc/compounding-engineering-plugin](https://github.com/EveryInc/compounding-engineering-plugin) - Official Claude Code compounding engineering plugin
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
 - [GeneralUserModels/demos](https://github.com/GeneralUserModels/demos) - 
@@ -5535,6 +5536,7 @@
 - [timonweb/pytailwindcss](https://github.com/timonweb/pytailwindcss) - ✨ Skip Node.js — use Tailwind CSS installed directly via PyPI. 🐍💨
 - [Firenza/ExportImportSlackEmoji](https://github.com/Firenza/ExportImportSlackEmoji) - A python script to export emoji from one slack org and import them into another
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
+- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
 - [TheDen/btc-heist](https://github.com/TheDen/btc-heist) - Generate bitcoin public and private keys and check if they match a filelist of existing addresses that have a nonzero balance
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [NCSC-NL/log4shell](https://github.com/NCSC-NL/log4shell) - Operational information regarding the log4shell vulnerabilities in the Log4j logging library.
@@ -6541,7 +6543,7 @@
 - [zixun/GodEye](https://github.com/zixun/GodEye) - Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
 - [wulkano/Aperture](https://github.com/wulkano/Aperture) - Record the screen on macOS
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
 - [sindresorhus/dark-mode](https://github.com/sindresorhus/dark-mode) - Control the macOS dark mode from the command-line
 - [mileswd/mac2imgur](https://github.com/mileswd/mac2imgur) - ⬆ A simple Mac app designed to make uploading images and screenshots to Imgur quick and effortless.
@@ -6554,6 +6556,7 @@
 
 ## TypeScript 
 
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
 - [sloansparger/bear](https://github.com/sloansparger/bear) - Unofficial CLI for the Bear notes app (MacOS only)
 - [ktnyt/cclsp](https://github.com/ktnyt/cclsp) - Claude Code LSP: enhance your Claude Code experience with non-IDE dependent LSP integration.
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe 🐈‍⬛🔒
@@ -6667,6 +6670,7 @@
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [penxio/penx](https://github.com/penxio/penx) - AI Powered Personal Data Hub
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
@@ -6938,6 +6942,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 - [graphql-hive/SOFA](https://github.com/graphql-hive/SOFA) - The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
 - [sdelements/flan](https://github.com/sdelements/flan) - A tasty tool that lets you save, load and share postgres snapshots with ease
@@ -7758,7 +7763,6 @@
 - [itamarom/notepadjs](https://github.com/itamarom/notepadjs) - This is a simple app that imitates Windows Notepad. Installable as a PWA.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
