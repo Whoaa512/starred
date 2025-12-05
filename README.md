@@ -4757,6 +4757,7 @@
 
 ## Others 
 
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [mackid1993/superwhisper-dictation-prompts](https://github.com/mackid1993/superwhisper-dictation-prompts) - 
 - [superultrainc/superwhisper-download](https://github.com/superultrainc/superwhisper-download) - Superwhisper is an AI voice-to-text tool for quick and accurate transcription. Download free now.
 - [simonw/claude-skills](https://github.com/simonw/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
@@ -5263,7 +5264,7 @@
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9
 - [Kuberwastaken/meow](https://github.com/Kuberwastaken/meow) - The most Purr-fect Image File Format for your AI workflows
-- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+- [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [CNCKitchen/ConicalSlicer](https://github.com/CNCKitchen/ConicalSlicer) - Python Scripts for Conical GCode Slicing
 - [RotBotSlicer/Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
 - [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context
@@ -6505,6 +6506,7 @@
 
 ## Swift 
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex.
 - [ognistik/macrowhisper](https://github.com/ognistik/macrowhisper) - Automation Helper for Superwhisper
 - [indragiek/Context](https://github.com/indragiek/Context) - Native macOS client for Model Context Protocol (MCP)
 - [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
