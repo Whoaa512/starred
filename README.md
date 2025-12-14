@@ -793,6 +793,9 @@
 
 ## Go 
 
+- [steipete/wacli](https://github.com/steipete/wacli) - WhatsApp CLI
+- [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
+- [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 - [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [cybertec-postgresql/pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - pg_timetable: Advanced scheduling for PostgreSQL
@@ -1633,6 +1636,7 @@
 
 ## JavaScript 
 
+- [steipete/clawdis](https://github.com/steipete/clawdis) - Invoke actions on your machine when you get a WhatsApp message and send replies! Uses Twilio and TailScale. Great for connecting Claude Code with WhatsApp.
 - [AnswerDotAI/clipmd](https://github.com/AnswerDotAI/clipmd) - Convert clipboard from HTML to MD
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [ognistik/alfred-superwhisper](https://github.com/ognistik/alfred-superwhisper) - Use Alfred to Control Superwhisper - AI Powered Voice to Text
@@ -6523,6 +6527,10 @@
 
 ## Swift 
 
+- [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
+- [steipete/Tachikoma](https://github.com/steipete/Tachikoma) - One interface, every AI model. A Swift SDK to interface with AI providers.
+- [steipete/AXorcist](https://github.com/steipete/AXorcist) - AXorcist • Swift wrapper for macOS Accessibility—chainable, fuzzy-matched queries that read, click, and inspect any UI. The power of Swift compels your UI to obey!
+- [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex.
 - [ognistik/macrowhisper](https://github.com/ognistik/macrowhisper) - Automation Helper for Superwhisper
 - [indragiek/Context](https://github.com/indragiek/Context) - Native macOS client for Model Context Protocol (MCP)
@@ -6577,6 +6585,10 @@
 
 ## TypeScript 
 
+- [steipete/bird](https://github.com/steipete/bird) - Bird is a cli for twitter, so your agents can tweet.
+- [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
+- [steipete/clawd.me](https://github.com/steipete/clawd.me) - This is Clawd's🦞 website - the AI Assistant of @steipete
+- [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
 - [akinloluwami/outray](https://github.com/akinloluwami/outray) - OpenSource ngrok alternative.
 - [badlogic/gccli](https://github.com/badlogic/gccli) - Minimal Google Calendar CLI
