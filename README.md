@@ -1365,6 +1365,7 @@
 
 ## HTML 
 
+- [reriiasu/speech-to-text](https://github.com/reriiasu/speech-to-text) - Real-time transcription using faster-whisper
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [ExcessiveMotion/controller-hardware](https://github.com/ExcessiveMotion/controller-hardware) - 
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
@@ -1637,6 +1638,7 @@
 
 ## JavaScript 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [steipete/clawdis](https://github.com/steipete/clawdis) - Invoke actions on your machine when you get a WhatsApp message and send replies! Uses Twilio and TailScale. Great for connecting Claude Code with WhatsApp.
 - [AnswerDotAI/clipmd](https://github.com/AnswerDotAI/clipmd) - Convert clipboard from HTML to MD
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -2548,7 +2550,6 @@
 - [kozhevnikov/proxymise](https://github.com/kozhevnikov/proxymise) - Chainable Promise Proxy
 - [doowb/ansi-colors](https://github.com/doowb/ansi-colors) - Easily add ANSI colors to your text and symbols in the terminal. ansi-colors is the official ansi styling library for gulp. Used by hundreds of projects, including enquirer, vscode, codeql, azure data
 - [lukeed/kleur](https://github.com/lukeed/kleur) - The fastest Node.js library for formatting terminal text with ANSI colors~!
-- [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Real-time attack monitoring in a lightweight, Rust-powered package.
 - [noflo/noflo](https://github.com/noflo/noflo) - Flow-based programming for JavaScript
 - [kentcdodds/shallow-to-mock](https://github.com/kentcdodds/shallow-to-mock) - 
 - [hongru/canvas2image](https://github.com/hongru/canvas2image) - a tool for saving or converting canvas as img
@@ -3568,6 +3569,7 @@
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [wellsjo/JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI app for editing, visualizing, and manipulating JSON data
 - [erikras/redux-form-material-ui](https://github.com/erikras/redux-form-material-ui) - A set of wrapper components to facilitate using Material UI with Redux Form
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [weixu365/serverless-scriptable-plugin](https://github.com/weixu365/serverless-scriptable-plugin) - Adding script support to Serverless 1.x which enables you to customize Serverless behavior without writing a plugin.
 - [dvajs/dva](https://github.com/dvajs/dva) - 🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -4486,7 +4488,6 @@
 - [borismus/keysocket](https://github.com/borismus/keysocket) - 
 - [petethepig/devtools-terminal](https://github.com/petethepig/devtools-terminal) - Terminal in Chrome Devtools
 - [HuddleEng/PhantomFlow](https://github.com/HuddleEng/PhantomFlow) - Describe and visualise user flows through tests with PhantomJS
-- [docusign/docusign.github.io](https://github.com/docusign/docusign.github.io) - Docusign Examples. See the DevCenter for more examples.
 - [FGRibreau/Growl-Chrome-Notification](https://github.com/FGRibreau/Growl-Chrome-Notification) - Notifications Growl pour Google Chrome :: Proof of concept :: HTML5 Web Notification API + WebSocket + NodeJS
 - [jimhigson/oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [krasimir/absurd](https://github.com/krasimir/absurd) - A JavaScript library with superpowers
@@ -4938,7 +4939,6 @@
 - [guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) - Growing the code out of your notebooks - the right way.
 - [soumith/ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
 - [portabletext/portabletext](https://github.com/portabletext/portabletext) - Portable Text is a JSON based rich text specification for modern content editing platforms.
-- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [bytecodealliance/cranelift](https://github.com/bytecodealliance/cranelift) - Cranelift code generator
 - [niieani/typescript-vs-flowtype](https://github.com/niieani/typescript-vs-flowtype) - Differences between Flowtype and TypeScript -- syntax and usability
 - [dabit3/awesome-aws-appsync](https://github.com/dabit3/awesome-aws-appsync) - Curated list of AWS AppSync Resources
@@ -5235,6 +5235,8 @@
 
 ## Python 
 
+- [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [VonKleistL/OptiMac](https://github.com/VonKleistL/OptiMac) - OptiMac is a comprehensive, user-friendly macOS optimization suite that brings powerful system tweaks and performance enhancements to your M-Series Mac through an intuitive graphical interface. No mor
 - [Sean-V-Dev/HMLR-Agentic-AI-Memory-System](https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System) - Living memory for AI
 - [FSoft-AI4Code/CodeWiki](https://github.com/FSoft-AI4Code/CodeWiki) - Open-source framework for holistic, structured repository-level documentation across multilingual codebases
@@ -6026,7 +6028,7 @@
 - [withered-magic/starpls](https://github.com/withered-magic/starpls) - An LSP implementation for Starlark, the configuration language used by Bazel and Buck2.
 - [farshed/sage](https://github.com/farshed/sage) - Self-hosted voice chat with LLMs
 - [emilk/eon](https://github.com/emilk/eon) - A simple and friendly config format
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
 - [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -6158,7 +6160,7 @@
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [hermit-os/hermit-rs](https://github.com/hermit-os/hermit-rs) - Hermit for Rust.
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [hansonkd/puff](https://github.com/hansonkd/puff) - ☁ Puff ☁ - The deep stack framework.
 - [wishawa/async_ui](https://github.com/wishawa/async_ui) - Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
@@ -6291,6 +6293,7 @@
 - [drager/wasm-pack](https://github.com/drager/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [Shmakov/Honeypot](https://github.com/Shmakov/Honeypot) - Real-time attack monitoring in a lightweight, Rust-powered package.
 - [cswinter/LocustDB](https://github.com/cswinter/LocustDB) - Blazingly fast analytics database that will rapidly devour all of your data.
 - [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -6532,7 +6535,7 @@
 - [steipete/Tachikoma](https://github.com/steipete/Tachikoma) - One interface, every AI model. A Swift SDK to interface with AI providers.
 - [steipete/AXorcist](https://github.com/steipete/AXorcist) - AXorcist • Swift wrapper for macOS Accessibility—chainable, fuzzy-matched queries that read, click, and inspect any UI. The power of Swift compels your UI to obey!
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex.
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [ognistik/macrowhisper](https://github.com/ognistik/macrowhisper) - Automation Helper for Superwhisper
 - [indragiek/Context](https://github.com/indragiek/Context) - Native macOS client for Model Context Protocol (MCP)
 - [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
@@ -6586,6 +6589,9 @@
 
 ## TypeScript 
 
+- [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
+- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The B
 - [steipete/bird](https://github.com/steipete/bird) - Bird is a cli for twitter, so your agents can tweet.
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
 - [steipete/clawd.me](https://github.com/steipete/clawd.me) - This is Clawd's🦞 website - the AI Assistant of @steipete
@@ -7299,6 +7305,7 @@
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [Wenzil/Mhysa](https://github.com/Wenzil/Mhysa) - Dependency-free stream utils for Node.js
 - [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
+- [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
 - [fel1xw/react-pusher-hoc](https://github.com/fel1xw/react-pusher-hoc) - Handle websocket events (pusher.com) in React, without the tears 😭.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
@@ -7670,7 +7677,6 @@
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
