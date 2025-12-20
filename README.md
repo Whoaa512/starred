@@ -155,6 +155,7 @@
 
 ## C 
 
+- [timescale/pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 - [mgba-emu/mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 - [ExcessiveMotion/drive-software](https://github.com/ExcessiveMotion/drive-software) - 
 - [spotify/sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
@@ -296,7 +297,7 @@
 - [peterhaneve/ONIMods](https://github.com/peterhaneve/ONIMods) - Peter Han's mods for Oxygen Not Included
 - [Mayall0513/oni-mods](https://github.com/Mayall0513/oni-mods) - 
 - [Pt-Djefferson/ONIMods](https://github.com/Pt-Djefferson/ONIMods) - 
-- [microsoft/ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
+- [ClearFoundry/ClearScript](https://github.com/ClearFoundry/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
 - [CCob/ThreadlessInject](https://github.com/CCob/ThreadlessInject) - Threadless Process Injection using remote function hooking.
 - [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic
@@ -1201,7 +1202,7 @@
 - [golang/example](https://github.com/golang/example) - Go example projects
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge) - Kafka-style message streaming in Go. Built on NATS. Single binary,  no JVM, no ZooKeeper.
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -6537,7 +6538,7 @@
 - [steipete/Tachikoma](https://github.com/steipete/Tachikoma) - One interface, every AI model. A Swift SDK to interface with AI providers.
 - [steipete/AXorcist](https://github.com/steipete/AXorcist) - AXorcist • Swift wrapper for macOS Accessibility—chainable, fuzzy-matched queries that read, click, and inspect any UI. The power of Swift compels your UI to obey!
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
-- [steipete/clawdis](https://github.com/steipete/clawdis) - Invoke actions on your machine when you get a WhatsApp message and send replies! Uses Twilio and TailScale. Great for connecting Claude Code with WhatsApp.
+- [steipete/clawdis](https://github.com/steipete/clawdis) - Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
 - [VonKleistL/OptiMac](https://github.com/VonKleistL/OptiMac) - OptiMac is a comprehensive, user-friendly macOS optimization suite that brings powerful system tweaks and performance enhancements to your M-Series Mac through an intuitive graphical interface. No mor
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [ognistik/macrowhisper](https://github.com/ognistik/macrowhisper) - Automation Helper for Superwhisper
