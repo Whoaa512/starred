@@ -1212,6 +1212,7 @@
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls) - Fetch all the URLs that the Wayback Machine knows about for a domain
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [griesemer/tryhard](https://github.com/griesemer/tryhard) - tryhard finds and rewrites code suitable for try.
 - [journeymidnight/yig](https://github.com/journeymidnight/yig) - An open source object storage server with Amazon S3 compatible API
 - [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
@@ -4735,7 +4736,6 @@
 
 ## Objective-C 
 
-- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [AppPolice/AppPolice](https://github.com/AppPolice/AppPolice) - MacOS app for quickly limiting CPU usage by running applications
 - [robaho/seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
@@ -6435,7 +6435,6 @@
 - [good-parts/aws-bootstrap](https://github.com/good-parts/aws-bootstrap) - A template for setting up an AWS environment from scratch.
 - [pawelduda/fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [donavon/hook-flow](https://github.com/donavon/hook-flow) - A flowchart that explains the new lifecycle of a Hooks component. https://dwe.st/hf
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
@@ -6542,6 +6541,7 @@
 - [VonKleistL/OptiMac](https://github.com/VonKleistL/OptiMac) - OptiMac is a comprehensive, user-friendly macOS optimization suite that brings powerful system tweaks and performance enhancements to your M-Series Mac through an intuitive graphical interface. No mor
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [ognistik/macrowhisper](https://github.com/ognistik/macrowhisper) - Automation Helper for Superwhisper
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [indragiek/Context](https://github.com/indragiek/Context) - Native macOS client for Model Context Protocol (MCP)
 - [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [dwarvesf/micro-sniff](https://github.com/dwarvesf/micro-sniff) - An ultra-light macOS utility that notify whenever your micro-device is being used
@@ -6594,6 +6594,7 @@
 
 ## TypeScript 
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [remorses/kimaki](https://github.com/remorses/kimaki) - Control opencode agents inside Discord. Each opencode project is a Discord channel. Start sessions creating threads. Supports voice channels.
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
@@ -6612,7 +6613,7 @@
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using PGlite + pgvector
+- [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -7002,6 +7003,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 - [graphql-hive/SOFA](https://github.com/graphql-hive/SOFA) - The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
 - [sdelements/flan](https://github.com/sdelements/flan) - A tasty tool that lets you save, load and share postgres snapshots with ease
@@ -7823,7 +7825,6 @@
 - [itamarom/notepadjs](https://github.com/itamarom/notepadjs) - This is a simple app that imitates Windows Notepad. Installable as a PWA.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
