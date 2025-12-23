@@ -1276,6 +1276,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
@@ -5396,6 +5397,7 @@
 - [innovatorved/whisper.api](https://github.com/innovatorved/whisper.api) - This project provides an API with user level access support to transcribe speech to text using a finetuned and processed Whisper ASR model.
 - [roboflow/inference](https://github.com/roboflow/inference) - Turn any computer or edge device into a command center for your computer vision projects.
 - [CStanKonrad/long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 - [youquanl/Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - [NeurIPS'23 Spotlight] Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
@@ -5783,7 +5785,6 @@
 - [SublimeLinter/SublimeLinter-eslint](https://github.com/SublimeLinter/SublimeLinter-eslint) - This linter plugin for SublimeLinter provides an interface to ESLint
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [jonlabelle/SublimeJsPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.
 - [jakob/Postico](https://github.com/jakob/Postico) - Public issue tracking for Postico
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
@@ -6051,7 +6052,7 @@
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it!
 - [godzie44/BugStalker](https://github.com/godzie44/BugStalker) - Rust debugger for Linux x86-64
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [attunehq/attune](https://github.com/attunehq/attune) - Faster builds, zero effort.
+- [attunehq/attune](https://github.com/attunehq/attune) - Fast and secure Linux package publishing.
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
@@ -6537,7 +6538,6 @@
 - [steipete/Tachikoma](https://github.com/steipete/Tachikoma) - One interface, every AI model. A Swift SDK to interface with AI providers.
 - [steipete/AXorcist](https://github.com/steipete/AXorcist) - AXorcist • Swift wrapper for macOS Accessibility—chainable, fuzzy-matched queries that read, click, and inspect any UI. The power of Swift compels your UI to obey!
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
-- [steipete/clawdis](https://github.com/steipete/clawdis) - Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
 - [VonKleistL/OptiMac](https://github.com/VonKleistL/OptiMac) - OptiMac is a comprehensive, user-friendly macOS optimization suite that brings powerful system tweaks and performance enhancements to your M-Series Mac through an intuitive graphical interface. No mor
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [ognistik/macrowhisper](https://github.com/ognistik/macrowhisper) - Automation Helper for Superwhisper
@@ -6594,6 +6594,7 @@
 
 ## TypeScript 
 
+- [jlongster/tigma](https://github.com/jlongster/tigma) - 
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [remorses/kimaki](https://github.com/remorses/kimaki) - Control opencode agents inside Discord. Each opencode project is a Discord channel. Start sessions creating threads. Supports voice channels.
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
@@ -6603,6 +6604,7 @@
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
 - [steipete/clawd.me](https://github.com/steipete/clawd.me) - This is Clawd's🦞 website - the AI Assistant of @steipete
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
+- [steipete/clawdis](https://github.com/steipete/clawdis) - Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
 - [akinloluwami/outray](https://github.com/akinloluwami/outray) - OpenSource ngrok alternative.
 - [badlogic/gccli](https://github.com/badlogic/gccli) - Minimal Google Calendar CLI
@@ -6750,7 +6752,6 @@
 - [dlight-js/dlight](https://github.com/dlight-js/dlight) - DX-first UI Rendering Library
 - [revant-io/cdk-cost-limit](https://github.com/revant-io/cdk-cost-limit) - A Collection of CDK Constructs to Deploy Cost-Aware Self-Limiting Resources
 - [lesgrieve/paste-indent](https://github.com/lesgrieve/paste-indent) - Visual Studio Code Extension meant to recreate the paste_and_indent feature from Sublime Text 3.
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [fixie-ai/ai-jsx](https://github.com/fixie-ai/ai-jsx) - The AI Application Framework for Javascript
 - [ONEARMY/community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems
 - [hwgilbert16/scholarsome](https://github.com/hwgilbert16/scholarsome) - Web-based interactive flashcard learning software
@@ -7003,7 +7004,6 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 - [graphql-hive/SOFA](https://github.com/graphql-hive/SOFA) - The best way to create REST APIs - Generate RESTful APIs from your GraphQL Server
 - [sdelements/flan](https://github.com/sdelements/flan) - A tasty tool that lets you save, load and share postgres snapshots with ease
@@ -7825,6 +7825,7 @@
 - [itamarom/notepadjs](https://github.com/itamarom/notepadjs) - This is a simple app that imitates Windows Notepad. Installable as a PWA.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
