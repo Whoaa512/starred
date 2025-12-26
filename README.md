@@ -795,6 +795,7 @@
 
 ## Go 
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [steipete/blucli](https://github.com/steipete/blucli) - Go-based cli for blueOS
 - [steipete/wacli](https://github.com/steipete/wacli) - WhatsApp CLI
 - [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
@@ -4550,7 +4551,7 @@
 ## Jupyter Notebook 
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
-- [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation.
+- [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [BauplanLabs/examples](https://github.com/BauplanLabs/examples) - reference implementations and use cases done with bauplan
 - [babycommando/neuralgraffiti](https://github.com/babycommando/neuralgraffiti) - Live-bending a foundation model’s output at neural network level.
@@ -5238,6 +5239,7 @@
 
 ## Python 
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [QuixiAI/agi-memory](https://github.com/QuixiAI/agi-memory) - 
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Works Like Human Memory
 - [apple/ml-sharp](https://github.com/apple/ml-sharp) - Sharp Monocular View Synthesis in Less Than a Second
@@ -6013,6 +6015,7 @@
 
 ## Rust 
 
+- [alextes/braid](https://github.com/alextes/braid) - CLI tool to track issues for agents to work on
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL manager TUI
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -6366,6 +6369,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [alexfazio/cc-trace](https://github.com/alexfazio/cc-trace) - Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
@@ -6597,7 +6601,6 @@
 ## TypeScript 
 
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
-- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [remorses/kimaki](https://github.com/remorses/kimaki) - Control opencode agents inside Discord. Each opencode project is a Discord channel. Start sessions creating threads. Supports voice channels.
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
