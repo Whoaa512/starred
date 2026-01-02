@@ -1576,6 +1576,7 @@
 
 ## Java 
 
+- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [Hafthor/zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting json to/from zip-separated-values
 - [tcplugins/tcWebHooks](https://github.com/tcplugins/tcWebHooks) - WebHooks plugin for Teamcity. Supports many build states and payload formats.
@@ -4556,6 +4557,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research/camel-prompt-injection](https://github.com/google-research/camel-prompt-injection) - Code for the paper "Defeating Prompt Injections by Design"
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
@@ -5245,6 +5247,9 @@
 
 ## Python 
 
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI) - A python wrapper for the public & private Spotify API
+- [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - HY-Motion model for 3D character animation generation.
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [ekwek1/soprano](https://github.com/ekwek1/soprano) - Soprano: Instant, Ultra-Realistic Text-to-Speech
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
@@ -6024,6 +6029,7 @@
 
 ## Rust 
 
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [alextes/braid](https://github.com/alextes/braid) - CLI tool to track issues for agents to work on
 - [fcoury/tsql](https://github.com/fcoury/tsql) - 🐘 tsql — A modern PostgreSQL manager TUI
 - [just-every/code](https://github.com/just-every/code) - Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemi
@@ -6550,13 +6556,13 @@
 
 ## Swift 
 
+- [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
 - [steipete/Commander](https://github.com/steipete/Commander) - A Swifty take on Commander.js and alternative to Swift's ArgumentParser.
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [steipete/Trimmy](https://github.com/steipete/Trimmy) - "Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run.
 - [steipete/Tachikoma](https://github.com/steipete/Tachikoma) - One interface, every AI model. A Swift SDK to interface with AI providers.
 - [steipete/AXorcist](https://github.com/steipete/AXorcist) - AXorcist • Swift wrapper for macOS Accessibility—chainable, fuzzy-matched queries that read, click, and inspect any UI. The power of Swift compels your UI to obey!
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
-- [steipete/clawdis](https://github.com/steipete/clawdis) - Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
 - [VonKleistL/OptiMac](https://github.com/VonKleistL/OptiMac) - OptiMac is a comprehensive, user-friendly macOS optimization suite that brings powerful system tweaks and performance enhancements to your M-Series Mac through an intuitive graphical interface. No mor
 - [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
@@ -6614,6 +6620,8 @@
 
 ## TypeScript 
 
+- [mohsen1/mafia-arena](https://github.com/mohsen1/mafia-arena) - Mafia Arena evaluates Large Language Models' social reasoning through the classic deduction game Mafia (Werewolf). Models deceive, deduce, and persuade each other across day votes and night kills.
+- [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [steipete/sweet-cookie](https://github.com/steipete/sweet-cookie) - Extract cookies out of your browser. TypeScript. Any OS.
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
@@ -6628,6 +6636,7 @@
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
 - [steipete/clawd.me](https://github.com/steipete/clawd.me) - This is Clawd's🦞 website - the AI Assistant of @steipete
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
+- [steipete/clawdis](https://github.com/steipete/clawdis) - Your own personal AI assistant. Talk via WhatsApp, Telegram or Web.
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
 - [akinloluwami/outray](https://github.com/akinloluwami/outray) - OpenSource ngrok alternative.
 - [badlogic/gccli](https://github.com/badlogic/gccli) - Minimal Google Calendar CLI
@@ -7869,6 +7878,7 @@
 
 ## Zig 
 
+- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [dpwm/zig-capnp](https://github.com/dpwm/zig-capnp) - Yet another capnproto code generator for zig
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
