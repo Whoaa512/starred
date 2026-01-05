@@ -230,6 +230,11 @@ func main() {
 
 	http.HandleFunc("/", srv.handleIndex)
 	http.HandleFunc("/search", srv.handleSearch)
+	http.HandleFunc("/favicon.ico", func(w http.ResponseWriter, r *http.Request) {
+		data, _ := templatesFS.ReadFile("templates/favicon.ico")
+		w.Header().Set("Content-Type", "image/x-icon")
+		w.Write(data)
+	})
 
 	log.Printf("Listening on %s", *addr)
 	log.Fatal(http.ListenAndServe(*addr, nil))
