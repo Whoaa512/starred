@@ -8,12 +8,23 @@ jobs:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
     - name: Set up Golang
-      uses: actions/setup-go@v2
+      uses: actions/setup-go@v5
       with:
-        go-version: 1.23
-    - name: update repo
+        go-version: '1.23'
+    - name: Generate JSON data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: go run main.go --username whoaa512 --token ${GITHUB_TOKEN} --json -o data/stars.json
+    - name: Update README via API
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       run: go run main.go --username whoaa512 --repository starred --sort --token ${GITHUB_TOKEN} --message 'update stars by github actions cron'
+    - name: Commit JSON data
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add data/stars.json
+        git diff --staged --quiet || git commit -m "update stars data"
+        git push
