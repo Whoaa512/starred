@@ -3,6 +3,7 @@ package main
 import (
 	"bytes"
 	"context"
+	"encoding/json"
 	"fmt"
 	"io"
 	"os"
@@ -26,13 +27,18 @@ const (
 
 // Repository represents a GitHub repository
 type Repository struct {
-	Name           string
-	Description    string
-	Language       string
-	URL            string
-	StargazerCount int
-	IsPrivate      bool
-	Topics         []string
+	NameWithOwner  string    `json:"name_with_owner"`
+	Name           string    `json:"name"`
+	Description    string    `json:"description"`
+	Language       string    `json:"language"`
+	URL            string    `json:"url"`
+	StargazerCount int       `json:"stargazer_count"`
+	ForkCount      int       `json:"fork_count"`
+	PushedAt       time.Time `json:"pushed_at"`
+	UpdatedAt      time.Time `json:"updated_at"`
+	StarredAt      time.Time `json:"starred_at"`
+	IsPrivate      bool      `json:"is_private"`
+	Topics         []string  `json:"topics"`
 }
 
 var descTemplate = `<!--lint disable awesome-contributing awesome-license awesome-list-item match-punctuation no-repeat-punctuation no-undefined-references awesome-spell-check-->
@@ -182,11 +188,16 @@ type RepoNode struct {
 	} `graphql:"repositoryTopics(first: 100)"`
 }
 
+type StarredEdge struct {
+	StarredAt time.Time
+	Node      RepoNode
+}
+
 type StarredReposQuery struct {
 	User struct {
 		StarredRepositories struct {
 			TotalCount int
-			Nodes      []RepoNode
+			Edges      []StarredEdge
 			PageInfo   PageInfo
 		} `graphql:"starredRepositories(first: $first, after: $after, orderBy: {direction: DESC, field: STARRED_AT})"`
 	} `graphql:"user(login: $username)"`
@@ -210,7 +221,8 @@ func (g *GitHubClient) GetStarredRepositories(
 	}
 
 	var repos []Repository
-	for _, node := range query.User.StarredRepositories.Nodes {
+	for _, edge := range query.User.StarredRepositories.Edges {
+		node := edge.Node
 		var language string
 		if len(node.Languages.Edges) > 0 {
 			language = node.Languages.Edges[0].Node.Name
@@ -224,11 +236,16 @@ func (g *GitHubClient) GetStarredRepositories(
 		}
 
 		repos = append(repos, Repository{
-			Name:           node.NameWithOwner,
+			NameWithOwner:  node.NameWithOwner,
+			Name:           node.Name,
 			Description:    node.Description,
 			Language:       language,
 			URL:            node.URL,
 			StargazerCount: node.StargazerCount,
+			ForkCount:      node.ForkCount,
+			PushedAt:       node.PushedAt,
+			UpdatedAt:      node.UpdatedAt,
+			StarredAt:      edge.StarredAt,
 			IsPrivate:      node.IsPrivate,
 			Topics:         topics,
 		})
@@ -374,7 +391,7 @@ func generateREADME(
 			for _, category := range topics {
 				repoDict[category] = append(
 					repoDict[category],
-					[]string{star.Name, star.URL, description},
+					[]string{star.NameWithOwner, star.URL, description},
 				)
 			}
 		} else {
@@ -383,7 +400,7 @@ func generateREADME(
 				category = DEFAULT_CATEGORY
 			}
 
-			repoDict[category] = append(repoDict[category], []string{star.Name, star.URL, description})
+			repoDict[category] = append(repoDict[category], []string{star.NameWithOwner, star.URL, description})
 		}
 	}
 
@@ -478,6 +495,15 @@ func main() {
 				Aliases: []string{"p"},
 				Usage:   "include private repos",
 			},
+			&cli.BoolFlag{
+				Name:  "json",
+				Usage: "output JSON instead of markdown",
+			},
+			&cli.StringFlag{
+				Name:    "output",
+				Aliases: []string{"o"},
+				Usage:   "output file path (default: stdout)",
+			},
 		},
 		Action: func(c *cli.Context) error {
 			username := c.String("username")
@@ -489,6 +515,8 @@ func main() {
 			message := c.String("message")
 			includePrivate := c.Bool("private")
 			topicLimit := c.Int("topic_limit")
+			outputJSON := c.Bool("json")
+			outputFile := c.String("output")
 
 			client := NewGitHubClient(token)
 			stars, err := client.GetAllStarredRepositories(username, topicLimit)
@@ -497,12 +525,40 @@ func main() {
 				return err
 			}
 
+			// Filter private repos if needed
+			if !includePrivate {
+				filtered := make([]Repository, 0, len(stars))
+				for _, s := range stars {
+					if !s.IsPrivate {
+						filtered = append(filtered, s)
+					}
+				}
+				stars = filtered
+			}
+
+			// JSON output mode
+			if outputJSON {
+				jsonData, err := json.MarshalIndent(stars, "", "  ")
+				if err != nil {
+					return fmt.Errorf("error marshaling JSON: %w", err)
+				}
+				if outputFile != "" {
+					if err := os.WriteFile(outputFile, jsonData, 0644); err != nil {
+						return fmt.Errorf("error writing file: %w", err)
+					}
+					fmt.Printf("Wrote %d repos to %s\n", len(stars), outputFile)
+				} else {
+					fmt.Println(string(jsonData))
+				}
+				return nil
+			}
+
 			readme, err := generateREADME(
 				username,
 				stars,
 				doSort,
 				useTopic,
-				includePrivate,
+				true, // already filtered above
 			)
 			if err != nil {
 				fmt.Printf("Error generating README: %s\n", err)
