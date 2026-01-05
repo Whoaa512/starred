@@ -536,7 +536,7 @@ func main() {
 				stars = filtered
 			}
 
-			// JSON output mode
+			// JSON output mode - write to file if specified, otherwise print and exit
 			if outputJSON {
 				jsonData, err := json.MarshalIndent(stars, "", "  ")
 				if err != nil {
@@ -547,10 +547,12 @@ func main() {
 						return fmt.Errorf("error writing file: %w", err)
 					}
 					fmt.Printf("Wrote %d repos to %s\n", len(stars), outputFile)
+					// Continue to README generation if repository is specified
 				} else {
+					// No file specified, print to stdout and exit
 					fmt.Println(string(jsonData))
+					return nil
 				}
-				return nil
 			}
 
 			readme, err := generateREADME(
