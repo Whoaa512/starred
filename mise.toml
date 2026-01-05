@@ -1,3 +1,10 @@
 [tasks.runs]
 description = "Show recent GitHub Actions runs"
 run = "gh run list --limit 10"
+
+[tasks.viewer]
+description = "Run stars viewer and open browser"
+run = """
+(sleep 1 && open http://localhost:5746) &
+go run ./cmd/viewer -addr :5746
+"""
