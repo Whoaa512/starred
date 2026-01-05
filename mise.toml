@@ -1,0 +1,3 @@
+[tasks.runs]
+description = "Show recent GitHub Actions runs"
+run = "gh run list --limit 10"
