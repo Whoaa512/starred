@@ -1,0 +1,31 @@
+{{define "results.html"}}
+<div class="count">{{.TotalCount}} repositories</div>
+{{if eq (len .Repos) 0}}
+<div class="empty">No repositories found</div>
+{{else}}
+{{range .Repos}}
+<div class="repo">
+    <div class="repo-header">
+        <a href="{{.URL}}" target="_blank" class="repo-name">{{.NameWithOwner}}</a>
+    </div>
+    {{if .Description}}
+    <div class="repo-desc">{{.Description}}</div>
+    {{end}}
+    <div class="repo-meta">
+        {{if .Language}}
+        <span><span class="lang-dot" style="background: {{langColor .Language}}"></span>{{.Language}}</span>
+        {{end}}
+        <span>⭐ {{formatNum .StargazerCount}}</span>
+        <span>🍴 {{formatNum .ForkCount}}</span>
+        <span>pushed {{timeAgo .PushedAt}}</span>
+        <span>starred {{timeAgo .StarredAt}}</span>
+    </div>
+    {{if .Topics}}
+    <div class="topics">
+        {{range .Topics}}<span class="topic">{{.}}</span>{{end}}
+    </div>
+    {{end}}
+</div>
+{{end}}
+{{end}}
+{{end}}
