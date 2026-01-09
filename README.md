@@ -802,6 +802,8 @@
 
 ## Go 
 
+- [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants
+- [Whoaa512/asana-cli](https://github.com/Whoaa512/asana-cli) - Modern Asana CLI, built with AI agents in mind
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [thash/asana](https://github.com/thash/asana) - Asana command line Client
 - [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - View your beads (Steve Yegge's task management system for coding agents) like a king.
@@ -4479,7 +4481,7 @@
 - [parallel-js/parallel.js](https://github.com/parallel-js/parallel.js) - Easy multi-core processing utilities for Node.
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [kornelski/slip](https://github.com/kornelski/slip) - Slip.js — UI library for manipulating lists via swipe and drag gestures
-- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ classic, reliable, trusted JavaScript test framework for Node.js & the browser
+- [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [glenjamin/mocha-multi](https://github.com/glenjamin/mocha-multi) - A bit of a hack to get multiple reporters working with mocha
 - [shipshapecode/tether](https://github.com/shipshapecode/tether) - A positioning engine to make overlays, tooltips and dropdowns better
@@ -5259,7 +5261,7 @@
 
 - [banteg/agents](https://github.com/banteg/agents) - my workflows for ai agents like codex and claude
 - [visionik/ouracli](https://github.com/visionik/ouracli) - CLI tool for accessing Oura Ring data
-- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Arch / Omarchy - Fast, accurate and easy system-wide dictation
+- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Arch Linux - Fast, accurate and easy system-wide dictation
 - [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI) - A python wrapper for the public & private Spotify API
 - [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - HY-Motion model for 3D character animation generation.
 - [ekwek1/soprano](https://github.com/ekwek1/soprano) - Soprano: Instant, Ultra-Realistic Text-to-Speech
@@ -6638,6 +6640,7 @@
 
 ## TypeScript 
 
+- [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
 - [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Easily run glif.app AI workflows inside your LLM: image generators, memes, selfies, and more. Glif supports all major multimedia AI models inside one app
 - [BowTiedSwan/buildflow](https://github.com/BowTiedSwan/buildflow) - Turn interesting links into working code. Browser extension + Telegram bot that sends URLs to OpenCode for automated research and implementation.
 - [chongdashu/cc-skills-nanobananapro](https://github.com/chongdashu/cc-skills-nanobananapro) - 
