@@ -3936,7 +3936,7 @@
 - [developit/dropfox](https://github.com/developit/dropfox) - 🦊 📂 A dropbox client powered by Preact, Electron and Photon
 - [shichongrui/json-schema-dynamo](https://github.com/shichongrui/json-schema-dynamo) - 
 - [tomek-he-him/isomorphic-ensure](https://github.com/tomek-he-him/isomorphic-ensure) - :last_quarter_moon: Use webpack loaders seamlessly – in node as well as in the browser.
-- [morishxt/css-specificity](https://github.com/morishxt/css-specificity) - CSS selector specificity calculator
+- [msaktype/css-specificity](https://github.com/msaktype/css-specificity) - CSS selector specificity calculator
 - [arqex/react-datetime](https://github.com/arqex/react-datetime) - A lightweight but complete datetime picker react component.
 - [yilenpan/algorithmofanalgorithm](https://github.com/yilenpan/algorithmofanalgorithm) - 
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -6255,7 +6255,7 @@
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-- [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
+- [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [jsoverson/node-to-rust](https://github.com/jsoverson/node-to-rust) - 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
@@ -6581,6 +6581,7 @@
 
 ## Swift 
 
+- [cpisciotta/xcbeautify](https://github.com/cpisciotta/xcbeautify) - A little beautifier tool for xcodebuild
 - [leftouterjoins/voicewrite](https://github.com/leftouterjoins/voicewrite) - Private, on-device voice-to-text for macOS. Free, open source, no subscription.
 - [ZekeSnider/Jared](https://github.com/ZekeSnider/Jared) - An easily extensible chat bot for iMessage written in Swift.
 - [steipete/Commander](https://github.com/steipete/Commander) - A Swifty take on Commander.js and alternative to Swift's ArgumentParser.
@@ -6646,6 +6647,9 @@
 
 ## TypeScript 
 
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
+- [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
+- [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
 - [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Easily run glif.app AI workflows inside your LLM: image generators, memes, selfies, and more. Glif supports all major multimedia AI models inside one app
 - [BowTiedSwan/buildflow](https://github.com/BowTiedSwan/buildflow) - Turn interesting links into working code. Browser extension + Telegram bot that sends URLs to OpenCode for automated research and implementation.
