@@ -1078,7 +1078,7 @@
 - [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [m-mizutani/zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to set environment variable by various method
@@ -5263,7 +5263,6 @@
 
 - [zscole/adversarial-spec](https://github.com/zscole/adversarial-spec) - A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.
 - [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
-- [gmickel/gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace) - Claude Code plugin marketplace: plan-first workflows, Ralph autonomous mode, Carmack-level reviews
 - [banteg/agents](https://github.com/banteg/agents) - my workflows for ai agents like codex and claude
 - [visionik/ouracli](https://github.com/visionik/ouracli) - CLI tool for accessing Oura Ring data
 - [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Linux - Fast, accurate and private system-wide dictation
@@ -6423,7 +6422,6 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [ValveSoftware/steam-runtime](https://github.com/ValveSoftware/steam-runtime) - A runtime environment for Steam applications
 - [asdf-vm/asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs) - Node.js plugin for asdf version manager
-- [Whoaa512/dotfiles](https://github.com/Whoaa512/dotfiles) - :wrench: .files, including ~/.osx — sensible hacker defaults for OS X
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [serversideup/spin](https://github.com/serversideup/spin) - 🚀 Replicate your production environment locally using Docker. Just run "spin up". It's really that easy.
@@ -6647,9 +6645,11 @@
 
 ## TypeScript 
 
+- [iannuttall/ralph](https://github.com/iannuttall/ralph) - A minimal, file‑based agent loop for autonomous coding.
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
+- [gmickel/gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace) - Claude Code plugins for reliable AI coding. Flow-Next: plan-first workflows, Ralph autonomous mode (overnight coding with fresh context), multi-model review gates via RepoPrompt/Codex, re-anchoring to
 - [T3-Content/claude-blocker](https://github.com/T3-Content/claude-blocker) - 
 - [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Easily run glif.app AI workflows inside your LLM: image generators, memes, selfies, and more. Glif supports all major multimedia AI models inside one app
 - [BowTiedSwan/buildflow](https://github.com/BowTiedSwan/buildflow) - Turn interesting links into working code. Browser extension + Telegram bot that sends URLs to OpenCode for automated research and implementation.
@@ -6681,7 +6681,7 @@
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform.
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
-- [akinloluwami/outray](https://github.com/akinloluwami/outray) - OpenSource ngrok alternative.
+- [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - OpenSource ngrok alternative.
 - [badlogic/gccli](https://github.com/badlogic/gccli) - Minimal Google Calendar CLI
 - [badlogic/gmcli](https://github.com/badlogic/gmcli) - Minimal Gmail CLI
 - [zed-industries/claude-code-acp](https://github.com/zed-industries/claude-code-acp) - Use Claude Code from any ACP client such as Zed!
@@ -6790,6 +6790,7 @@
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [bhbs/viject](https://github.com/bhbs/viject) - A tool for migrating your React app from react-scripts (Create React App) to Vite
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
+- [Whoaa512/dotfiles](https://github.com/Whoaa512/dotfiles) - :wrench: .files, including ~/.osx — sensible hacker defaults for OS X
 - [getbeak/beak](https://github.com/getbeak/beak) - A feathery cross platform API crafting tool
 - [mckravchyk/shocut](https://github.com/mckravchyk/shocut) - A fast, lightweight, multi-context and i18n friendly keyboard shortcut library for web-based renderers
 - [fwcd/vscode-kotlin](https://github.com/fwcd/vscode-kotlin) - Kotlin code completion, debugging, linting and more for VSCode
