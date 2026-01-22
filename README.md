@@ -807,6 +807,8 @@
 
 ## Go 
 
+- [golang-leipzig/gotchas](https://github.com/golang-leipzig/gotchas) - Go gotchas, surprises, puzzles.
+- [grafana/grafanactl](https://github.com/grafana/grafanactl) - The Grafana CLI. Command-line tool designed to simplify interaction with Grafana resources.
 - [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants
 - [Whoaa512/asana-cli](https://github.com/Whoaa512/asana-cli) - Modern Asana CLI, built with AI agents in mind
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -5271,6 +5273,8 @@
 
 ## Python 
 
+- [augmentedstartups/Roomey_AI_Voice_Agent](https://github.com/augmentedstartups/Roomey_AI_Voice_Agent) - Roomey is a multi-purpose Voice Agent designed to run your personal and business life.
+- [hackjutsu/vibe-stt-server](https://github.com/hackjutsu/vibe-stt-server) - Speech-to-Text transcription service backed by Whisper
 - [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec) - Utility library for gitignore style pattern matching of file paths.
 - [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) - 
 - [zscole/adversarial-spec](https://github.com/zscole/adversarial-spec) - A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.
@@ -5298,7 +5302,6 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise 
 - [Whoaa512/claude-skills](https://github.com/Whoaa512/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
 - [GeneralUserModels/demos](https://github.com/GeneralUserModels/demos) - 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -6421,6 +6424,7 @@
 
 ## Shell 
 
+- [humanplane/homunculus](https://github.com/humanplane/homunculus) - A Claude Code plugin that watches how you work, learns your patterns, and evolves itself to help you better.
 - [Dicklesworthstone/acip](https://github.com/Dicklesworthstone/acip) - The Advanced Cognitive Inoculation Prompt
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [jimmystridh/alfred-trimmy](https://github.com/jimmystridh/alfred-trimmy) - Alfred workflow for Trimmy - trim multi-line shell commands from clipboard
@@ -6660,6 +6664,9 @@
 
 ## TypeScript 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+- [cayden970207/eliza-town](https://github.com/cayden970207/eliza-town) - Enhanced version of AI Town with Map Editor
+- [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft) - It's Vibecraft!
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
@@ -6727,6 +6734,7 @@
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 - [kitze/caddy](https://github.com/kitze/caddy) - 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.
