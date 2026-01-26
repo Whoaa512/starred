@@ -2898,7 +2898,7 @@
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [google/bottery](https://github.com/google/bottery) - 
 - [TheDen/0xfee1dead.top](https://github.com/TheDen/0xfee1dead.top) - Live htop 📺
-- [sindresorhus/move-file](https://github.com/sindresorhus/move-file) - Move a file - Even works across devices
+- [sindresorhus/move-file](https://github.com/sindresorhus/move-file) - Move a file, directory, or symlink - Even works across devices
 - [google/closure-compiler-js](https://github.com/google/closure-compiler-js) - Package for the JS version of closure-compiler for use via NPM
 - [kenperlin/chalktalk](https://github.com/kenperlin/chalktalk) - 
 - [timhudson/continue-stream](https://github.com/timhudson/continue-stream) - Lazily merge multiple streams in to a single stream
@@ -5274,6 +5274,7 @@
 
 ## Python 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
 - [NHagar/substack_api](https://github.com/NHagar/substack_api) - Unofficial wrapper for Substack's API
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -6065,6 +6066,7 @@
 
 ## Rust 
 
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A Claude Code hook that blocks destructive git and filesystem commands
 - [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
@@ -6674,6 +6676,8 @@
 
 ## TypeScript 
 
+- [atalovesyou/claude-max-api-proxy](https://github.com/atalovesyou/claude-max-api-proxy) - Use your Claude Max/Pro subscription with any OpenAI-compatible client. Saves $1000s compared to API keys.
+- [clawdbot/lobster](https://github.com/clawdbot/lobster) - Lobster is a Clawdbot-native workflow shell: a typed, local-first “macro engine” that turns skills/tools into composable pipelines and safe automations—and lets Clawdbot call those  workflows in
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [junaid-mahmood/nlsh](https://github.com/junaid-mahmood/nlsh) - Turn natural language to terminal commands
@@ -6759,7 +6763,7 @@
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
-- [jhlee0409/claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer) - 🔍 A Tauri-based desktop app to browse and analyze your Claude Code conversation history from ~/.claude
+- [jhlee0409/claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer) - desktop app to browse and analyze your Claude Code conversation history
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
