@@ -300,7 +300,6 @@
 ## C# # 
 
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [6over3/hako](https://github.com/6over3/hako) - An embeddable, lightweight, secure, high-performance JavaScript engine.
 - [3xpl01tc0d3r/ProcessInjection](https://github.com/3xpl01tc0d3r/ProcessInjection) - This program is designed to demonstrate various process injection techniques
 - [peterhaneve/ONIMods](https://github.com/peterhaneve/ONIMods) - Peter Han's mods for Oxygen Not Included
@@ -333,6 +332,7 @@
 
 ## C++ 
 
+- [alexdantas/yetris](https://github.com/alexdantas/yetris) - Customizable Tetris(tm) for the terminal.
 - [Himanshu040604/KOKORO-GPT2](https://github.com/Himanshu040604/KOKORO-GPT2) - 
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [chongdashu/unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).
@@ -807,6 +807,7 @@
 
 ## Go 
 
+- [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
 - [golang-leipzig/gotchas](https://github.com/golang-leipzig/gotchas) - Go gotchas, surprises, puzzles.
 - [grafana/grafanactl](https://github.com/grafana/grafanactl) - The Grafana CLI. Command-line tool designed to simplify interaction with Grafana resources.
 - [tobilg/ai-observer](https://github.com/tobilg/ai-observer) - Unified local observability for AI coding assistants
@@ -4579,6 +4580,7 @@
 
 ## Jupyter Notebook 
 
+- [rahulnyk/knowledge_graph](https://github.com/rahulnyk/knowledge_graph) - Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA
 - [google-research/camel-prompt-injection](https://github.com/google-research/camel-prompt-injection) - Code for the paper "Defeating Prompt Injections by Design"
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
@@ -5321,6 +5323,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise 
 - [Whoaa512/claude-skills](https://github.com/Whoaa512/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
 - [GeneralUserModels/demos](https://github.com/GeneralUserModels/demos) - 
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -6685,6 +6688,7 @@
 
 ## TypeScript 
 
+- [antonpk1/excalidraw-mcp-app](https://github.com/antonpk1/excalidraw-mcp-app) - Excalidraw MCP App Server — hand-drawn diagrams for Claude
 - [bee-computer/bee-cli](https://github.com/bee-computer/bee-cli) - CLI client for Bee
 - [timoncool/videosos](https://github.com/timoncool/videosos) - Enable AI models for video production in the browser
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
@@ -6742,7 +6746,6 @@
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
-- [steipete/bird](https://github.com/steipete/bird) - Bird is a cli for twitter, so your agents can tweet.
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
