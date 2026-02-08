@@ -1980,7 +1980,6 @@
 - [vesln/temporary](https://github.com/vesln/temporary) - Temporary files and dirs for Node.js
 - [sindresorhus/max-timeout](https://github.com/sindresorhus/max-timeout) - The max amount of milliseconds you can pass to `setTimeout()`
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
-- [anvaka/npmgraph.an](https://github.com/anvaka/npmgraph.an) - 2d visualization of npm
 - [clinicjs/notare](https://github.com/clinicjs/notare) - 
 - [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
 - [addyosmani/puppeteer-webperf](https://github.com/addyosmani/puppeteer-webperf) - Automating Web Performance testing with Puppeteer 🎪
@@ -5282,6 +5281,8 @@
 
 ## Python 
 
+- [halfprice06/rlmgrep](https://github.com/halfprice06/rlmgrep) - 
+- [KillerShoaib/RLM-From-Scratch](https://github.com/KillerShoaib/RLM-From-Scratch) - Implementation of Recursive Language Model paper from scratch
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
 - [kunickiaj/opencode-mem](https://github.com/kunickiaj/opencode-mem) - 
 - [kbanc85/claudia](https://github.com/kbanc85/claudia) - Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.
@@ -6745,7 +6746,7 @@
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
@@ -7973,6 +7974,7 @@
 - [itamarom/notepadjs](https://github.com/itamarom/notepadjs) - This is a simple app that imitates Windows Notepad. Installable as a PWA.
 - [flawiddsouza/Restfox](https://github.com/flawiddsouza/Restfox) - Offline-First Minimalistic HTTP & Socket Testing Client for the Web & Desktop
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+- [anvaka/npmgraph.an](https://github.com/anvaka/npmgraph.an) - 2d visualization of npm
 - [sdras/is-this-a-sandwich](https://github.com/sdras/is-this-a-sandwich) - Is this a sandwich?
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
