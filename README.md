@@ -5283,12 +5283,12 @@
 
 ## Python 
 
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [halfprice06/rlmgrep](https://github.com/halfprice06/rlmgrep) - 
 - [KillerShoaib/RLM-From-Scratch](https://github.com/KillerShoaib/RLM-From-Scratch) - Implementation of Recursive Language Model paper from scratch
 - [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
-- [kunickiaj/opencode-mem](https://github.com/kunickiaj/opencode-mem) - 
+- [kunickiaj/codemem](https://github.com/kunickiaj/codemem) - 
 - [kbanc85/claudia](https://github.com/kbanc85/claudia) - Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.
 - [EmZod/Speak-Turbo](https://github.com/EmZod/Speak-Turbo) - Ultra-fast local TTS for AI agents. ~90ms to first sound.
 - [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world) - Advancing Open-source World Models
@@ -6710,7 +6710,7 @@
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [junaid-mahmood/nlsh](https://github.com/junaid-mahmood/nlsh) - Turn natural language to terminal commands
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [cayden970207/eliza-town](https://github.com/cayden970207/eliza-town) - Enhanced version of AI Town with Map Editor
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
