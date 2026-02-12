@@ -816,7 +816,7 @@
 - [Whoaa512/asana-cli](https://github.com/Whoaa512/asana-cli) - Modern Asana CLI, built with AI agents in mind
 - [yuin/goldmark](https://github.com/yuin/goldmark) - :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 - [thash/asana](https://github.com/thash/asana) - Asana command line Client
-- [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - View your beads (Steve Yegge's task management system for coding agents) like a king.
+- [Dicklesworthstone/beads_viewer](https://github.com/Dicklesworthstone/beads_viewer) - Graph-aware TUI for the Beads issue tracker: PageRank, critical path, kanban, dependency DAG visualization, and robot-mode JSON API
 - [steipete/goplaces](https://github.com/steipete/goplaces) - Modern Google Places CLI in Go
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
@@ -1300,6 +1300,7 @@
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [alexellis/spotminer](https://github.com/alexellis/spotminer) - Golang automation for mining cryptocurrencies on the Spot Market
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [1backend/1backend](https://github.com/1backend/1backend) - Build AI (or any) apps with scalable microservices & microfrontends.
@@ -2788,7 +2789,6 @@
 - [webpack/less-loader](https://github.com/webpack/less-loader) - Compiles Less to CSS
 - [lukeed/sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦
 - [webpack/voting-app](https://github.com/webpack/voting-app) - An application for casting votes on new webpack features and fixes.
-- [lukechilds/reverse-shell](https://github.com/lukechilds/reverse-shell) - Reverse Shell as a Service
 - [cowchimp/headless-devtools](https://github.com/cowchimp/headless-devtools) - Lets you perform Chrome DevTools actions from code by leveraging Headless Chrome+Puppeteer
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [grantcarthew/node-console-probe](https://github.com/grantcarthew/node-console-probe) - Inspect JavaScript object methods and properties in the console.
@@ -4812,12 +4812,13 @@
 
 ## Others 
 
+- [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
 - [TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext) - OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents.
 - [ast-grep/agent-skill](https://github.com/ast-grep/agent-skill) - 
 - [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools](https://github.com/Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools) - Quick curl bash one-liners to install Agent Flywheel ecosystem tools - 23 tools for AI coding agent orchestration, memory, security, and more
+- [Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools](https://github.com/Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools) - Copy-paste curl|bash one-liners to install every tool in the Agent Flywheel ecosystem: 23+ CLIs for AI agent orchestration, memory, security, and development
 - [dbreunig/whenwords](https://github.com/dbreunig/whenwords) - A relative time formatting library, with no code.
 - [openprose/prose](https://github.com/openprose/prose) - 
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
@@ -4934,7 +4935,6 @@
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
-- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [zcor/githubjobs](https://github.com/zcor/githubjobs) - Github Based Jobs Listings
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [lukehaas/RunJS](https://github.com/lukehaas/RunJS) - RunJS is a JavaScript playground for macOS, Windows and Linux. Write code with instant feedback and access to Node.js and browser APIs.
@@ -5324,7 +5324,7 @@
 - [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
 - [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) - SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
-- [invariantlabs-ai/mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) - Security scanner for AI agents, MCP servers and agent skills.
+- [snyk/agent-scan](https://github.com/snyk/agent-scan) - Security scanner for AI agents, MCP servers and agent skills.
 - [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise 
 - [Whoaa512/claude-skills](https://github.com/Whoaa512/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
@@ -6087,7 +6087,7 @@
 
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A Claude Code hook that blocks destructive git and filesystem commands
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - Early Rust prototype of the Destructive Command Guard (dcg) for blocking dangerous git and shell commands
 - [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes.
@@ -6815,7 +6815,7 @@
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl) - Real-time deduplication and temporal joins for streaming data
+- [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl) - GlassFlow OSS: Purpose-built for running any terabyte-scale transformations in Kafka-to-ClickHouse pipelines
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [vanviegen/aberdeen](https://github.com/vanviegen/aberdeen) - A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
@@ -7295,6 +7295,7 @@
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [KFlash/seafox](https://github.com/KFlash/seafox) - A blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript
 - [geeklearningio/graphviz-markdown-preview](https://github.com/geeklearningio/graphviz-markdown-preview) - Adds Graphviz support to VSCode's builtin markdown preview
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [paularmstrong/build-tracker](https://github.com/paularmstrong/build-tracker) - A set of tools to track the size of your build artifacts over time.
