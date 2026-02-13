@@ -158,6 +158,7 @@
 
 ## C 
 
+- [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
 - [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
@@ -4538,7 +4539,7 @@
 - [max-mapper/ndarray-stl](https://github.com/max-mapper/ndarray-stl) - convert voxels into 3D printable .stl files
 - [sintaxi/terraform](https://github.com/sintaxi/terraform) - Asset pipeline for the Harp Web Server.
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
-- [pyykkis/Backbone.EventStreams](https://github.com/pyykkis/Backbone.EventStreams) - Functional Reactive Programming with Bacon.js is tasty. I want my Backbone events as EventStreams, too.
+- [jkeskikangas/Backbone.EventStreams](https://github.com/jkeskikangas/Backbone.EventStreams) - Functional Reactive Programming with Bacon.js is tasty. I want my Backbone events as EventStreams, too.
 - [chadokruse/meteor-coming-soon-email-capture](https://github.com/chadokruse/meteor-coming-soon-email-capture) - A simple email capture page for "coming soon" projects
 - [gkz/coffee2ls](https://github.com/gkz/coffee2ls) - Compile CoffeeScript to LiveScript, based on CoffeeScriptRedux
 - [fredwu/skinny-coffee-machine](https://github.com/fredwu/skinny-coffee-machine) - A simple JavaScript state machine with observers, for browsers and Node.js.
