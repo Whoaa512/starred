@@ -14,7 +14,6 @@
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
-- [Bru](#bru)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -156,10 +155,6 @@
 ## Bikeshed 
 
 - [w3c/webappsec-change-password-url](https://github.com/w3c/webappsec-change-password-url) - A Well-Known URL for Changing Passwords
-
-## Bru 
-
-- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C 
 
@@ -1683,6 +1678,7 @@
 
 ## JavaScript 
 
+- [profbernardoj/everclaw-community-branches](https://github.com/profbernardoj/everclaw-community-branches) - Decentralized AI inference for OpenClaw agents. Powered by Morpheus AI. Stake MOR, access Kimi K2.5 + 10 models, never run out of inference.
 - [mkubicek/xTap](https://github.com/mkubicek/xTap) - Stealthy, client-side Chrome extension that silently archives X/Twitter tweets from browser GraphQL responses into daily JSONL files.
 - [askmojo/moltcraft](https://github.com/askmojo/moltcraft) - Your AI Agents, Alive in a World — Isometric pixel-art dashboard for Moltbot
 - [YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
@@ -4158,7 +4154,6 @@
 - [paulmillr/console-polyfill](https://github.com/paulmillr/console-polyfill) - Browser console methods polyfill.
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [tomchentw/react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
-- [zz85/space-radar](https://github.com/zz85/space-radar) - Fast Disk And Memory Space Visualization App for Mac, Windows and Ubuntu
 - [node-js-libs/cli](https://github.com/node-js-libs/cli) - Rapidly build command line apps
 - [avocode/combokeys](https://github.com/avocode/combokeys) - Web browser keyboard shortcuts. CommonJS, NPM.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -4820,6 +4815,7 @@
 
 ## Others 
 
+- [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - 
 - [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
 - [TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext) - OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents.
 - [ast-grep/agent-skill](https://github.com/ast-grep/agent-skill) - 
@@ -5924,7 +5920,7 @@
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -6094,7 +6090,7 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - Early Rust prototype of the Destructive Command Guard (dcg) for blocking dangerous git and shell commands
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
@@ -7805,6 +7801,7 @@
 - [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
 - [FinNLP/en-inflectors](https://github.com/FinNLP/en-inflectors) - 📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation.
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [springload/react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React
@@ -7930,6 +7927,7 @@
 - [react-component/tooltip](https://github.com/react-component/tooltip) - React Tooltip
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
+- [zz85/space-radar](https://github.com/zz85/space-radar) - Fast Disk And Memory Space Visualization App for Mac, Windows and Ubuntu
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [reduxjs/react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
