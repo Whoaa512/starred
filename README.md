@@ -129,7 +129,6 @@
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [bluewaysw/pcgeos](https://github.com/bluewaysw/pcgeos) - #FreeGEOS source codes. The offical home of the PC/GEOS operating system technology. For personal computing fans. For all developers and assembly lovers. For YOU!
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
-- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [akkartik/mu](https://github.com/akkartik/mu) - Soul of a tiny new machine. More thorough tests → More comprehensible and rewrite-friendly software → More resilient society.
 
 ## Astro 
@@ -458,7 +457,7 @@
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics
-- [microsoft/LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
+- [lightgbm-org/LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tas
 - [trilinos/Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
 - [swordfeng/pyjs](https://github.com/swordfeng/pyjs) - Call Python from Node.js in the same process
 - [fridgerator/PyNode](https://github.com/fridgerator/PyNode) - Node - Python Interop
@@ -2122,7 +2121,6 @@
 - [sindresorhus/sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [terkelg/sqliterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
-- [xhubio/nanook-table](https://github.com/xhubio/nanook-table) - A toolkit for test case and test data creation
 - [mafintosh/pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes
 - [sindresorhus/elegant-spinner](https://github.com/sindresorhus/elegant-spinner) - Elegant spinner for interactive CLI apps
 - [sindresorhus/log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels
@@ -2800,6 +2798,7 @@
 - [grantcarthew/node-console-probe](https://github.com/grantcarthew/node-console-probe) - Inspect JavaScript object methods and properties in the console.
 - [fvgs/litetimer](https://github.com/fvgs/litetimer) - :watch: Command-line timer that's light as air
 - [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
+- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
 - [planttheidea/remeasure](https://github.com/planttheidea/remeasure) - Get position and size attributes for any React Component
 - [ctxhou/react-tabtab](https://github.com/ctxhou/react-tabtab) - 💃 Make your react tab dance🕺
@@ -4839,7 +4838,7 @@
 - [ExcessiveMotion/brake-module-software](https://github.com/ExcessiveMotion/brake-module-software) - 
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
-- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks
+- [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [dwarvesf/WeAreHiring](https://github.com/dwarvesf/WeAreHiring) - We stand for the craftsmanship in software development and we're hiring.
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
@@ -5289,6 +5288,7 @@
 
 ## Python 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
 - [celltype/cli](https://github.com/celltype/cli) - 
 - [Zyphra/zuna](https://github.com/Zyphra/zuna) - Python package for Zuna, an EEG foundation model for inference.
@@ -6466,6 +6466,7 @@
 
 ## Shell 
 
+- [Cranot/deep-research](https://github.com/Cranot/deep-research) - Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
 - [ibuhs/Kokoro-TTS-Pause](https://github.com/ibuhs/Kokoro-TTS-Pause) - Enhances Kokoro TTS output by merging segments with dynamic, programmable pauses for meditative or narrative flow.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [Tenobrus/claude-rlm](https://github.com/Tenobrus/claude-rlm) - Recursive Language Models for Claude Code — process arbitrarily long inputs via recursive sub-agent delegation
@@ -6716,6 +6717,7 @@
 
 ## TypeScript 
 
+- [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [suitedaces/dorabot](https://github.com/suitedaces/dorabot) - macOS app for a 24/7 AI agent with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.
@@ -7381,6 +7383,7 @@
 - [nodegui/react-nodegui](https://github.com/nodegui/react-nodegui) - Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [graphql-editor/graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible )
+- [xhubio/nanook-table](https://github.com/xhubio/nanook-table) - A toolkit for test case and test data creation
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
 - [apollographql/space-kit](https://github.com/apollographql/space-kit) - 👩‍🚀 Home base for Apollo's design system: https://space-kit.netlify.com
