@@ -1211,7 +1211,7 @@
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
 - [tj/triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [cube2222/jql](https://github.com/cube2222/jql) - Easy JSON Query Processor with a Lispy syntax in Go
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go
@@ -5288,9 +5288,10 @@
 
 ## Python 
 
+- [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
-- [celltype/cli](https://github.com/celltype/cli) - 
+- [celltype/celltype-agent](https://github.com/celltype/celltype-agent) - 
 - [Zyphra/zuna](https://github.com/Zyphra/zuna) - Python package for Zuna, an EEG foundation model for inference.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [mvparakhin/ml-tidbits](https://github.com/mvparakhin/ml-tidbits) - Various ML tidbits in Python/PyTorch and C++
@@ -6466,6 +6467,7 @@
 
 ## Shell 
 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [Cranot/deep-research](https://github.com/Cranot/deep-research) - Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
 - [ibuhs/Kokoro-TTS-Pause](https://github.com/ibuhs/Kokoro-TTS-Pause) - Enhances Kokoro TTS output by merging segments with dynamic, programmable pauses for meditative or narrative flow.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
@@ -6717,10 +6719,11 @@
 
 ## TypeScript 
 
+- [hewliyang/office-agents](https://github.com/hewliyang/office-agents) - Agent plugins for Microsoft Office but BYOK for any model and provider
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
-- [suitedaces/dorabot](https://github.com/suitedaces/dorabot) - macOS app for a 24/7 AI agent with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.
+- [suitedaces/dorabot](https://github.com/suitedaces/dorabot) - macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack.
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -6787,7 +6790,7 @@
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - The framework for AI souls
-- [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - OpenSource ngrok alternative.
+- [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - Open-source ngrok alternative.
 - [badlogic/gccli](https://github.com/badlogic/gccli) - Minimal Google Calendar CLI
 - [badlogic/gmcli](https://github.com/badlogic/gmcli) - Minimal Gmail CLI
 - [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) - Use Claude Agent SDK from any ACP client such as Zed!
@@ -7871,7 +7874,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Huemul/trae](https://github.com/Huemul/trae) - :postbox: Minimalistic Fetch based HTTP client
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [reactive-react/xreact](https://github.com/reactive-react/xreact) - reactive x react = xreact
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
