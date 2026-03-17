@@ -6,3 +6,4 @@
 - [ffmpeg.guide](https://ffmpeg.guide/) - Visual GUI for building FFMPEG filter graphs
 - [https://proxyman.io/](https://proxyman.io/) - Modern. Native Web Debugging Proxy
 - [Short design patterns video](https://www.youtube.com/watch\?v\=tAuRQs_d9F8/)
+- [https://codeberg.org/mergiraf/mergiraf](https://codeberg.org/mergiraf/mergiraf) - A syntax-aware git merge driver for a growing collection of programming languages and file formats
