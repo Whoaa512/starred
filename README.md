@@ -866,7 +866,7 @@
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
-- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
+- [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place
 - [utrack/caisson-go](https://github.com/utrack/caisson-go) - Caisson - your platform's platform! A meta-platform library for Go.
 - [sanity-io/litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -1691,7 +1691,6 @@
 - [alexknowshtml/smaug](https://github.com/alexknowshtml/smaug) - Archive your Twitter/X bookmarks to markdown with AI-powered analysis. Supports Claude Code and OpenCode for multi-model flexibility. Like a dragon hoarding treasure, Smaug collects the valuable thing
 - [sarahRosannaBusch/Txtaria](https://github.com/sarahRosannaBusch/Txtaria) - A single-pane ASCII-art platformer made with Phaser.io
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [AnswerDotAI/clipmd](https://github.com/AnswerDotAI/clipmd) - Convert clipboard from HTML to MD
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [ognistik/alfred-superwhisper](https://github.com/ognistik/alfred-superwhisper) - Use Alfred to Control Superwhisper - AI Powered Voice to Text
@@ -5898,7 +5897,7 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [SublimeLinter/SublimeLinter-flow](https://github.com/SublimeLinter/SublimeLinter-flow) - SublimeLinter plugin for JavaScript static type checking, using flow.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [gongzhitaao/tensorflow-adversarial](https://github.com/gongzhitaao/tensorflow-adversarial) - Crafting adversarial images
 - [fchollet/deep-learning-models](https://github.com/fchollet/deep-learning-models) - Keras code and weights files for popular deep learning models.
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
@@ -6481,6 +6480,7 @@
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [jimmystridh/alfred-trimmy](https://github.com/jimmystridh/alfred-trimmy) - Alfred workflow for Trimmy - trim multi-line shell commands from clipboard
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+- [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [alexfazio/cc-trace](https://github.com/alexfazio/cc-trace) - Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
@@ -6792,7 +6792,6 @@
 - [jlongster/tigma](https://github.com/jlongster/tigma) - 
 - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 - [remorses/kimaki](https://github.com/remorses/kimaki) - like openclaw but on top of opencode. all opencode features deeply integrated inside Discord. each project is a channel. each session a thread
-- [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -6809,6 +6808,7 @@
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [sloansparger/bear](https://github.com/sloansparger/bear) - Unofficial CLI for the Bear notes app (MacOS only)
@@ -7849,7 +7849,7 @@
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [callstack/haul](https://github.com/callstack/haul) - Haul is a command line tool for developing React Native apps, powered by Webpack
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [brn/fuel](https://github.com/brn/fuel) - Reactjs compatible more simple and fast virtual dom view implementation.
 - [camwest/react-slot-fill](https://github.com/camwest/react-slot-fill) - Slot & Fill component for merging React subtrees together. Portal on steroids.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
