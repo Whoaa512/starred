@@ -805,9 +805,11 @@
 
 ## Go 
 
+- [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+- [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
 - [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [sourcegraph/src-cli](https://github.com/sourcegraph/src-cli) - Sourcegraph CLI
 - [golang-leipzig/gotchas](https://github.com/golang-leipzig/gotchas) - Go gotchas, surprises, puzzles.
@@ -1681,7 +1683,6 @@
 ## JavaScript 
 
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
-- [zmeyer44/Locker](https://github.com/zmeyer44/Locker) - 
 - [Whoaa512/openclaw-billing-proxy](https://github.com/Whoaa512/openclaw-billing-proxy) - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage
 - [zacdcook/openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
@@ -1828,7 +1829,7 @@
 - [jcubic/wayne](https://github.com/jcubic/wayne) - Wayne: Open Source Service Worker Routing library for in browser HTTP requests
 - [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder) - A NodeJS ReVanced builder
 - [craigmulligan/js-fire](https://github.com/craigmulligan/js-fire) - A javascript clone of google/python-fire 🔥
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [sudoaugustin/vslook](https://github.com/sudoaugustin/vslook) - Create custom VSCode themes
 - [tree-sitter/tree-sitter-go](https://github.com/tree-sitter/tree-sitter-go) - Go grammar for tree-sitter
 - [LesterLyu/fast-formula-parser](https://github.com/LesterLyu/fast-formula-parser) - Parse and evaluate MS Excel formula in javascript.
@@ -4815,11 +4816,10 @@
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [DataHaskell/awesome-haskell-ml](https://github.com/DataHaskell/awesome-haskell-ml) - 📚 - Resources for Machine Learning and Haskell
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
-- [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - 
 - [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
 - [ast-grep/agent-skill](https://github.com/ast-grep/agent-skill) - 
 - [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools](https://github.com/Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools) - Copy-paste curl|bash one-liners to install every tool in the Agent Flywheel ecosystem: 23+ CLIs for AI agent orchestration, memory, security, and development
 - [dbreunig/whenwords](https://github.com/dbreunig/whenwords) - A relative time formatting library, with no code.
 - [openprose/prose](https://github.com/openprose/prose) - 
@@ -4847,6 +4847,7 @@
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
@@ -6739,6 +6740,7 @@
 
 - [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge) - Bridge local AI coding sessions between Pi, Claude Code, and Codex.
 - [badlogic/pi-telegram](https://github.com/badlogic/pi-telegram) - Telegram DM bridge extension for pi
+- [zmeyer44/Locker](https://github.com/zmeyer44/Locker) - 
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 - [badlogic/cchistory](https://github.com/badlogic/cchistory) - Extract and compare system prompts and tools from different Claude Code versions
@@ -7320,7 +7322,7 @@
 - [FredrikNoren/jsplot](https://github.com/FredrikNoren/jsplot) - 
 - [jamesroutley/24a2](https://github.com/jamesroutley/24a2) - 🏵 An ultra-minimalist game engine
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
-- [remorses/holocron](https://github.com/remorses/holocron) - Lovable for docs websites
+- [remorses/holocron](https://github.com/remorses/holocron) - Open source drop-in replacement for Mintlify as a Vite plugin
 - [ngneat/helipopper](https://github.com/ngneat/helipopper) - 🚁 A Powerful Tooltip and Popover for Angular Applications
 - [aeroheim/midori](https://github.com/aeroheim/midori) - library for animated image backgrounds
 - [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
