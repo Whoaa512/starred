@@ -6320,7 +6320,7 @@
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agentic AI. Continuously ingest, transform, and serve event data in real time, at scale.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [Zaplib/zaplib](https://github.com/Zaplib/zaplib) - ⚡ Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
@@ -6761,7 +6761,7 @@
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
-- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect every tool call, subagent, and token like a browser inspector
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) - CLI task manager for AI agents with MCP server support
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.
