@@ -1408,6 +1408,7 @@
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [ExcessiveMotion/controller-hardware](https://github.com/ExcessiveMotion/controller-hardware) - 
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [benwinding/command-pal](https://github.com/benwinding/command-pal) - The hackable command palette for the web, inspired by Visual Studio Code.
 - [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) - Just a detailed in-depth, and comprehensive explanation of how computers operate internally, focusing on RAM and CPU aspects, respectively. By @ILyesMk2
@@ -5305,7 +5306,7 @@
 - [doneyli/claude-code-langfuse-template](https://github.com/doneyli/claude-code-langfuse-template) - Self-hosted Langfuse for Claude Code session observability
 - [halfprice06/rlmgrep](https://github.com/halfprice06/rlmgrep) - 
 - [KillerShoaib/RLM-From-Scratch](https://github.com/KillerShoaib/RLM-From-Scratch) - Implementation of Recursive Language Model paper from scratch
-- [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn) - See which of your LinkedIn connections appear in the Epstein files.
+- [cfinke/EpsteOut](https://github.com/cfinke/EpsteOut) - See which of your LinkedIn connections appear in the Epstein files.
 - [kbanc85/claudia](https://github.com/kbanc85/claudia) - Terminal-based AI chief of staff. Remembers relationships, tracks commitments, helps you think strategically. Runs on Claude Code.
 - [EmZod/Speak-Turbo](https://github.com/EmZod/Speak-Turbo) - Ultra-fast local TTS for AI agents. ~90ms to first sound.
 - [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world) - Advancing Open-source World Models
@@ -5406,7 +5407,6 @@
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [JackHopkins/factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS
@@ -6104,6 +6104,8 @@
 
 ## Rust 
 
+- [mkurman/tamux](https://github.com/mkurman/tamux) - A terminal multiplexer and user interface (TUI) with a super-powerful agent. Tamux is the only agent runtime that treats the daemon like an operating system kernel – sessions, targets, memory, manag
+- [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -6664,6 +6666,7 @@
 
 ## Swift 
 
+- [sbertix/Swiftagram](https://github.com/sbertix/Swiftagram) - A modern Swift wrapper for Instagram Private API.
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
@@ -6743,6 +6746,7 @@
 
 ## TypeScript 
 
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [earendil-works/pi-review](https://github.com/earendil-works/pi-review) - A review extension for Pi
 - [bio-xyz/BioAgents](https://github.com/bio-xyz/BioAgents) - BioAgents: An AI scientist framework for autonomous deep research in biological sciences. Multi-agent system combining literature analysis agents with data scientist agents to enable deep research aut
 - [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge) - Bridge local AI coding sessions between Pi, Claude Code, and Codex.
@@ -6774,7 +6778,7 @@
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [bee-computer/bee-cli](https://github.com/bee-computer/bee-cli) - CLI client for Bee
 - [kunickiaj/codemem](https://github.com/kunickiaj/codemem) - A lightweight persistent-memory companion for OpenCode & Claude
-- [timoncool/videosos](https://github.com/timoncool/videosos) - Enable AI models for video production in the browser
+- [timoncool/videosos](https://github.com/timoncool/videosos) - AI video production in the browser — text-to-video, image-to-video, lip sync, 100+ models. Google Veo 3.1, FLUX, Gemini, Imagen 4. Free, open-source, private.
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [jgarzik/botmaker](https://github.com/jgarzik/botmaker) - UI/app to Create containerized OpenClaw bots
 - [openai/openai-fm](https://github.com/openai/openai-fm) - Code for openai.fm, a demo for the OpenAI Speech API
@@ -7227,7 +7231,7 @@
 - [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [deislabs/hippo](https://github.com/deislabs/hippo) - The WebAssembly Platform
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
