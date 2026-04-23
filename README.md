@@ -806,6 +806,7 @@
 
 ## Go 
 
+- [bgdnvk/clanker](https://github.com/bgdnvk/clanker) - autonomous systems engineering cli agent for any cloud environment: AWS, GCP, Cloudflare, etc
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -840,7 +841,7 @@
 - [steipete/eightctl](https://github.com/steipete/eightctl) - Eight Sleep cli to fetch data and control your pods.
 - [steipete/brabble](https://github.com/steipete/brabble) - "Hey, Computer" from Star Trek. Talk to your agent. Run hooks after trigger comands. Runs locally, cause shit's scary.
 - [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
-- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Autonomous Cloud for modern builders
+- [nixopus/nixopus](https://github.com/nixopus/nixopus) - Run production apps without thinking about infrastructure On your server or ours. Fully agentic.
 - [steipete/tmuxwatch](https://github.com/steipete/tmuxwatch) - A simple TUI to watch tmux sessions
 - [cli/browser](https://github.com/cli/browser) - Go helpers to open URLs, files, or readers in a web browser.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -1685,6 +1686,7 @@
 
 ## JavaScript 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - An open source harness for generating CAD models
 - [OpenAnonymity/nanomem](https://github.com/OpenAnonymity/nanomem) - Personal memory you own, in files you can actually read
 - [nicobailon/pi-annotate](https://github.com/nicobailon/pi-annotate) - Visual feedback from browser to AI. Click elements, add comments, fix code.
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
@@ -6109,6 +6111,8 @@
 
 ## Rust 
 
+- [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Entroly-Daemon: Self -Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 95% fewer tokens—built for Cursor, Claude Code, Opus,Codex,GPT & Copilot.
+- [TM9657/flow-like](https://github.com/TM9657/flow-like) - Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization.
 - [mkurman/tamux](https://github.com/mkurman/tamux) - A terminal multiplexer and user interface (TUI) with a super-powerful agent. Tamux is the only agent runtime that treats the daemon like an operating system kernel – sessions, targets, memory, manag
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -6666,6 +6670,7 @@
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [le0pard/sql-joins-app](https://github.com/le0pard/sql-joins-app) - SQL JOINS visualizer
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
 ## Swift 
@@ -7293,7 +7298,6 @@
 - [spotify-api/spotify-api.js](https://github.com/spotify-api/spotify-api.js) - A complete wrapper for spotify web api for deno, node.js and the browser.
 - [agarleanu/consistent-shading](https://github.com/agarleanu/consistent-shading) - Shade consitency for various hues, based on luminance.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
