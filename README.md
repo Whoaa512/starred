@@ -275,7 +275,7 @@
 - [microsoft/winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
 - [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺
-- [martin-ger/esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi Repeater (correctly: a WiFi NAT Router)
+- [martin-ger/esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) - A full functional WiFi NAT Router (and now also a WiFi Repeater)
 - [mnunberg/jsonsl](https://github.com/mnunberg/jsonsl) - Embeddable, Fast, Streaming, Non-Buffering JSON Parser
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android) - Make Node.JS apps for Android
@@ -4903,7 +4903,7 @@
 - [EngFlow/free](https://github.com/EngFlow/free) - 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [ARKInvest/SolarBatteryBitcoin](https://github.com/ARKInvest/SolarBatteryBitcoin) - 
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic) - Delicately-TUICed 0-RTT proxy protocol
 - [leafac/caxa](https://github.com/leafac/caxa) - 📦 Package Node.js applications into executable binaries 📦
 - [subeeshvasu/Awesome-Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) - A curated list of resources for Image and Video Deblurring
@@ -5294,7 +5294,7 @@
 
 ## Python 
 
-- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness that enables LLMs to complete any task.
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [thewilloftheshadow/hermes-agent](https://github.com/thewilloftheshadow/hermes-agent) - The agent that grows with you
 - [WolframRavenwolf/hermes-ha-integration](https://github.com/WolframRavenwolf/hermes-ha-integration) - Hermes Agent conversation integration for Home Assistant
 - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
@@ -6153,7 +6153,7 @@
 - [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
-- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [run-llama/semtools](https://github.com/run-llama/semtools) - Semantic search and document parsing tools for the command line
 - [withered-magic/starpls](https://github.com/withered-magic/starpls) - An LSP implementation for Starlark, the configuration language used by Bazel and Buck2.
 - [farshed/sage](https://github.com/farshed/sage) - Self-hosted voice chat with LLMs
@@ -6755,6 +6755,7 @@
 
 ## TypeScript 
 
+- [kunchenguid/org-bench](https://github.com/kunchenguid/org-bench) - 
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 - [badlogic/sitegeist](https://github.com/badlogic/sitegeist) - An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide, it executes. Automate repetitive web tasks, extract data from any website, and transform it into w
 - [nicobailon/pi-design-deck](https://github.com/nicobailon/pi-design-deck) - Visual design deck for presenting multi-slide options with high-fidelity previews
