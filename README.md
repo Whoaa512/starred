@@ -267,7 +267,7 @@
 - [emojicode/emojicode](https://github.com/emojicode/emojicode) - 😀😜🔂 World’s only programming language that’s bursting with emojis
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [cretz/go-sqleet](https://github.com/cretz/go-sqleet) - Encrypted SQLite for Go using go-sqlite3 and sqleet
 - [lavabit/magma](https://github.com/lavabit/magma) - The magma server daemon, is an encrypted email system with support for SMTP, POP, IMAP, HTTP and MOLTEN,. Additional support for DMTP and DMAP is currently in active development.
@@ -852,7 +852,7 @@
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
+- [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [buildkite/buildkite-mcp-server](https://github.com/buildkite/buildkite-mcp-server) - Official MCP Server for Buildkite.
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -895,7 +895,7 @@
 - [hybridgroup/go-haystack](https://github.com/hybridgroup/go-haystack) - Track personal Bluetooth devices via Apple's "Find My" network using OpenHaystack and Macless-Haystack with tools written in Go/TinyGo. No Apple hardware required!
 - [charlievieth/fastwalk](https://github.com/charlievieth/fastwalk) - Fast directory traversal for Golang
 - [bugst/go-serial](https://github.com/bugst/go-serial) - A cross-platform serial library for go-lang.
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted cloud native feature flag solution 100% Open Source. 🎛️
 - [tufanbarisyildirim/gonginx](https://github.com/tufanbarisyildirim/gonginx) - Nginx configuration parser helps you to parse, edit, regenerate your nginx config in your go applications
 - [nginxinc/nginx-go-crossplane](https://github.com/nginxinc/nginx-go-crossplane) - A library for working with NGINX configs in Go
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
@@ -1400,6 +1400,7 @@
 
 ## HTML 
 
+- [stainlu/hermes-labyrinth](https://github.com/stainlu/hermes-labyrinth) - 
 - [user-will/svg2stencil](https://github.com/user-will/svg2stencil) - 3D print a stencil for any PCB. Export the paste layer as .svg and get a custom .stl file you can 3d print.
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [chongdashu/phaserjs-tinyswords](https://github.com/chongdashu/phaserjs-tinyswords) - 
@@ -1535,7 +1536,6 @@
 - [x3dom/x3dom](https://github.com/x3dom/x3dom) - X3DOM. A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
 - [w3c/payment-request](https://github.com/w3c/payment-request) - Payment Request API
 - [voronianski/griddy.css](https://github.com/voronianski/griddy.css) - :book: Responsive 12 column based grid in 311 Bytes gzipped
-- [compat-table/compat-table](https://github.com/compat-table/compat-table) - ECMAScript compatibility tables
 - [lumpy-turnips/minty](https://github.com/lumpy-turnips/minty) - Step by step visualization of node processess
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [tc39/proposal-object-rest-spread](https://github.com/tc39/proposal-object-rest-spread) - Rest/Spread Properties for ECMAScript
@@ -1720,7 +1720,7 @@
 - [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: Encrypt and share files securely with passkeys. Fully offline, easy-to-use, and zero-knowledge for ultimate file protection.
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture to anything engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM to anything engine — fast, modular, extensible.
 - [matthewp/views-the-hard-way](https://github.com/matthewp/views-the-hard-way) - JavaScript views; done as painfully as possible
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
@@ -3999,6 +3999,7 @@
 - [vvscode/js--nightwatch-recorder](https://github.com/vvscode/js--nightwatch-recorder) - :crescent_moon: :watch: NightwatchJs recorder for Chrome
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [eddywashere/node-stripe-membership-saas](https://github.com/eddywashere/node-stripe-membership-saas) - This project is a boilerplate express app for creating a membership/subscription site with Stripe.
+- [compat-table/compat-table](https://github.com/compat-table/compat-table) - ECMAScript compatibility tables
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [lodash/babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - Modular Lodash builds without the hassle.
 - [wix-incubator/eslint-plugin-lodash](https://github.com/wix-incubator/eslint-plugin-lodash) - ESLint rules for lodash
@@ -6150,7 +6151,7 @@
 - [zed-industries/codex-acp](https://github.com/zed-industries/codex-acp) - 
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 - [jdx/clx](https://github.com/jdx/clx) - 
-- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX
+- [endevco/pitchfork](https://github.com/endevco/pitchfork) - Daemons with DX
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [BeaconBay/ck](https://github.com/BeaconBay/ck) - Local first semantic and hybrid BM25 grep / search tool for use by AI and humans!
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -6491,7 +6492,7 @@
 
 ## Shell 
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [Cranot/deep-research](https://github.com/Cranot/deep-research) - Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
@@ -6755,6 +6756,7 @@
 
 ## TypeScript 
 
+- [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
 - [kunchenguid/org-bench](https://github.com/kunchenguid/org-bench) - 
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
 - [badlogic/sitegeist](https://github.com/badlogic/sitegeist) - An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide, it executes. Automate repetitive web tasks, extract data from any website, and transform it into w
