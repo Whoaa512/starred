@@ -3319,7 +3319,6 @@
 - [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 - [RisingStack/protect](https://github.com/RisingStack/protect) - Proactively protect your Node.js web services
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [sindresorhus/clear-module](https://github.com/sindresorhus/clear-module) - Clear a module from the cache
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [tscanlin/next-export](https://github.com/tscanlin/next-export) - Export next.js to be served statically
@@ -4093,6 +4092,7 @@
 - [lvandeve/tmai](https://github.com/lvandeve/tmai) - 
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [mogill/ems](https://github.com/mogill/ems) - Extended Memory Semantics - Persistent shared object memory and parallelism for Node.js and Python
+- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
 - [dvdzkwsk/react-redux-starter-kit](https://github.com/dvdzkwsk/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 - [mozilla/node-client-sessions](https://github.com/mozilla/node-client-sessions) - secure sessions stored in cookies
 - [bdefore/universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
@@ -5196,7 +5196,6 @@
 - [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github) - An open letter of gratitude to GitHub
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
-- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
 - [simple10/baby-sleep](https://github.com/simple10/baby-sleep) - Baby sleep guides curated from the best of the Internet.
 - [opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) - A community-curated list of awesome open companies.
 - [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - A curated list of awesome curated lists! Inspired by inspiration.
@@ -7199,7 +7198,7 @@
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [G3root/readme-generator](https://github.com/G3root/readme-generator) - A fully featured editor with drag and drop interface to easily build READMEs
-- [Evertz/bzlgen](https://github.com/Evertz/bzlgen) - Bazel build file generator written in Typescript
+- [Evertz-community/bzlgen](https://github.com/Evertz-community/bzlgen) - Bazel build file generator written in Typescript
 - [nandorojo/solito](https://github.com/nandorojo/solito) - 🧍‍♂️ React Native + Next.js, unified.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [maritz/nohm](https://github.com/maritz/nohm) - node.js object relations mapper (orm) for redis
@@ -7894,6 +7893,7 @@
 - [apollographql/graphql-tag](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries
 - [react-bootstrap/dom-helpers](https://github.com/react-bootstrap/dom-helpers) - tiny, extremely modular, DOM helper library for IE9+
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
+- [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [dolphin-wood/smooth-scrollbar](https://github.com/dolphin-wood/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
 - [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
 - [FinNLP/en-inflectors](https://github.com/FinNLP/en-inflectors) - 📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation.
