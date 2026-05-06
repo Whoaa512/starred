@@ -6906,7 +6906,7 @@
 - [modelcontextprotocol/modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 - [olaservo/shannon-thinking](https://github.com/olaservo/shannon-thinking) - MCP server for applying a Claude Shannon-inspired problem-solving pattern
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
-- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace & Version everything just like code. Truly Git Native. No Lock-in.
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden) - Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace & Version everything just like code. Offline, Truly Git Native, No Lock-in.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
