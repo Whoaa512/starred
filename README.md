@@ -730,7 +730,6 @@
 
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [Dahrkael/ExTracker](https://github.com/Dahrkael/ExTracker) - Elixir-powered BitTorrent Tracker
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -827,7 +826,7 @@
 - [VibiumDev/vibium](https://github.com/VibiumDev/vibium) - Browser automation for AI agents and humans
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [steipete/blucli](https://github.com/steipete/blucli) - Go-based cli for blueOS
-- [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI
+- [openclaw/wacli](https://github.com/openclaw/wacli) - WhatsApp CLI: sync, search, send
 - [steipete/sonoscli](https://github.com/steipete/sonoscli) - Control SONOS speakers from your terminal.
 - [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 - [openclaw/gogcli](https://github.com/openclaw/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
@@ -1721,7 +1720,7 @@
 - [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: Encrypt and share files securely with passkeys. Fully offline, easy-to-use, and zero-knowledge for ultimate file protection.
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM to anything engine — fast, modular, extensible.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - High-performance engine for capturing, modifying, and converting DOM elements into any format.
 - [matthewp/views-the-hard-way](https://github.com/matthewp/views-the-hard-way) - JavaScript views; done as painfully as possible
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
@@ -1797,7 +1796,7 @@
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [socketsupply/ssc-node](https://github.com/socketsupply/ssc-node) - Node.js implementation of the Socket SDK client
 - [socketsupply/components](https://github.com/socketsupply/components) - Example Components (Built with Tonic)
-- [socketsupply/tonic](https://github.com/socketsupply/tonic) - A Low Profile Component Framework – Stable, minimal, easy to audit, zero-dependencies and build-tool-free.
+- [heapwolf/giant](https://github.com/heapwolf/giant) - A Component Framework with SSR for Rust & Nodejs. Inspired by React, Tailwind, ShadCN, & Next.js
 - [socketsupply/socket-api](https://github.com/socketsupply/socket-api) - A Node.js / Posix-like JavaScript front-end API for the Socket Runtime
 - [heapwolf/socket](https://github.com/heapwolf/socket) - 
 - [dariusk/twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
@@ -5293,6 +5292,8 @@
 
 ## Python 
 
+- [entireio/pgr](https://github.com/entireio/pgr) - PGR is an experimental, stateless MCP code-search server for studying how ranking, latency, and output shaping affect agentic search.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
 - [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built f
@@ -5480,7 +5481,7 @@
 - [s-casci/tinyzero](https://github.com/s-casci/tinyzero) - Easily train AlphaZero-like agents on any environment you want!
 - [archinetai/audio-diffusion-pytorch](https://github.com/archinetai/audio-diffusion-pytorch) - Audio generation using diffusion models, in PyTorch.
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
-- [basnijholt/unidep](https://github.com/basnijholt/unidep) - Single source of truth with requirements for pip and conda
+- [conda-incubator/unidep](https://github.com/conda-incubator/unidep) - Single source of truth with requirements for pip and conda
 - [llmware-ai/llmware](https://github.com/llmware-ai/llmware) - Unified framework for building enterprise RAG pipelines with small, specialized models
 - [isamert/scli](https://github.com/isamert/scli) - a simple terminal user interface for signal messenger (using signal-cli)
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
@@ -6632,7 +6633,7 @@
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [binx/WiFiDiary](https://github.com/binx/WiFiDiary) - 
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, pyth
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, pyth
 - [ankitvad/goto](https://github.com/ankitvad/goto) - Linux Shell 'cd' replacement tool. cd on steroids, with fuzzy file finder and a directory bookmark saver.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
@@ -6759,6 +6760,8 @@
 
 ## TypeScript 
 
+- [jordanburke/reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server) - ⚙️ A Model Context Protocol (MCP) that provides tools for fetching and creating Reddit content
+- [voffie/better-music](https://github.com/voffie/better-music) - 
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
 - [kunchenguid/org-bench](https://github.com/kunchenguid/org-bench) - 
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
@@ -6837,7 +6840,7 @@
 - [openprose/prose](https://github.com/openprose/prose) - A new kind of language for a new kind of computer
 - [numman-ali/n-skills](https://github.com/numman-ali/n-skills) - Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills
 - [angristan/opencode-wakatime](https://github.com/angristan/opencode-wakatime) - Track Opencode usage with Wakatime
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI and Copilot CLI.
 - [mohsen1/mafia-arena](https://github.com/mohsen1/mafia-arena) - Mafia Arena evaluates Large Language Models' social reasoning through the classic deduction game Mafia (Werewolf). Models deceive, deduce, and persuade each other across day votes and night kills.
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [steipete/sweet-cookie](https://github.com/steipete/sweet-cookie) - Extract cookies out of your browser. TypeScript. Any OS.
@@ -6864,7 +6867,7 @@
 - [joelhooks/pdf-brain](https://github.com/joelhooks/pdf-brain) - 🧠 Local PDF knowledge base with vector search using libsql w/vectors
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [sloansparger/bear](https://github.com/sloansparger/bear) - Unofficial CLI for the Bear notes app (MacOS only)
 - [ktnyt/cclsp](https://github.com/ktnyt/cclsp) - Claude Code LSP: enhance your Claude Code experience with non-IDE dependent LSP integration.
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
@@ -6911,7 +6914,7 @@
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [chatmcp/mcpso](https://github.com/chatmcp/mcpso) - directory for Awesome MCP Servers
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl) - GlassFlow OSS: Purpose-built for running any terabyte-scale transformations in Kafka-to-ClickHouse pipelines
+- [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl) - GlassFlow: Open source data transformations at terabyte-scale for ClickHouse pipelines
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [vanviegen/aberdeen](https://github.com/vanviegen/aberdeen) - A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
@@ -6995,6 +6998,7 @@
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist) - A JavaScript library used for running emulators of retro consoles inside browsers.
 - [unional/type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
@@ -7672,7 +7676,7 @@
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [zzarcon/react-scroll-shadow](https://github.com/zzarcon/react-scroll-shadow) - Pure CSS shadow to indicate more content in scrollable area
 - [jsforce/jsforce](https://github.com/jsforce/jsforce) - Salesforce API Library for JavaScript applications (both on Node.js and web browser)
-- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management for PostgreSQL
