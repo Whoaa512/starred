@@ -1616,7 +1616,7 @@
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [aklivity/zilla](https://github.com/aklivity/zilla) - 🦎 A multi-protocol edge & service proxy. Seamlessly interface web apps, IoT clients, & microservices to Apache Kafka® via declaratively defined, stateless APIs.
-- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [thegeekyasian/geo-assist](https://github.com/thegeekyasian/geo-assist) - Geo Assist is a spatial library to manage spatial data in-memory.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
@@ -2439,7 +2439,7 @@
 - [supasate/connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [zcaceres/fastai-video-browser](https://github.com/zcaceres/fastai-video-browser) - 📽️ Minimalist video browser for fast.ai course v3 lessons w/instant transcript search now at:
-- [webpack/terser-webpack-plugin](https://github.com/webpack/terser-webpack-plugin) - Terser Plugin
+- [webpack/minimizer-webpack-plugin](https://github.com/webpack/minimizer-webpack-plugin) - Minimizer Plugin
 - [anubhavsrivastava/react-for-electron-only](https://github.com/anubhavsrivastava/react-for-electron-only) - React component for rendering component for Electron based clients only
 - [interactivethings/catalog](https://github.com/interactivethings/catalog) - Create living style guides using Markdown or React
 - [reactjs/react-a11y](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
