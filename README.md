@@ -3890,7 +3890,7 @@
 - [auth0/lock](https://github.com/auth0/lock) - Auth0's signin solution
 - [benjamn/arson](https://github.com/benjamn/arson) - Efficient encoder and decoder for arbitrary objects
 - [sitespeedio/coach](https://github.com/sitespeedio/coach) - Clear Eyes. Full Hearts. Can’t Lose.
-- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 200 powerful ESLint rules
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [chromakode/picnic](https://github.com/chromakode/picnic) - Be spontaneous. Have a picnic!
@@ -5575,7 +5575,7 @@
 - [jataware/cartwright](https://github.com/jataware/cartwright) - A recurrent neural network paired with heuristic methods that automatically infer geospatial, temporal and feature columns
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [kellyjonbrazil/jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -6154,7 +6154,7 @@
 - [withered-magic/starpls](https://github.com/withered-magic/starpls) - An LSP implementation for Starlark, the configuration language used by Bazel and Buck2.
 - [farshed/sage](https://github.com/farshed/sage) - Self-hosted voice chat with LLMs
 - [emilk/eon](https://github.com/emilk/eon) - A simple and friendly config format
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs runtime for running untrusted workloads
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy and fast microVMs for running untrusted workloads
 - [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -6680,6 +6680,7 @@
 - [sbertix/Swiftagram](https://github.com/sbertix/Swiftagram) - A modern Swift wrapper for Instagram Private API.
 - [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [EthanLipnik/Loom](https://github.com/EthanLipnik/Loom) - Easy peer to peer networking for Apple devices
@@ -6756,7 +6757,7 @@
 ## TypeScript 
 
 - [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [jordanburke/reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server) - ⚙️ A Model Context Protocol (MCP) that provides tools for fetching and creating Reddit content
 - [voffie/better-music](https://github.com/voffie/better-music) - 
@@ -7393,7 +7394,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [paularmstrong/build-tracker](https://github.com/paularmstrong/build-tracker) - A set of tools to track the size of your build artifacts over time.
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [achingbrain/it](https://github.com/achingbrain/it) - A collection of utilities for making working with iterables more bearable
 - [blakeembrey/sql-type](https://github.com/blakeembrey/sql-type) - Type-safe SQL builder using ES2015 template tags
