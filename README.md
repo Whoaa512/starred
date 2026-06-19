@@ -1687,6 +1687,7 @@
 
 ## JavaScript 
 
+- [BuilderIO/skills](https://github.com/BuilderIO/skills) - Skills for coding agents
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 - [OpenAnonymity/nanomem](https://github.com/OpenAnonymity/nanomem) - Personal memory you own, in files you can actually read
 - [nicobailon/pi-annotate](https://github.com/nicobailon/pi-annotate) - Visual feedback from browser to AI. Click elements, add comments, fix code.
@@ -1710,7 +1711,6 @@
 - [AnswerDotAI/clipmd](https://github.com/AnswerDotAI/clipmd) - Convert clipboard from HTML to MD
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [ognistik/alfred-superwhisper](https://github.com/ognistik/alfred-superwhisper) - Use Alfred to Control Superwhisper - AI Powered Voice to Text
-- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [hotheadhacker/seedbox-lite](https://github.com/hotheadhacker/seedbox-lite) - A light-weight torrent media center at one place.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
@@ -1736,7 +1736,7 @@
 - [pipes-digital/pipes](https://github.com/pipes-digital/pipes) - Repository for Pipes
 - [holepunchto/hyperswarm](https://github.com/holepunchto/hyperswarm) - A distributed networking stack for connecting peers.
 - [holepunchto/hyperbeam](https://github.com/holepunchto/hyperbeam) - A 1-1 end-to-end encrypted internet pipe powered by Hyperswarm
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - an encrypted dotenv–from the creator of `dotenv`
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [KusStar/vite-bundle-visualizer](https://github.com/KusStar/vite-bundle-visualizer) - CLI for visualizing your vite project bundle.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [thakkarparth007/copilot-explorer](https://github.com/thakkarparth007/copilot-explorer) - Hacky repo to see what the Copilot extension sends to the server
@@ -1864,7 +1864,7 @@
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [checkly/puppeteer-to-playwright](https://github.com/checkly/puppeteer-to-playwright) - Puppeteer to Playwright conversion script
 - [cyjake/leoric](https://github.com/cyjake/leoric) - 👑 JavaScript ORM for MySQL, PostgreSQL, and SQLite.
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|disc
+- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top~1 FOSS]  Enrich your experience&choice!🧰Smart features📌set&forget📌250+tweaks - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|di
 - [henb13/jre-missing](https://github.com/henb13/jre-missing) - Automatically detects and lists episodes of The Joe Rogan Experience podcast that are currently not available on the Spotify platform. Also detects if episodes have been shortened in duration.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
@@ -3409,7 +3409,6 @@
 - [sindresorhus/all-keys](https://github.com/sindresorhus/all-keys) - Get all property keys of an object including non-enumerable and inherited ones
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
-- [s-a/deep-autofill-chrome-extension](https://github.com/s-a/deep-autofill-chrome-extension) - ✒️ Auto fill out forms done right.
 - [noderaider/redux-idle-monitor](https://github.com/noderaider/redux-idle-monitor) - A Redux component to schedule events at stages of user idleness across multiple browser tabs.
 - [aweary/react-perimeter](https://github.com/aweary/react-perimeter) - 🚧 Create an invisible perimeter around an element and respond when its breached.
 - [monvillalon/react-page-layout](https://github.com/monvillalon/react-page-layout) - Create layouts for react
@@ -3891,7 +3890,7 @@
 - [auth0/lock](https://github.com/auth0/lock) - Auth0's signin solution
 - [benjamn/arson](https://github.com/benjamn/arson) - Efficient encoder and decoder for arbitrary objects
 - [sitespeedio/coach](https://github.com/sitespeedio/coach) - Clear Eyes. Full Hearts. Can’t Lose.
-- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 200 powerful ESLint rules
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [chromakode/picnic](https://github.com/chromakode/picnic) - Be spontaneous. Have a picnic!
@@ -4561,7 +4560,6 @@
 - [clippyjs/clippy.js](https://github.com/clippyjs/clippy.js) - Add Clippy or his friends to any website for instant nostalgia.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [fynyky/reactor.js](https://github.com/fynyky/reactor.js) - Simple reactive programming without a framework
-- [s-a/sublime-text-refactor](https://github.com/s-a/sublime-text-refactor) - A Sublime Text Refactor Plugin for Javascript Code
 - [logicalparadox/apnagent](https://github.com/logicalparadox/apnagent) - Node.js adapter for Apple Push Notification (APN) Service.
 - [unsetbit/collage](https://github.com/unsetbit/collage) - Live, dynamic, and interactive collages
 - [unsetbit/big-surface](https://github.com/unsetbit/big-surface) - Limitless space within DOM elements
@@ -4604,7 +4602,6 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
@@ -4864,6 +4861,7 @@
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
 - [dtinth/superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
@@ -6110,7 +6108,7 @@
 
 ## Rust 
 
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source revision control system
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [mkurman/zorai](https://github.com/mkurman/zorai) - Zorai is a persistent, multi-agent, auditable, learning execution platform where the daemon owns work, memory, approvals, tools, and long-running goals.
@@ -6512,6 +6510,7 @@
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [alexfazio/cc-trace](https://github.com/alexfazio/cc-trace) - Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
