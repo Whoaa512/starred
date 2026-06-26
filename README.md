@@ -1126,6 +1126,7 @@
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mtlynch/rss-proxy](https://github.com/mtlynch/rss-proxy) - 
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available 
 - [jbowes/welk](https://github.com/jbowes/welk) - What's inside the shell? welk manages `curl | sh` style package installs 🐌
 - [jbowes/whatsnew](https://github.com/jbowes/whatsnew) - Check for new github releases of your Golang application 🎊
 - [jbowes/semver](https://github.com/jbowes/semver) - 🦔 semver and constraint parsing with a focus on performance
@@ -1273,7 +1274,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative data automation language and Go runtime for structured extraction workflows.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [googleforgames/open-match](https://github.com/googleforgames/open-match) - Flexible, extensible, and scalable video game matchmaking.
@@ -2660,7 +2661,7 @@
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [getify/CAF](https://github.com/getify/CAF) - Cancelable Async Flows (CAF)
 - [gorhill/uMatrix](https://github.com/gorhill/uMatrix) - uMatrix: Point and click matrix to filter net requests according to source, destination and type
-- [mourner/flamebearer](https://github.com/mourner/flamebearer) - A JavaScript CPU trace analysis tool for AI agents and humans
+- [mourner/flamebearer](https://github.com/mourner/flamebearer) - A JavaScript CPU trace analysis tool for agents and humans
 - [petergombos/react-pledge](https://github.com/petergombos/react-pledge) - Declarative way to track promise lifecycle states using "render props" 🕶
 - [layerJS/layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
 - [roccomuso/is-google](https://github.com/roccomuso/is-google) - Verify that a request is from Google crawlers using Google's DNS verification steps
@@ -5286,6 +5287,7 @@
 
 ## Python 
 
+- [EveryInc/hands-on-deck](https://github.com/EveryInc/hands-on-deck) - Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as an Agent Skill.
 - [microsoft/fastcontext](https://github.com/microsoft/fastcontext) - FastContext: Training Efficient Repository Explorer for Coding Agents
 - [arkhai-io/simple-compute-market](https://github.com/arkhai-io/simple-compute-market) - 
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -5493,7 +5495,7 @@
 - [TheBlokeAI/AIScripts](https://github.com/TheBlokeAI/AIScripts) - Some simple scripts that I use day-to-day when working with LLMs and Huggingface Hub
 - [bazelbuild/bazel-bench](https://github.com/bazelbuild/bazel-bench) - Benchmarking tool for bazel
 - [Skydio/revup](https://github.com/Skydio/revup) - Upload once to create multiple, relative PRs. Productivity-focused git tools with patch revision tracking, rebase detection and more. Uses python and git plumbing commands.
-- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [lucidrains/naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
@@ -6161,7 +6163,7 @@
 - [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 8nV1A94UnmoidK3ujRMmxdgBZzeJTrezz4Hd2nRMpump
 - [bgreenwell/lstr](https://github.com/bgreenwell/lstr) - A fast, minimalist directory tree viewer, written in Rust.
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [dathere/qsv](https://github.com/dathere/qsv) - Blazing-fast Data-Wrangling toolkit
@@ -6437,7 +6439,7 @@
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
+- [nikivdev/code](https://github.com/nikivdev/code) - 
 - [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 - [openethereum/parity-ethereum](https://github.com/openethereum/parity-ethereum) - The fast, light, and robust client for Ethereum-like networks.
 - [cross-rs/cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -6560,7 +6562,6 @@
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [remileduc/sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available 
 - [asdf-community/asdf-golang](https://github.com/asdf-community/asdf-golang) - Go plugin for the asdf version manager [maintainer=@kennyp]
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [xonixx/makesure](https://github.com/xonixx/makesure) - Simple task/command runner with declarative goals and dependencies
@@ -7047,7 +7048,7 @@
 - [zckly/create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai) - Build full-stack, type-safe, LLM-powered apps with the T3 Stack, Turborepo, OpenAI, and Langchain
 - [meza/trance-stack](https://github.com/meza/trance-stack) - A production-ready Remix stack built for AWS Lambda. Authentication. Security, Internationalization, Feature Flags, Analytics, Tests, Storybook, Ephemeral and Production CI/CD and more.
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
-- [react-component/virtual-list](https://github.com/react-component/virtual-list) - 🧾 React Virtual List Component which worked with animation
+- [react-component/virtual-list](https://github.com/react-component/virtual-list) - 📜 Virtual scrolling list component for React
 - [bitjson/qr-code](https://github.com/bitjson/qr-code) - A no-framework, no-dependencies, customizable, animate-able, SVG-based &lt;qr-code&gt; HTML element.
 - [bvaughn/suspense](https://github.com/bvaughn/suspense) - Utilities for working with React Suspense
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
@@ -7614,7 +7615,7 @@
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - Safe and idiomatic TypeScript types to handle null, error, and async code handling: Maybe, Result, and Task types that are really nice.
 - [jamiebuilds/chunkd](https://github.com/jamiebuilds/chunkd) - Get a chunk of an array based on the total number of chunks and current index
-- [react-component/upload](https://github.com/react-component/upload) - React Upload
+- [react-component/upload](https://github.com/react-component/upload) - 📤 Upload UI component for React
 - [xavdid/typed-install](https://github.com/xavdid/typed-install) - [Project] Easily install new packages and their types, every time.
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
@@ -7733,7 +7734,7 @@
 - [anish000kumar/redux-box](https://github.com/anish000kumar/redux-box) - Modular and easy-to-grasp redux  based state management, with least boilerplate
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-- [react-component/table](https://github.com/react-component/table) - React Table
+- [react-component/table](https://github.com/react-component/table) - 📋 Data table component for React
 - [artsy/reaction](https://github.com/artsy/reaction) - Artsy's publishing components
 - [artsy/emission](https://github.com/artsy/emission) - ⚠️ Deprecated repo, moved to artsy/eigen ➡️ React Native Components
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -7966,7 +7967,7 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
 - [pact-foundation/pact-js](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
-- [react-component/tabs](https://github.com/react-component/tabs) - React Tabs
+- [react-component/tabs](https://github.com/react-component/tabs) - 📑 Tabs UI component for React
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [rommguy/react-custom-scroll](https://github.com/rommguy/react-custom-scroll) - Easily customize the browser scroll bar with native OS scroll behavior
 - [robertknight/webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of Webpack bundles
@@ -8025,7 +8026,7 @@
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [react-component/slider](https://github.com/react-component/slider) - React Slider
-- [react-component/tooltip](https://github.com/react-component/tooltip) - React Tooltip
+- [react-component/tooltip](https://github.com/react-component/tooltip) - 💡 Tooltip UI component for React
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [zz85/space-radar](https://github.com/zz85/space-radar) - Fast Disk And Memory Space Visualization App for Mac, Windows and Ubuntu
