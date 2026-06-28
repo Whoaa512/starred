@@ -7730,7 +7730,7 @@
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
 - [assafg/osiris](https://github.com/assafg/osiris) - Simple Event Sourcing for NodeJS
 - [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
-- [chart-kit/react-native-chart-kit](https://github.com/chart-kit/react-native-chart-kit) - 📊React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart, Contribution graph (heatmap)
+- [chart-kit/react-native-chart-kit](https://github.com/chart-kit/react-native-chart-kit) - Beautiful charts for React Native. Line, area, bar, pie, donut, progress, and contribution heatmaps for dashboards, reports, and data-rich mobile apps.
 - [anish000kumar/redux-box](https://github.com/anish000kumar/redux-box) - Modular and easy-to-grasp redux  based state management, with least boilerplate
 - [rematch/rematch](https://github.com/rematch/rematch) - The Redux Framework
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
@@ -7738,7 +7738,7 @@
 - [artsy/reaction](https://github.com/artsy/reaction) - Artsy's publishing components
 - [artsy/emission](https://github.com/artsy/emission) - ⚠️ Deprecated repo, moved to artsy/eigen ➡️ React Native Components
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [react-component/select](https://github.com/react-component/select) - React Select
+- [react-component/select](https://github.com/react-component/select) - 🎯 Composable Select component for React, with search, async-friendly option data, custom rendering, and virtual scrolling.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [bcherny/undux](https://github.com/bcherny/undux) - ⚡️ Dead simple state for React. Now with Hooks support.
 - [funkia/list](https://github.com/funkia/list) - 🐆 An immutable list with unmatched performance and a comprehensive functional API.
@@ -7746,7 +7746,7 @@
 - [mockdeep/typewiz](https://github.com/mockdeep/typewiz) - Automatically discover and add missing types in your TypeScript code
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [bcherny/flow-to-typescript](https://github.com/bcherny/flow-to-typescript) - Convert Flow-annotated files to TypeScript
-- [react-component/menu](https://github.com/react-component/menu) - React Menu
+- [react-component/menu](https://github.com/react-component/menu) - 🧭 Accessible React menu primitives for navigation, command surfaces, and nested item trees.
 - [final-form/final-form](https://github.com/final-form/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management
 - [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - AI-friendly enterprise front-end best practices
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
@@ -8025,7 +8025,7 @@
 - [witheve/Eve](https://github.com/witheve/Eve) - Better tools for thought
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-- [react-component/slider](https://github.com/react-component/slider) - React Slider
+- [react-component/slider](https://github.com/react-component/slider) - 🎚️ Accessible React slider for single values, ranges, marks, and editable handles.
 - [react-component/tooltip](https://github.com/react-component/tooltip) - 💡 Tooltip UI component for React
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
