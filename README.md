@@ -1590,7 +1590,7 @@
 - [ghcjs/jsaddle](https://github.com/ghcjs/jsaddle) - JavaScript interface that works with GHCJS or GHC
 - [dfinity-side-projects/dhc](https://github.com/dfinity-side-projects/dhc) - Compiles Haskell to WebAssembly
 - [lspitzner/brittany](https://github.com/lspitzner/brittany) - haskell source code formatter
-- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell web framework
+- [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty web framework
 - [aviaviavi/legion](https://github.com/aviaviavi/legion) - Simple blockchain server written in Haskell for educational purposes
 - [seagreen/plate](https://github.com/seagreen/plate) - Algebraic type based schema system
 - [dhess/pinpon](https://github.com/dhess/pinpon) - A doorbell service in Haskell. No, really.
