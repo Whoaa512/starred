@@ -4698,7 +4698,7 @@
 - [davidgiven/wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 - [spartanui-wow/SpartanUI](https://github.com/spartanui-wow/SpartanUI) - SpartanUI
 - [Questie/Questie](https://github.com/Questie/Questie) - Questie: The WoW Classic quest helper
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [winterbeak/Noneuclilypads](https://github.com/winterbeak/Noneuclilypads) - It's tough surviving the non-Euclidean marshlands. A roguelike with a broken grid, made for the 2019 GitHub Game-Off.
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
