@@ -1632,7 +1632,7 @@
 - [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform) - First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business.
 - [vmware-archive/differential-datalog](https://github.com/vmware-archive/differential-datalog) - DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not writ
 - [runsidekick/sidekick](https://github.com/runsidekick/sidekick) - Sidekick is no longer in service
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [JetBrains/commit-status-publisher](https://github.com/JetBrains/commit-status-publisher) - TeamCity commit status publisher
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
@@ -3347,7 +3347,6 @@
 - [sindresorhus/is-camera-on-cli](https://github.com/sindresorhus/is-camera-on-cli) - Check if a Mac camera is on
 - [sindresorhus/p-event](https://github.com/sindresorhus/p-event) - Promisify an event by waiting for it to be emitted
 - [leebyron/testcheck-js](https://github.com/leebyron/testcheck-js) - Generative testing for JavaScript
-- [rse/stmux](https://github.com/rse/stmux) - Simple Terminal Multiplexer for Node.js Environments
 - [gotwarlost/istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use ca
 - [notwaldorf/tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.
 - [nickpisacane/maybe-you-meant](https://github.com/nickpisacane/maybe-you-meant) - Catch deceptive prop typos in your react apps
@@ -4306,7 +4305,7 @@
 - [azproduction/node-mc](https://github.com/azproduction/node-mc) - nmc – Midnight Commander written in React/Node stack.
 - [ptarjan/node-cache](https://github.com/ptarjan/node-cache) - A simple in-memory cache for nodejs
 - [chaijs/chai-as-promised](https://github.com/chaijs/chai-as-promised) - Extends Chai with assertions about promises.
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - 📦🚀 Fully automated version management and package publishing
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [sindresorhus/configstore](https://github.com/sindresorhus/configstore) - Easily load and persist config without having to think about where and how
@@ -4819,6 +4818,7 @@
 
 ## Others 
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [DataHaskell/awesome-haskell-ml](https://github.com/DataHaskell/awesome-haskell-ml) - 📚 - Resources for Machine Learning and Haskell
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
@@ -5379,13 +5379,13 @@
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 - [sirbread/sink](https://github.com/sirbread/sink) - sync any directory with any device on your local network
 - [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai) - A neurosymbolic perspective on LLMs
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter
 - [featureform/enrichmcp](https://github.com/featureform/enrichmcp) - EnrichMCP is a python framework for building data driven MCP servers
 - [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
 - [Kuberwastaken/meow](https://github.com/Kuberwastaken/meow) - The most Purr-fect Image File Format for your AI workflows
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [CNCKitchen/ConicalSlicer](https://github.com/CNCKitchen/ConicalSlicer) - Python Scripts for Conical GCode Slicing
@@ -5778,6 +5778,7 @@
 - [ethereum/lahja](https://github.com/ethereum/lahja) - Lahja is a generic multi process event bus implementation written in Python 3.6+ to enable lightweight inter-process communication, based on non-blocking asyncio
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [armadsen/analyze_apps](https://github.com/armadsen/analyze_apps) - Script to analyze Swift usage in iOS or Mac apps
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
 - [abdilahrf/shania](https://github.com/abdilahrf/shania) - Scan secrets from Continuous Integration Build Logs
@@ -7471,7 +7472,6 @@
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
 - [Nishkalkashyap/Quark-electron](https://github.com/Nishkalkashyap/Quark-electron) - Quark is a cross-platform, integrated development environment for rapidly building - functional , prototypal projects, written in HTML, CSS and JavaScript with native desktop app like capabilities.
 - [elastic/search-ui](https://github.com/elastic/search-ui) - Search UI. Libraries for the fast development of modern, engaging search experiences.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -7904,6 +7904,7 @@
 - [dolphin-wood/smooth-scrollbar](https://github.com/dolphin-wood/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
 - [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
 - [FinNLP/en-inflectors](https://github.com/FinNLP/en-inflectors) - 📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation.
+- [rse/stmux](https://github.com/rse/stmux) - Simple Terminal Multiplexer for Node.js Environments
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
