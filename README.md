@@ -955,7 +955,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
-- [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time. (https://codeberg.org/mrus/zeit)
+- [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time. (https://tty.fail/mrus/zeit)
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [rgburke/grv](https://github.com/rgburke/grv) - GRV is a terminal interface for viewing git repositories
@@ -3498,7 +3498,7 @@
 - [timarney/react-faq](https://github.com/timarney/react-faq) - A collection of links to help answer your questions about React.js
 - [kirillrogovoy/promised-pipe](https://github.com/kirillrogovoy/promised-pipe) - A ramda.pipe-like utility that handles promises internally with zero dependencies
 - [bencripps/react-redux-grid](https://github.com/bencripps/react-redux-grid) - A React Grid/Tree Component written in the Redux Pattern
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [ZijianHe/koa-router](https://github.com/ZijianHe/koa-router) - Router middleware for koa.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
