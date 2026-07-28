@@ -281,6 +281,7 @@
 - [mnunberg/jsonsl](https://github.com/mnunberg/jsonsl) - Embeddable, Fast, Streaming, Non-Buffering JSON Parser
 - [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
 - [node-on-mobile/node-on-android](https://github.com/node-on-mobile/node-on-android) - Make Node.JS apps for Android
+- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [diracdeltas/FastestWebsiteEver](https://github.com/diracdeltas/FastestWebsiteEver) - ultrafast single TCP packet audio/visual experience
 - [stackgl/headless-gl](https://github.com/stackgl/headless-gl) - 🎃 Windowless WebGL for node.js
 - [XProger/OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
@@ -1416,7 +1417,7 @@
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [ExcessiveMotion/controller-hardware](https://github.com/ExcessiveMotion/controller-hardware) - 
-- [herol3oy/austen](https://github.com/herol3oy/austen) - 📚 discover story relationships
+- [herol3oy/austen](https://github.com/herol3oy/austen) - 📚 Literary relationship maps
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [benwinding/command-pal](https://github.com/benwinding/command-pal) - The hackable command palette for the web, inspired by Visual Studio Code.
@@ -1701,7 +1702,7 @@
 - [Whoaa512/openclaw-billing-proxy](https://github.com/Whoaa512/openclaw-billing-proxy) - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage
 - [zacdcook/openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
 - [profbernardoj/everclaw-community-branches](https://github.com/profbernardoj/everclaw-community-branches) - Decentralized AI inference for OpenClaw agents. Powered by Morpheus AI. Stake MOR, access Kimi K2.5 + 10 models, never run out of inference.
 - [mkubicek/xTap](https://github.com/mkubicek/xTap) - Stealthy, client-side Chrome extension that silently archives X/Twitter tweets from browser GraphQL responses into daily JSONL files.
 - [askmojo/moltcraft](https://github.com/askmojo/moltcraft) - Your AI Agents, Alive in a World — Isometric pixel-art dashboard for Moltbot
@@ -4086,7 +4087,7 @@
 - [lvandeve/tmai](https://github.com/lvandeve/tmai) - 
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [mogill/ems](https://github.com/mogill/ems) - Extended Memory Semantics - Persistent shared object memory and parallelism for Node.js and Python
-- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - Awesome list of progressive web apps!
+- [hemanth/awesome-pwa](https://github.com/hemanth/awesome-pwa) - A curated list of Progressive Web Apps, resources, tools and articles
 - [dvdzkwsk/react-redux-starter-kit](https://github.com/dvdzkwsk/react-redux-starter-kit) - Get started with React, Redux, and React-Router.
 - [mozilla/node-client-sessions](https://github.com/mozilla/node-client-sessions) - secure sessions stored in cookies
 - [bdefore/universal-redux](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
@@ -4697,7 +4698,6 @@
 - [Questie/Questie](https://github.com/Questie/Questie) - Questie: The WoW Classic quest helper
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 - [winterbeak/Noneuclilypads](https://github.com/winterbeak/Noneuclilypads) - It's tough surviving the non-Euclidean marshlands. A roguelike with a broken grid, made for the 2019 GitHub Game-Off.
-- [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 - [nathancahill/Anycomplete](https://github.com/nathancahill/Anycomplete) - The magic of Google Autocomplete while you're typing. Anywhere.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [docker-archive-public/docker.dockercraft](https://github.com/docker-archive-public/docker.dockercraft) - Docker + Minecraft = Dockercraft
@@ -5302,6 +5302,7 @@
 - [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
+- [Cranot/deep-research](https://github.com/Cranot/deep-research) - Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
 - [celltype/celltype-agent](https://github.com/celltype/celltype-agent) - 
 - [Zyphra/zuna](https://github.com/Zyphra/zuna) - Python package for Zuna, an EEG foundation model for inference.
@@ -6502,7 +6503,6 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [gnekt/My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew) - Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and y
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
-- [Cranot/deep-research](https://github.com/Cranot/deep-research) - Turn any question into multi-agent exploration. Recursive Claude agents that spawn sub-agents.
 - [ibuhs/Kokoro-TTS-Pause](https://github.com/ibuhs/Kokoro-TTS-Pause) - Enhances Kokoro TTS output by merging segments with dynamic, programmable pauses for meditative or narrative flow.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [Tenobrus/claude-rlm](https://github.com/Tenobrus/claude-rlm) - Recursive Language Models for Claude Code — process arbitrarily long inputs via recursive sub-agent delegation
@@ -6764,6 +6764,7 @@
 
 ## TypeScript 
 
+- [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 - [traycerai/traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
 - [nvergez/orca-viz](https://github.com/nvergez/orca-viz) - See what your Orca agents are doing — the task DAG, who is working what, and the gates blocking the run.
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Claude Code token usage by rendering text context as images
@@ -6806,7 +6807,7 @@
 - [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) - The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source.
 - [yuvalsuede/claudia](https://github.com/yuvalsuede/claudia) - CLI task manager for AI agents with MCP server support
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for autonomous agents. 55+ models (8 free), &lt;1ms local routing, USDC payments on Base & Solana via x402.
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for autonomous agents. 66 models (8 free), &lt;1ms local routing, USDC payments on Base & Solana via x402.
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [bee-computer/bee-cli](https://github.com/bee-computer/bee-cli) - CLI client for Bee
 - [kunickiaj/codemem](https://github.com/kunickiaj/codemem) - A lightweight persistent-memory companion for OpenCode & Claude
