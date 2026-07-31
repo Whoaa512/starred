@@ -1701,7 +1701,7 @@
 - [Whoaa512/openclaw-billing-proxy](https://github.com/Whoaa512/openclaw-billing-proxy) - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage
 - [zacdcook/openclaw-billing-proxy](https://github.com/zacdcook/openclaw-billing-proxy) - Route OpenClaw API requests through Claude Code subscription billing instead of Extra Usage
 - [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.
 - [profbernardoj/everclaw-community-branches](https://github.com/profbernardoj/everclaw-community-branches) - Decentralized AI inference for OpenClaw agents. Powered by Morpheus AI. Stake MOR, access Kimi K2.5 + 10 models, never run out of inference.
 - [mkubicek/xTap](https://github.com/mkubicek/xTap) - Stealthy, client-side Chrome extension that silently archives X/Twitter tweets from browser GraphQL responses into daily JSONL files.
 - [askmojo/moltcraft](https://github.com/askmojo/moltcraft) - Your AI Agents, Alive in a World — Isometric pixel-art dashboard for Moltbot
@@ -2873,7 +2873,7 @@
 - [appleple/lite-editor](https://github.com/appleple/lite-editor) - A Modern WYSIWYG Editor especially for inline elements
 - [rapidjs/rapid.js](https://github.com/rapidjs/rapid.js) - An ORM-like Interface and a Router For Your API Requests
 - [jackmoore/autosize](https://github.com/jackmoore/autosize) - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
-- [Kikobeats/sort-keys-recursive](https://github.com/Kikobeats/sort-keys-recursive) - Sort the keys of an array/object recursively.
+- [Kikobeats/sort-keys-recursive](https://github.com/Kikobeats/sort-keys-recursive) - Sort object keys recursively for deterministic JSON serialization and stable hashing.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter
 - [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli) - 📊 Analyze website stack from the terminal  💻
@@ -3484,7 +3484,6 @@
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 - [LeaVerou/duoload](https://github.com/LeaVerou/duoload) - Simple, client-side comparison of website loading behavior
 - [tcoopman/image-webpack-loader](https://github.com/tcoopman/image-webpack-loader) - Image loader module for webpack
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [yamafaktory/pattern-guard](https://github.com/yamafaktory/pattern-guard) - JavaScript pattern guards 💂
 - [craftship/codebox-npm](https://github.com/craftship/codebox-npm) - Serverless private npm registry using https://serverless.com/
 - [joshuakarjala/encrypt-env](https://github.com/joshuakarjala/encrypt-env) - Share encrypted environment files through Git
@@ -5281,7 +5280,8 @@
 
 ## Python 
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [EveryInc/hands-on-deck](https://github.com/EveryInc/hands-on-deck) - Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as an Agent Skill.
 - [arkhai-io/simple-compute-market](https://github.com/arkhai-io/simple-compute-market) - 
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -6933,7 +6933,7 @@
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native and React
 - [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) - The official TypeScript/Node client for the Pinecone vector database
 - [BLamy/onshape-mcp](https://github.com/BLamy/onshape-mcp) - MCP server or onshape CAD
