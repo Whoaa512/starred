@@ -6793,7 +6793,7 @@
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [provos/ironcurtain](https://github.com/provos/ironcurtain) - A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironcurtain.dev)
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
@@ -7481,7 +7481,7 @@
 - [microsoft/just](https://github.com/microsoft/just) - The task library that just works
 - [ctrl-freaks/freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - freezeframe.js is a library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or with trigger / release functions.
 - [tanepiper/node-bitly](https://github.com/tanepiper/node-bitly) - A Bit.ly library for node.js - This project is looking for a new maintainer
-- [unix/func](https://github.com/unix/func) - Tiny typed CLI framework
+- [unix/func](https://github.com/unix/func) - Build CLIs like TypeScript applications.
 - [rafal-r/airr-react](https://github.com/rafal-r/airr-react) - Animated views navigation and more for your Desktop and Mobile ReactJS app
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [blakeembrey/base64url](https://github.com/blakeembrey/base64url) - Base64 URL for node.js buffers
