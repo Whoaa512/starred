@@ -1339,7 +1339,7 @@
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [stapelberg/expanderr](https://github.com/stapelberg/expanderr) - expands the Go Call Expression under your cursor to check errors
 - [google/cloudprober](https://github.com/google/cloudprober) - [Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [serverless/event-gateway](https://github.com/serverless/event-gateway) - React to any event with serverless functions across clouds
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
@@ -1441,7 +1441,7 @@
 - [hunar4321/particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 - [SpeechResearch/speechresearch.github.io](https://github.com/SpeechResearch/speechresearch.github.io) - 
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
+- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Scrape metadata from any URL using Open Graph, JSON-LD, HTML meta tags, and smart fallbacks.
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 - [pazams/go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) - A comparison between Go and Javascript
 - [sayanarijit/qrcode.show](https://github.com/sayanarijit/qrcode.show) - Generate QR code easily for free - QR Code Generation as a Service
@@ -1854,7 +1854,6 @@
 - [jcoglan/canopy](https://github.com/jcoglan/canopy) - A parser compiler for Java, JavaScript, Python, Ruby
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
-- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [antonmedv/eat](https://github.com/antonmedv/eat) - Eats anything, spits out JSON 🧀
@@ -2624,7 +2623,7 @@
 - [aaronshaf/react-toggle](https://github.com/aaronshaf/react-toggle) - Elegant, accessible toggle component for React. Also a glorified checkbox.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [e-oj/grabity](https://github.com/e-oj/grabity) - Generate link previews from pages with Open Graph or Twitter Cards markup. Just grab it! 🎣
-- [microlinkhq/async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Rate limit made simple, easy, async.
+- [microlinkhq/async-ratelimiter](https://github.com/microlinkhq/async-ratelimiter) - Simple async rate limiter for Node.js — promise-friendly limits for APIs and workers.
 - [alincode/youtube-playlist-summary](https://github.com/alincode/youtube-playlist-summary) - it could help you easy to get all playlists informations.
 - [Mr0grog/google-docs-to-markdown](https://github.com/Mr0grog/google-docs-to-markdown) - A minimal webapp for converting Google Docs to Markdown
 - [nnupoor-zz/js_designpatterns](https://github.com/nnupoor-zz/js_designpatterns) - 
@@ -7201,6 +7200,7 @@
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract article from given URL
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [GoogleChromeLabs/form-troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - 
@@ -7332,7 +7332,7 @@
 - [mashrafdev/faven](https://github.com/mashrafdev/faven) - A web tool to help you generate favicons
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 - [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
