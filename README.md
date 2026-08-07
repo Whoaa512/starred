@@ -1339,7 +1339,7 @@
 - [openfaas/faas-netes](https://github.com/openfaas/faas-netes) - Serverless Functions For Kubernetes
 - [stapelberg/expanderr](https://github.com/stapelberg/expanderr) - expands the Go Call Expression under your cursor to check errors
 - [google/cloudprober](https://github.com/google/cloudprober) - [Moved to cloudprober/cloudprober] An active monitoring software to detect failures before your customers do.
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [wal-g/wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 - [serverless/event-gateway](https://github.com/serverless/event-gateway) - React to any event with serverless functions across clouds
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
@@ -6343,7 +6343,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - [DEPRECATED] This repo will move into gihub.com/sunface/rust-course
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [jsoverson/node-to-rust](https://github.com/jsoverson/node-to-rust) - 
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
