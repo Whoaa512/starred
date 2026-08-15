@@ -7557,7 +7557,7 @@
 - [pedronauck/react-adopt](https://github.com/pedronauck/react-adopt) - :sunglasses: Compose render props components like a pro
 - [apollographql/apollo-tooling](https://github.com/apollographql/apollo-tooling) - ✏️ Apollo CLI for client tooling (Mostly replaced by Rover)
 - [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
-- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - SurveyJS is an open-source JavaScript form builder library that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue
+- [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surveys, quizzes, and other data-entry tools.
 - [shirakaba/nside](https://github.com/shirakaba/nside) - A JavaScript IDE for accessing a phone/tablet's native runtime via NativeScript bindings!
 - [solvvy/redact-pii](https://github.com/solvvy/redact-pii) - Remove personally identifiable information from text.
 - [nklayman/ca-dmv-poller](https://github.com/nklayman/ca-dmv-poller) - A tool to poll multiple DMV locations and find the earliest available appointment time.
