@@ -1102,7 +1102,7 @@
 - [dropbox/dbx_build_tools](https://github.com/dropbox/dbx_build_tools) - Dropbox's Bazel rules and tools
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub & GitLab
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 - [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast) - cast YouTube videos to your smart TV from command-line
 - [jespino/mattermost-plugin-messages-queue](https://github.com/jespino/mattermost-plugin-messages-queue) - Mattermost Message Queue Plugin
@@ -4815,6 +4815,7 @@
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 - [DataHaskell/awesome-haskell-ml](https://github.com/DataHaskell/awesome-haskell-ml) - 📚 - Resources for Machine Learning and Haskell
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [ast-grep/agent-skill](https://github.com/ast-grep/agent-skill) - 
 - [rokpiy/auto-commenter](https://github.com/rokpiy/auto-commenter) - A Claude skill that automatically posts personalized, authentic comments in your target communities.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -5300,7 +5301,6 @@
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
 - [celltype/celltype-agent](https://github.com/celltype/celltype-agent) - 
 - [Zyphra/zuna](https://github.com/Zyphra/zuna) - Python package for Zuna, an EEG foundation model for inference.
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [mvparakhin/ml-tidbits](https://github.com/mvparakhin/ml-tidbits) - Various ML tidbits in Python/PyTorch and C++
 - [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -5913,7 +5913,7 @@
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [SublimeLinter/SublimeLinter-flow](https://github.com/SublimeLinter/SublimeLinter-flow) - SublimeLinter plugin for JavaScript static type checking, using flow.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [gongzhitaao/tensorflow-adversarial](https://github.com/gongzhitaao/tensorflow-adversarial) - Crafting adversarial images
 - [fchollet/deep-learning-models](https://github.com/fchollet/deep-learning-models) - Keras code and weights files for popular deep learning models.
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
@@ -6508,7 +6508,7 @@
 - [openclaw/goplaces](https://github.com/openclaw/goplaces) - Modern Google Places CLI in Go
 - [Dimillian/Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 - [jimmystridh/alfred-trimmy](https://github.com/jimmystridh/alfred-trimmy) - Alfred workflow for Trimmy - trim multi-line shell commands from clipboard
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [coderabbitai/git-worktree-runner](https://github.com/coderabbitai/git-worktree-runner) - Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parallel 
 - [alexfazio/cc-trace](https://github.com/alexfazio/cc-trace) - Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
