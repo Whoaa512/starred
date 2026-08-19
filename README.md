@@ -4483,7 +4483,6 @@
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
 - [amasad/debug_utils](https://github.com/amasad/debug_utils) - Advanced JavaScript Debugging Utility Library
 - [hijonathan/google-scripts](https://github.com/hijonathan/google-scripts) - Some useful scripts for Google Apps.
-- [enspirit/finitio.js](https://github.com/enspirit/finitio.js) - Finitio - In JavaScript
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
 - [aychtang/remove-whitespaces](https://github.com/aychtang/remove-whitespaces) - For people who don't sed.
 - [typicode/katon](https://github.com/typicode/katon) - (use hotel instead)
@@ -5349,7 +5348,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise 
 - [Whoaa512/claude-skills](https://github.com/Whoaa512/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
 - [GeneralUserModels/demos](https://github.com/GeneralUserModels/demos) - 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
@@ -6340,7 +6339,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
 - [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - This book was designed for easily diving into and getting skilled with Rust It's very easy to use. All you need to do is to make each exercise compile without ERRORS and Panics!
+- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [nickel-lang/nickel](https://github.com/nickel-lang/nickel) - Better configuration for less
 - [jsoverson/node-to-rust](https://github.com/jsoverson/node-to-rust) - 
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -6390,7 +6389,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [stepchowfun/docuum](https://github.com/stepchowfun/docuum) - Docuum performs least recently used (LRU) eviction of Docker images. 🗑️
-- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees
 - [kurtlawrence/papyrus](https://github.com/kurtlawrence/papyrus) - (Rust) repl
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
@@ -8072,6 +8071,7 @@
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
+- [enspirit/finitio.js](https://github.com/enspirit/finitio.js) - Finitio - In JavaScript
 - [orbitjs/orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
