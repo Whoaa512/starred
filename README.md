@@ -44,6 +44,7 @@
 - [Hack](#hack)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [Inno Setup](#inno-setup)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -1089,7 +1090,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [KablamoOSS/gofilewalk](https://github.com/KablamoOSS/gofilewalk) - 
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
-- [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go.
+- [AlexEidt/Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O, GIF Creation, and Webcam Streaming in Go
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [nitrictech/nitric](https://github.com/nitrictech/nitric) - Nitric is a multi-language framework for cloud applications with infrastructure from code.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -1389,7 +1390,6 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [redspread/spread](https://github.com/redspread/spread) - Docker to Kubernetes in one command
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
@@ -1613,6 +1613,10 @@
 - [z0w0/helm](https://github.com/z0w0/helm) - A functionally reactive game engine, with headgear to protect you from the headache of game development provided.
 - [elm/compiler](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [elm-lang/elm-package](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries
+
+## Inno Setup 
+
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 
 ## Java 
 
@@ -5933,7 +5937,7 @@
 - [zzw922cn/Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) - End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [unknownuser88/consolewrap](https://github.com/unknownuser88/consolewrap) - This plugin helps you to work easily with log statements
-- [overshard/timestrap](https://github.com/overshard/timestrap) - Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.
+- [overshard/timestrap-django](https://github.com/overshard/timestrap-django) - Time tracking you can host anywhere, built on Django. Full export support in multiple formats and easily extensible.
 - [markop159/KODI-Popcorn-Time](https://github.com/markop159/KODI-Popcorn-Time) - With KODI Popcorn Time you can search for movies that you can see immediately in KODI.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [pichillilorenzo/JavaScript-Completions](https://github.com/pichillilorenzo/JavaScript-Completions) - JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.
