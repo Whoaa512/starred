@@ -338,7 +338,7 @@
 
 ## C++ 
 
-- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, deterministic map of any repo, blast radius, tests-to-run and quality deltas. Signatures at 80% fewer
+- [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [alexdantas/yetris](https://github.com/alexdantas/yetris) - Customizable Tetris(tm) for the terminal.
 - [Himanshu040604/Rewritten-KOKORO-in-GPT2](https://github.com/Himanshu040604/Rewritten-KOKORO-in-GPT2) - 
@@ -3679,7 +3679,6 @@
 - [nikhilaravi/serverless-graphql](https://github.com/nikhilaravi/serverless-graphql) - A serverless app using Node.js, AWS Lambda, API Gateway, React and GraphQL
 - [redux-orm/redux-orm](https://github.com/redux-orm/redux-orm) - NOT MAINTAINED – A small, simple and immutable ORM to manage relational data in your Redux store.
 - [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
-- [hackergrrl/argv-or-stdin](https://github.com/hackergrrl/argv-or-stdin) - use the 1st argument, or, if none is present, standard input
 - [palashkulsh/jira-cmd](https://github.com/palashkulsh/jira-cmd) - Another JIRA Command Line Interface for node.js
 - [osrec/currencyFormatter.js](https://github.com/osrec/currencyFormatter.js) - A super simple currency formatting library
 - [hoppula/react-apig-lambda](https://github.com/hoppula/react-apig-lambda) - Render React.js on-demand with CDN caching
@@ -6865,7 +6864,7 @@
 - [remorses/kimaki](https://github.com/remorses/kimaki) - all opencode features deeply integrated inside Discord. each project is a channel. each session a thread
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Drop your tokens. Ultrawork. Done.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
