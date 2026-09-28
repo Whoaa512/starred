@@ -1477,6 +1477,7 @@
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [tc39/proposal-built-in-modules](https://github.com/tc39/proposal-built-in-modules) - 
 - [rampatra/wedding-website](https://github.com/rampatra/wedding-website) - Our Wedding Website 👫
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [colorswall/CSS-file-icons](https://github.com/colorswall/CSS-file-icons) - Pure CSS icons for popular file extensions
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
@@ -1711,6 +1712,7 @@
 - [profbernardoj/everclaw-community-branches](https://github.com/profbernardoj/everclaw-community-branches) - Decentralized AI inference for OpenClaw agents. Powered by Morpheus AI. Stake MOR, access Kimi K2.5 + 10 models, never run out of inference.
 - [mkubicek/xTap](https://github.com/mkubicek/xTap) - Stealthy, client-side Chrome extension that silently archives X/Twitter tweets from browser GraphQL responses into daily JSONL files.
 - [askmojo/moltcraft](https://github.com/askmojo/moltcraft) - Your AI Agents, Alive in a World — Isometric pixel-art dashboard for Moltbot
+- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [YUZU-Hub/appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 - [SeanHeelan/anamnesis-release](https://github.com/SeanHeelan/anamnesis-release) - Automatic Exploit Generation with LLMs
@@ -2415,7 +2417,6 @@
 - [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 - [bvaughn/progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
-- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [amorey/sentineljs](https://github.com/amorey/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [Heydon/bruck](https://github.com/Heydon/bruck) - A prototyping system built with web components and the Houdini Paint API
@@ -6814,7 +6815,6 @@
 - [bee-computer/bee-cli](https://github.com/bee-computer/bee-cli) - CLI client for Bee
 - [kunickiaj/codemem](https://github.com/kunickiaj/codemem) - A lightweight persistent-memory companion for OpenCode & Claude
 - [timoncool/videosos](https://github.com/timoncool/videosos) - AI video production in the browser — text-to-video, image-to-video, lip sync, 100+ models. Google Veo 3.1, FLUX, Gemini, Imagen 4. Free, open-source, private.
-- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [jgarzik/botmaker](https://github.com/jgarzik/botmaker) - UI/app to Create containerized OpenClaw bots
 - [openai/openai-fm](https://github.com/openai/openai-fm) - Code for openai.fm, a demo for the OpenAI Speech API
 - [apple/pkl-vscode](https://github.com/apple/pkl-vscode) - Pkl language support for VS Code
