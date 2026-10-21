@@ -2576,7 +2576,7 @@
 - [LeoNero/react-img-zoom](https://github.com/LeoNero/react-img-zoom) - :microscope: A React component to zoom images on hover https://react-img-zoom.netlify.com/
 - [susielu/react-annotation](https://github.com/susielu/react-annotation) - Use react-annotation with built-in annotation types, or extend it to make custom annotations. It is made for annotations in SVG.
 - [jcmcneal/react-step-wizard](https://github.com/jcmcneal/react-step-wizard) - A modern flexible step wizard component built for React.
-- [vialer/vialer-js](https://github.com/vialer/vialer-js) - Pluggable WebRTC softphone and communication platform.
+- [voys/vialer-js](https://github.com/voys/vialer-js) - Pluggable WebRTC softphone and communication platform.
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [fusionjs/fusionjs.github.io](https://github.com/fusionjs/fusionjs.github.io) - Modern framework for fast, powerful React apps
 - [fusionjs/fusion-core](https://github.com/fusionjs/fusion-core) - Migrated to https://github.com/fusionjs/fusionjs
@@ -7817,6 +7817,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [urish/muse-js](https://github.com/urish/muse-js) - Muse 2016 EEG Headset JavaScript Library (using Web Bluetooth)
 - [ip-num/ip-num](https://github.com/ip-num/ip-num) - A TypeScript/JavaScript library for working with ASN, IPv4, and IPv6 numbers. It provides representations of these internet protocol numbers with the ability to perform various IP related operations l
@@ -8113,7 +8114,6 @@
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [mtbarta/monocorpus](https://github.com/mtbarta/monocorpus) - A notepad for software and machine learning
 - [konaraddi/web-riimote](https://github.com/konaraddi/web-riimote) - [2018] :iphone: -&gt; :video_game: Turn your smartphone into a 3D controller with a web app
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 ## XSLT 
