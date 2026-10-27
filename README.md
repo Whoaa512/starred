@@ -6090,7 +6090,7 @@
 ## Rust 
 
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
-- [Dicklesworthstone/franken_whisper](https://github.com/Dicklesworthstone/franken_whisper) - Agent-first Rust ASR orchestration stack: Bayesian backend routing across whisper.cpp/insanely-fast-whisper/whisper-diarization, real-time NDJSON streaming, SQLite persistence, TTY audio transport, co
+- [Dicklesworthstone/franken_whisper](https://github.com/Dicklesworthstone/franken_whisper) - Agent-first Rust ASR stack built on a real in-process pure-Rust Whisper engine (no FFI, no Python, no subprocess), with adaptive Bayesian routing across whisper.cpp/insanely-fast-whisper/diarization b
 - [Dicklesworthstone/eidetic_engine_cli](https://github.com/Dicklesworthstone/eidetic_engine_cli) - Durable, local-first, explainable memory for coding agents. A Rust CLI memory substrate built on the franken-stack (Asupersync, FrankenSQLite, Frankensearch, FrankenNetworkX).
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
@@ -6108,7 +6108,7 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 - [pydantic/monty](https://github.com/pydantic/monty) - A secure Python sandbox, written in Rust, for code written by AI.
 - [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 10x faster Homebrew client
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 - [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) - 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
