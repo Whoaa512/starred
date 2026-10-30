@@ -156,7 +156,6 @@
 
 ## C 
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% lo
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [burrito-elixir/burrito](https://github.com/burrito-elixir/burrito) - Wrap your application in a BEAM Burrito!
 - [gen2brain/raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for raylib, a simple and easy-to-use library to enjoy videogames programming.
@@ -2040,7 +2039,7 @@
 - [sindresorhus/empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [crubier/code-to-graph](https://github.com/crubier/code-to-graph) - Transforms JS code 🙈into mermaid flowchart 🐵
-- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+- [porsager/postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [sketch-hq/SketchAPI](https://github.com/sketch-hq/SketchAPI) - The JavaScript plugin library embedded in Sketch
 - [webpack-contrib/worker-loader](https://github.com/webpack-contrib/worker-loader) - A webpack loader that registers a script as a Web Worker
@@ -5292,7 +5291,7 @@
 - [Zyphra/zuna](https://github.com/Zyphra/zuna) - Python package for Zuna, an EEG foundation model for inference.
 - [mvparakhin/ml-tidbits](https://github.com/mvparakhin/ml-tidbits) - Various ML tidbits in Python/PyTorch and C++
 - [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [doneyli/claude-code-langfuse-template](https://github.com/doneyli/claude-code-langfuse-template) - Self-hosted Langfuse for Claude Code session observability
 - [halfprice06/rlmgrep](https://github.com/halfprice06/rlmgrep) - 
@@ -6762,6 +6761,7 @@
 - [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) - Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode stand
 - [dbachelder/pi-btw](https://github.com/dbachelder/pi-btw) - 
 - [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% lo
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [jordanburke/reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server) - ⚙️ A Model Context Protocol (MCP) that provides tools for fetching and creating Reddit content
 - [voffie/better-music](https://github.com/voffie/better-music) - 
@@ -6914,7 +6914,7 @@
 - [glassflow/clickhouse-etl](https://github.com/glassflow/clickhouse-etl) - GlassFlow ETL: Open source data ingestion and transformations for ClickHouse pipelines
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [RockwellShah/filekey](https://github.com/RockwellShah/filekey) - Filekey: encrypt and share files securely with passkeys.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [vanviegen/aberdeen](https://github.com/vanviegen/aberdeen) - A TypeScript/JavaScript library for quickly building performant declarative user interfaces without the use of a virtual DOM.
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
@@ -6925,7 +6925,7 @@
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native and React
 - [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) - The official TypeScript/Node client for the Pinecone vector database
 - [BLamy/onshape-mcp](https://github.com/BLamy/onshape-mcp) - MCP server or onshape CAD
@@ -7904,7 +7904,7 @@
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
 - [dolphin-wood/smooth-scrollbar](https://github.com/dolphin-wood/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
-- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
+- [britecharts/britecharts](https://github.com/britecharts/britecharts) - Finished, accessible charts that any page, and any agent, can add with one script tag or one validated JSON config.
 - [SweetIQ/schemats](https://github.com/SweetIQ/schemats) - Generate typescript interface definitions from SQL database schema
 - [FinNLP/en-inflectors](https://github.com/FinNLP/en-inflectors) - 📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation.
 - [rse/stmux](https://github.com/rse/stmux) - Simple Terminal Multiplexer for Node.js Environments
