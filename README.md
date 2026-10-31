@@ -6854,7 +6854,7 @@
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - Legacy release: original framework for AI souls
-- [outray-tunnel/outray](https://github.com/outray-tunnel/outray) - Open-source ngrok alternative.
+- [outray-platform/outray](https://github.com/outray-platform/outray) - Open-source ngrok alternative.
 - [badlogic/gccli](https://github.com/badlogic/gccli) - Minimal Google Calendar CLI
 - [badlogic/gmcli](https://github.com/badlogic/gmcli) - Minimal Gmail CLI
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
