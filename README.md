@@ -937,7 +937,7 @@
 - [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortl
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [jsouthworth/curry](https://github.com/jsouthworth/curry) - Curry arbitrary functions in go
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go
@@ -2530,7 +2530,7 @@
 - [tumblr/webpack-web-app-manifest-plugin](https://github.com/tumblr/webpack-web-app-manifest-plugin) - A webpack plugin that generates a PWA manifest and integrates with the assets JSON.
 - [Rich-Harris/shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against files staged in Git
 - [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides &lt;🏄/&gt;
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [async-library/react-async](https://github.com/async-library/react-async) - 🍾 Flexible promise-based React data loader
@@ -2642,6 +2642,7 @@
 - [nitin42/react-video-scroll](https://github.com/nitin42/react-video-scroll) - A React component to seek or control the video frame rate on scroll.
 - [jfairbank/revalidate](https://github.com/jfairbank/revalidate) - Elegant and composable validations
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
+- [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [creationix/js-git](https://github.com/creationix/js-git) - A JavaScript implementation of Git.
 - [TiBeN/shortcutd](https://github.com/TiBeN/shortcutd) - Launch commands when pressing keyboard keys combinations. No graph. env needed. Support keyboard hotplug
 - [Cretezy/Noderize](https://github.com/Cretezy/Noderize) - Create a Node app in less than 30 seconds.
@@ -3450,7 +3451,6 @@
 - [millermedeiros/js-signals](https://github.com/millermedeiros/js-signals) - Custom Event/Messaging system for JavaScript inspired by AS3-Signals
 - [jahredhope/base64-image-loader](https://github.com/jahredhope/base64-image-loader) - base64 image loader for webpack
 - [Gerhut/axios-debug-log](https://github.com/Gerhut/axios-debug-log) - Axios interceptor of logging request & response with debug library.
-- [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
 - [bilbof/purser](https://github.com/bilbof/purser) - A lightweight JavaScript library for preserving user data from first website visit to signup.
 - [MikaAK/s3-plugin-webpack](https://github.com/MikaAK/s3-plugin-webpack) - Uploads files to s3 after complete
 - [txgruppi/json2react](https://github.com/txgruppi/json2react) - Use JSON to create React Components.
@@ -3671,7 +3671,7 @@
 - [osrec/currencyFormatter.js](https://github.com/osrec/currencyFormatter.js) - A super simple currency formatting library
 - [hoppula/react-apig-lambda](https://github.com/hoppula/react-apig-lambda) - Render React.js on-demand with CDN caching
 - [bijection/g9](https://github.com/bijection/g9) - Automatically Interactive Graphics 🖼✨💯
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [GeekyAnts/react-native-easy-grid](https://github.com/GeekyAnts/react-native-easy-grid) - Easy React Native Layout & Grid for the Dumb
 - [redibox/core](https://github.com/redibox/core) - Modular Redis connection and PUBSUB subscription manager for node. Easily extendable. Built for performance, powered by ioredis.
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
@@ -5226,6 +5226,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [Yoast/whip](https://github.com/Yoast/whip) - A WordPress package to nudge users to upgrade their software versions (starting with PHP)
+- [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
 - [doitlikejustin/amazon-wish-lister](https://github.com/doitlikejustin/amazon-wish-lister) - Retrieve Amazon Wishlist and output to JSON, XML, or PHP Array Object
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred
@@ -6854,7 +6855,7 @@
 - [steipete/vox](https://github.com/steipete/vox) - Let's your agent run phone calls
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [opensouls/opensouls](https://github.com/opensouls/opensouls) - Legacy release: original framework for AI souls
-- [outray-platform/outray](https://github.com/outray-platform/outray) - Open-source ngrok alternative.
+- [outray-platform/outray](https://github.com/outray-platform/outray) - Opensource ngrok alternative.
 - [badlogic/gccli](https://github.com/badlogic/gccli) - Minimal Google Calendar CLI
 - [badlogic/gmcli](https://github.com/badlogic/gmcli) - Minimal Gmail CLI
 - [agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp) - Use Claude Agent SDK from any ACP client
@@ -7688,7 +7689,6 @@
 - [fahad19/proppy](https://github.com/fahad19/proppy) - Functional props composition for UI components (React.js & Vue.js)
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [AviVahl/ts-tools](https://github.com/AviVahl/ts-tools) - TypeScript Tools for Node.js
-- [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript
 - [saadq/lynt](https://github.com/saadq/lynt) - ✨ A zero config JavaScript linter with support for Typescript, Flow, and React.
 - [GoogleCloudPlatform/require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
