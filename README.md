@@ -220,7 +220,7 @@
 - [lloyd/yajl](https://github.com/lloyd/yajl) - A fast streaming JSON parsing library in C.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [smacker/go-tree-sitter](https://github.com/smacker/go-tree-sitter) - Golang bindings for tree-sitter https://github.com/tree-sitter/tree-sitter
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64\arm64 and loong64.
 - [gholker/led-backlight-cmstorm](https://github.com/gholker/led-backlight-cmstorm) - Mac app to turn on the backlight of your CM Storm Devastator keyboard (works with other keyboards as well!)
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -514,7 +514,6 @@
 - [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo) - An open autonomous driving platform
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [HumbleNet/HumbleNet](https://github.com/HumbleNet/HumbleNet) - a cross-platform networking library that works in the browser
-- [tuananh/camaro](https://github.com/tuananh/camaro) - camaro is a Node.js library that transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.
 - [nokiatech/heif](https://github.com/nokiatech/heif) - High Efficiency Image File Format
 - [mbasso/asm-dom](https://github.com/mbasso/asm-dom) - A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)
 - [HaoZeke/Q_ANN](https://github.com/HaoZeke/Q_ANN) - A proof of concept of Neural Networking for Quantum State recognition.
@@ -1016,7 +1015,6 @@
 - [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 - [adhocteam/pushup](https://github.com/adhocteam/pushup) - Pushup is for making modern, page-oriented web apps in Go
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
@@ -1542,6 +1540,7 @@
 - [x3dom/x3dom](https://github.com/x3dom/x3dom) - X3DOM. A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
 - [w3c/payment-request](https://github.com/w3c/payment-request) - Payment Request API
 - [voronianski/griddy.css](https://github.com/voronianski/griddy.css) - :book: Responsive 12 column based grid in 311 Bytes gzipped
+- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [lumpy-turnips/minty](https://github.com/lumpy-turnips/minty) - Step by step visualization of node processess
 - [Pomax/BezierInfo-2](https://github.com/Pomax/BezierInfo-2) - The development repo for the Primer on Bézier curves, https://pomax.github.io/bezierinfo
 - [tc39/proposal-object-rest-spread](https://github.com/tc39/proposal-object-rest-spread) - Rest/Spread Properties for ECMAScript
@@ -2433,7 +2432,7 @@
 - [embarklabs/neo-blessed](https://github.com/embarklabs/neo-blessed) - A drop-in replacement for for Blessed. A high-level terminal interface library for node.js.
 - [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular e
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
-- [Evercoder/culori](https://github.com/Evercoder/culori) - A comprehensive color library for JavaScript.
+- [danburzo/culori](https://github.com/danburzo/culori) - A comprehensive color library for JavaScript.
 - [sokra/rawact](https://github.com/sokra/rawact) - [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
 - [GoogleChromeLabs/jsbi](https://github.com/GoogleChromeLabs/jsbi) - JSBI is a pure-JavaScript implementation of the official ECMAScript BigInt proposal.
 - [supasate/connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4
@@ -6813,7 +6812,7 @@
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [junaid-mahmood/nlsh](https://github.com/junaid-mahmood/nlsh) - Turn natural language to terminal commands
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [cayden970207/eliza-town](https://github.com/cayden970207/eliza-town) - Enhanced version of AI Town with Map Editor
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [Nearcyan/vibecraft](https://github.com/Nearcyan/vibecraft) - It's Vibecraft!
@@ -6926,7 +6925,7 @@
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native and React
 - [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) - The official TypeScript/Node client for the Pinecone vector database
 - [BLamy/onshape-mcp](https://github.com/BLamy/onshape-mcp) - MCP server or onshape CAD
@@ -7887,6 +7886,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [OptimalBits/redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 - [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
+- [tuananh/camaro](https://github.com/tuananh/camaro) - camaro is a Node.js library that transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Deno
 - [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js, with SVG and Canvas rendering support
 - [brentlintner/synt](https://github.com/brentlintner/synt) - Find similar functions and classes in your JavaScript/TypeScript code.
@@ -7999,7 +7999,6 @@
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
-- [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [shashwatak/satellite-js](https://github.com/shashwatak/satellite-js) - Modular set of functions for SGP4 and SDP4 propagation of TLE and OMM.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
