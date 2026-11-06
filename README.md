@@ -1927,7 +1927,6 @@
 - [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser
 - [sindresorhus/run-applescript](https://github.com/sindresorhus/run-applescript) - Run AppleScript and get the result
 - [christopherthielen/check-peer-dependencies](https://github.com/christopherthielen/check-peer-dependencies) - Checks peer dependencies of the current NodeJS package.  Offers solutions for any that are unmet.
-- [jeremiak/airplane-mode](https://github.com/jeremiak/airplane-mode) - an easy way to cache api responses for offline client-side development
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [formulajs/formulajs](https://github.com/formulajs/formulajs) - JavaScript implementation of most Microsoft Excel formula functions
 - [handsontable/formula-parser](https://github.com/handsontable/formula-parser) - Javascript Library parsing Excel Formulas and more
@@ -2859,7 +2858,6 @@
 - [speakeasyjs/speakeasy](https://github.com/speakeasyjs/speakeasy) - **NOT MAINTAINED** Two-factor authentication for Node.js. One-time passcode generator (HOTP/TOTP) with support for Google Authenticator.
 - [jamestalmage/laxy](https://github.com/jamestalmage/laxy) - Proxies for lazy loading expensive objects
 - [konstantin24121/stylelint-performance-animation](https://github.com/konstantin24121/stylelint-performance-animation) - Stylelint rule for preventing the use of low performance animation
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [marmelab/admin-on-rest-graphql-demo](https://github.com/marmelab/admin-on-rest-graphql-demo) - 
 - [jhamlet/svg-react-loader](https://github.com/jhamlet/svg-react-loader) - Webpack SVG to React Component Loader
@@ -3146,7 +3144,7 @@
 - [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [firtoz/react-three-renderer](https://github.com/firtoz/react-three-renderer) - Render into a three.js canvas using React.
-- [jimmyn/aws-mqtt-client](https://github.com/jimmyn/aws-mqtt-client) - AWS Websocket Pub/Sub client
+- [dnevzorov/aws-mqtt-client](https://github.com/dnevzorov/aws-mqtt-client) - AWS Websocket Pub/Sub client
 - [AndersDJohnson/webpack-babel-env-deps](https://github.com/AndersDJohnson/webpack-babel-env-deps) - Find dependencies to transpile with Babel.
 - [sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -5337,7 +5335,7 @@
 - [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise 
 - [Whoaa512/claude-skills](https://github.com/Whoaa512/claude-skills) - The contents of /mnt/skills in Claude's code interpreter environment
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
 - [GeneralUserModels/demos](https://github.com/GeneralUserModels/demos) - 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
@@ -6338,7 +6336,7 @@
 - [fabianlindfors/reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres
 - [unite-network/rust-for-node-developers](https://github.com/unite-network/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The build system for coding agents.
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool. Assists with large-scale codebase refactors via regex-based find and replace with human oversight and occasional intervention.
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
@@ -6423,6 +6421,7 @@
 - [OpenSC2K/OpenSC2K](https://github.com/OpenSC2K/OpenSC2K) - OpenSC2K - Open Source remake of Sim City 2000 using rust and godot. Available for macOS, Windows and Linux
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [meta/flow](https://github.com/meta/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -6664,6 +6663,7 @@
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate vocals, drums, bass, and other instrumental stems from any song
 - [le0pard/sql-joins-app](https://github.com/le0pard/sql-joins-app) - SQL JOINS visualizer
+- [jeremiak/airplane-mode](https://github.com/jeremiak/airplane-mode) - An easy-to-use and easy-to-edit HTTP cache for web development
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
 ## Swift 
