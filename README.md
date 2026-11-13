@@ -5309,7 +5309,7 @@
 - [banteg/agents](https://github.com/banteg/agents) - my workflows for ai agents like codex and claude
 - [visionik/ouracli](https://github.com/visionik/ouracli) - CLI tool for accessing Oura Ring data
 - [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Linux - Fast, accurate, private, and hackable system-wide dictation
-- [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI) - A python wrapper for the public & private Spotify API
+- [Aran404/SpotAPI](https://github.com/Aran404/SpotAPI) - Typed async Spotify tools for Python, built on Spotify’s private API. Search public data without an API key, control playback without Premium, and build catalogue, playlist and player apps.
 - [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) - HY-Motion model for 3D human motion or 3D character animation generation.
 - [ekwek1/soprano](https://github.com/ekwek1/soprano) - Soprano: Instant, Ultra-Realistic Text-to-Speech
 - [simonw/claude-code-transcripts](https://github.com/simonw/claude-code-transcripts) - Tools for publishing transcripts for Claude Code sessions
@@ -7940,7 +7940,7 @@
 - [prettier/prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [serviejs/throwback](https://github.com/serviejs/throwback) - An asynchronous middleware pattern
 - [serviejs/servie-compat-http](https://github.com/serviejs/servie-compat-http) - **DEPRECATED** Map Servie `Request` and `Response` instances to node.js HTTP compatible objects
 - [serviejs/servie-lambda](https://github.com/serviejs/servie-lambda) - Servie transport for AWS lambda proxy
