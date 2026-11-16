@@ -3096,7 +3096,6 @@
 - [malte-wessel/react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component
 - [supnate/memobind](https://github.com/supnate/memobind) - A simple javascript utility for function binding memoization.
 - [anvaka/amator](https://github.com/anvaka/amator) - Tiny animation library
-- [scroll-into-view/scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
 - [sghall/resonance](https://github.com/sghall/resonance) - :black_medium_small_square:Resonance | 5kb React animation library
 - [floating/restore](https://github.com/floating/restore) - A predictable & observable state container for React apps
 - [arguiot/DisplayJS](https://github.com/arguiot/DisplayJS) - A simple JavaScript framework for building ambitious UIs [DEPRECATED]
@@ -7865,6 +7864,7 @@
 - [jaystack/repatch](https://github.com/jaystack/repatch) - Dispatch reducers
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [kentcdodds/babel-plugin-codegen](https://github.com/kentcdodds/babel-plugin-codegen) - 💥 Generate code at build-time
+- [scroll-into-view/scroll-into-view-if-needed](https://github.com/scroll-into-view/scroll-into-view-if-needed) - Element.scrollIntoView ponyfills for things like "if-needed" and "smooth"
 - [ParabolInc/parabol](https://github.com/ParabolInc/parabol) - Free online agile retrospective meeting tool
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
