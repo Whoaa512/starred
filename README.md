@@ -1961,6 +1961,7 @@
 - [cblgh/trustnet](https://github.com/cblgh/trustnet) - a flexible and distributed system for deriving, and interacting with, computational trust
 - [joel-simon/Antimander](https://github.com/joel-simon/Antimander) - 
 - [simonw/puppeteer-screenshot](https://github.com/simonw/puppeteer-screenshot) - Vercel app for taking screenshots of web pages using Puppeteer
+- [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (3,1 KB) color picker component for React and Preact apps
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [JubbeArt/removeddit](https://github.com/JubbeArt/removeddit) - View deleted stuff from reddit
 - [sindresorhus/terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) - Display images in the terminal
@@ -2661,7 +2662,6 @@
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
 - [jamiebuilds/flow-shut-up](https://github.com/jamiebuilds/flow-shut-up) - Add inline Flow comments to make Flow shut up about errors
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [WiseLibs/wise-promise](https://github.com/WiseLibs/wise-promise) - Native promises extended with powerful functionality.
 - [WiseLibs/wise-river](https://github.com/WiseLibs/wise-river) - Object streaming the way it should be.
 - [VICEMedia/dynaflow](https://github.com/VICEMedia/dynaflow) - DynamoDB abstraction using rivers 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊 🐊
@@ -6779,7 +6779,7 @@
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Open-source 3D architecture software for AECO, scan-to-BIM. Agent-friendly, browser-first, MCP, CLI.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [provos/ironcurtain](https://github.com/provos/ironcurtain) - A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironcurtain.dev)
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
@@ -7311,7 +7311,6 @@
 - [garronej/evt](https://github.com/garronej/evt) - 💧EventEmitter's typesafe replacement
 - [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including colo
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (3,1 KB) color picker component for React and Preact apps
 - [edwinm/carbonium](https://github.com/edwinm/carbonium) - One kilobyte library for easy DOM manipulation
 - [xxczaki/light-date](https://github.com/xxczaki/light-date) - ⏰ Blazing fast & lightweight (157 bytes) date formatting for Node.js and the browser.
 - [ka-weihe/fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - The fastest implementation of Levenshtein distance in JS/TS.
@@ -7698,6 +7697,7 @@
 - [kusti8/proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform desktop apps
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [zzarcon/react-circle](https://github.com/zzarcon/react-circle) - Renders a svg circle + progress, it just works 💘
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [linkedin/css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
