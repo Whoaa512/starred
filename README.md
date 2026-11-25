@@ -1715,7 +1715,6 @@
 - [SeanHeelan/anamnesis-release](https://github.com/SeanHeelan/anamnesis-release) - Automatic Exploit Generation with LLMs
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [jwagner/smartcrop-cli](https://github.com/jwagner/smartcrop-cli) - Command line interface for the smartcrop library to provide content aware image cropping.
-- [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Glif's hosted MCP server, plugin and skills for creating images, video and audio. Works with Claude, ChatGPT, Codex, Cursor and more.
 - [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
 - [alexknowshtml/smaug](https://github.com/alexknowshtml/smaug) - Archive your Twitter/X bookmarks to markdown with AI-powered analysis. Supports Claude Code and OpenCode for multi-model flexibility. Like a dragon hoarding treasure, Smaug collects the valuable thing
 - [sarahRosannaBusch/Txtaria](https://github.com/sarahRosannaBusch/Txtaria) - A single-pane ASCII-art platformer made with Phaser.io
@@ -4804,6 +4803,7 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools](https://github.com/Dicklesworthstone/curl_bash_one_liners_for_flywheel_tools) - Copy-paste curl|bash one-liners to install every tool in the Agent Flywheel ecosystem: 23+ CLIs for AI agent orchestration, memory, security, and development
 - [dbreunig/whenwords](https://github.com/dbreunig/whenwords) - A relative time formatting library, with no code.
+- [glifxyz/glif-mcp-server](https://github.com/glifxyz/glif-mcp-server) - Glif's hosted MCP server, plugin and skills for creating images, video and audio. Works with Claude, ChatGPT, Codex, Cursor and more.
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [mackid1993/superwhisper-dictation-prompts](https://github.com/mackid1993/superwhisper-dictation-prompts) - 
 - [superultrainc/superwhisper-download](https://github.com/superultrainc/superwhisper-download) - Superwhisper is an AI voice-to-text tool for quick and accurate transcription. Download free now.
@@ -5217,7 +5217,7 @@
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [willfarrell/alfred-pkgman-workflow](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Manager Search
 - [luangjokaj/wordpressify](https://github.com/luangjokaj/wordpressify) - 🎈 Automate your WordPress development workflow.
-- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+- [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM and backend for your agents. Remember everything about your friends, family and business relationships.
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [Yoast/whip](https://github.com/Yoast/whip) - A WordPress package to nudge users to upgrade their software versions (starting with PHP)
 - [aisingapore/TagUI](https://github.com/aisingapore/TagUI) - Free RPA tool by AI Singapore
@@ -5267,7 +5267,6 @@
 - [entireio/pgr](https://github.com/entireio/pgr) - PGR is an experimental, stateless MCP code-search server for studying how ranking, latency, and output shaping affect agentic search.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [pydantic/skills](https://github.com/pydantic/skills) - 
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - Design physical products with AI
 - [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Cut AI context cost without trusting the compressor. Every reduction is reversible, byte-exact recoverable, and carries an auditable receipt. Local-first, works through proxy, MCP, SDK, or agent wrapp
@@ -6097,7 +6096,7 @@
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Community CLI for Google Workspace APIs.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
@@ -6763,6 +6762,7 @@
 - [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [jordanburke/reddit-mcp-server](https://github.com/jordanburke/reddit-mcp-server) - Reddit MCP server: browse subreddits, search posts, read comment threads and user history, and create, edit or delete posts and replies. Works keyless with no API key (RSS + Arctic Shift archive), or 
 - [voffie/better-music](https://github.com/voffie/better-music) - 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Towards Agentic Finance Research
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.
 - [kunchenguid/org-bench](https://github.com/kunchenguid/org-bench) - 
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
@@ -6923,7 +6923,7 @@
 - [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
+- [kortix-ai/CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. An
 - [LegendApp/legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native and React
 - [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) - The official TypeScript/Node client for the Pinecone vector database
 - [BLamy/onshape-mcp](https://github.com/BLamy/onshape-mcp) - MCP server or onshape CAD
@@ -7289,7 +7289,7 @@
 - [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits won
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [jef/streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [mattinsler/lucy](https://github.com/mattinsler/lucy) - 
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
@@ -7942,7 +7942,7 @@
 - [vercel/uid-promise](https://github.com/vercel/uid-promise) - Creates a cryptographically strong UID
 - [Keyang/node-csvtojson](https://github.com/Keyang/node-csvtojson) - Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.
 - [prettier/prettier-eslint-cli](https://github.com/prettier/prettier-eslint-cli) - CLI for prettier-eslint
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in plain JavaScript. Read, edit and write images in Node.js and the browser, with no native dependencies.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [serviejs/throwback](https://github.com/serviejs/throwback) - An asynchronous middleware pattern
